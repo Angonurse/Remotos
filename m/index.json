@@ -1,1 +1,150 @@
-
+{
+  "version": "2026.08.06",
+  "files": {
+    "provas/apoio_serieA": {
+      "handle": "78b2bfa7bc6e461f8805",
+      "sha256": "bf9683eeccbdeffd69b61b6100223eec606713d2cb19a97c7fc3ff60cfdb46fb",
+      "size": 132119
+    },
+    "provas/apoio_serieB": {
+      "handle": "0a51fab06bfcf39a9bc6",
+      "sha256": "2767e07bffd4c285e06631e092de4214556b55836d4cfa6aa997366cfcfa75c1",
+      "size": 120350
+    },
+    "provas/apoio_serieC": {
+      "handle": "08633b1896329167a86d",
+      "sha256": "68b24857b26fffddc1be54f0838e6ba5a75c51dbc039d970b220417f25c0d066",
+      "size": 122875
+    },
+    "provas/apoio_serieD": {
+      "handle": "01e4d63a6f7229c43281",
+      "sha256": "d5fc0bda9c9d75eb1e07b1a2b49ad43933fa59785ce9583965b0616c0482fe66",
+      "size": 119000
+    },
+    "provas/apoio_serieE": {
+      "handle": "bc461e46bb276c610d2f",
+      "sha256": "774594ee7a56b0f7e83bff9c7ccab3ead9337b9679c41a0ef33896dbb7f37d19",
+      "size": 162835
+    },
+    "provas/cultura_serieA": {
+      "handle": "eb239351fb824d7d6dfa",
+      "sha256": "c2093ba11e87c9136767bb5d1bb85af063b73c7293e529a25754c7ae90336809",
+      "size": 58748
+    },
+    "provas/cultura_serieB": {
+      "handle": "0bb333363eef0752cba3",
+      "sha256": "61076f9858fe7230d9ca131f82506311aebae4cd9400acad86d9724a19fbe7d8",
+      "size": 57339
+    },
+    "provas/cultura_serieC": {
+      "handle": "290d296f37fa926bde09",
+      "sha256": "dd5740050277691b71cbeefb4aead66231b82ca88576ef529f7952941ff6139e",
+      "size": 57847
+    },
+    "provas/cultura_serieD": {
+      "handle": "a6160faf7afa5fd46490",
+      "sha256": "8be96e0b8c7e5c12912e1ffa48d0bff56ee1bbabf358b4f6134b5c7f8cbe5b63",
+      "size": 60541
+    },
+    "provas/cultura_serieE": {
+      "handle": "5361384fa89b5cfcbebf",
+      "sha256": "9af97dda3810fb6da0de734851029ea25f449fb103b6624f6a016acec3e4887b",
+      "size": 58552
+    },
+    "provas/diag_serieA": {
+      "handle": "84063262a38ce82c9411",
+      "sha256": "1387481c2d46089af21e48a813319fe03e412ad865c009a3315eff78c07eb10e",
+      "size": 101182
+    },
+    "provas/diag_serieB": {
+      "handle": "2e630a8bc230493ed895",
+      "sha256": "27971219617d33a9a57794bff3e00c2d7bc6a80f289b9f9955474ec4634f8f6a",
+      "size": 85468
+    },
+    "provas/diag_serieC": {
+      "handle": "976757cfb98ac50c94e0",
+      "sha256": "7a0be98f11a5c54df1f5c6ccb8c6a09a33c3879a1f1d31ce12946d35fc778113",
+      "size": 86423
+    },
+    "provas/diag_serieD": {
+      "handle": "7552e61d24253c4d6bc8",
+      "sha256": "b71fda2777188b0978bc7b163edfd1d1aa13d9e981b8e140d5ce0cbcdfa65150",
+      "size": 92670
+    },
+    "provas/diag_serieE": {
+      "handle": "0885cbe28899228917c9",
+      "sha256": "8c2f239194c081b55768213585e5da2baf211113b9d74a0e63285c72c056a566",
+      "size": 83616
+    },
+    "provas/enf_serieA": {
+      "handle": "be59c45297676516539e",
+      "sha256": "6362333ba526c9d1e7ee0861622ba306e182cfce21bf06d661d8b06750872e14",
+      "size": 69030
+    },
+    "provas/enf_serieB": {
+      "handle": "5f26df7b7283226bca4d",
+      "sha256": "d08c7267e62cf5d4d4a359d723a3fc6ad6fa59338b7e811ab1bfef1d271f2608",
+      "size": 69522
+    },
+    "provas/enf_serieC": {
+      "handle": "fdd85fa6ae4999122765",
+      "sha256": "ccc641011c7dc06aff187837096161c1107453eb3c947c9abdd55ac2b7ab9ebe",
+      "size": 67569
+    },
+    "provas/enf_serieD": {
+      "handle": "f29714b4305fa522c687",
+      "sha256": "d185a993e2fe729d456d97650aa203a3c0602e904b11950b32f18e63f79d6717",
+      "size": 69094
+    },
+    "provas/enf_serieE": {
+      "handle": "c3bd36b094ce6c1c43d6",
+      "sha256": "122ed6aeff7e02fd3f7a88aacc0c65ccc5b0301bd15a77cc6166fccf8350c4f2",
+      "size": 101026
+    },
+    "provas/farm_serieA": {
+      "handle": "bfff1b6131c1007be58c",
+      "sha256": "001230856bd474b865811533946559ae9f1082f8425a91a3fd18289da8e8e21d",
+      "size": 133407
+    },
+    "provas/farm_serieB": {
+      "handle": "28cf7fd303fc9eab53d2",
+      "sha256": "ce96f0dde76a1c825b71dc0a494ee17bee3a36f11912334ad8a7a8a6419a24f8",
+      "size": 145893
+    },
+    "provas/farm_serieC": {
+      "handle": "549233bb56fdc608622a",
+      "sha256": "3edfdcf45a7a1405a4bc20f117c46cad60d37c84433101c8d62c130601ad4e35",
+      "size": 146199
+    },
+    "provas/farm_serieD": {
+      "handle": "087284053df8b7f3f040",
+      "sha256": "07807a9f54d6011451885524e64de92a2ba76dd17a65786eb442d8f617260beb",
+      "size": 152937
+    },
+    "provas/farm_serieE": {
+      "handle": "6a798938cb300ad307a7",
+      "sha256": "5d04a093112b723bbdf92964317d8dab0027a121bf98e67aa8ee4057b08c96ef",
+      "size": 110610
+    },
+    "conteudos/apoio": {
+      "handle": "6f0e1ab451ae212149c0",
+      "sha256": "0284369f3e7d81dff39b88fffd8f4dc606bfd766642c00f815a91e8bef8e0c13",
+      "size": 135543
+    },
+    "conteudos/diagnostico": {
+      "handle": "f5518d072f096cc4cd0e",
+      "sha256": "0011e0800f492e9b19304cef57c6cdb887fde55e8fae9e47e1de9cab3798dc04",
+      "size": 237259
+    },
+    "conteudos/enfermagem": {
+      "handle": "e7ea5245958dc98a5f67",
+      "sha256": "6aecdd1eb80726ef5e897021a5efc599641667c7ba5fdc58b91878ab165215bd",
+      "size": 200929
+    },
+    "conteudos/farmacia": {
+      "handle": "9bb32d4fb5115f6aa165",
+      "sha256": "4bda6f8d3143ccf6f6f132d47ff7653c6447b24fbbd8a217aca0a764db19d1de",
+      "size": 203563
+    }
+  }
+}

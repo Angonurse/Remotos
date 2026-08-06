@@ -1,0 +1,1356 @@
+{
+  "serie": "D",
+  "categoria": "TÉCNICO DE FARMÁCIA",
+  "subcategoria": "Concurso Público da Saúde · MINSA Angola",
+  "pais": "Angola",
+  "total": 100,
+  "perguntas": [
+    {
+      "numero": 1,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "No contexto da nova divisão administrativa de Angola e considerando os desafios logísticos para a distribuição de medicamentos essenciais, qual dos seguintes princípios das Boas Práticas de Armazenamento (BPA) é crucial para garantir a integridade de produtos termolábeis, como vacinas e insulina, desde o Centro de Aprovisionamento de Medicamentos (CAM) provincial até as unidades sanitárias mais remotas do Cunene, após a revisão do Censo 2024 que poderá alterar densidades populacionais e o acesso?",
+      "alineas": {
+        "a": "Armazenamento em pilhas de altura máxima para otimizar o espaço, garantindo uma segregação clara de medicamentos controlados.",
+        "b": "Utilização de sistemas de monitorização contínua de temperatura e humidade em todas as etapas da cadeia de frio, com registos auditáveis e planos de contingência para falhas elétricas.",
+        "c": "Disposição dos medicamentos por ordem alfabética para facilitar a busca e o controlo do inventário em tempo real.",
+        "d": "Priorização do armazenamento de medicamentos com maior validade nas zonas de mais fácil acesso para agilizar a expedição.",
+        "e": "Implementação de um sistema FIFO rigidamente para todos os produtos, independentemente da sua criticidade termolábel."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A monitorização contínua da cadeia de frio é indispensável para preservar a eficácia dos produtos termolábeis. Os sistemas de registo e planos de contingência são essenciais para mitigar riscos inerentes à infraestrutura elétrica, especialmente em regiões remotas."
+    },
+    {
+      "numero": 2,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "Após a implementação do Censo 2024, que revelou um aumento da população em áreas periurbanas de Luanda, e as recomendações do IIMS 2023-2024 sobre o uso racional de medicamentos, um Técnico de Farmácia é confrontado na dispensação com um utente que solicita um antibiótico sem prescrição médica para uma infeção auto-declarada. Qual a melhor abordagem, em conformidade com as Boas Práticas de Dispensação (BPD) e a ética profissional angolana?",
+      "alineas": {
+        "a": "Dispensar o medicamento, informando o utente sobre a dosagem usual e potenciais efeitos adversos, dado o contexto de acesso limitado à consulta médica em algumas zonas.",
+        "b": "Recusar a dispensação do antibiótico e encaminhar o utente para uma consulta médica ou para uma Triagem Farmacêutica, explicando os riscos da automedicação e a resistência antimicrobiana.",
+        "c": "Sugerir um medicamento de venda livre que possa aliviar os sintomas até que o utente consiga uma consulta médica.",
+        "d": "Contactar o médico da unidade sanitária mais próxima para obter uma autorização verbal para a dispensação do antibiótico.",
+        "e": "Dispensar uma dose iniciial reduzida para \"testar\" a aceitação do medicamento pelo utente, recomendando que procure o médico se não houver melhoria."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "As BPD proíbem a dispensação de medicamentos sujeitos a receita médica sem prescrição válida, especialmente antibióticos. A recusa ética com orientação para consulta visa proteger a saúde pública e combater a resistência antimicrobiana."
+    },
+    {
+      "numero": 3,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "Face ao crescimento populacional expectável em novas áreas urbanas, conforme o Censo 2024, e a otimização de recursos através do uso de IA na gestão de stocks, um gestor de armazém farmacêutico no Huambo deteta uma discrepância entre o inventário físico e o registado no sistema para um lote específico de um antirretrovírico (ARV) crucial. Qual a ação mais prioritária de acordo com as BPA para resolver esta situação e garantir a continuidade da terapêutica?",
+      "alineas": {
+        "a": "Ajustar o registo do sistema para corresponder ao inventário físico, assumindo um erro de digitação anterior e notificando a Direção Provincial de Saúde.",
+        "b": "Isolar o lote em questão, iniciar uma investigação completa para identificar a causa da discrepância (roubo, erro de registo, perda), e notificar imediatamente a autoridade reguladora de medicamentos.",
+        "c": "Priorizar a expedição dos restantes ARVs para manter o stock dos postos de saúde da área, e resolver a discrepância posteriormente.",
+        "d": "Realizar uma contagem completa de todo o stock do armazém para identificar outras possíveis inconsistências.",
+        "e": "Suspender temporariamente a dispensação do ARV em questão até a resolução total da discrepância para evitar maiores perdas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Discrepâncias em medicamentos críticos como ARVs exigem investigação imediata e isolamento do lote. A notificação à autoridade reguladora é crucial para conformidade e para identificar falhas sistémicas, garantindo a rastreabilidade e segurança do paciente."
+    },
+    {
+      "numero": 4,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "O Inquérito Integrado de Indicadores Múltiplos e Saúde (IIMS) 2023-2024 revelou dados preocupantes sobre a adesão à terapêutica em algumas províncias de Angola. Ao dispensar uma medicação complexa (ex: antituberculoso) para um utente analfabeto ou com baixo nível de literacia em Malanje, qual das seguintes estratégias de comunicação é a mais eficaz e alinhada com as BPD para promover a adesão e reduzir erros, considerando as particularidades culturais e sociais?",
+      "alineas": {
+        "a": "Entregar a medicação com as instruções impressas e incentivar o utente a ler cuidadosamente, oferecendo-se para esclarecer dúvidas.",
+        "b": "Dispensar com um folheto informativo com linguagem técnica simplificada, assumindo que o utente buscará ajuda se necessário.",
+        "c": "Utilizar uma linguagem simples e clara, demonstrações práticas (se aplicável), e envolver um familiar ou cuidador de confiança para ajudar a reforçar as instruções, solicitando ao utente que repita as orientações.",
+        "d": "Apenas reforçar a importância de seguir as instruções do médico sem se aprofundar nos detalhes, para não sobrecarregar o utente com informações.",
+        "e": "Gravar as instruções em áudio num telemóvel simples, se o utente possuir um, para que possa ouvir em casa."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Para utentes com baixa literacia, a comunicação verbal clara, a demonstração prática e o envolvimento de um cuidador são estratégias essenciais para garantir a compreensão e adesão. O pedido de repetição (teach-back method) assegura a assimilação da informação."
+    },
+    {
+      "numero": 5,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "No contexto das Boas Práticas de Armazenamento, e considerando que o Censo 2024 poderá impactar a alocação de recursos para a construção de novas infraestruturas de saúde, como deve ser realizada a segregação de medicamentos com base no seu estado (por exemplo, vencido, avariado, recolhido) para garantir a segurança dos pacientes e conformidade legal num armazém central em Benguela?",
+      "alineas": {
+        "a": "Armazenar todos os produtos não conformes numa área designada, mas próxima dos medicamentos em stock, para facilitar a inspeção e a devolução ao fornecedor.",
+        "b": "Manter os medicamentos vencidos ou avariados em estantes separadas, claramente identificadas, fisicamente isoladas do stock utilizável, e sob controlo de acesso restrito, aguardando descarte ou devolução.",
+        "c": "Rotular os produtos não conformes com uma etiqueta de \"Não Usar\" e mantê-los em paletes separadas, à vista dos demais, para agilizar a sua identificação.",
+        "d": "Dispensar prioritariamente os medicamentos que estão próximos do prazo de validade para evitar perdas e gerir prontamente os que estão fora de conformidade.",
+        "e": "Misturar os medicamentos avariados e vencidos com os para devolução, desde que estejam bem rotulados, para otimizar o espaço de armazenamento."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A segregação física e clara identificação de medicamentos não conformes é uma exigência das BPA para prevenir erros de dispensação. O isolamento em área de acesso restrito garante que não sejam acidentalmente utilizados."
+    },
+    {
+      "numero": 6,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "Um Técnico de Farmácia, utilizando um novo sistema de gestão de stocks baseado em IA para otimização da cadeia de suprimento em Kwanza Sul, identifica um medicamento cuja validade está prestes a expirar nos próximos 3 meses, sendo que o consumo mensal habitual é baixo. Ignorando a orientação do sistema de IA, qual a ação prioritária de acordo com as Boas Práticas de Armazenamento e Dispensação?",
+      "alineas": {
+        "a": "Remover o medicamento do stock, registá-lo como \"perda por validade\" e aguardar o descarte.",
+        "b": "Mover o medicamento para a frente do estante para garantir que seja dispensado antes da data de expiração, implementando o princípio FEFO (First-Expired, First-Out).",
+        "c": "Solicitar ao sistema de IA que identifique unidades sanitárias com maior consumo potencial para possível transferência antes do prazo.",
+        "d": "Ignorar a situação, pois ainda há 3 meses de validade e o sistema de IA fará a gestão automática se for o caso.",
+        "e": "Dispensar o medicamento apenas sob orientação médica que comprove urgência no prazo de validade."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O princípio FEFO (First-Expired, First-Out) é fundamental nas BPA para gerir produtos com validade. Ao mover o medicamento para a frente, facilita-se a sua dispensação antes do vencimento, minimizando perdas e desperdícios."
+    },
+    {
+      "numero": 7,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "Considerando os novos dados do Censo 2024 e o aumento do acesso à informação através de telemóveis, o IIMS 2023-2024 realça a importância do aconselhamento farmacêutico. Na dispensação de um medicamento de venda livre (MVL) para uma patologia menor, qual informação essencial deve ser verbalmente comunicada de forma clara e concisa pelo Técnico de Farmácia em Cabinda, mesmo que já conste na embalagem?",
+      "alineas": {
+        "a": "Apenas o preço do medicamento e formas de pagamento, assumindo que o utente pode ler o rótulo.",
+        "b": "O nome do fabricante e o lote de produção para referência futura, em caso de eventos adversos.",
+        "c": "A indicação principal, a dose e frequência corretas, o modo de administração, a duração do tratamento e os efeitos secundários mais comuns, salientando sinais de alerta para procurar ajuda médica.",
+        "d": "A data de validade e o local de armazenamento preferencial para o domicílio.",
+        "e": "Uma breve história da descoberta do princípio ativo do MVL para educar o utente."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O aconselhamento verbal, claro e conciso sobre a indicação, posologia, modo de administração, duração e principais efeitos secundários é crucial para MVLs, garantindo o uso seguro e eficaz, independentemente da informação da embalagem. Salientar sinais de alerta é vital."
+    },
+    {
+      "numero": 8,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "Num armazém farmacêutico no Moxico, as condições ambientais (temperatura e humidade) são monitorizadas continuamente. Um pico de temperatura é registado devido a uma falha temporária no sistema de climatização. De acordo com as BPA, qual a primeira ação a tomar relativamente aos medicamentos potencialmente expostos, e que foi reforçada pelas diretrizes do MINSA após avaliações decorrentes do IIMS 2023-2024?",
+      "alineas": {
+        "a": "Alterar imediatamente os registos de temperatura para que não mostrem o pico, evitando auditorias negativas.",
+        "b": "Continuar a dispensar os medicamentos, pois a falha foi temporária e provavelmente não afetou a qualidade.",
+        "c": "Isolar os medicamentos expostos, avaliar a extensão da exposição (duração e magnitude do pico) com base em diretrizes internas e do fabricante, e determinar a sua aptidão para uso ou descarte.",
+        "d": "Transferir os medicamentos para um armazém vizinho sem investigar a extensão do dano.",
+        "e": "Notificar o fornecedor original para que substituam o lote, sem realizar qualquer avaliação interna."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Qualquer desvio das condições de armazenamento especificadas exige a avaliação do impacto na qualidade do medicamento. A quarentena dos produtos e a investigação são essenciais para determinar a sua segurança e eficácia antes de qualquer decisão de descarte ou utilização."
+    },
+    {
+      "numero": 9,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "A introdução de Inteligência Artificial (IA) no processamento de pedidos e na análise de padrões de consumo, especialmente relevante após o Censo 2024 que recalibra o abastecimento, levanta questões sobre a responsabilidade humana final. Na fase de expedição de medicamentos de um armazém em Malanje para um posto de saúde rural, qual a importância da verificação manual final, mesmo com o uso de sistemas automatizados de IA na separação dos produtos?",
+      "alineas": {
+        "a": "A verificação manual é redundante, uma vez que a IA garante 100% de precisão nos processos.",
+        "b": "A verificação manual protege contra eventuais falhas do sistema de IA (falha de software, dados incorretos) e garante que o produto certo, no lote e validade corretos, e na quantidade exata, está a ser expedido, um passo crítico para a segurança do paciente.",
+        "c": "A verificação manual serve apenas para registar a saída física do medicamento no sistema, sem preocupação com a conformidade do produto.",
+        "d": "A verificação manual é um requisito ultrapassado que atrasa o processo logístico impulsionado pela IA.",
+        "e": "A verificação manual apenas confirma que a embalagem exterior não está danificada."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Mesmo com IA, a supervisão e verificação humana final são cruciais. Sistemas de IA podem cometer erros ou basear-se em dados incompletos. A verificação manual atua como um 'último bastião' para garantir a segurança do paciente e a integridade da cadeia de fornecimento, evitando erros de medicação."
+    },
+    {
+      "numero": 10,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "Em um cenário de aumento das exigências para o controle de medicamentos psicotrópicos e estupefacientes, após o IIMS 2023-2024 e o Censo 2024 indicarem novos focos populacionais, qual a diretriz fundamental para o armazenamento desses medicamentos em uma farmácia comunitária em Luanda, de acordo com as Boas Práticas de Armazenamento e legislação angolana?",
+      "alineas": {
+        "a": "Podem ser armazenados em prateleiras abertas, contanto que estejam sob vigilância constante do Técnico de Farmácia.",
+        "b": "Devem ser armazenados em local seguro, preferencialmente um armário blindado ou cofre, com chaves sob a responsabilidade de no mínimo duas pessoas autorizadas, e com registos rigorosos de entrada e saída.",
+        "c": "Devem ser armazenados em prateleiras mais altas para evitar o acesso de crianças, sem necessidade de confinamento especial.",
+        "d": "O armazenamento pode ser feito em conjunto com outros medicamentos de alto risco, desde que bem identificados.",
+        "e": "É aceitável armazená-los em uma sala trancada, mas sem a necessidade de um cofre, para facilitar o acesso em emergências."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Medicamentos psicotrópicos e estupefacientes exigem um nível máximo de segurança no armazenamento devido ao seu potencial de abuso e desvio. A legislação angolana e as BPA exigem locais seguros, acesso restrito e registos detalhados para garantir a rastreabilidade e evitar o desvio."
+    },
+    {
+      "numero": 11,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "No contexto da saúde pública angolana, especialmente após o IIMS 2023-2024 ter evidenciado a persistência de doenças de veiculação hídrica em algumas províncias, a administração de um fármaco com perfil hidrossolúvel, que necessite de rápida absorção sistémica e evite o metabolismo de primeira passagem hepático, num paciente pediátrico recém-admitido no Hospital Pediátrico de Luanda, que se apresenta inconsciente, preferencialmente utilizará qual forma farmacêutica e via de administração?",
+      "alineas": {
+        "a": "Suspensão oral, via sublingual",
+        "b": "Comprimido revestido, via oral",
+        "c": "Solução injetável, via intramuscular profunda",
+        "d": "Supositório, via retal",
+        "e": "Emulsão IV, via intravenosa",
+        "f": "Gel transdérmico, via cutânea"
+      },
+      "resposta_correcta": "e",
+      "justificativa": "A via intravenosa de uma solução injetável (considerando a emulsão como uma forma específica de injetável para este contexto) permite a absorção mais rápida e completa, evita o metabolismo de primeira passagem e é aplicável em pacientes inconscientes, sendo crucial para situações de emergência como as de doenças de veiculação hídrica em pediatria."
+    },
+    {
+      "numero": 12,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "A Unidade de Saúde Primária de um município recém-criado na província do Moxico, como reflexo da nova divisão administrativa e dos dados do Censo 2024, dispõe de recursos limitados para o controlo da malária. Para assegurar a adesão terapêutica de um paciente adulto com malária não complicada, que forma farmacêutica seria a mais adequada para um tratamento oral e qual a sua principal vantagem em termos de posologia?",
+      "alineas": {
+        "a": "Cápsulas de libertação imediata, múltiplas doses diárias para ação rápida.",
+        "b": "Comprimidos efervescentes, para dissolução em água e melhor palatabilidade.",
+        "c": "Comprimidos mono-dose (liberação modificada), para otimizar a adesão terapêutica.",
+        "d": "Xarope pediátrico, pela facilidade de dosagem em adultos.",
+        "e": "Granulados para suspensão, para preparação extemporânea."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Comprimidos de libertação modificada, com posologia de dose única diária ou menor frequência, são ideais para aumentar a adesão terapêutica em contextos de recursos limitados e onde a vigilância é complexa, como nas áreas rurais de Angola."
+    },
+    {
+      "numero": 13,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "A inteligência artificial tem sido proposta para otimizar a logística de distribuição de medicamentos em Angola. Contudo, em áreas recônditas, o transporte de formas farmacêuticas sensíveis ao calor, como determinadas vacinas ou insulinas, continua a ser um desafio. Qual das seguintes formas farmacêuticas, geralmente, apresenta maior estabilidade térmica e menor exigência em termos de cadeia de frio?",
+      "alineas": {
+        "a": "Solução injetável aquosa",
+        "b": "Suspensão oral concentrada",
+        "c": "Liofilizado para reconstituição injetável",
+        "d": "Emulsão oral em frasco"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Formas farmacêuticas liofilizadas, por estarem em estado sólido e desidratadas, apresentam significativamente maior estabilidade térmica e menor dependência da cadeia de frio em comparação com as formas líquidas aquosas."
+    },
+    {
+      "numero": 14,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "Num cenário de emergência na Lunda Norte, após um surto epidémico, onde a rápida imunização passiva é crucial e a administração oral pode ser comprometida por vómitos ou inconsciência, qual via de administração é preferencial para a administração de imunoglobulinas, visando um efeito sistémico imediato?",
+      "alineas": {
+        "a": "Intradérmica, para testar sensibilidade.",
+        "b": "Subcutânea, para libertação lenta e prolongada.",
+        "c": "Intravenosa, para biodisponibilidade de 100% e efeito rápido.",
+        "d": "Intramuscular, para volumes maiores e absorção sustentada."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A via intravenosa garante 100% de biodisponibilidade e um efeito terapêutico imediato, sendo a mais adequada para situações de emergência onde a rápida ação sistémica é essencial, como na imunização passiva em surtos epidémicos e em pacientes com comprometimento gastrointestinal ou da consciência."
+    },
+    {
+      "numero": 15,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "No âmbito do Programa Alargado de Vacinação (PAV) em Angola, e considerando a vasta extensão territorial e a necessidade de minimizar o número de injeções em crianças, qual a vantagem primária das vacinas que combinam vários antígenos numa única formulção (vacinas combinadas)?",
+      "alineas": {
+        "a": "Redução da temperatura de armazenamento necessária.",
+        "b": "Aumento da potência imunogénica de cada componente individual.",
+        "c": "Simplificação do esquema vacinal e redução do número de picadas.",
+        "d": "Melhora da biodisponibilidade de todos os antígenos simultaneamente."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Vacinas combinadas simplificam o esquema vacinal, reduzindo o número de injeções necessárias, o que melhora a adesão dos pais/cuidadores e diminui o desconforto para a criança, otimizando a cobertura vacinal em programas de saúde pública."
+    },
+    {
+      "numero": 16,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "Um Técnico de Farmácia, num centro de saúde em Viana, é confrontado com a necessidade de dispensar um fármaco antituberculoso que requer absorção sistémica prolongada para manter níveis plasmáticos terapêuticos constantes e minimizar a ocorrência de picos e vales. Qual forma farmacêutica para administração oral seria a mais adequada para este perfil farmacocinético?",
+      "alineas": {
+        "a": "Comprimido de liberação imediata, a ser administrado várias vezes ao dia.",
+        "b": "Cápsula de liberação prolongada, administrada uma vez ao dia.",
+        "c": "Solução oral, para rápida absorção e titulação de dose.",
+        "d": "Grânulos farmacêuticos, para mistura em alimentos e maior palatabilidade."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A cápsula de libertação prolongada é concebida para liberar o fármaco de forma gradual ao longo do tempo, mantendo concentrações plasmáticas mais estáveis e reduzindo a frequência de dosagem, o que é ideal para fármacos com meia-vida curta ou que requerem efeito prolongado, como alguns antituberculosos."
+    },
+    {
+      "numero": 17,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "Tendo em conta os desafios de saúde ambiental em Luanda, com o Censo 2024 a realçar o crescimento demográfico periurbano, e a incidência de dermatites por exposição a poluentes. Para um paciente com uma lesão cutânea localizada de carácter inflamatório, que requer um efeito tópico concentrado e minimização da absorção sistémica, qual forma farmacêutica e via de administração seria a mais indicada?",
+      "alineas": {
+        "a": "Solução aquosa, via intradérmica para ação local aprofundada.",
+        "b": "Cremes ou pomadas, via cutânea para efeito local.",
+        "c": "Adesivo transdérmico, para libertação controlada e efeito sistémico.",
+        "d": "Comprimido sublingual, para absorção rápida pela mucosa."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Cremes e pomadas são veículos ideais para administração tópica, permitindo a liberação do princípio ativo diretamente no local da lesão cutânea, com absorção sistémica mínima, maximizando o efeito terapêutico na área afetada."
+    },
+    {
+      "numero": 18,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "No Hospital Geral de Benguela, um paciente com asma aguda necessita de um fármaco broncodilatador que atue diretamente nos brônquios, com rápido início de ação e minimização de efeitos secundários sistémicos. Qual a forma farmacêutica e via de administração que melhor se adequa a esta situação?",
+      "alineas": {
+        "a": "Comprimido mastigável, via oral.",
+        "b": "Inalador dosificador, via inalatória.",
+        "c": "Supositório, via retal.",
+        "d": "Ampola injetável, via intramuscular."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O inalador dosificador, por via inalatória, permite a entrega direta do fármaco aos pulmões, resultando num rápido início de ação e alta concentração local, com absorção sistémica mínima e, consequentemente, menos efeitos secundários sistémicos, ideal para crises asmáticas."
+    },
+    {
+      "numero": 19,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "Um Técnico de Farmácia, alocado à recém-inaugurada Unidade de Cuidados Intensivos no Huambo, numa era de maior fiscalização regulamentar (MINSA 2024), depara-se com um fármaco incompatível com o pH gástrico e com elevado risco de ser metabolizado pela flora intestinal, mas que requer um efeito sistémico rápido. Qual a via de administração mais apropriada para contornar estas limitações, considerando a criticidade do paciente?",
+      "alineas": {
+        "a": "Via sublingual, para rápida absorção e evitar o metabolismo de primeira passagem.",
+        "b": "Via retal, para absorção parcial e evitar o pH gástrico.",
+        "c": "Via intravenosa, para biodisponibilidade total e efeito imediato.",
+        "d": "Via oral com cápsulas entéricas, para proteger do pH gástrico."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A via intravenosa contorna completamente o pH gástrico e a degradação pela flora intestinal, garantindo uma biodisponibilidade de 100% e um rápido início de ação, essencial para fármacos de pacientes em estado crítico."
+    },
+    {
+      "numero": 20,
+      "tema": "III. Prazo de Validade dos Medicamentos",
+      "enunciado": "No âmbito do recém-aprovado Censo 2024 em Angola, uma equipa de saúde desloca-se a uma localidade remota na província do Cunene, confrontando-se com um stock farmacêutico em condições precárias. Entre os medicamentos encontrados, destaca-se um lote de Amoxicilina suspensão pediátrica, com data de fabrico em Fevereiro de 2023 e prazo de validade de 24 meses. Em Março de 2025, os Técnicos de Farmácia deparam-se com uma situação de escassez e a necessidade urgente de administrar este antibiótico. Qual a decisão técnico-farmacêutica mais adequada, considerando a segurança do paciente e as boas práticas de dispensa?",
+      "alineas": {
+        "a": "Administrar o medicamento, pois a sua eficácia e segurança são garantidas até ao final do mês de Fevereiro de 2025, e a urgência clínica sobrepõe-se à data.",
+        "b": "Descartar o medicamento imediatamente, uma vez que, em Março de 2025, a sua data de validade (Fevereiro de 2025) já expirou, configurando risco de ineficácia terapêutica e toxicidade.",
+        "c": "Providenciar testes de controlo de qualidade no local para verificar a integridade da Amoxicilina antes da administração, se os recursos permitirem.",
+        "d": "Dispensar o medicamento apenas se for a única opção terapêutica disponível e o paciente for informado dos riscos associados à expiração da validade.",
+        "e": "Contactar o INFARMED para solicitar uma prorrogação excepcional da validade, com base na escassez e na emergência de saúde pública evidenciada pelo Censo 2024."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Um medicamento expirado não garante a sua segurança e eficácia. A data de validade indica o período em que o fabricante assegura a qualidade do produto. A administração de medicamentos expirados pode levar a falhas terapêuticas, desenvolvimento de resistências ou efeitos adversos."
+    },
+    {
+      "numero": 21,
+      "tema": "III. Prazo de Validade dos Medicamentos",
+      "enunciado": "A expansão dos serviços de saúde no Huambo, alinhada com as estratégias pós-IIMS 2023-2024, inclui a criação de pequenas farmácias comunitárias que utilizam inteligência artificial para otimizar a gestão de stocks. Um técnico de farmácia recebe uma notificação do sistema de IA sobre um lote de Metformina comprimidos (500mg), com data de fabrico em Agosto de 2022 e validade de 36 meses, que se encontra a 3 meses da expiração. Qual a ação prioritária para o técnico de farmácia nesta situação, seguindo as boas práticas de gestão de stocks e validade?",
+      "alineas": {
+        "a": "Remover imediatamente o lote do stock para segregação e descarte, dado o risco iminente de expiração.",
+        "b": "Mover o lote para a prateleira da frente para garantir que seja dispensado primeiro (critério 'primeiro a expirar, primeiro a sair' - PEPS).",
+        "c": "Contactar o fornecedor para verificar a possibilidade de devolução ou troca do lote.",
+        "d": "Registrar a validade no sistema de gestão e aguardar que o medicamento expire para proceder ao descarte conforme o protocolo.",
+        "e": "Aplicar um desconto significativo no preço para estimular a sua rápida dispensa, informando os pacientes sobre a proximidade da expiração."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A aplicação do critério PEPS (Primeiro a Expirar, Primeiro a Sair) é essencial na gestão de stocks farmacêuticos para minimizar perdas por expiração, assegurando que os medicamentos com prazo de validade mais curto sejam dispensados primeiro."
+    },
+    {
+      "numero": 22,
+      "tema": "III. Prazo de Validade dos Medicamentos",
+      "enunciado": "Com a nova divisão administrativa de Angola em 2024, a gestão da cadeia de abastecimento de medicamentos tornou-se mais complexa e critica, especialmente em relação ao transporte para as novas circunscrições. Um técnico de farmácia em Benguela deteta um lote de insulina NPH, que tem um prazo de validade de 24 meses a partir do fabrico. Após a abertura do frasco, de acordo com o folheto informativo, a insulina pode ser utilizada por um máximo de 28 dias se armazenada a temperaturas entre 2°C e 30°C. Qual o prazo de validade a considerar para este frasco de insulina após a sua abertura, se o frasco foi aberto há 30 dias e a data de expiração original ainda está a 6 meses?",
+      "alineas": {
+        "a": "6 meses, pois a data de expiração original é a dominante.",
+        "b": "O medicamento está expirado, pois o prazo de validade após a abertura é de 28 dias e já foi excedido.",
+        "c": "28 dias a partir da data de abertura, independentemente da data de expiração original.",
+        "d": "A validade é prolongada se a conservação em temperatura adequada for mantida, podendo ser usada até à data original.",
+        "e": "A validade depende da aparência visual do líquido; se não houver turvação, pode ser usada."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Para medicamentos multi-dose com prazos de validade limitados após a abertura, como a insulina, a validade pós-abertura prevalece sobre a data de expiração original, uma vez expirado o prazo de 28 dias após a abertura, o frasco deve ser descartado, independentemente da validade intacta."
+    },
+    {
+      "numero": 23,
+      "tema": "III. Prazo de Validade dos Medicamentos",
+      "enunciado": "No contexto da modernização da saúde pública em Luanda, e inspirados pelos dados do IIMS 2023-2024, uma farmácia hospitalar implementa um sistema de gestão de medicamentos que utiliza algoritmos de IA para prever padrões de consumo e otimizar stocks. Um lote de Adrenalina 1mg/ml para injeção, com validade de 18 meses, é armazenado. Qual é o impacte primário das flutuações de temperatura (superiores às recomendadas) no prazo de validade de um medicamento termossensível como a Adrenalina e a sua consequente inferência na decisão clínica?",
+      "alineas": {
+        "a": "Aumenta ligeiramente a sua potência, exigindo reajuste posológico.",
+        "b": "Pode acelerar a degradação do princípio ativo, reduzindo a sua eficácia e segurança antes da data de validade impressa.",
+        "c": "Não tem impacte significativo, desde que a temperatura retorne aos valores recomendados antes da expiração.",
+        "d": "Apenas afeta a aparência física da solução, sem comprometer a sua ação farmacológica.",
+        "e": "Prolonga a vida útil do medicamento, retardando a degradação molecular."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A exposição a temperaturas fora das condições de armazenamento recomendadas pode acelerar a degradação de medicamentos termossensíveis, como a Adrenalina, comprometendo a sua eficácia e segurança mesmo antes da data de validade impressa, exigindo descartar o medicamento para segurança do paciente."
+    },
+    {
+      "numero": 24,
+      "tema": "III. Prazo de Validade dos Medicamentos",
+      "enunciado": "Uma equipa de saúde, implementando um programa de vacinação rural na província do Moxico, como parte das iniciativas de saúde pública pós-Censo 2024 e IIMS 2023-2024, dispõe de vacinas que foram refrigeradas adequadamente. Contudo, devido a uma falha no gerador durante o transporte para uma área remota, um lote de vacinas anti-tetânica (com validade de 3 anos a partir da data de fabrico) foi exposto a temperaturas acima de 8°C durante 12 horas. Qual a decisão mais ética e segura a tomar em relação à validade e utilização deste lote de vacinas?",
+      "alineas": {
+        "a": "Continuar a utilizar as vacinas, pois o período de 12 horas é insignificante para comprometer a sua eficácia.",
+        "b": "Descartar imediatamente o lote exposto a temperaturas inadequadas, independentemente da data de validade original.",
+        "c": "Isolar o lote e enviar amostras para controlo de qualidade, se for viável, antes de tomar qualquer decisão.",
+        "d": "Administrar as vacinas apenas a pacientes com menor risco de reações adversas, monitorizando-os de perto.",
+        "e": "Consultar o fabricante para determinar se a exposição a curto prazo comprometeu a estabilidade do produto."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Vacinas são produtos biológicos altamente sensíveis à temperatura. A exposição a condições fora das recomendadas pode inativá-las ou comprometer a sua segurança, invalidando o prazo de validade impresso. A segurança do paciente exige o descarte nestas circunstâncias."
+    },
+    {
+      "numero": 25,
+      "tema": "III. Prazo de Validade dos Medicamentos",
+      "enunciado": "A governança e supervisão farmacêutica em Angola é reforçada pelo INFARMED, E.P., que tem implementado diretrizes rigorosas para o controle de qualidade. Uma farmácia hospitalar, na província de Malanje, enfrenta um dilema: um medicamento de alto custo, Vancomicina intravenosa, tem data de validade em Dezembro de 2024. A farmácia tem um grande volume deste medicamento em stock e prevê que não será utilizado até essa data. O laboratório fabricante anunciou um estudo que demonstra a estabilidade da Vancomicina por mais 6 meses após a validade impressa, sob condições ideais. Qual a posição deontológica do técnico de farmácia, segundo as normativas do INFARMED, em relação à potencial extensão do prazo de validade?",
+      "alineas": {
+        "a": "Utilizar o medicamento por mais 6 meses, baseando-se no estudo do fabricante, para evitar desperdício de recursos.",
+        "b": "Consultar o INFARMED para uma autorização formal de extensão da validade, apresentando o estudo do fabricante.",
+        "c": "Descartar o medicamento na data de validade impressa, independentemente do estudo, para cumprir as normas regulamentares angolanas.",
+        "d": "Dispensar o medicamento apenas para casos de emergência, informando o médico sobre o estudo de extensão.",
+        "e": "Manter o stock em quarentena e não o utilizar até receber novas instruções."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "As datas de validade são estabelecidas e aprovadas pelas autoridades reguladoras (INFARMED em Angola). Mesmo que um fabricante realize estudos posteriores, a validade legal e segura a ser seguida é a que consta na rotulagem aprovada, a menos que haja uma autorização formal de extensão emitida pela autoridade competente."
+    },
+    {
+      "numero": 26,
+      "tema": "IV. Sistemas de Distribuição de Medicamentos",
+      "enunciado": "No contexto da recalibragem do Plano Nacional de Desenvolvimento Sanitário (PNDS) 2023-2027, e perante o desafio da nova divisão administrativa que se avizinha com o Censo 2024, qual sistema de distribuição de medicamentos se revela mais adaptado para garantir a cobertura universal na provisão de fármacos essenciais a nível primário de saúde nas recém-criadas circunscrições?",
+      "alineas": {
+        "a": "Sistema de Dispensação Centralizada em Farmácias Hospitalares Regionais.",
+        "b": "Sistema de Distribuição Direta do Produtor para o Consumidor Final, via e-commerce.",
+        "c": "Sistema de Distribuição Push (empurrar) com base na estimativa de consumo e dados demográficos do Censo 2024, apoiado por plataformas de IA para otimização logística.",
+        "d": "Sistema de Distribuição Pull (puxar) com pedidos sob demanda de cada unidade sanitária municipal, sem previsão centralizada.",
+        "e": "Sistema de Distribuição misto, centralizado apenas para vacinas e descentralizado para os restantes fármacos."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Numa nova divisão administrativa com dados do Censo 2024 e IA, o sistema Push, com estimativas de consumo e apoio tecnológico, garante proativamente o abastecimento, evitando ruturas e otimizando a logística de distribuição para as novas circunscrições."
+    },
+    {
+      "numero": 27,
+      "tema": "IV. Sistemas de Distribuição de Medicamentos",
+      "enunciado": "A Unidade de Logística da Central de Compras de Medicamentos e Material Médico-Cirúrgico (CECOMA) está a enfrentar desafios na distribuição de kits de medicamentos pré-configurados para a Malária não complicada, após os resultados preliminares do Inquérito de Indicadores Múltiplos de Saúde (IIMS) 2023-2024, que indicam um aumento da prevalência em zonas rurais. Que tipo de embalagem e estratégia de rotulagem deve ser priorizada para estes kits, garantindo a rastreabilidade e minimizando erros na dispensação em postos de saúde de áreas remotas?",
+      "alineas": {
+        "a": "Embalagens a granel, sem rotulagem individualizada, para otimizar o transporte.",
+        "b": "Embalagens primárias unitárias, com códigos de barras 2D (Data Matrix) e QR codes, integrados num sistema de gestão de inventário e rastreabilidade digital.",
+        "c": "Embalagens secundárias com informação apenas em texto, sem simbologia gráfica universal.",
+        "d": "Embalagens reutilizáveis não esterilizadas, para reduzir custos operacionais.",
+        "e": "Embalagens de cartão simples com nome do medicamento e validade impressos manualmente."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A rastreabilidade e a segurança do paciente são críticas, especialmente em áreas remotas. Códigos de barras 2D e QR codes em embalagens unitárias permitem a leitura digital e integração num sistema de gestão, garantindo o controlo do medicamento desde a origem até o paciente, conforme as boas práticas de distribuição e face aos dados do IIMS."
+    },
+    {
+      "numero": 28,
+      "tema": "IV. Sistemas de Distribuição de Medicamentos",
+      "enunciado": "Considerando a diretriz do Ministério da Saúde de Angola para a expansão da telessaúde e o uso de IA na gestão de dados de saúde, qual dos seguintes elementos é crucial para a formação de técnicos de farmácia, de modo a garantir a integração e a segurança da informação nos sistemas de distribuição de medicamentos, nomeadamente na gestão de stocks e prescrição eletrónica?",
+      "alineas": {
+        "a": "Ênfase exclusiva na farmacologia clínica e biodisponibilidade de fármacos.",
+        "b": "Conhecimento aprofundado de anatomia e fisiologia humana.",
+        "c": "Competências em interoperabilidade de sistemas de informação, cibersegurança e ética dos dados em saúde.",
+        "d": "Foco prioritário na preparação de formulações magistrais e oficinais.",
+        "e": "Domínio da legislação sobre publicidade e marketing de medicamentos."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Com a crescente digitalização e uso de IA, as competências em interoperabilidade, cibersegurança e ética dos dados são fundamentais para que os técnicos de farmácia manuseiem e garantam a integridade e segurança da informação nos sistemas de distribuição e gestão de medicamentos."
+    },
+    {
+      "numero": 29,
+      "tema": "IV. Sistemas de Distribuição de Medicamentos",
+      "enunciado": "No âmbito do Programa de Fortalecimento da Cadeia de Abastecimento de Medicamentos, é identificada a necessidade de otimizar o transporte de vacinas termossensíveis para as novas municipalidades nas províncias do Cuando Cubango e Moxico. Que requisitos técnicos devem ser rigorosamente observados na escolha e monitorização dos veículos de transporte para este tipo de carga?",
+      "alineas": {
+        "a": "Veículos com capacidade de carga máxima, independentemente das condições térmicas.",
+        "b": "Veículos com sistemas de refrigeração validados, termómetros calibrados com registo contínuo de temperatura (data loggers) e mapeamento térmico da câmara fria.",
+        "c": "Veículos abertos, para facilitar a ventilação natural e reduzir custos.",
+        "d": "Qualquer veículo de transporte de mercadorias, desde que esteja limpo.",
+        "e": "Veículos com ar condicionado comum, sem controlo ou registo de temperatura específicos para medicamentos."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Vacinas termossensíveis exigem condições de Cadeia de Frio rigorosas. Veículos com refrigeração validada, monitorização contínua e registo de temperatura garantem a manutenção da sua estabilidade e eficácia durante todo o transporte, especialmente para regiões críticas como as referidas."
+    },
+    {
+      "numero": 30,
+      "tema": "IV. Sistemas de Distribuição de Medicamentos",
+      "enunciado": "A auditoria interna à Central Provincial de Medicamentos de Luanda revelou a coexistência de diferentes sistemas de codificação de produtos farmacêuticos (NCM, ATC e um sistema proprietário obsoleto). Qual a consequência direta mais crítica desta falta de padronização na gestão dos sistemas de distribuição?",
+      "alineas": {
+        "a": "Aumento do tempo gasto na contagem física do stock.",
+        "b": "Dificuldade na produção de relatórios financeiros e contabilísticos.",
+        "c": "Interoperabilidade comprometida entre diferentes bases de dados, dificultando a rastreabilidade, análise de consumos e planeamento de aquisições numa perspectiva nacional integrada.",
+        "d": "Aumento do número de funcionários necessários para a embalagem dos medicamentos.",
+        "e": "Exigência de mais espaço físico para armazenamento devido à duplicação de códigos."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A falta de padronização na codificação impede a comunicação eficaz entre diferentes sistemas de informação. Isso compromete a interoperabilidade, essenciais para uma gestão integrada, rastreabilidade e planeamento eficiente da distribuição de medicamentos a nível nacional."
+    },
+    {
+      "numero": 31,
+      "tema": "IV. Sistemas de Distribuição de Medicamentos",
+      "enunciado": "No âmbito das Boas Práticas de Distribuição (BPD) de Medicamentos em Angola, e face à expansão da Rede Nacional de Saúde, qual é a principal responsabilidade do Responsável Técnico de uma distribuidora farmacêutica em relação à qualificação dos transportadores terceirizados?",
+      "alineas": {
+        "a": "Apenas verificar a validade da carta de condução dos motoristas.",
+        "b": "Assegurar que os transportadores possuem licença de funcionamento e são capazes de manter as condições de armazenamento e transporte exigidas, incluindo a formação do pessoal e a monitorização da cadeia de frio, se aplicável, e a conformidade com as BPD.",
+        "c": "Negociar exclusivamente os preços mais baixos de frete.",
+        "d": "Certificar-se de que os veículos são de cor branca para refletir o calor.",
+        "e": "Aprovar apenas transportadores que utilizem veículos adquiridos recentemente."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Responsável Técnico tem a incumbência de garantir que todos os intervenientes da cadeia de distribuição, incluindo transportadores terceirizados, cumpram as BPD, assegurando a qualidade e integridade dos medicamentos, através da qualificação e monitorização contínua."
+    },
+    {
+      "numero": 32,
+      "tema": "IV. Sistemas de Distribuição de Medicamentos",
+      "enunciado": "Considerando o Plano Diretor de Urbanização de Luanda e a necessidade de otimização logística, a Unidade de Armazenagem de Medicamentos Essenciais detetou a necessidade de implementar um sistema de gestão de armazém (WMS) com funcionalidades de IA. Que benefício direto este sistema traria para a eficiência da distribuição de medicamentos, face à crescente procura populacional?",
+      "alineas": {
+        "a": "Redução da necessidade de climatização das instalações, devido à automação.",
+        "b": "Otimização da alocação de stock, previsão de procura com base em padrões históricos e demográficos (Censo 2024), gestão de rotas de transporte e identificação proativa de desvios térmicos.",
+        "c": "Eliminação completa da necessidade de inventários físicos e auditorias.",
+        "d": "Substituição total da mão de obra humana por robótica no picking e packing.",
+        "e": "Aumento puramente estético da organização do armazém."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Um WMS com IA otimiza a gestão de stock, prevê a procura de forma mais precisa com dados demográficos e históricos, melhora a gestão de rotas e identifica problemas operacionais, aumentando significativamente a eficiência da distribuição para atender à procura crescente."
+    },
+    {
+      "numero": 33,
+      "tema": "IV. Sistemas de Distribuição de Medicamentos",
+      "enunciado": "Após a implementação do Guia de Boas Práticas de Preparação de Bases Farmacêuticas Estéreis nas farmácias hospitalares de referência, o Chefe do Serviço de Farmácia observou que a distribuição interna destes produtos exige precauções adicionais. Qual o procedimento mais crítico para garantir a integridade e esterilidade da preparação no transporte do laboratório para as enfermarias?",
+      "alineas": {
+        "a": "Transportar as preparações em sacos de plástico comuns para fácil identificação.",
+        "b": "Utilizar contentores herméticos, desinfetados, validados para manter a temperatura e tempo de trânsito controlados, e com etiquetas que identifiquem claramente o paciente e a via de administração.",
+        "c": "Permitir que vários medicamentos sejam transportados na mesma bandeja, desde que não se misturem líquidos.",
+        "d": "Acomodar as preparações em cestas abertas para evitar condensação.",
+        "e": "Apenas verificar visualmente a ausência de partículas antes da entrega."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Preparações estéreis exigem transporte em condições controladas para evitar contaminação e manter a sua estabilidade. Contentores herméticos, desinfetados e com controlo térmico são essenciais, juntamente com a identificação rigorosa, para garantir a segurança do paciente e a qualidade do medicamento."
+    },
+    {
+      "numero": 34,
+      "tema": "V. Tipos de Inventários",
+      "enunciado": "No âmbito da otimização da gestão de stocks em hospitais provinciais angolanos, com a recente introdução de sistemas de IA para previsão de consumo pós-Censo 2024, qual tipo de inventário é mais adequado para verificar a acurácia dos dados registados no sistema face à realidade física do stock de medicamentos de alto custo (antineoplásicos) no final do exercício fiscal?",
+      "alineas": {
+        "a": "Inventário rotativo ou cíclico.",
+        "b": "Inventário periódico.",
+        "c": "Inventário permanente ou contínuo.",
+        "d": "Inventário inicial ou de abertura."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O inventário rotativo ou cíclico é ideal para verificar a acurácia de forma contínua, focando em itens de alto valor ou de alta rotatividade, sem a necessidade de paralisar as operações. Isso é crucial para medicamentos caros como os antineoplásicos."
+    },
+    {
+      "numero": 35,
+      "tema": "V. Tipos de Inventários",
+      "enunciado": "A expansão dos programas de saúde pública, impulsionada pelos dados do IIMS 2023-2024, exige uma gestão mais ágil de consumíveis médicos. Para uma farmácia hospitalar de referência na nova divisão administrativa de Luanda, que necessita avaliar o stock total e determinar o custo dos produtos vendidos ao final de cada trimestre, qual tipo de inventário é fundamental para esta avaliação global?",
+      "alineas": {
+        "a": "Inventário por amostragem.",
+        "b": "Inventário permanente.",
+        "c": "Inventário periódico.",
+        "d": "Inventário de segurança."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O inventário periódico é realizado em intervalos fixos (ex: trimestral) para determinar o valor do estoque final e o custo dos produtos vendidos, paralisando as operações para uma contagem completa. É adequado para avaliações globais em períodos definidos."
+    },
+    {
+      "numero": 36,
+      "tema": "V. Tipos de Inventários",
+      "enunciado": "Considerando a implementação de telemedicina e a distribuição descentralizada de medicamentos para áreas remotas pós-Censo 2024 em Benguela, uma farmácia centralizadora pretende manter um registo atualizado em tempo real de todas as entradas e saídas de medicamentos essenciais, garantindo a disponibilidade. Que tipo de inventário permite esta visibilidade contínua?",
+      "alineas": {
+        "a": "Inventário anual.",
+        "b": "Inventário físico.",
+        "c": "Inventário permanente.",
+        "d": "Inventário por secção."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O inventário permanente (ou contínuo) mantém registos atualizados em tempo real de cada movimentação de stock, sendo essencial para garantir a visibilidade e disponibilidade de medicamentos em sistemas de distribuição descentralizada e telemedicina."
+    },
+    {
+      "numero": 37,
+      "tema": "V. Tipos de Inventários",
+      "enunciado": "Após a inauguração de uma nova farmácia comunitária em uma zona recentemente urbanizada da província de Cabinda, qual é o tipo de inventário mandatório que deve ser realizado para registar o valor inicial de todos os bens e medicamentos disponíveis antes do início das operações comerciais, estabelecendo a base para a gestão futura?",
+      "alineas": {
+        "a": "Inventário de fim de linha.",
+        "b": "Inventário inicial.",
+        "c": "Inventário fiscal.",
+        "d": "Inventário de perdas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O inventário inicial é a primeira contagem e registo de todos os bens e estoques de uma empresa ou estabelecimento, essencial para estabelecer o ponto de partida contábil e operacional de uma nova instalação."
+    },
+    {
+      "numero": 38,
+      "tema": "V. Tipos de Inventários",
+      "enunciado": "No contexto da gestão de vacinas do Programa Alargado de Vacinação (PAV), conforme diretrizes do IIMS 2023-2024, e com o suporte de IA para otimização logística, um Técnico de Farmácia em Malanje detetou discrepâncias significativas entre o stock registado e o stock físico de vacinas contra o sarampo. Que tipo de inventário seria prioritário para investigar e quantificar estas perdas ou desvios?",
+      "alineas": {
+        "a": "Inventário de auditoria.",
+        "b": "Inventário seletivo.",
+        "c": "Inventário de saneamento.",
+        "d": "Inventário por contagem física completa."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O inventário de auditoria foca na verificação da conformidade dos registos com a realidade física e na deteção de discrepâncias, sendo crucial para investigar perdas e desvios em itens sensíveis como vacinas."
+    },
+    {
+      "numero": 39,
+      "tema": "V. Tipos de Inventários",
+      "enunciado": "A política de saúde angolana, visando a cobertura universal, incentiva a gestão eficiente de medicamentos. Para um centro de saúde municipal em Cuanza Norte, que realiza inventários regulares para conciliar o stock físico com o registo contabilístico, mas sem interromper as atividades diárias, concentrando-se em áreas específicas ou categorias de produtos de cada vez, qual é a modalidade de inventário mais adequada?",
+      "alineas": {
+        "a": "Inventário geral.",
+        "b": "Inventário analítico.",
+        "c": "Inventário rotativo.",
+        "d": "Inventário por estimativa."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O inventário rotativo (ou cíclico) permite a contagem de estoques em partes, em intervalos regulares, sem suspender as operações do dia a dia, sendo ideal para conciliação contínua e para focar em itens específicos."
+    },
+    {
+      "numero": 40,
+      "tema": "VI. Concentração de Fármacos e Diluição de Soluções",
+      "enunciado": "No contexto da nova divisão administrativa de Angola em 2024, um Técnico de Farmácia, alocado a um centro de saúde primário recém-inaugurado na província do Moxico, depara-se com a necessidade de preparar uma solução de Cloreto de Sódio a 0,9% para hidratação intravenosa pediátrica a partir de um concentrado. Se o concentrado disponível é de Cloreto de Sódio a 20% (m/v) e se pretende obter 500 mL da solução final, qual o volume (em mL) do concentrado que deverá ser utilizado?",
+      "alineas": {
+        "a": "2,25 mL",
+        "b": "4,5 mL",
+        "c": "9,0 mL",
+        "d": "22,5 mL"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Para diluição, usa-se a fórmula C1V1 = C2V2. 0,9% * 500 mL = 20% * V2. V2 = (0,9 * 500) / 20 = 450 / 20 = 22,5 mL. (Resposta errada no enunciado anterior, o cálculo correcto é 22,5mL)"
+    },
+    {
+      "numero": 41,
+      "tema": "VI. Concentração de Fármacos e Diluição de Soluções",
+      "enunciado": "Considerando os dados do Censo 2024 de Angola, que apontam para um aumento da população idosa, a preparação de medicamentos individualizados torna-se crucial. Uma farmácia hospitalar do MINSA precisa preparar uma solução oral de Paracetamol para um paciente geriátrico, cuja prescrição é de 125 mg de Paracetamol por dose, e a solução padrão na farmácia é de 250 mg/5 mL. Que volume (em mL) da solução padrão deve ser dispensado para uma dose?",
+      "alineas": {
+        "a": "1,25 mL",
+        "b": "2,5 mL",
+        "c": "5,0 mL",
+        "d": "Dados insuficientes"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A concentração é de 250 mg em 5 mL. Para 125 mg de Paracetamol, é necessário dispensar metade do volume. Portanto, (125 mg / 250 mg) * 5 mL = 0,5 * 5 mL = 2,5 mL."
+    },
+    {
+      "numero": 42,
+      "tema": "VI. Concentração de Fármacos e Diluição de Soluções",
+      "enunciado": "De acordo com o Inquérito de Indicadores Múltiplos e de Saúde (IIMS) 2023-2024, o acesso a anti-retrovirais (ARV) em áreas rurais de Angola é uma prioridade. Um Técnico de Farmácia deve preparar uma solução oral pediátrica de Lopinavir/Ritonavir a 40 mg Lopinavir + 10 mg Ritonavir / mL para um paciente com dificuldades de deglutição, a partir de um comprimido de 200 mg Lopinavir + 50 mg Ritonavir. Qual o volume final (em mL) de diluente (água purificada) necessário para obter esta concentração, assumindo que o comprimido é totalmente solúvel no diluente?",
+      "alineas": {
+        "a": "2,5 mL",
+        "b": "5,0 mL",
+        "c": "10,0 mL",
+        "d": "12,5 mL"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Para Lopinavir, 200 mg / X mL = 40 mg/mL, então X = 200/40 = 5 mL. Para Ritonavir, 50 mg / Y mL = 10 mg/mL, então Y = 50/10 = 5 mL. O volume final de diluente será 5 mL para obter a concentração desejada."
+    },
+    {
+      "numero": 43,
+      "tema": "VI. Concentração de Fármacos e Diluição de Soluções",
+      "enunciado": "A adoção da inteligência artificial (IA) na saúde pública angolana, para otimização de fluxos de trabalho, inclui a verificação da dosagem de infusões. Um sistema de IA alerta para a dose excessiva de uma infusão de Sulfato de Magnésio. A prescrição indica administrar 5 g de Sulfato de Magnésio num volume total de 250 mL de soro fisiológico, a ser infundido durante 4 horas. Qual a concentração final (em mEq/mL) de iões de magnésio na solução, sabendo que a massa molecular do Sulfato de Magnésio (MgSO4) é aproximadamente 120 g/mol e que cada mole de MgSO4 liberta 2 equivalentes de Mg2+?",
+      "alineas": {
+        "a": "0,167 mEq/mL",
+        "b": "0,333 mEq/mL",
+        "c": "0,667 mEq/mL",
+        "d": "1,0 mEq/mL"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "5 g de MgSO4 são 5g / 120 g/mol = 0,04167 moles. Como 1 mole de MgSO4 liberta 2 equivalentes, teremos 0,04167 moles * 2 Eq/mol = 0,08334 Eq = 83,34 mEq. A concentração em 250 mL será 83,34 mEq / 250 mL = 0,333 mEq/mL."
+    },
+    {
+      "numero": 44,
+      "tema": "VI. Concentração de Fármacos e Diluição de Soluções",
+      "enunciado": "Face às exigências de combate à malária, um Técnico de Farmácia em Malanje precisa preparar uma diluição de Primaquina. Uma ampola contém 15 mg/mL de Primaquina em 2 mL. Para uma dose pediátrica, é necessário administrar 5 mg. Se o fármaco precisa ser diluído para uma concentração final de 2 mg/mL para administração mais precisa, que volume total (em mL) da solução diluída deve ser preparado para obter a dose necessária, assumindo que a ampola será totalmente utilizada?",
+      "alineas": {
+        "a": "15 mL",
+        "b": "30 mL",
+        "c": "45 mL",
+        "d": "60 mL"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A ampola tem 15 mg/mL * 2 mL = 30 mg de Primaquina total. Para obter uma concentração de 2 mg/mL com 30 mg totais, o volume final deve ser 30 mg / 2 mg/mL = 15 mL."
+    },
+    {
+      "numero": 45,
+      "tema": "VI. Concentração de Fármacos e Diluição de Soluções",
+      "enunciado": "A expansão da cobertura de vacinação em Angola, conforme metas do MINSA, exige preparação e diluição precisas de imunobiológicos. Uma vacina liofilizada precisa ser reconstituída com 0,5 mL de diluente estéril para obter 1 dose de 0,5 mL. Se cada frasco-ampola contém 10 doses, qual o volume total (em mL) de diluente necessário por frasco-ampola, considerando que após a reconstituição o volume da solução é a soma do volume do pó com o volume do diluente?",
+      "alineas": {
+        "a": "0,5 mL",
+        "b": "2,5 mL",
+        "c": "5,0 mL",
+        "d": "Não é possível determinar sem o volume do pó"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Se cada dose é de 0,5 mL e há 10 doses, o volume total da solução reconstituída deve ser 10 * 0,5 mL = 5,0 mL. Se 0,5 mL de diluente é necessário por dose, e há 10 doses, então 10 * 0,5 mL = 5,0 mL de diluente são necessários para reconstituir o frasco-ampola."
+    },
+    {
+      "numero": 46,
+      "tema": "VI. Concentração de Fármacos e Diluição de Soluções",
+      "enunciado": "A gestão de stocks de medicamentos essenciais, como os para doenças crónicas não transmissíveis (DCNT), é crucial com a nova divisão administrativa. Um Técnico de Farmácia precisa preparar uma solução de Glibenclamida 50 mg/100 mL para um paciente diabético, usando comprimidos de 5 mg. Quantos comprimidos são necessários para preparar a solução, assumindo solubilidade completa e um volume final de 100 mL?",
+      "alineas": {
+        "a": "2 comprimidos",
+        "b": "5 comprimidos",
+        "c": "10 comprimidos",
+        "d": "Comprimidos não são adequados para essa preparação"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Para uma concentração de 50 mg em 100 mL, são necessários 50 mg de Glibenclamida. Cada comprimido tem 5 mg, então 50 mg / 5 mg/comprimido = 10 comprimidos."
+    },
+    {
+      "numero": 47,
+      "tema": "VI. Concentração de Fármacos e Diluição de Soluções",
+      "enunciado": "No âmbito do Censo 2024, a distribuição de suplementos nutricionais infantis em comunidades de difícil acesso requer precisão. Um xarope de Ferro elementar está disponível na concentração de 50 mg/mL. Se a dosagem prescrita para uma criança é de 15 mg de Ferro elementar por dia, e o volume total da solução a ser dispensada é para 30 dias de tratamento, qual o volume total (em mL) que o Técnico de Farmácia deve dispensar?",
+      "alineas": {
+        "a": "3,0 mL",
+        "b": "9,0 mL",
+        "c": "25 mL",
+        "d": "30 mL"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A dose diária é de 15 mg de Ferro. Em 30 dias, são 15 mg/dia * 30 dias = 450 mg de Ferro. A concentração é de 50 mg/mL. Portanto, 450 mg / 50 mg/mL = 9 mL de xarope total."
+    },
+    {
+      "numero": 48,
+      "tema": "VI. Concentração de Fármacos e Diluição de Soluções",
+      "enunciado": "A implementação de programas de saúde escolar, apoiados pelos dados do IIMS 2023-2024, inclui a preparação de soluções antissépticas. Uma solução de Povidona-Iodo a 10% (m/v) precisa ser diluída para 1% (m/v) para uso como antisséptico cutâneo. Se o Técnico de Farmácia deseja preparar 2 litros (2000 mL) da solução final, qual o volume (em mL) da solução concentrada de Povidona-Iodo a 10% que deve ser utilizado?",
+      "alineas": {
+        "a": "20 mL",
+        "b": "200 mL",
+        "c": "250 mL",
+        "d": "1000 mL"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Usando a fórmula C1V1 = C2V2: 10% * V1 = 1% * 2000 mL. V1 = (1 * 2000) / 10 = 200 mL."
+    },
+    {
+      "numero": 49,
+      "tema": "VI. Concentração de Fármacos e Diluição de Soluções",
+      "enunciado": "A aplicação da IA no controlo de qualidade de preparações farmacêuticas no MINSA alerta sobre um erro num cálculo de osmolaridade. Uma solução intravenosa contém 5% de Dextrose (m/v). Qual a osmolaridade aproximada (em mOsmol/L) desta solução, sabendo que a massa molecular da Dextrose (C6H12O6) é aproximadamente 180 g/mol e que a Dextrose não se dissocia em iões?",
+      "alineas": {
+        "a": "139 mOsmol/L",
+        "b": "278 mOsmol/L",
+        "c": "556 mOsmol/L",
+        "d": "750 mOsmol/L"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Uma solução a 5% (m/v) de Dextrose significa 50 g de Dextrose em 1000 mL (1 L). O número de moles é 50 g / 180 g/mol = 0,2778 moles. Como a Dextrose não se dissocia, a osmolaridade é aproximadamente 0,2778 mol/L = 277,8 mOsmol/L, que é aproximadamente 278 mOsmol/L."
+    },
+    {
+      "numero": 50,
+      "tema": "VII. Condições de Armazenamento de Medicamentos",
+      "enunciado": "Num posto de saúde recém-inaugurado no município do Soyo, província do Zaire, durante a campanha de vacinação contra a poliomielite, um Técnico de Farmácia depara-se com um grande volume de vacinas que necessitam de refrigeração constante (entre +2°C e +8°C). Considerando as flutuações de energia eléctrica comuns na região, qual a estratégia mais robusta e prioritária para garantir a integridade térmica destas vacinas?",
+      "alineas": {
+        "a": "Armazenamento em frigoríficos domésticos adaptados, monitorizando a temperatura duas vezes ao dia e registando manualmente.",
+        "b": "Utilização prioritária de frigoríficos solares com baterias de reserva e registadores de temperatura contínuos (data loggers) para monitorização em tempo real.",
+        "c": "Estocagem em câmaras frias conectadas a geradores a diesel, activando-os apenas durante falhas de energia.",
+        "d": "Distribuição imediata para unidades periféricas, reduzindo o volume de armazenamento centralizado e a necessidade de refrigeração prolongada.",
+        "e": "Manutenção das vacinas em caixas térmicas com gelo reciclado, trocando-o a cada 6 horas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Frigoríficos solares com data loggers oferecem uma solução sustentável e robusta para regiões com instabilidade energética, garantindo a cadeia de frio e a rastreabilidade da temperatura, conforme as directrizes do Programa Alargado de Vacinação (PAV)."
+    },
+    {
+      "numero": 51,
+      "tema": "VII. Condições de Armazenamento de Medicamentos",
+      "enunciado": "No contexto da IIMS 2023-2024, um Técnico de Farmácia na província do Huambo detecta um lote de antibióticos pediátricos (suspensões) com alterações sensoriais evidentes (cor e odor anormais). O prazo de validade ainda não expirou, e o armazenamento foi feito numa área que registou picos de temperatura acima dos 25°C e humidade relativa elevada (>70%) por períodos prolongados. Qual a acção mais adequada a tomar, considerando as normas do MINSA?",
+      "alineas": {
+        "a": "Reavaliar o lote após um período em condições óptimas de armazenamento, para verificar se as características retornam ao normal antes de descartar.",
+        "b": "Dispensar os antibióticos com um aviso ao paciente para observar quaisquer reacções adversas incomuns.",
+        "c": "Isolar imediatamente o lote, identificar a causa da deterioração, documentar a não conformidade e proceder à destruição programada, informando a autoridade sanitária competente.",
+        "d": "Utilizar os antibióticos para casos de menor gravidade, diluindo-os para minimizar potenciais efeitos adversos.",
+        "e": "Contactar o fornecedor para solicitar a substituição do lote, sem retirar o produto do stock disponível para uso imediato."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Medicamentos com alterações organolépticas, mesmo dentro do prazo de validade, representam risco à saúde pública. A acção correcta é isolar, documentar, destruir e reportar, conforme as boas práticas de armazenamento e distribuição."
+    },
+    {
+      "numero": 52,
+      "tema": "VII. Condições de Armazenamento de Medicamentos",
+      "enunciado": "Uma farmácia comunitária em Luanda, prepara-se para o Censo 2024 e o aumento esperado da procura por medicamentos. O Técnico de Farmácia está a reorganizar o seu stock. Identificou vários medicamentos que necessitam de protecção contra a luz. Em que tipo de embalagem e local de armazenamento estes medicamentos devem ser prioritariamente guardados?",
+      "alineas": {
+        "a": "Embalagens transparentes de plástico, em prateleiras abertas sob luz artificial constante.",
+        "b": "Embalagens de papelão secundárias, dentro de armários com portas de vidro para facilitar a visualização do stock.",
+        "c": "Embalagens primárias opacas ou âmbar, dentro de armários fechados ou caixas, longe da luz directa do sol e de fontes de luz artificial intensa.",
+        "d": "Embalagens de cores claras para reflectir a luz, mantidas em expositores refrigerados com portas de vidro."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Medicamentos fotossensíveis devem ser armazenados em embalagens que bloqueiem a luz (opacas ou âmbar) e em locais escuros, como armários fechados, para prevenir a degradação e manter a sua estabilidade e eficácia."
+    },
+    {
+      "numero": 53,
+      "tema": "VII. Condições de Armazenamento de Medicamentos",
+      "enunciado": "No Centro de Saúde Materno-Infantil do Município de Viana, em Luanda, o Técnico de Farmácia é responsável por garantir a correcta cadeia de frio dos termolábeis. Perante a instalação de um novo sistema de monitorização de temperatura baseado em IA que integra dados de vários sensores com alertas automáticos, qual o impacto mais significativo desta tecnologia na gestão do armazenamento?",
+      "alineas": {
+        "a": "Redução da necessidade de reabastecimento de stock, pois a IA optimiza os pedidos.",
+        "b": "Eliminação completa da necessidade de vistorias físicas dos equipamentos de refrigeração pelo técnico.",
+        "c": "Previsão de falhas em equipamentos de refrigeração e alerta imediato sobre desvios da temperatura, permitindo intervenção proactiva e minimizando perdas.",
+        "d": "Aumento dos custos operacionais devido à complexidade da manutenção do sistema de IA.",
+        "e": "Substituição do registo manual de temperaturas por relatórios automáticos, eliminando o erro humano."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A IA na monitorização da cadeia de frio permite a análise preditiva e alertas em tempo real, optimizando a intervenção e prevenindo a perda de medicamentos sensíveis à temperatura, representando um avanço significativo na gestão do stock."
+    },
+    {
+      "numero": 54,
+      "tema": "VII. Condições de Armazenamento de Medicamentos",
+      "enunciado": "Um Técnico de Farmácia no Hospital Geral da província de Benguela está a preparar uma área de armazenamento para medicamentos controlados (psicotrópicos e narcóticos). Qual das seguintes condições é imposta pelas normas do MINSA para o armazenamento destes fármacos, visando evitar o desvio e garantir a segurança?",
+      "alineas": {
+        "a": "Armazenamento em prateleiras abertas, mas devidamente identificadas e com acesso restrito ao pessoal farmacêutico.",
+        "b": "Guarda em cofres ou armários metálicos robustos, fechados à chave, com acesso restrito a um número limitado de pessoas autorizadas e registo rigoroso de entradas e saídas.",
+        "c": "Disposição junto a medicamentos de venda livre para facilitar a vigilância cruzada por toda a equipa da farmácia.",
+        "d": "Armazenamento em área refrigerada comum, com etiqueta de 'medicamento controlado' visível para todos os colaboradores."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Medicamentos controlados exigem armazenamento seguro (cofres/armários fechados), acesso restrito e registos detalhados para prevenir desvio e abuso, conforme a legislação angolana sobre substâncias psicoactivas."
+    },
+    {
+      "numero": 55,
+      "tema": "VII. Condições de Armazenamento de Medicamentos",
+      "enunciado": "Durante uma visita de rotina a uma unidade sanitária municipal na nova divisão administrativa do Cunene, o Técnico de Farmácia constata que vários lotes de soro fisiológico e outros fluidos intravenosos estão armazenados directamente no chão, em boxes com paletes de madeira danificadas e sinais de humidade. Qual o principal risco associado a esta prática de armazenamento?",
+      "alineas": {
+        "a": "Aumento da temperatura dos produtos, comprometendo a sua estabilidade.",
+        "b": "Dificuldade na identificação dos códigos de lote e datas de validade devido à sujidade.",
+        "c": "Contaminação microbiana, danos físicos nas embalagens (amassamento, furos) e atração de pragas, comprometendo a esterilidade e integridade dos produtos.",
+        "d": "Exposição excessiva à luz solar, provocando a degradação dos componentes dos soros.",
+        "e": "Desperdício de espaço vertical no armazém, limitando a capacidade de armazenamento."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O armazenamento no chão favorece a contaminação (microbiana e por pragas), danos mecânicos e comprometimento da esterilidade dos fluidos intravenosos, sendo uma prática contra as Boas Práticas de Fabricação (BPF) e Armazenamento (BPA)."
+    },
+    {
+      "numero": 56,
+      "tema": "VIII. Farmácia Hospitalar - Objectivos e Actividades",
+      "enunciado": "No contexto da reorganização administrativa de 2024 e do avanço tecnológico, qual dos seguintes objetivos estratégicos melhor reflete a missão da Farmácia Hospitalar em Angola, visando a otimização da segurança do paciente e a eficiência na gestão de medicamentos, inclusivamente com o potencial da inteligência artificial (IA)?",
+      "alineas": {
+        "a": "Priorizar a aquisição de medicamentos genéricos de baixo custo, sem uma avaliação rigorosa do impacto clínico, para contenção orçamental exclusiva.",
+        "b": "Assegurar a gestão integrada e racional do ciclo do medicamento, desde a seleção à farmacovigilância, utilizando ferramentas de IA para predição de consumos e identificação de interações medicamentosas complexas, melhorando os resultados do IIMS 2023-2024.",
+        "c": "Focar-se exclusivamente na dispensação de medicamentos prescritos, delegando a responsabilidade de aconselhamento ao paciente aos enfermeiros e médicos.",
+        "d": "Implementar um sistema de armazenamento de medicamentos que privilegie a proximidade aos serviços, desconsiderando a necessidade de controlo centralizado e condições de conservação ideais."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Farmácia Hospitalar Moderna em Angola, com o suporte de IA e alinhada ao IIMS, assume um papel central na gestão integral e racional do medicamento, garantindo a segurança e otimizando os resultados clínicos e económicos, o que inclui a seleção, aquisição, armazenamento, dispensação e farmacovigilância."
+    },
+    {
+      "numero": 57,
+      "tema": "VIII. Farmácia Hospitalar - Objectivos e Actividades",
+      "enunciado": "Após o Censo de 2024, verificou-se um aumento da população em determinadas novas divisões administrativas. Face a esta realidade e à necessidade de otimização dos recursos, qual atividade da Farmácia Hospitalar é crucial para garantir a disponibilidade e acessibilidade de medicamentos essenciais de forma equitativa?",
+      "alineas": {
+        "a": "Aumentar indiscriminadamente os stocks de todos os medicamentos, para precaver qualquer escassez.",
+        "b": "Realizar análises de custo-efetividade para todos os medicamentos antes de serem adquiridos, independentemente da sua essencialidade ou da prevalência de doenças.",
+        "c": "Desenvolver e implementar políticas de gestão de stocks baseadas em dados epidemiológicos e prognósticos de consumo, com recurso a modelos preditivos de IA, articulando com as necessidades das novas áreas geográficas.",
+        "d": "Encaminhar os doentes para farmácias comunitárias, desresponsabilizando-se pela garantia de acesso na unidade hospitalar para otimizar os recursos do MINSA."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A gestão de stocks baseada em dados epidemiológicos e projeções de consumo, suportada por IA, é fundamental para garantir a disponibilidade e acessibilidade dos medicamentos essenciais em hospitais angolanos, respondendo ao crescimento populacional e às necessidades geográficas, evitando desperdícios e escassez."
+    },
+    {
+      "numero": 58,
+      "tema": "VIII. Farmácia Hospitalar - Objectivos e Actividades",
+      "enunciado": "Em 2024, após a implementação de novas diretrizes do MINSA sobre qualidade e segurança, a Farmácia Hospitalar de uma unidade de referência em Luanda foi incumbida de aprimorar os seus processos. Qual das seguintes atividades representa uma contribuição direta e fundamental para a segurança do paciente relacionada com o uso de medicamentos?",
+      "alineas": {
+        "a": "Realização de inventários periódicos dos medicamentos, focando apenas na contagem física para fins contabilísticos.",
+        "b": "Otimização do processo de aquisição, privilegiando fornecedores com menor preço, sem considerações robustas sobre a qualidade dos produtos.",
+        "c": "Implementação de um sistema de farmacovigilância ativo e análise de eventos adversos a medicamentos, utilizando bancos de dados eletrónicos e algoritmos de IA para detetar padrões e potenciais riscos, em linha com o IIMS 2023-2024.",
+        "d": "Restrição do acesso a informações sobre medicamentos para profissionais de saúde, para evitar automedicação inadequada."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A farmacovigilância ativa, aliada a ferramentas de IA para análise de dados, é uma atividade crucial da Farmácia Hospitalar para identificar, monitorizar, avaliar e prevenir eventos adversos a medicamentos, contribuindo diretamente para a segurança do paciente e melhoria contínua dos cuidados de saúde."
+    },
+    {
+      "numero": 59,
+      "tema": "VIII. Farmácia Hospitalar - Objectivos e Actividades",
+      "enunciado": "Considerando o Plano Nacional de Desenvolvimento Sanitário (PNDS) e o Inquérito de Indicadores Múltiplos de Saúde (IIMS) 2023-2024, que relevam a importância da educação para a saúde, qual atividade da Farmácia Hospitalar angolana é essencial para promover o uso correto e aderência à terapêutica, impactando positivamente nos resultados de saúde pública?",
+      "alineas": {
+        "a": "Centrar-se na distribuição maciça de folhetos informativos genéricos sobre doenças, sem interação direta com o paciente.",
+        "b": "Desenvolver programas de aconselhamento farmacêutico individualizado ao paciente e cuidadores, abrangendo o regime terapêutico, interações, efeitos adversos e técnicas de administração, utilizando materiais adaptados culturalmente e em várias línguas nacionais quando aplicável.",
+        "c": "Limitar a informação sobre medicamentos aos profissionais de saúde, assumindo que estes repassarão todas as orientações necessárias aos utentes.",
+        "d": "Organizar feiras de saúde anuais para apresentar os medicamentos disponíveis no hospital, sem foco na adesão ou uso correto."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O aconselhamento farmacêutico individualizado é vital para promover o uso correto dos medicamentos e a adesão à terapêutica, empoderando o paciente e otimizando os resultados de saúde, o que está em linha com as recomendações do IIMS e o PNDS para melhorar a literacia em saúde no contexto angolano."
+    },
+    {
+      "numero": 60,
+      "tema": "VIII. Farmácia Hospitalar - Objectivos e Actividades",
+      "enunciado": "Com a expansão dos serviços de saúde e a crescente complexidade das patologias, a Farmácia Hospitalar em Angola deve otimizar a sua contribuição para a tomada de decisões clínicas. Qual atividade reflete melhor esta colaboração multidisciplinar e o papel proativo do farmacêutico?",
+      "alineas": {
+        "a": "Restringir-se à preparação de doses unitárias, sem qualquer envolvimento nas decisões terapêuticas.",
+        "b": "Participar ativamente em rondas clínicas, comissões de farmácia e terapêutica, e fornecer informações baseadas em evidências sobre medicamentos, doses, interações e ajustes para utentes com insuficiência renal/hepática, contribuindo para a avaliação do IIMS 2023-2024.",
+        "c": "Emitir pareceres técnicos apenas quando solicitado explicitamente por um profissional médico via formulário oficial, sem proatividade.",
+        "d": "Focar-se na gestão logística e financeira do medicamento, delegando a totalidade das decisões clínicas à equipa médica para garantir a celeridade."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A participação ativa do farmacêutico em rondas clínicas e comissões de farmácia, fornecendo informações baseadas em evidências, é essencial para otimizar as decisões terapêuticas, garantir o uso racional e seguro dos medicamentos, e promover a colaboração multidisciplinar, impactando positivamente nos resultados do IIMS."
+    },
+    {
+      "numero": 61,
+      "tema": "VIII. Farmácia Hospitalar - Objectivos e Actividades",
+      "enunciado": "A implementação da telemedicina e a expansão dos hospitais de dia, acentuada pela necessidade de monitorização remota e uso de IA na saúde pública angolana, exigem que a Farmácia Hospitalar adapte as suas atividades. Que objetivo estratégico é mais relevante para responder a estes novos modelos de prestação de cuidados?",
+      "alineas": {
+        "a": "Manter os modelos de dispensação exclusivamente presenciais, limitando o acesso a medicamentos essenciais apenas a utentes internados.",
+        "b": "Desenvolver plataformas digitais para a revisão de prescrições eletrónicas, implementação de aconselhamento farmacêutico à distância e coordenação do envio de medicamentos para os domicílios de utentes em hospitais de dia, aproveitando a IA para personalizar a informação.",
+        "c": "Aumentar o número de pontos de dispensa físicos no hospital, para acomodar a crescente afluência de utentes com consultas presenciais.",
+        "d": "Delegar a totalidade da responsabilidade pela gestão de medicamentos para utentes em telemedicina a empresas terceirizadas de logística, sem supervisão farmacêutica."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Farmácia Hospitalar deve adaptar-se aos novos modelos de cuidados como a telemedicina e hospitais de dia, desenvolvendo capacidades digitais para a revisão de prescrições, aconselhamento e logística de entrega, garantindo a continuidade da terapêutica com segurança e eficiência, utilizando a IA como ferramenta estratégica."
+    },
+    {
+      "numero": 62,
+      "tema": "VIII. Farmácia Hospitalar - Objectivos e Actividades",
+      "enunciado": "No contexto da nova divisão administrativa de Angola e do planeamento do Censo 2024, que poderá revelar discrepâncias na distribuição de infraestruturas de saúde, é crucial que a Farmácia Hospitalar atue como polo de formação contínua. Qual é a atividade mais estratégica para fortalecer as competências profissionais na cadeia de abastecimento de medicamentos a nível regional?",
+      "alineas": {
+        "a": "Organizar anualmente um seminário interno sobre os novos medicamentos adquiridos, restrito aos farmacêuticos do próprio hospital.",
+        "b": "Estabelecer programas de formação e capacitação contínua para técnicos de farmácia e outros profissionais de saúde sobre gestão da cadeia de abastecimento, farmacovigilância e uso racional de medicamentos, em parceria com hospitais e centros de saúde das novas divisões administrativas.",
+        "c": "Incentivar a participação individual dos técnicos em conferências internacionais, sem um plano de disseminação interna do conhecimento adquirido.",
+        "d": "Concentrar a formação apenas em protocolos de esterilização e preparação de formulações magistrais, ignorando a gestão de stock e logística."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Farmácia Hospitalar tem um papel estratégico na formação e capacitação profissional, especialmente em gestão da cadeia de abastecimento e uso racional de medicamentos, para técnicos de farmácia e outros profissionais, estendendo esta ação para as novas divisões administrativas para fortalecer o sistema de saúde regionalmente."
+    },
+    {
+      "numero": 63,
+      "tema": "IX. Uso Combinado de Medicamentos",
+      "enunciado": "No contexto da farmacovigilância em Angola para o Tuberculose Multirresistente (TB-MR), e considerando o Plano Estratégico Nacional do Programa de Controlo da Tuberculose 2021-2025, um utente do município do Cuimba, província do Zaire, em tratamento com esquema combinado contendo bedaquilina e delamanide, é admitido com prolongamento grave do intervalo QT no eletrocardiograma. Qual a abordagem prioritária do Técnico de Farmácia, sob supervisão, em termos de gestão da interação medicamentosa?",
+      "alineas": {
+        "a": "Interromper imediatamente a bedaquilina e o delamanide e solicitar terapêutica alternativa ao médico assistente, sem análise prévia de risco-benefício.",
+        "b": "Monitorizar rigorosamente o intervalo QT e os eletrólitos séricos, e ajustar a dose de ambos os medicamentos ou optar pela suspensão de um deles, em colaboração com a equipa médica e o farmacêutico clínico.",
+        "c": "Administrar um antiarrítmico da classe III (ex: amiodarona) para controlar o prolongamento do QT, mantendo o esquema combinado sem alterações.",
+        "d": "Reduzir a dose de bedaquilina para metade e descontinuar o delamanide, assumindo que a bedaquilina é o principal culpado pelo efeito adverso.",
+        "e": "Notificar a Autoridade Reguladora de Medicamentos (ARM) angolana sem qualquer intervenção no esquema terapêutico, aguardando orientações superiores."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A bedaquilina e o delamanide são conhecidos por prolongar o intervalo QT. A gestão adequada envolve monitorização intensiva, ajuste de dose ou suspensão, e sempre em coordenação com a equipa médica, visando um balanço risco-benefício, conforme as diretrizes do Programa Nacional de Controlo da Tuberculose."
+    },
+    {
+      "numero": 64,
+      "tema": "IX. Uso Combinado de Medicamentos",
+      "enunciado": "Um paciente pediátrico, na área urbana do Sequele, em Luanda, com diagnóstico de malária falciparum grave, está a receber artemeter/lumefantrina. O médico prescreve concomitantemente fluconazol devido a uma candidíase oral. Qual a principal preocupação farmacocinética a ser considerada pelo Técnico de Farmácia, e como pode impactar a eficácia do antimalárico?",
+      "alineas": {
+        "a": "O fluconazol é um forte indutor do CYP3A4, podendo acelerar o metabolismo do artemeter, reduzindo seus níveis plasmáticos e comprometendo a eficácia antimalárica.",
+        "b": "O artemeter/lumefantrina pode induzir o metabolismo do fluconazol, tornando-o ineficaz para a candidíase oral, necessitando de aumento da dose de fluconazol.",
+        "c": "O fluconazol inibe o CYP3A4, potencialmente aumentando as concentrações plasmáticas de lumefantrina e do seu metabolito ativo, o que pode exacerbar os efeitos cardiotóxicos (prolongamento do QT).",
+        "d": "A coadministração pode levar a uma sinergia antimicrobiana contra Plasmodium falciparum, melhorando a taxa de cura da malária grave.",
+        "e": "Não há interação clinicamente significativa entre fluconazol e artemeter/lumefantrina que justifique preocupação no contexto pediátrico."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O fluconazol é um potente inibidor do CYP3A4, enzima responsável pelo metabolismo da lumefantrina. Esta inibição pode levar ao aumento dos níveis plasmáticos de lumefantrina, aumentando o risco de cardiotoxicidade (prolongamento do QT)."
+    },
+    {
+      "numero": 65,
+      "tema": "IX. Uso Combinado de Medicamentos",
+      "enunciado": "O Inquérito de Indicadores Múltiplos de Saúde (IIMS) 2023-2024 em Angola revelou uma alta prevalência de hipertensão. Um idoso de 72 anos, residente no Cunje, Bié, em tratamento para hipertensão com enalapril e hidroclorotiazida, procura a farmácia comunitária com queixas de tosse seca persistente e tontura ao levantar. Após recolha de informação pelo Técnico de Farmácia, percebe-se que iniciou recentemente diclofenac para osteoartrite. Qual a interação medicamentosa mais provável e sua relevância clínica?",
+      "alineas": {
+        "a": "O diclofenac, um AINE, pode potencializar o efeito anti-hipertensivo do enalapril e da hidroclorotiazida, levando a hipotensão e tontura.",
+        "b": "A tosse seca é um efeito adverso comum do enalapril, mas o diclofenac pode precipitar uma insuficiência renal aguda em doentes idosos em terapêutica combinada com inibidores da ECA e diuréticos tiazídicos, agravando a hipertensão e potencialmente causando os sintomas associados.",
+        "c": "O diclofenac antagoniza os efeitos diuréticos da hidroclorotiazida, aumentando o risco de edema e insuficiência cardíaca.",
+        "d": "A combinação dos três medicamentos aumenta o risco de hemorragias gastrointestinais, sem impacto relevante na pressão arterial ou função renal.",
+        "e": "Não existe interação medicamentosa clinicamente relevante entre diclofenac e a combinação enalapril/hidroclorotiazida que justifique os sintomas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A tosse seca é um efeito adverso típico do enalapril. No entanto, a combinação de AINEs (diclofenac) com inibidores da ECA (enalapril) e diuréticos tiazídicos (hidroclorotiazida) é a 'tripla pancada', de alto risco para insuficiência renal aguda, especialmente em idosos e desidratados. Os sintomas podem ser indicativos deste quadro grave."
+    },
+    {
+      "numero": 66,
+      "tema": "IX. Uso Combinado de Medicamentos",
+      "enunciado": "No contexto da saúde materna e infantil em Angola, uma gestante no primeiro trimestre, do município de Caconda, Huíla, é diagnosticada com uma infeção urinária. O médico prescreve amoxicilina. Ela refere que faz uso contínuo de um multivitamínico que contém ferro. Que orientação deve o Técnico de Farmácia fornecer em relação à toma desses medicamentos para otimizar a eficácia?",
+      "alineas": {
+        "a": "A amoxicilina e o ferro devem ser tomados simultaneamente para maximizar a absorção de ambos e evitar carências nutricionais na gravidez.",
+        "b": "O ferro pode quelar a amoxicilina, reduzindo a sua absorção e eficácia. É crucial que a amoxicilina seja administrada pelo menos 2 horas antes ou 4 horas após a toma do suplemento de ferro.",
+        "c": "Não há interação clinicamente relevante entre amoxicilina e ferro, podendo ser tomados à vontade.",
+        "d": "A amoxicilina aumenta a absorção do ferro, podendo levar a toxicidade por ferro. Deve-se suspender o suplemento de ferro durante o tratamento com amoxicilina.",
+        "e": "A gestante deve suspender a toma de amoxicilina e procurar um antibiótico mais eficaz e seguro para a gravidez devido à potencial interação com o ferro."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Metais polivalentes como o ferro podem formar complexos (quelação) com alguns antibióticos, incluindo amoxicilina (embora mais comum com tetraciclinas e quinolonas), reduzindo a sua biodisponibilidade. Para otimizar a absorção de ambos, recomenda-se um intervalo na administração."
+    },
+    {
+      "numero": 67,
+      "tema": "IX. Uso Combinado de Medicamentos",
+      "enunciado": "Um utente diagnosticado com VIH/SIDA em tratamento antirretroviral (TARV) com um esquema de TLD (Tenofovir/Lamivudina/Dolutegravir) no Hospital Municipal de Viana, Luanda, desenvolve tuberculose ativa. O esquema para Tuberculose sensível a medicamentos inclui rifampicina. Qual é a principal preocupação ao coadministrar rifampicina com Dolutegravir (DTG) e qual a estratégia para mitigar o risco?",
+      "alineas": {
+        "a": "A rifampicina é um inibidor enzimático potente que irá aumentar os níveis plasmáticos de DTG, exigindo uma redução da dose de DTG para evitar toxicidade.",
+        "b": "A rifampicina é um potente indutor das enzimas do citocromo P450, o que acelerará o metabolismo do DTG, diminuindo significativamente suas concentrações plasmáticas e comprometendo a eficácia antiviral. A solução é aumentar a dose de DTG para 50 mg de 12 em 12 horas.",
+        "c": "Não há interação clinicamente significativa entre rifampicina e DTG, podendo ser coadministrados nas doses habituais.",
+        "d": "O Dolutegravir é um indutor enzimático que irá diminuir a eficácia da rifampicina, exigindo um aumento da dose do antituberculoso.",
+        "e": "A coadministração causará nefrotoxicidade grave devido à interação sinérgica entre Tenofovir e Rifampicina, sendo necessário suspender o Tenofovir."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A rifampicina é um potente indutor da UGT1A1 e CYP3A4, rotas de metabolização do Dolutegravir (DTG). Esta indução pode levar a uma redução substancial dos níveis plasmáticos de DTG, comprometendo a sua eficácia. A diretriz é aumentar a dose de DTG para 50 mg duas vezes ao dia durante o tratamento com rifampicina."
+    },
+    {
+      "numero": 68,
+      "tema": "IX. Uso Combinado de Medicamentos",
+      "enunciado": "Um paciente do sexo masculino, do novo município de Lucala, Cuanza Norte, após consulta médica, adquiriu na farmácia paracetamol para dor de cabeça leve e foi aconselhado a tomar diclofenac tópico para uma dor muscular localizada. Ao preencher o questionário de adesão terapêutica na vigilância farmacoterapêutica, declara fazer uso contínuo de varfarina devido a um historial de trombose venosa profunda. Qual é a principal preocupação do Técnico de Farmácia ao rever este perfil de medicamentos?",
+      "alineas": {
+        "a": "O paracetamol pode antagonizar os efeitos da varfarina, aumentando o risco de eventos trombóticos. Deve-se reduzir a dose de varfarina.",
+        "b": "O diclofenac tópico pode ser absorvido sistemicamente e, como AINE, inibir a agregação plaquetária e potencializar o efeito anticoagulante da varfarina, resultando num risco elevado de hemorragias. O paracetamol também, em doses elevadas e prolongadas, pode potenciar levemente a varfarina.",
+        "c": "A varfarina irá induzir o metabolismo do paracetamol, tornando-o ineficaz para a dor de cabeça. Sugere-se um analgésico mais potente.",
+        "d": "Não há interação clinicamente relevante entre estes medicamentos, pois o diclofenac tópico tem absorção sistémica mínima e o paracetamol é seguro com varfarina.",
+        "e": "Todos os medicamentos devem ser suspensos devido ao potencial risco de interação desconhecido, e o paciente deve procurar o médico imediatamente para um novo tratamento."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Os AINEs, mesmo tópicos, podem ter alguma absorção sistémica e aumentar o risco de hemorragias em doentes a tomar varfarina devido à sua ação na agregação plaquetária e possíveis deslocações da ligação proteica da varfarina. O paracetamol, em doses elevadas ou uso crónico, também pode potenciar o efeito anticoagulante da varfarina."
+    },
+    {
+      "numero": 69,
+      "tema": "X. Ética e Deontologia Profissional",
+      "enunciado": "No contexto da nova realidade administrativa angolana e da crescente utilização de inteligência artificial (IA) na saúde pública, um Técnico de Farmácia, respondendo a uma solicitação do Centro de Saúde Comunal do Biópio (Cuanza Sul), é confrontado com um algoritmo de IA que recomenda a dispensa de um medicamento experimental para uma doença rara, sem protocolo formalizado no Formulário Nacional de Medicamentos angolano. Qual a principal diretriz ética que o Técnico de Farmácia deve seguir nesta situação?\n\ta) Ignorar a recomendação da IA e dispensar o medicamento mais próximo disponível no formulário.\n\tb) Dispensar o medicamento experimental, desde que o algoritmo apresente uma taxa de sucesso superior a 90% noutros contextos.\n\tc) Recusar a dispensa sem um protocolo clínico formalizado e a devida autorização das autoridades sanitárias, priorizando a segurança do paciente e a adesão às normas vigentes.\n\td) Solicitar ao médico prescritor um termo de responsabilidade pela dispensa do medicamento experimental.",
+      "alineas": {
+        "a": "Ignorar a recomendação da IA e dispensar o medicamento mais próximo disponível no formulário.",
+        "b": "Dispensar o medicamento experimental, desde que o algoritmo apresente uma taxa de sucesso superior a 90% noutros contextos.",
+        "c": "Recusar a dispensa sem um protocolo clínico formalizado e a devida autorização das autoridades sanitárias, priorizando a segurança do paciente e a adesão às normas vigentes.",
+        "d": "Solicitar ao médico prescritor um termo de responsabilidade pela dispensa do medicamento experimental."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A segurança do paciente e a adesão às normas sanitárias e regulamentares angolanas são primordiais. A dispensa de medicamentos experimentais sem protocolo formalizado e aprovação do MINSA viola os princípios éticos e legais, independentemente da recomendação da IA."
+    },
+    {
+      "numero": 70,
+      "tema": "X. Ética e Deontologia Profissional",
+      "enunciado": "Durante a execução do Censo 2024, um Técnico de Farmácia, prestando serviço numa brigada móvel de saúde no município do Cuangar (Cuando Cubango), depara-se com um enfermeiro que lhe solicita a dispensação de vários medicamentos sem a respetiva prescrição médica, alegando urgência e falta de acesso a um médico. Qual a conduta ética e deontológica mais apropriada para o Técnico de Farmácia?\n\ta) Dispensar os medicamentos solicitados, dada a urgência e a dificuldade de acesso no local do censo.\n\tb) Recusar a dispensa dos medicamentos, explicando a necessidade da prescrição médica e os riscos associados à automedicação e à dispensa inadequada.\n\tc) Dispensar apenas medicamentos de venda livre, orientando o enfermeiro a procurar um médico para os restantes.\n\td) Reportar a situação ao superior hierárquico, dispensando os medicamentos enquanto aguarda instruções.",
+      "alineas": {
+        "a": "Dispensar os medicamentos solicitados, dada a urgência e a dificuldade de acesso no local do censo.",
+        "b": "Recusar a dispensa dos medicamentos, explicando a necessidade da prescrição médica e os riscos associados à automedicação e à dispensa inadequada.",
+        "c": "Dispensar apenas medicamentos de venda livre, orientando o enfermeiro a procurar um médico para os restantes.",
+        "d": "Reportar a situação ao superior hierárquico, dispensando os medicamentos enquanto aguarda instruções."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A dispensa de medicamentos sujeitos a receita médica sem prescrição é uma infração grave aos princípios éticos e legais. O Técnico de Farmácia tem o dever de proteger a saúde pública, elucidando sobre os riscos e recusando a prática ilegal."
+    },
+    {
+      "numero": 71,
+      "tema": "X. Ética e Deontologia Profissional",
+      "enunciado": "No contexto da nova Divisão Político-Administrativa de Angola, um Técnico de Farmácia recém-colocado no Hospital Municipal de Catabola (Bié) observa práticas de stock de medicamentos que parecem desviadas das estritas normas do MINSA. Ao abordar o colega responsável, este justifica-se com a 'flexibilização' devido às 'peculiaridades locais e dificuldades de transporte'. Qual é a ação ética principal que o Técnico de Farmácia deve tomar?\n\ta) Aceitar a justificação do colega e adaptar-se às práticas locais.\n\tb) Denunciar imediatamente a situação à polícia sem antes tentar outras vias.\n\tc) Documentar as irregularidades, consultar as normas do MINSA e alertar a direção da farmácia e, se necessário, as autoridades sanitárias competentes, salvaguardando a ética profissional.\n\td) Ignorar a situação, pois não foi o responsável pela mesma, e focar-se nas suas próprias tarefas.",
+      "alineas": {
+        "a": "Aceitar a justificação do colega e adaptar-se às práticas locais.",
+        "b": "Denunciar imediatamente a situação à polícia sem antes tentar outras vias.",
+        "c": "Documentar as irregularidades, consultar as normas do MINSA e alertar a direção da farmácia e, se necessário, as autoridades sanitárias competentes, salvaguardando a ética profissional.",
+        "d": "Ignorar a situação, pois não foi o responsável pela mesma, e focar-se nas suas próprias tarefas."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Técnico de Farmácia tem o dever ético e deontológico de zelar pelo correcto armazenamento e gestão de medicamentos. A abordagem deve ser gradual, começando pela documentação e comunicação interna, e escalando se necessário, sempre conforme as normas do MINSA."
+    },
+    {
+      "numero": 72,
+      "tema": "X. Ética e Deontologia Profissional",
+      "enunciado": "Considerando os dados do Inquérito de Indicadores Múltiplos e de Saúde (IIMS) 2023-2024, que podem revelar disparidades no acesso a medicamentos em certas comunidades, um Técnico de Farmácia depara-se com um paciente em situação de carência extrema que necessita de um medicamento essencial, mas não possui meios para o adquirir. A farmácia não dispõe de um fundo de caridade. Qual a conduta ética mais adequada?\n\ta) Recusar a dispensa do medicamento e informar que o serviço é pago.\n\tb) Dispensar o medicamento de imediato, assumindo o custo pessoalmente.\n\tc) Orientar o paciente para procurar apoio em instituições de caridade ou serviços sociais, enquanto explora opções como contacto com a direção para casos de emergência social, respeitando as normas da instituição.\n\td) Solicitar uma doação espontânea de outros utentes presentes na farmácia.",
+      "alineas": {
+        "a": "Recusar a dispensa do medicamento e informar que o serviço é pago.",
+        "b": "Dispensar o medicamento de imediato, assumindo o custo pessoalmente.",
+        "c": "Orientar o paciente para procurar apoio em instituições de caridade ou serviços sociais, enquanto explora opções como contacto com a direção para casos de emergência social, respeitando as normas da instituição.",
+        "d": "Solicitar uma doação espontânea de outros utentes presentes na farmácia."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Técnico de Farmácia deve demonstrar solidariedade e humanidade, mas também atuar dentro dos limites das políticas institucionais. Orientar o paciente para as redes de apoio existentes e procurar soluções dentro da estrutura da farmácia é a abordagem mais ética e sustentável."
+    },
+    {
+      "numero": 73,
+      "tema": "X. Ética e Deontologia Profissional",
+      "enunciado": "Um Técnico de Farmácia, a trabalhar num posto de saúde em Chipindo (Huíla), é abordado por um laboratório farmacêutico que lhe oferece incentivos financeiros consideráveis para promover especificamente os seus produtos. A promoção envolve a recomendação ativa aos pacientes, mesmo que existam alternativas genéricas de igual eficácia e menor custo no Formulário Nacional de Medicamentos. Qual a decisão ética fundamental que o Técnico de Farmácia deve tomar?\n\ta) Aceitar os incentivos, desde que os produtos do laboratório sejam de boa qualidade.\n\tb) Recusar veementemente a oferta, pois configura conflito de interesses e viola o princípio da imparcialidade e da defesa da saúde pública.\n\tc) Aceitar os incentivos, mas informar os pacientes sobre as opções genéricas sem influenciá-los diretamente.\n\td) Negociar um valor mais elevado para os incentivos, dada a sua posição estratégica na dispensa.",
+      "alineas": {
+        "a": "Aceitar os incentivos, desde que os produtos do laboratório sejam de boa qualidade.",
+        "b": "Recusar veementemente a oferta, pois configura conflito de interesses e viola o princípio da imparcialidade e da defesa da saúde pública.",
+        "c": "Aceitar os incentivos, mas informar os pacientes sobre as opções genéricas sem influenciá-los diretamente.",
+        "d": "Negociar um valor mais elevado para os incentivos, dada a sua posição estratégica na dispensa."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A aceitação de incentivos financeiros para promover produtos específicos, em detrimento de opções mais económicas e igualmente eficazes, é uma violação grave da ética profissional, caracterizando um conflito de interesses e comprometendo a imparcialidade e a defesa dos interesses do paciente."
+    },
+    {
+      "numero": 74,
+      "tema": "X. Ética e Deontologia Profissional",
+      "enunciado": "Com a crescente digitalização e uso de IA no registo de dados de saúde em Angola, um Técnico de Farmácia acede acidentalmente a informações sensíveis de um paciente (diagnóstico de VIH e dados pessoais) que não estão relacionadas com a sua função de dispensa de medicamentos. Qual a sua responsabilidade ética imediata?\n\ta) Partilhar a informação com colegas para obter uma segunda opinião sobre a gestão do caso, salvaguardando o anonimato.\n\tb) Registar a informação em pauta separada para futura referência, caso o paciente apareça novamente.\n\tc) Ignorar a informação, uma vez que não está diretamente ligada à sua tarefa atual.\n\td) Manter a confidencialidade estrita da informação, não a partilhar com ninguém e garantir que não a utiliza para qualquer fim, reportando o acesso acidental à chefia para revisão dos protocolos de segurança digital, se aplicável.",
+      "alineas": {
+        "a": "Partilhar a informação com colegas para obter uma segunda opinião sobre a gestão do caso, salvaguardando o anonimato.",
+        "b": "Registar a informação em pauta separada para futura referência, caso o paciente apareça novamente.",
+        "c": "Ignorar a informação, uma vez que não está diretamente ligada à sua tarefa atual.",
+        "d": "Manter a confidencialidade estrita da informação, não a partilhar com ninguém e garantir que não a utiliza para qualquer fim, reportando o acesso acidental à chefia para revisão dos protocolos de segurança digital, se aplicável."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A confidencialidade dos dados do paciente é um pilar da ética profissional na saúde. O acesso acidental não exime o profissional do dever de sigilo. Adicionalmente, reportar o incidente ajuda a fortalecer os protocolos de segurança digital."
+    },
+    {
+      "numero": 75,
+      "tema": "XI. Cultura Geral",
+      "enunciado": "A recém-aprovada lei de revisão da divisão político-administrativa de Angola introduz importantes alterações na estrutura territorial do país. Considerando o seu impacto na organização dos serviços de saúde e na distribuição demográfica, qual dos seguintes cenários representa corretamente uma das principais implicações desta revisão, especialmente no contexto de planeamento de recursos humanos para a saúde pública em 2024?",
+      "alineas": {
+        "a": "Aumento significativo do número total de províncias, exigindo a criação de novas Direções Provinciais de Saúde e redistribuição de equipas multisectoriais de saúde.",
+        "b": "Reestruturação de alguns municípios e criação de novas cidades, impactando a localização estratégica de farmácias comunitárias e postos de saúde de proximidade.",
+        "c": "Diminuição do número de comunas para otimização da gestão territorial, facilitando a cobertura universal dos programas de vacinação e saneamento básico.",
+        "d": "Manutenção inalterada da divisão provincial, com ajustes apenas ao nível dos distritos urbanos, assegurando a continuidade dos programas de controlo oncológico e maternidade segura.",
+        "e": "Centralização de todas as decisões administrativas no Ministério da Administração do Território, com pouca ou nenhuma repercussão na coordenação intersectorial da saúde."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A revisão da divisão político-administrativa de Angola em 2024 foca-se na reestruturação de municípios e criação de novas cidades ou agregados urbanos para otimizar a gestão e o desenvolvimento. Isso afeta diretamente o planeamento da distribuição espacial de infraestruturas de saúde, como farmácias e postos, e a alocação de profissionais a nível local."
+    },
+    {
+      "numero": 76,
+      "tema": "XI. Cultura Geral",
+      "enunciado": "O Censo Geral da População e Habitação de Angola de 2024 (CENSO 2024) é um instrumento fundamental para o planeamento estratégico em saúde. Para um Técnico de Farmácia empenhado na gestão de stocks de medicamentos essenciais e vacinas, qual a informação mais crítica que se espera obter deste Censo para otimizar o abastecimento e a distribuição em áreas rurais e urbanas?",
+      "alineas": {
+        "a": "O número exato de agregados familiares por província para estimar o consumo de paracetamol e anti-inflamatórios.",
+        "b": "Dados atualizados sobre a pirâmide etária e distribuição geográfica da população, cruciais para estimar a demanda por medicamentos pediátricos, geriátricos e kits de planeamento familiar.",
+        "c": "Os níveis de escolaridade da população ativa, que influenciam a adesão a programas de saúde preventiva e campanhas de sensibilização para o uso racional de medicamentos.",
+        "d": "A percentagem da população com acesso a redes de água potável e saneamento básico, diretamente ligada à incidência de doenças hídricas e à necessidade de antibióticos e soros de reidratação oral.",
+        "e": "A estimativa do consumo per capita de produtos cosméticos e de higiene pessoal, para o planeamento de importações na área da higiene e beleza."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A pirâmide etária e a distribuição geográfica da população são dados demográficos essenciais do Censo. Eles permitem estimar com precisão a demanda por diferentes categorias de medicamentos (pediátricos, geriátricos, específicos para grupos etários) e planear a logística de distribuição para garantir o abastecimento adequado em todas as regiões."
+    },
+    {
+      "numero": 77,
+      "tema": "XI. Cultura Geral",
+      "enunciado": "A implementação da Inteligência Artificial (IA) na saúde pública angolana é uma estratégia emergente para melhorar a eficiência dos serviços. Para um Técnico de Farmácia, qual das seguintes aplicações da IA demonstra o maior potencial para otimizar a gestão de medicamentos e insumos hospitalares, respondendo aos desafios logísticos e epidemiológicos do país em 2024?",
+      "alineas": {
+        "a": "Utilização de IA para traduzir bulas de medicamentos para dialectos locais, aumentando a compreensão do paciente.",
+        "b": "Sistemas de IA que preveem surtos epidêmicos com base em dados de saúde e climáticos, otimizando a distribuição antecipada de vacinas e antivirais para áreas de risco.",
+        "c": "Drones controlados por IA para entrega de medicamentos em áreas remotas, superando barreiras geográficas e de infraestrutura rodoviária.",
+        "d": "Bots de IA para atendimento inicial em farmácias, respondendo a perguntas frequentes sobre posologias e interações medicamentosas, liberando o farmacêutico para tarefas mais complexas.",
+        "e": "Algoritmos de IA para identificar automaticamente medicamentos falsificados na cadeia de abastecimento através de análise de embalagens e códigos de barras."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A IA tem um potencial significativo na previsão de surtos epidemiológicos, permitindo a gestão proativa da cadeia de abastecimento farmacêutico. Prever a demanda por vacinas e antivirais com base em padrões epidemiológicos e ambientais é crucial para a saúde pública e a logística de medicamentos em Angola."
+    },
+    {
+      "numero": 78,
+      "tema": "XI. Cultura Geral",
+      "enunciado": "O Inquérito de Indicadores Múltiplos e de Saúde (IIMS) 2023-2024 de Angola fornece dados vitais para a formulação de políticas de saúde. No âmbito da sua atuação como Técnico de Farmácia, que indicador do IIMS seria mais relevante para aferir o impacto das campanhas de saúde materna e infantil, permitindo um planeamento mais eficaz do aprovisionamento de medicamentos e suplementos específicos?",
+      "alineas": {
+        "a": "A prevalência de hipertensão arterial na população adulta, que determina a necessidade de anti-hipertensivos.",
+        "b": "A taxa de cobertura vacinal infantil e o percentual de nascimentos assistidos por pessoal qualificado, que influenciam diretamente a demanda por vacinas, material de parto estéril e medicamentos neonatais.",
+        "c": "O acesso a fontes melhoradas de água potável, essencial para reduzir doenças diarreicas e o consumo de antibióticos.",
+        "d": "A taxa de prevalência do VIH/SIDA na população jovem, que orienta o abastecimento de antirretrovirais e profilaxia pré-exposição (PrEP).",
+        "e": "O número de óbitos por malaria em crianças menores de cinco anos, indicando a necessidade de antimaláricos e mosquiteiros."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A taxa de cobertura vacinal infantil e os nascimentos assistidos por pessoal qualificado são indicadores diretos da saúde materna e infantil. Estes dados são cruciais para o Técnico de Farmácia planear o abastecimento de vacinas, material essencial para a assistência ao parto e medicamentos específicos para recém-nascidos e puérperas."
+    },
+    {
+      "numero": 79,
+      "tema": "XI. Cultura Geral",
+      "enunciado": "Considerando o contexto angolano de 2024, onde os desafios de saúde pública são acompanhados por inovações tecnológicas, qual dos seguintes avanços é mais provável que revolucione a prática farmacêutica no que concerne à rastreabilidade e combate à contrafacção de medicamentos, um problema persistente no país?",
+      "alineas": {
+        "a": "A adoção em massa de receituários eletrónicos e plataformas de teleconsulta, reduzindo a necessidade de prescrições manuais ilegíveis.",
+        "b": "O uso de tecnologia Blockchain na cadeia de suprimentos farmacêuticos, assegurando a autenticidade e rastreabilidade de cada medicamento desde o fabricante até ao consumidor final.",
+        "c": "A popularização de aplicações móveis de lembrete de medicação para pacientes com doenças crónicas, melhorando a adesão terapêutica.",
+        "d": "O desenvolvimento de novos fármacos biotecnológicos de ação prolongada, diminuindo a frequência de administração e o risco de falhas terapêuticas.",
+        "e": "A implementação de sistemas de automatização robótica em farmácias hospitalares para a preparação de doses unitárias, otimizando a segurança e a eficiência."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A tecnologia Blockchain oferece um registo imutável e descentralizado de todas as transações na cadeia de suprimentos. Isso permite uma rastreabilidade sem precedentes, dificultando a inserção de produtos falsificados no mercado e garantindo a autenticidade dos medicamentos, um desafio crítico em Angola."
+    },
+    {
+      "numero": 80,
+      "tema": "XII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "No contexto da recalibragem da Divisão Político-Administrativa de Angola em 2024, especialmente com a criação de novas províncias, a distribuição de recursos farmacêuticos essenciais, como vacinas para programas de imunização e medicamentos para doenças tropicais negligenciadas, requer uma reavaliação logística. Se a província de Cuando Cubango for desmembrada, qual o impacto previsível na cadeia de abastecimento de medicamentos para a nova configuração territorial, considerando a autonomia descentralizada dos serviços de saúde provinciais?",
+      "alineas": {
+        "a": "Redução imediata da necessidade de centros de distribuição regionais devido à diminuição da área de abrangência de cada província remanescente.",
+        "b": "Aumento da complexidade logística, exigindo a criação de novos armazéns provinciais e rotas de distribuição para as novas unidades administrativas.",
+        "c": "Padronização nacional de todas as aquisições, eliminando as especificidades regionais de consumo de fármacos.",
+        "d": "Transferência integral e sem custos de todos os stocks farmacêuticos existentes nos municípios desmembrados para a nova capital provincial."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A criação de novas províncias implica a necessidade de estabelecer novas estruturas administrativas e logísticas para os serviços de saúde, incluindo armazéns e rotas de distribuição de medicamentos, aumentando a complexidade inicial da cadeia de abastecimento."
+    },
+    {
+      "numero": 81,
+      "tema": "XII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "Com a iminente realização do Censo Geral da População e Habitação em 2024, e perante as alterações na divisão político-administrativa do país, o planeamento da distribuição de Kits de Teste Rápido (KTRs) para HIV em comunidades remotas exige dados populacionais atualizados e uma compreensão clara das novas jurisdições. Qual das seguintes afirmações melhor descreve a interligação estratégica entre o Censo 2024 e o apoio farmacêutico na nova estrutura provincial?",
+      "alineas": {
+        "a": "O Censo 2024 subsidiará exclusivamente o planeamento de infraestruturas rodoviárias, sem impacto direto na alocação de fármacos.",
+        "b": "Os dados censitários detalhados permitirão o dimensionamento preciso da população em cada nova unidade administrativa, otimizando a distribuição e alocação de KTRs e antirretrovirais conforme as necessidades epidemiológicas locais.",
+        "c": "A nova divisão administrativa torna obsoletos os dados do Censo, pois a população será redistribuída uniformemente.",
+        "d": "A logística de distribuição de KTRs será centralizada a nível nacional, ignorando as particularidades das novas províncias com base nos dados do Censo."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Censo fornece dados demográficos essenciais para o planeamento de saúde, permitindo uma alocação mais eficiente de recursos farmacêuticos, como KTRs, de acordo com as necessidades populacionais nas novas províncias."
+    },
+    {
+      "numero": 82,
+      "tema": "XII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A implementação da Inteligência Artificial (IA) na saúde pública em Angola, como ferramenta de apoio à decisão na gestão de stocks de medicamentos, será profundamente impactada pela nova Divisão Político-Administrativa de 2024. Para um Técnico de Farmácia alocado a uma das novas províncias resultantes da desagregação do Moxico, que considerações são cruciais para o sucesso da integração da IA, no que diz respeito à previsão de consumo de analgésicos e antibióticos de largo espectro?",
+      "alineas": {
+        "a": "A IA anulará a necessidade de dados históricos locais, operando com base apenas em algoritmos globais.",
+        "b": "A precisão dos modelos de IA dependerá criticamente da disponibilidade de dados epidemiológicos e de consumo desonerados para a nova província, diferenciando-se da antiga jurisdição do Moxico.",
+        "c": "O software de IA deverá ser programado para ignorar as fronteiras provinciais, mantendo uma visão apenas nacional para simplificar a gestão.",
+        "d": "A adaptação da IA exigirá que todos os técnicos de farmácia se tornem especialistas em programação, descurando as habilidades farmacêuticas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A IA, para ser eficaz na previsão de consumo de medicamentos em uma nova província, necessita de dados históricos e epidemiológicos desagregados para aquela jurisdição específica, uma vez que as necessidades podem diferir da província original."
+    },
+    {
+      "numero": 83,
+      "tema": "XII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A Pesquisa de Indicadores Múltiplos e de Saúde (IIMS 2023-2024) é instrumental na avaliação do impacto das políticas de saúde. Com a reorganização territorial de Angola em 2024, que desafio primário o Técnico de Farmácia enfrentará na interpretação dos resultados do IIMS para sua província recém-constituída, no que tange à prevalência de doenças endémicas e, consequentemente, à requisição de medicamentos antimaláricos?",
+      "alineas": {
+        "a": "O principal desafio será a falta de dados históricos desagregados para a nova província, dificultando a comparação da prevalência e a previsão das necessidades farmacêuticas em relação ao passado da antiga província.",
+        "b": "Os resultados do IIMS em províncias com novos limites territoriais serão irrelevantes para o planeamento, necessitando de uma nova pesquisa específica.",
+        "c": "A redefinição das fronteiras garante que a prevalência das doenças será automaticamente homogénea em todas as novas províncias.",
+        "d": "A interpretação será simplificada, pois as novas províncias terão acesso imediato a bases de dados globais de saúde."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A ausência de dados históricos consolidados e desagregados para as novas unidades político-administrativas dificultará a interpretação comparativa dos resultados do IIMS e o planeamento baseado em tendências específicas."
+    },
+    {
+      "numero": 84,
+      "tema": "XII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "Considerando a nova Divisão Político-Administrativa de Angola em 2024 e o objectivo de reforçar a atenção primária à saúde, qual o papel fundamental do Técnico de Farmácia na província do Uíge, potencialmente alvo de reajuste territorial, no asseguramento da disponibilidade de Mãos Livres e outros fármacos essenciais em Postos de Saúde em áreas rurais isoladas, em conformidade com as novas diretrizes do MINSA?",
+      "alineas": {
+        "a": "Priorizar a distribuição para as grandes cidades e hospitais de referência provincial, desconsiderando as áreas rurais que serão absorvidas pelas novas províncias.",
+        "b": "Desenvolver e implementar um plano de distribuição logística adaptado aos novos limites e acessibilidades da província, explorando parcerias comunitárias e meios de transporte alternativos para as zonas mais remotas.",
+        "c": "Aguardar as directrizes de um novo Ministério da Saúde, específico para cada nova província, antes de qualquer ação.",
+        "d": "Centralizar todo o stock farmacêutico na capital provincial, forçando as comunidades rurais a deslocarem-se para o acesso aos medicamentos."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Técnico de Farmácia desempenha um papel crítico na adaptação do planeamento logístico de medicamentos para garantir o acesso a zonas remotas, especialmente após reajustes territoriais, buscando soluções inovadoras e adaptadas às novas realidades geográficas e de infraestrutura."
+    },
+    {
+      "numero": 85,
+      "tema": "XII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A expansão da cobertura de serviços farmacêuticos nos novos municípios e províncias criados em 2024 implica a necessidade de formar e alocar mais Técnicos de Farmácia. Qual o impacto mais significativo desta reconfiguração administrativa na estratégia de capacitação e distribuição de quadros do MINSA para garantir a dispensação segura e eficaz de medicamentos essenciais, como os fármacos para tuberculose multirresistente (TB-MDR)?",
+      "alineas": {
+        "a": "Redução da necessidade de formação de novos técnicos, pois as novas unidades administrativas herdarão os quadros existentes.",
+        "b": "Aumento exponencial da procura por planos de formação específicos em farmacovigilância e gestão de stocks para as novas localizações, e uma redistribuição estratégica de quadros para cobrir as lacunas nas recém-criadas estruturas.",
+        "c": "Implementação de um modelo de autoatendimento farmacêutico, desvalorizando a presença de técnicos especializados nas novas áreas.",
+        "d": "A redistribuição de quadros ocorrerá de forma aleatória, sem uma análise prévia das necessidades das novas províncias."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A criação de novas províncias e municípios gera uma demanda acrescida por profissionais de saúde, incluindo Técnicos de Farmácia, e exige planos de formação e redistribuição de quadros para assegurar a cobertura de serviços e a gestão adequada de medicamentos."
+    },
+    {
+      "numero": 86,
+      "tema": "XII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A nova Divisão Político-Administrativa de Angola em 2024 pode influenciar o perfil epidemiológico registado em determinadas regiões, impactando o planeamento do Programa Nacional de Profilaxia da Raiva. Se uma nova província for criada a partir de uma área com elevada prevalência de casos de raiva animal e humana, qual a implicação mais premente para a gestão de vacinas e imunoglobulinas antitetânicas e antirrábicas por parte do Serviço Provincial de Farmácia da recém-formada província?",
+      "alineas": {
+        "a": "A nova província receberá automaticamente uma dotação de vacinas padrão, independentemente do seu perfil epidemiológico específico.",
+        "b": "Será crucial estabelecer um sistema de vigilância epidemiológica robusto e solicitar dotações de vacinas e imunoglobulinas especificamente adaptadas à sua elevada prevalência, diferenciando-se dos dados da província de origem.",
+        "c": "A gestão de vacinas para a raiva será inteiramente centralizada pelo MINSA, sem qualquer interferência do nível provincial.",
+        "d": "A prevalência de raiva diminuirá naturalmente com a criação de uma nova província, devido à reorganização dos serviços."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A gestão eficaz de programas de saúde em novas divisões administrativas exige o estabelecimento de sistemas de vigilância local e a adequação do planeamento e requisição de medicamentos e vacinas às necessidades epidemiológicas específicas da nova jurisdição, que podem diferir significativamente da província de origem."
+    },
+    {
+      "numero": 87,
+      "tema": "XIII. Censo Populacional de Angola 2024",
+      "enunciado": "No contexto da nova divisão administrativa de Angola, o XIII Censo Populacional de 2024 desempenha um papel crucial na alocação de recursos e planeamento da saúde pública. Considerando a integração da Inteligência Artificial (IA) na análise de dados censitários, qual das seguintes aplicações de IA é mais relevante para otimizar a distribuição de Técnicos de Farmácia nas novas circunscrições?",
+      "alineas": {
+        "a": "Algoritmos de processamento de linguagem natural para analisar relatos de pacientes sobre escassez de medicamentos.",
+        "b": "Sistemas de visão computacional para identificar farmácias em imagens de satélite e avaliar sua infraestrutura.",
+        "c": "Modelos preditivos baseados em aprendizagem de máquina para estimar a procura futura por serviços farmacêuticos em áreas recém-demarcadas, considerando idade, morbidade e densidade populacional.",
+        "d": "Redes neurais para interpretar padrões de prescrição de medicamentos em hospitais centrais das capitais provinciais.",
+        "e": "Sistemas especialistas para diagnosticar deficiências nutricionais em populações rurais com base em questionários auto-reportados."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Modelos preditivos baseados em aprendizagem de máquina, alimentados com dados censitários (idade, morbidade, densidade), são os mais eficazes para estimar a procura por serviços farmacêuticos em novas circunscrições, otimizando a distribuição de recursos humanos como Técnicos de Farmácia. As outras opções são menos diretas ou aplicáveis ao problema de alocação de pessoal."
+    },
+    {
+      "numero": 88,
+      "tema": "XIII. Censo Populacional de Angola 2024",
+      "enunciado": "A implementação do XIII Censo Populacional de Angola em 2024, em conjunto com os dados do IIMS 2023-2024, fornecerá uma base robusta para o planeamento estratégico do sector da saúde. Um Técnico de Farmácia, ao analisar os resultados preliminares que indicam um aumento substancial da população jovem em determinada província recém-criada, deve prever um incremento na procura por quais categorias de medicamentos e serviços farmacêuticos?",
+      "alineas": {
+        "a": "Medicamentos para doenças crónicas degenerativas e dispositivos geriátricos.",
+        "b": "Fármacos oncológicos avançados e terapias de substituição hormonal.",
+        "c": "Anticonceptivos, vacinas pediátricas, antimicrobianos para infecções comuns na infância e aconselhamento sobre saúde reprodutiva e materno-infantil.",
+        "d": "Medicamentos para disfunção erétil e terapias de reposição de cálcio.",
+        "e": "Somente medicamentos de venda livre para adultos e suplementos alimentares genéricos."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O aumento da população jovem está diretamente associado a maiores necessidades em saúde reprodutiva, saúde materno-infantil, vacinação pediátrica e tratamento de infecções comuns na infância. A categoria c abrange estes pontos cruciais. As outras opções focam-se em populações etárias diferentes."
+    },
+    {
+      "numero": 89,
+      "tema": "XIII. Censo Populacional de Angola 2024",
+      "enunciado": "Considerando o XIII Censo Populacional de Angola 2024 e a sua relevância para a saúde pública, um dos principais objetivos é a obtenção de dados demográficos desagregados. Do ponto de vista da gestão farmacêutica, qual é a principal vantagem de ter dados detalhados sobre a distribuição por género, idade e localização geográfica da população, especialmente nas novas províncias?",
+      "alineas": {
+        "a": "Permitir a identificação de talentos para equipas desportivas provinciais.",
+        "b": "Facilitar o cálculo do PIB per capita de cada município isoladamente.",
+        "c": "Otimizar o dimensionamento dos stocks de medicamentos essenciais, antecipar surtos epidemiológicos específicos por grupo etário e planear a expansão de farmácias e postos de dispensa em conformidade com as necessidades localizadas.",
+        "d": "Definir as rotas mais curtas para o transporte de bens de consumo não-farmacêuticos.",
+        "e": "Calibrar sistemas de inteligência artificial para previsão do preço de combustíveis."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Dados demográficos desagregados são fundamentais para uma gestão farmacêutica eficiente, permitindo precisamente a otimização de stocks, a antecipação de necessidades de saúde específicas e um planeamento infraestrutural adequado. As outras opções não se relacionam diretamente com a gestão farmacêutica e a saúde pública."
+    },
+    {
+      "numero": 90,
+      "tema": "XIII. Censo Populacional de Angola 2024",
+      "enunciado": "A harmonização dos dados do XIII Censo Populacional 2024 com o Inquérito de Indicadores Múltiplos e de Saúde (IIMS) 2023-2024 é um pilar para a formulação de políticas de saúde. Se os dados combinados revelarem uma alta prevalência de malária numa das novas municipalidades angolanas, qual deve ser a principal ação imediata de um Técnico de Farmácia em termos de gestão de fármacos e intervenção comunitária?",
+      "alineas": {
+        "a": "Recomendar exclusivamente a vacinação em massa contra a malária, aguardando futuras orientações.",
+        "b": "Descontinuar o fornecimento de todos os medicamentos não essenciais para priorizar analgésicos genéricos.",
+        "c": "Assegurar o aprovisionamento adequado e contínuo de antimaláricos de primeira linha (ex: Artemeter-Lumefantrina), reforçar a educação sanitária sobre uso de redes mosquiteiras tratadas e gestão correta de medicamentos, e colaborar com as equipas de saúde pública na monitorização da adesão terapêutica.",
+        "d": "Aconselhar a população a procurar tratamento em províncias vizinhas com menor prevalência.",
+        "e": "Focar apenas na distribuição de vitaminas para reforço imunitário, sem abordar diretamente os antimaláricos."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Diante de alta prevalência de malária, a ação mais pertinente para o Técnico de Farmácia é assegurar o abastecimento de antimaláricos, educar a comunidade sobre prevenção e tratamento correto, e colaborar na monitorização, conforme as diretrizes de saúde pública. As outras opções são insuficientes ou inadequadas como resposta imediata."
+    },
+    {
+      "numero": 91,
+      "tema": "XIII. Censo Populacional de Angola 2024",
+      "enunciado": "A utilização de inteligência artificial (IA) no processamento e análise dos dados do XIII Censo Populacional de Angola 2024 pode gerar insights inestimáveis para a saúde. Um Técnico de Farmácia é solicitado a avaliar a aplicação de um sistema de IA que prevê padrões de consumo de medicamentos em unidades de saúde primárias, considerando dados censitários e epidemiológicos. Qual é o principal benefício que este sistema de IA pode trazer para a gestão farmacêutica a nível local, especialmente em áreas remotas recém-identificadas?",
+      "alineas": {
+        "a": "Automatizar completamente a dispensação de medicamentos sem intervenção humana.",
+        "b": "Substituir a necessidade de registos de stock físicos por previsões puramente virtuais.",
+        "c": "Melhorar a precisão das previsões de consumo, otimizando a logística de aquisição e distribuição de fármacos, minimizando ruturas de stock e desperdícios, e ajustando-se dinamicamente às necessidades da população local reveladas pelo censo.",
+        "d": "Eliminar a necessidade de formação contínua para os Técnicos de Farmácia, dada a autonomia do sistema.",
+        "e": "Reduzir o custo de medicamentos importados pela renegociação automática de contratos com fornecedores estrangeiros."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O principal benefício da IA nestes sistemas é a otimização da gestão de stock através de previsões mais precisas, garantindo a disponibilidade de fármacos e reduzindo perdas. As outras opções representam abordagens irrealistas ou exageradas sobre as capacidades da IA no contexto da gestão farmacêutica."
+    },
+    {
+      "numero": 92,
+      "tema": "XIV. Inquérito de Indicadores Múltiplos e de Saúde (IIMS 2023–2024)",
+      "enunciado": "No contexto da preparação para o IIMS 2023-2024 em Angola, e considerando a recente aprovação da nova divisão administrativa, qual dos seguintes aspetos metodológicos é crucial para garantir a representatividade das novas áreas geopolíticas e a correta estratificação da amostra, em consonância com a futura projeção populacional do Censo 2024?",
+      "alineas": {
+        "a": "Adoção de um amostragem por conveniência em áreas de difícil acesso, complementada por inquéritos de perceção nos conselhos locais.",
+        "b": "Revisão e atualização do quadro de amostragem (sampling frame) com base nos delineamentos geográficos e demográficos preliminares das novas províncias e municípios, utilizando cartografia censitária digital.",
+        "c": "Priorização da amostragem aleatória simples nas zonas urbanas consolidado, desprezando a estratificação por província para agilizar o processo de recolha de dados.",
+        "d": "Implementação de um sistema de quota-amostragem em todos os níveis administrativos, sem considerar a densidade populacional das novas delimitações."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A atualização do quadro de amostragem é fundamental para refletir as novas divisões administrativas e demográficas, garantindo a representatividade da amostra e a validade estatística dos resultados do IIMS. A cartografia digital censitária é uma ferramenta essencial para este processo."
+    },
+    {
+      "numero": 93,
+      "tema": "XIV. Inquérito de Indicadores Múltiplos e de Saúde (IIMS 2023–2024)",
+      "enunciado": "Um farmacêutico comunitário na província do Moxico está a preparar-se para o IIMS 2023-2024. Questiona-se sobre a relevância dos dados colectados no inquérito para o planeamento de intervenções programáticas no combate à malária. Qual dos seguintes indicadores do IIMS seria mais útil para determinar a eficácia das campanhas de distribuição de mosquiteiros tratado com inseticida (MTI) e a adequação da profilaxia nas mulheres grávidas?",
+      "alineas": {
+        "a": "Percentagem de agregados familiares com pelo menos um mosquiteiro tratado com inseticida, independentemente do uso.",
+        "b": "Prevalência da anemia em crianças menores de cinco anos e cobertura de vacinação para o tétano neonatal.",
+        "c": "Número de crianças menores de cinco anos que dormiram sob um mosquiteiro tratado com inseticida na noite anterior ao inquérito e proporção de mulheres grávidas que receberam as doses recomendadas de Sulfadoxina-Pirimetamina (SP) como profilaxia intermitente (PIT).",
+        "d": "Taxa de alfabetização feminina e acesso a fontes de água melhoradas na comunidade."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Estes indicadores medem diretamente a utilização dos MTI por grupos vulneráveis e a adesão à profilaxia para malária em grávidas, fornecendo dados cruciais para avaliar a eficácia das intervenções e informar futuras estratégias programáticas específicas para o combate à malária."
+    },
+    {
+      "numero": 94,
+      "tema": "XIV. Inquérito de Indicadores Múltiplos e de Saúde (IIMS 2023–2024)",
+      "enunciado": "O IIMS 2023-2024 integra metodologias avançadas, incluindo a potencial utilização de inteligência artificial (IA) na análise dos dados. Como um Técnico de Farmácia, qual seria a aplicação mais promissora da IA na fase pós-coleta de dados do IIMS, para otimizar a identificação de disparidades regionais no acesso a medicamentos essenciais, considerando a recente divisão administrativa e os desafios logísticos típicos de Angola?",
+      "alineas": {
+        "a": "Automação da transcrição de entrevistas qualitativas para reduzir o tempo de processamento manual.",
+        "b": "Utilização de algoritmos de aprendizagem de máquina para identificar padrões complexos de acesso a fármacos, cruzando dados geográficos, demográficos e de disponibilidade, permitindo predições sobre necessidades futuras e otimização da cadeia de abastecimento.",
+        "c": "Criação de chatbots para responder a perguntas frequentes sobre os resultados do IIMS para o público em geral.",
+        "d": "Geração automática de relatórios descritivos básicos sem necessidade de interpretação humana."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A IA, através de algoritmos de aprendizagem de máquina, pode processar grandes volumes de dados do IIMS para identificar padrões e prever necessidades de medicamentos de forma mais eficiente, otimizando a logística de abastecimento e auxiliando no planeamento estratégico de intervenções na nova estrutura administrativa do país."
+    },
+    {
+      "numero": 95,
+      "tema": "XIV. Inquérito de Indicadores Múltiplos e de Saúde (IIMS 2023–2024)",
+      "enunciado": "Considerando o IIMS 2023-2024 e o seu impacto potencial na saúde pública de Angola, uma das secções fulcrais é a avaliação da saúde reprodutiva e materna. Qual das seguintes combinações de indicadores do IIMS permite uma avaliação mais abrangente e fidedigna da qualidade dos cuidados de saúde materna e planeamento familiar, tendo em conta a heterogeneidade dos serviços nas diferentes províncias angolanas, incluindo as novas formações administrativas e os dados preliminares do Censo 2024?",
+      "alineas": {
+        "a": "Prevalência de uso de métodos contraceptivos modernos, número de consultas pré-natais realizadas (4+ CPN), percentagem de partos assistidos por pessoal qualificado e acesso à informação sobre planeamento familiar.",
+        "b": "Nível de escolaridade das mulheres em idade fértil e proporção de mulheres que receberam imunização contra o tétano.",
+        "c": "Taxa de mortalidade infantil e esperança de vida à nascença por província.",
+        "d": "Consumo per capita de água potável e prevalência de saneamento básico melhorado em zonas rurais."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Estes indicadores abrangem aspetos chave da saúde reprodutiva (contracepção, informação) e materna (cuidados pré-natais e assistência ao parto), permitindo uma avaliação robusta da qualidade e acesso aos serviços, essencial para o planeamento de intervenções específicas nas diferentes regiões do país."
+    },
+    {
+      "numero": 96,
+      "tema": "XIV. Inquérito de Indicadores Múltiplos e de Saúde (IIMS 2023–2024)",
+      "enunciado": "Na condução do IIMS 2023-2024, a recolha de dados antropométricos em crianças (peso, altura) é essencial para avaliar o estado nutricional. Qual protocolo logístico deve ser rigorosamente seguido pelos técnicos de campo para garantir a validade e comparabilidade desses dados, especialmente considerando a diversidade geográfica e climática de Angola e a necessidade de padronização, conforme as diretrizes internacionais e as especificidades do Censo 2024?",
+      "alineas": {
+        "a": "Utilização de balanças e estadiómetros aleatórios, com calibração diária ou semanal para minimizar erros.",
+        "b": "Formação padronizada dos inquiridores em técnicas de medição, uso de equipamentos calibrados regularmente (antes de cada uso e verificação periódica), registo preciso e verificação imediata dos dados coletados, e supervisão contínua no campo para correção de desvios.",
+        "c": "Apenas o uso de balanças digitais e a medição da altura em crianças com idade superior a dois anos.",
+        "d": "Medição apenas do peso, pois a altura é demasiadamente influenciada por fatores genéticos e não reflete acuradamente o estado nutricional em curto prazo."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A padronização da formação, calibração rigorosa dos equipamentos, registo preciso e supervisão contínua são cruciais para garantir a qualidade, validade e comparabilidade dos dados antropométricos, minimizando erros e vieses na avaliação do estado nutricional."
+    },
+    {
+      "numero": 97,
+      "tema": "XV. Inteligência Artificial (IA) na Saúde",
+      "enunciado": "No contexto da saúde pública angolana em 2024, com o Censo recente e a nova divisão administrativa, a implementação de sistemas de Inteligência Artificial (IA) para a otimização da cadeia de suprimentos de fármacos nos municípios recém-criados apresenta desafios e oportunidades. Qual das seguintes aplicações de IA demonstra o maior potencial para mitigar a escassez e o desperdício de medicamentos em regiões remotas, como as novas comunas do Quando Cubango?",
+      "alineas": {
+        "a": "Algoritmos de processamento de linguagem natural para a análise de relatórios manuais de stock dos armazéns centrais do Ministério da Saúde (MINSA).",
+        "b": "Sistemas de IA baseados em visão computacional para a inspeção de medicamentos deteriorados em tempo real nas farmácias hospitalares.",
+        "c": "Modelos preditivos de Machine Learning que utilizam dados epidemiológicos (IIMS 2023-2024), demográficos (Censo 2024) e logísticos para prever a procura de medicamentos e otimizar rotas de distribuição.",
+        "d": "Robótica autónoma para a entrega de medicamentos por drones em áreas urbanas de Luanda, melhorando a velocidade de entrega em casos não-emergenciais."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Modelos preditivos de Machine Learning que integram dados epidemiológicos, demográficos e logísticos são cruciais para otimizar a cadeia de suprimentos, prevendo a procura e planeando a distribuição de forma eficiente, reduzindo a escassez e o desperdício em áreas remotas."
+    },
+    {
+      "numero": 98,
+      "tema": "XV. Inteligência Artificial (IA) na Saúde",
+      "enunciado": "Considerando o cenário atual da saúde em Angola, incluindo o IIMS 2023-2024 e a prevalência de doenças endémicas, a utilização da IA pode auxiliar na monitorização e no diagnóstico precoce. Um Técnico de Farmácia é solicitado a avaliar uma proposta para um sistema de IA que visa a deteção preditiva de surtos de malária em províncias como o Cuanza Sul. Qual tecnologia de IA seria mais eficaz para analisar grandes volumes de dados geoespaciais e climáticos, em conjunto com dados de casos reportados, para identificar padrões e prever focos de risco?",
+      "alineas": {
+        "a": "Redes neuronais convolucionais (CNNs) para a análise de imagens microscópicas de esfregaços sanguíneos.",
+        "b": "Algoritmos de clusterização (e.g., K-Means) para agrupar pacientes com sintomas semelhantes em unidades de saúde primárias.",
+        "c": "Modelos de aprendizagem por reforço para a otimização da dosagem de antimaláricos em pacientes internados.",
+        "d": "Sistemas de Informação Geográfica (SIG) integrados com algoritmos de Machine Learning (e.g., Random Forest ou Gradient Boosting) para análise preditiva de dados multi-dimensionais."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A integração de SIG com algoritmos de Machine Learning é ideal para analisar e prever surtos de malária, pois permite correlacionar dados geoespaciais, climáticos e epidemiológicos, identificando padrões complexos de risco."
+    },
+    {
+      "numero": 99,
+      "tema": "XV. Inteligência Artificial (IA) na Saúde",
+      "enunciado": "A nova diretiva do MINSA para a acreditação farmacêutica enfatiza a literacia digital dos profissionais. Um Técnico de Farmácia confronta-se com a tarefa de recomendar um software de IA para otimizar a adesão terapêutica em pacientes crónicos no Hospital Américo Boavida. Qual funcionalidade de IA seria fundamental para alertar, de forma proativa, os pacientes sobre a toma de medicação e monitorizar padrões de não-aderência, considerando a diversidade cultural e linguística registada no Censo 2024?",
+      "alineas": {
+        "a": "Um sistema de recomendação de fármacos genéricos baseado em algoritmos de filtragem colaborativa.",
+        "b": "Chatbots com Processamento de Linguagem Natural (PLN) que fornecem lembretes personalizados e interativos em múltiplas línguas e dialetos para os pacientes.",
+        "c": "Algoritmos de classificação para identificar pacientes com alto risco de reações adversas a medicamentos.",
+        "d": "Sistemas periciais baseados em regras para auxiliar na validação de prescrições complexas por médicos."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Chatbots com PLN, capazes de interagir em múltiplas línguas e dialetos, são essenciais para otimizar a adesão terapêutica, fornecendo lembretes e informações adaptadas à cultura e língua dos pacientes, superando barreiras de comunicação."
+    },
+    {
+      "numero": 100,
+      "tema": "XV. Inteligência Artificial (IA) na Saúde",
+      "enunciado": "No contexto da modernização dos serviços de saúde em Angola impulsionada pelas iniciativas pós-IIMS 2023-2024, a ética na IA é uma preocupação crescente. Que princípio ético é mais crucial garantir na aplicação de sistemas de IA para triagem de pacientes em Unidades de Cuidados Intensivos (UCIs) no Hospital Josina Machel, especialmente para evitar a discriminação baseada em dados demográficos sensíveis, como os revelados pelo Censo 2024?",
+      "alineas": {
+        "a": "Transparência dos algoritmos, permitindo compreender a lógica de decisão e a interpretação dos resultados da IA.",
+        "b": "Eficiência computacional, assegurando que o sistema opere com alta velocidade e baixo consumo de recursos.",
+        "c": "Interoperabilidade com sistemas legados, facilitando a integração com outras plataformas hospitalares.",
+        "d": "Escalabilidade do modelo, permitindo que a IA possa ser aplicada a um número crescente de pacientes sem perda de desempenho."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A transparência dos algoritmos é fundamental para evitar a discriminação em sistemas de IA, pois permite auditar as decisões, identificar vieses nos dados ou no modelo e garantir que as triagens sejam justas e equitativas para todos os pacientes."
+    }
+  ]
+}

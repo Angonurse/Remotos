@@ -1,0 +1,1330 @@
+{
+  "serie": "D",
+  "categoria": "TÉCNICO MÉDIO DE ENFERMAGEM DE 3ª CLASSE",
+  "pais": "Angola",
+  "total": 100,
+  "perguntas": [
+    {
+      "numero": 1,
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Um paciente adulto apresenta-se no banco de urgência com uma frequência respiratória de 28 ciclos por minuto (cpm) e uso de musculatura acessória. Como deve o técnico de enfermagem classificar este padrão respiratório?",
+      "alineas": {
+        "a": "Eupneia",
+        "b": "Bradipneia",
+        "c": "Taquipneia",
+        "d": "Apneia"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A frequência respiratória normal no adulto é de 12-20 cpm; valores acima de 24 cpm configuram taquipneia."
+    },
+    {
+      "numero": 2,
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Ao verificar a Tensão Arterial (TA) de um paciente obeso, o técnico utiliza uma braçadeira de tamanho padrão (adulto médio). Qual o erro esperado na leitura?",
+      "alineas": {
+        "a": "A TA será falsamente baixa",
+        "b": "A TA será falsamente alta",
+        "c": "Não haverá alteração na leitura",
+        "d": "Apenas a pressão diastólica será afectada"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O uso de uma braçadeira (manguito) pequeno demais para a circunferência do braço resulta em leituras de tensão arterial falsamente elevadas."
+    },
+    {
+      "numero": 3,
+      "tema": "I. Sinais Vitais",
+      "enunciado": "O pulso apical deve ser verificado preferencialmente em que localização anatómica?",
+      "alineas": {
+        "a": "2º espaço intercostal esquerdo",
+        "b": "5º espaço intercostal esquerdo, linha clavicular média",
+        "c": "4º espaço intercostal direito",
+        "d": "Região retroesternal alta"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O pulso apical localiza-se no ápice do coração, no 5º espaço intercostal na linha hemiclavicular esquerda."
+    },
+    {
+      "numero": 4,
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Um paciente apresenta temperatura axilar de 37,8°C. De acordo com a terminologia semiológica, este estado é definido como:",
+      "alineas": {
+        "a": "Hipotermia",
+        "b": "Estado febril ou febrícula",
+        "c": "Pirexia",
+        "d": "Hipertermia maligna"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A febrícula ou estado febril caracteriza-se por temperaturas entre 37,3°C e 37,8°C."
+    },
+    {
+      "numero": 5,
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Qual dos seguintes factores pode causar uma leitura de oximetria de pulso (SpO2) falsamente baixa?",
+      "alineas": {
+        "a": "Hipertermia",
+        "b": "Anemia severa",
+        "c": "Esmalte de unhas escuro ou extremidades frias",
+        "d": "Hipertensão arterial severa"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A vasoconstrição periférica (frio) ou barreiras físicas (esmalte) impedem a leitura correcta da luz pelo sensor do oxímetro."
+    },
+    {
+      "numero": 6,
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Ao avaliar o pulso radial, o técnico nota que o ritmo é irregular, com pausas perceptíveis. Qual o procedimento imediato correcto?",
+      "alineas": {
+        "a": "Registrar como pulso rítmico",
+        "b": "Contar a frequência durante 15 segundos e multiplicar por 4",
+        "c": "Contar a frequência durante 60 segundos completos e avaliar o pulso apical",
+        "d": "Ignorar a irregularidade se a frequência estiver em 80 bpm"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Pulsos irregulares exigem contagem de 1 minuto completo para precisão e comparação com o pulso central (apical)."
+    },
+    {
+      "numero": 7,
+      "tema": "I. Sinais Vitais",
+      "enunciado": "A definição de hipertensão arterial estágio 1, segundo protocolos internacionais aceites pelo MINSA para adultos, inicia-se em:",
+      "alineas": {
+        "a": "120/80 mmHg",
+        "b": "130/85 mmHg",
+        "c": "140/90 mmHg",
+        "d": "160/100 mmHg"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A hipertensão de estágio 1 é tradicionalmente definida por valores de PAS ≥ 140 mmHg ou PAD ≥ 90 mmHg."
+    },
+    {
+      "numero": 8,
+      "tema": "I. Sinais Vitais",
+      "enunciado": "O termo 'Pulso Filiforme' refere-se a um pulso que é:",
+      "alineas": {
+        "a": "Forte e saltitante",
+        "b": "Fraco, difícil de palpar e geralmente rápido",
+        "c": "Lento e com grande amplitude",
+        "d": "Totalmente ausente"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O pulso filiforme indica redução do volume sistólico e é comum em estados de choque."
+    },
+    {
+      "numero": 9,
+      "tema": "I. Sinais Vitais",
+      "enunciado": "A pressão diferencial ou pressão de pulso é calculada como:",
+      "alineas": {
+        "a": "A média entre a sistólica e a diastólica",
+        "b": "A diferença entre a pressão sistólica e a diastólica",
+        "c": "O dobro da pressão diastólica menos a sistólica",
+        "d": "A soma das duas pressões dividida por três"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A pressão de pulso é a PAS menos a PAD (ex: 120-80 = 40 mmHg)."
+    },
+    {
+      "numero": 10,
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Prescrição: Soro Fisiológico 0,9% 1000 mL para correr em 12 horas. Quantas gotas por minuto (gts/min) devem ser administradas utilizando um equipo de macrogotas?",
+      "alineas": {
+        "a": "21 gts/min",
+        "b": "28 gts/min",
+        "c": "32 gts/min",
+        "d": "42 gts/min"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Fórmula: Volume / (Tempo x 3). 1000 / (12 x 3) = 1000 / 36 = 27,7, aproximadamente 28 gotas/min."
+    },
+    {
+      "numero": 11,
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Foi prescrito Hidrocortisona 150mg EV. No dispensário existem frascos-ampola de 500mg. Ao diluir o frasco em 5 mL de água destilada, quantos mL devem ser aspirados?",
+      "alineas": {
+        "a": "1,0 mL",
+        "b": "1,5 mL",
+        "c": "2,0 mL",
+        "d": "2,5 mL"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Regra de três: 500mg --- 5mL | 150mg --- x mL. x = (150 * 5) / 500 = 750 / 500 = 1,5 mL."
+    },
+    {
+      "numero": 12,
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Uma criança de 15 kg deve receber Paracetamol 10 mg/kg. O xarope disponível é de 125 mg / 5 mL. Quantas mililitros o técnico deve administrar?",
+      "alineas": {
+        "a": "4 mL",
+        "b": "5 mL",
+        "c": "6 mL",
+        "d": "7,5 mL"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Dose total: 15kg * 10mg = 150mg. Cálculo: 125mg --- 5mL | 150mg --- x mL. x = (150 * 5) / 125 = 6 mL."
+    },
+    {
+      "numero": 13,
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Quantas microgotas por minuto (mgts/min) são necessárias para administrar 120 mL de Soro Glicosado 5% em 1 hora?",
+      "alineas": {
+        "a": "40 mgts/min",
+        "b": "60 mgts/min",
+        "c": "120 mgts/min",
+        "d": "20 mgts/min"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Em microgotas, o valor do fluxo em mgts/min é igual ao volume total em mL se o tempo for de 1 hora (Volume / Tempo)."
+    },
+    {
+      "numero": 14,
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Prescrição: Penicilina Cristalina 2.400.000 UI. Frasco disponível: 5.000.000 UI. Ao diluir com 8 mL de diluente, obtendo um volume total de 10 mL (considerando o volume do pó), quanto aspirar?",
+      "alineas": {
+        "a": "4,2 mL",
+        "b": "4,8 mL",
+        "c": "5,0 mL",
+        "d": "2,4 mL"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "5.000.000 UI --- 10 mL | 2.400.000 UI --- x. x = (2.400.000 * 10) / 5.000.000 = 4,8 mL."
+    },
+    {
+      "numero": 15,
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Um paciente precisa de 40 UI de Insulina NPH. O frasco é de 100 UI/mL, mas o técnico só tem seringas de 3 mL (não graduadas em unidades). Quantos mililitros devem ser aspirados?",
+      "alineas": {
+        "a": "0,4 mL",
+        "b": "0,04 mL",
+        "c": "4,0 mL",
+        "d": "1,4 mL"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "100 UI --- 1 mL | 40 UI --- x. x = 40/100 = 0,4 mL."
+    },
+    {
+      "numero": 16,
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "A prescrição indica Soro Fisiológico 500 mL para passar em 8 horas. No serviço só existem equipos de microgotas. Qual será a velocidade de infusão?",
+      "alineas": {
+        "a": "21 mgts/min",
+        "b": "60 mgts/min",
+        "c": "62,5 mgts/min",
+        "d": "125 mgts/min"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Fórmula microgotas: Volume / Tempo (horas). 500 / 8 = 62,5 microgotas/min."
+    },
+    {
+      "numero": 17,
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Qual a quantidade de cloreto de sódio (g) presente em uma bolsa de 500 mL de Soro Fisiológico a 0,9%?",
+      "alineas": {
+        "a": "0,9 g",
+        "b": "4,5 g",
+        "c": "9,0 g",
+        "d": "45 g"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "0,9% significa 0,9g em 100mL. Em 500mL: 0,9 * 5 = 4,5g."
+    },
+    {
+      "numero": 18,
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "A prescrição solicita Decadron 2 mg EV. O frasco-ampola é de 4 mg/mL. Quantos mL administrar?",
+      "alineas": {
+        "a": "0,2 mL",
+        "b": "0,5 mL",
+        "c": "1,0 mL",
+        "d": "2,0 mL"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "4 mg --- 1 mL | 2 mg --- x. x = 2/4 = 0,5 mL."
+    },
+    {
+      "numero": 19,
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Se o técnico deve administrar 1 grama de uma medicação e a apresentação é de 250 mg por comprimido, quantos comprimidos são necessários?",
+      "alineas": {
+        "a": "2 comprimidos",
+        "b": "3 comprimidos",
+        "c": "4 comprimidos",
+        "d": "5 comprimidos"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "1 grama = 1000 mg. 1000 / 250 = 4 comprimidos."
+    },
+    {
+      "numero": 20,
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "O médico prescreveu 300.000 UI de Penicilina Cristalina. O frasco tem 5.000.000 UI e foi diluído em 10 mL de diluente total. Quanto aspirar?",
+      "alineas": {
+        "a": "0,3 mL",
+        "b": "0,6 mL",
+        "c": "1,0 mL",
+        "d": "1,2 mL"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "5.000.000 UI --- 10 mL | 300.000 UI --- x. x = (300.000 * 10) / 5.000.000 = 0,6 mL."
+    },
+    {
+      "numero": 21,
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Para converter mg em mcg, deve-se multiplicar o valor por:",
+      "alineas": {
+        "a": "10",
+        "b": "100",
+        "c": "1000",
+        "d": "10000"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "1 miligrama (mg) equivale a 1.000 microgramas (mcg)."
+    },
+    {
+      "numero": 22,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Ao encontrar uma pessoa inconsciente e sem respirar no recinto hospitalar, qual a sequência inicial de compressão/ventilação recomendada para um socorrista único em adulto?",
+      "alineas": {
+        "a": "15 compressões : 2 ventilações",
+        "b": "30 compressões : 2 ventilações",
+        "c": "5 compressões : 1 ventilação",
+        "d": "100 compressões por minuto sem ventilação"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Segundo a AHA/ERC, a relação recomendada para adultos é de 30:2."
+    },
+    {
+      "numero": 23,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Qual a profundidade correcta das compressões torácicas no Suporte Básico de Vida em adultos?",
+      "alineas": {
+        "a": "Pelo menos 2 cm",
+        "b": "No máximo 4 cm",
+        "c": "Pelo menos 5 cm e não exceder 6 cm",
+        "d": "Cerca de 8 cm"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A profundidade de 5 a 6 cm garante compressão eficaz do coração contra a coluna vertebral sem trauma excessivo."
+    },
+    {
+      "numero": 24,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Onde deve o técnico de enfermagem verificar o pulso de uma vítima adulta inconsciente antes de iniciar a RCP?",
+      "alineas": {
+        "a": "Pulso radial",
+        "b": "Pulso femoral",
+        "c": "Pulso carotídeo",
+        "d": "Pulso braquial"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O pulso carotídeo é o local mais fiável para avaliar a circulação periférica em adultos em paragem."
+    },
+    {
+      "numero": 25,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Durante a RCP, qual a frequência de compressão torácica recomendada?",
+      "alineas": {
+        "a": "60 a 80 por minuto",
+        "b": "80 a 100 por minuto",
+        "c": "100 a 120 por minuto",
+        "d": "Mais de 150 por minuto"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A frequência ideal para manter o débito cardíaco artificial é de 100 a 120 compressões por minuto."
+    },
+    {
+      "numero": 26,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Ao utilizar um Desfibrilhador Automático Externo (DAE) e o aparelho emitir a mensagem 'Choque Não Recomendado', o técnico deve:",
+      "alineas": {
+        "a": "Desligar o aparelho e esperar a ambulância",
+        "b": "Verificar se as pás estão bem coladas",
+        "c": "Reiniciar imediatamente as compressões torácicas",
+        "d": "Verificar se o paciente já respira"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Se o choque não é indicado, deve-se manter a RCP (manobras) até a próxima avaliação do DAE (a cada 2 min)."
+    },
+    {
+      "numero": 27,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Em lactentes (bebés < 1 ano), o pulso para verificação de sinais de circulação deve ser o:",
+      "alineas": {
+        "a": "Carotídeo",
+        "b": "Braquial",
+        "c": "Radial",
+        "d": "Pedioso"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "No lactente, o pescoço curto dificulta a palpação da carótida, sendo o pulso braquial a escolha padrão."
+    },
+    {
+      "numero": 28,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "A Manobra de Heimlich é indicada em qual situação?",
+      "alineas": {
+        "a": "Paragem Cardiorrespiratória",
+        "b": "Afogamento por líquidos",
+        "c": "Obstrução grave de vias aéreas por corpo estranho (Engasgo)",
+        "d": "Crise Convulsiva"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O objectivo da manobra é aumentar a pressão intratorácica para expelir um objecto sólido."
+    },
+    {
+      "numero": 29,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Qual a primeira acção ao deparar-se com uma vítima caída no chão, segundo o protocolo de SBV?",
+      "alineas": {
+        "a": "Verificar a respiração",
+        "b": "Garantir a segurança do local (para si e para a vítima)",
+        "c": "Chamar ajuda",
+        "d": "Iniciar compressões"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A segurança da cena é a primeira prioridade para evitar que o socorrista se torne uma segunda vítima."
+    },
+    {
+      "numero": 30,
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Durante o banho no leito, qual o sentido correcto da limpeza dos membros para favorecer o retorno venoso?",
+      "alineas": {
+        "a": "Da parte proximal para a distal",
+        "b": "Da parte distal para a proximal",
+        "c": "Movimentos circulares aleatórios",
+        "d": "Apenas movimentos de cima para baixo"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Lavar da extremidade (longe) para a base (perto) estimula a circulação de retorno ao coração."
+    },
+    {
+      "numero": 31,
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Qual a ordem recomendada para a higiene corporal no banho no leito?",
+      "alineas": {
+        "a": "Pés, pernas, tronco e rosto",
+        "b": "Rosto, braços, tronco, pernas e períneo",
+        "c": "Períneo, pernas, braços e rosto",
+        "d": "Costas, face, braços e pernas"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Deve-se iniciar pela zona mais limpa (rosto) e terminar na mais contaminada (períneo)."
+    },
+    {
+      "numero": 32,
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Ao realizar a higiene ocular durante o banho, o técnico deve:",
+      "alineas": {
+        "a": "Usar o mesmo canto da compressa para ambos os olhos",
+        "b": "Limpar do canto externo para o canto interno",
+        "c": "Limpar do canto interno para o canto externo",
+        "d": "Usar sabão neutro dentro do globo ocular"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Limpar do canto interno para o externo evita a contaminação do canal lacrimal."
+    },
+    {
+      "numero": 33,
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Um dos principais objectivos do banho no leito, além da higiene, é:",
+      "alineas": {
+        "a": "Reduzir a tensão arterial do paciente",
+        "b": "Avaliar a integridade da pele e detectar úlceras de pressão",
+        "c": "Aumentar a frequência cardíaca",
+        "d": "Substituir a necessidade de mudança de decúbito"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O banho é o momento oportuno para o exame físico completo da pele do paciente acamado."
+    },
+    {
+      "numero": 34,
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Qual a temperatura da água recomendada para o banho no leito para evitar calafrios ou queimaduras?",
+      "alineas": {
+        "a": "20°C a 25°C",
+        "b": "37°C a 40°C",
+        "c": "45°C a 50°C",
+        "d": "Apenas água fria é usada no hospital"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A água deve estar morna, perto da temperatura corporal, para conforto e segurança térmica."
+    },
+    {
+      "numero": 35,
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Durante o procedimento de banho no leito, a privacidade do paciente é garantida por:",
+      "alineas": {
+        "a": "Manter a porta do quarto aberta para ventilação",
+        "b": "Expor apenas a parte do corpo que está a ser lavada",
+        "c": "Permitir que os outros pacientes observem",
+        "d": "Usar biombos apenas se o paciente pedir"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A técnica de 'lavar por partes' protege a dignidade do paciente e evita a perda de calor."
+    },
+    {
+      "numero": 36,
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Qual o cuidado específico ao lavar os pés de um paciente diabético?",
+      "alineas": {
+        "a": "Deixar os pés de molho por 30 minutos",
+        "b": "Secar meticulosamente entre os dedos (espaços interdigitais)",
+        "c": "Cortar as unhas bem curtas e redondas",
+        "d": "Aplicar álcool para desinfecção"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A humidade entre os dedos em diabéticos predispõe a maceração e infecções fúngicas/bacterianas."
+    },
+    {
+      "numero": 37,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "A via de administração que garante 100% de biodisponibilidade imediata do fármaco é:",
+      "alineas": {
+        "a": "Via Intramuscular",
+        "b": "Via Oral",
+        "c": "Via Endovenosa",
+        "d": "Via Subcutânea"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Na via endovenosa, a medicação entra directamente na corrente sanguínea, sem passar pelo processo de absorção."
+    },
+    {
+      "numero": 38,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "O ângulo de inserção da agulha para uma injecção Intradérmica é de:",
+      "alineas": {
+        "a": "10 a 15 graus",
+        "b": "30 a 45 graus",
+        "c": "90 graus",
+        "d": "0 graus (paralelo à pele)"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A via intradérmica requer um ângulo quase paralelo à pele para atingir a derme superficial."
+    },
+    {
+      "numero": 39,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Qual o volume máximo recomendado para uma injecção no músculo deltóide num adulto?",
+      "alineas": {
+        "a": "0,5 mL",
+        "b": "1,0 mL",
+        "c": "3,0 mL",
+        "d": "5,0 mL"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O músculo deltóide é pequeno e suporta apenas volumes baixos (máximo 1 mL) para evitar dor e lesão tecidual."
+    },
+    {
+      "numero": 40,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Na técnica de injecção Intramuscular em 'Z', o objectivo principal é:",
+      "alineas": {
+        "a": "Acelerar a absorção da droga",
+        "b": "Vedar o trajecto da agulha e impedir o refluxo do medicamento",
+        "c": "Diminuir a dor da picada",
+        "d": "Atingir o periósteo do osso"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A técnica em Z desloca a pele/tecido subcutâneo para que, ao soltar, o fármaco fique preso no músculo."
+    },
+    {
+      "numero": 41,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Qual destas vias de administração é classificada como 'Tópica'?",
+      "alineas": {
+        "a": "Sublingual",
+        "b": "Ocular (colírio)",
+        "c": "Retal (supositório)",
+        "d": "Nasogástrica"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A via tópica aplica-se a medicamentos aplicados em superfícies para acção local (olhos, pele, ouvidos)."
+    },
+    {
+      "numero": 42,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Ao administrar um medicamento por via oral, se o paciente vomitar imediatamente após (menos de 5 minutos), o técnico deve:",
+      "alineas": {
+        "a": "Administrar nova dose imediatamente",
+        "b": "Desprezar e anotar",
+        "c": "Comunicar ao enfermeiro/médico antes de repetir a dose",
+        "d": "Mudar a via para endovenosa por conta própria"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A repetição da dose depende do fármaco e deve ser validada pela equipa clínica para evitar sobredosagem ou falha terapêutica."
+    },
+    {
+      "numero": 43,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "A 'Regra dos 9 Certos' na administração de medicamentos inclui, excepto:",
+      "alineas": {
+        "a": "Paciente certo",
+        "b": "Medicamento certo",
+        "c": "Via certa",
+        "d": "Custo certo"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Os 'certos' focam na segurança (paciente, dose, via, hora, registro, etc.), não no valor financeiro."
+    },
+    {
+      "numero": 44,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Qual o local preferencial para injecção intramuscular em crianças menores de 2 anos (que ainda não caminham)?",
+      "alineas": {
+        "a": "Deltóide",
+        "b": "Região Glútea (Dorso-glúteo)",
+        "c": "Vasto Lateral da Coxa",
+        "d": "Região Abdominal"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O vasto lateral é o músculo mais desenvolvido nesta faixa etária e livre de grandes vasos ou nervos."
+    },
+    {
+      "numero": 45,
+      "tema": "VI. Cuidados de Enfermagem ao Paciente Acamado",
+      "enunciado": "Qual a frequência recomendada para a mudança de decúbito em pacientes acamados para prevenir úlceras de pressão?",
+      "alineas": {
+        "a": "A cada 6 horas",
+        "b": "A cada 4 horas",
+        "c": "A cada 2 horas",
+        "d": "Uma vez por turno"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O intervalo de 2 horas é o padrão-ouro para aliviar a isquemia tecidual em pontos de pressão."
+    },
+    {
+      "numero": 46,
+      "tema": "VI. Cuidados de Enfermagem ao Paciente Acamado",
+      "enunciado": "Uma Úlcera de Pressão (UP) que apresenta perda total da espessura da pele, com gordura subcutânea visível, mas sem exposição de osso ou músculo, é classificada como:",
+      "alineas": {
+        "a": "Grau I",
+        "b": "Grau II",
+        "c": "Grau III",
+        "d": "Grau IV"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Grau III envolve dano ao tecido subcutâneo; Grau IV atinge estruturas profundas."
+    },
+    {
+      "numero": 47,
+      "tema": "VI. Cuidados de Enfermagem ao Paciente Acamado",
+      "enunciado": "Qual dispositivo é fundamental na prevenção de quedas de pacientes acamados?",
+      "alineas": {
+        "a": "Coxins de espuma",
+        "b": "Grades laterais da cama elevadas",
+        "c": "Suporte de soro elevado",
+        "d": "Lençol de baixo esticado"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "As grades são barreiras físicas essenciais, especialmente em pacientes confusos ou sedados."
+    },
+    {
+      "numero": 48,
+      "tema": "VI. Cuidados de Enfermagem ao Paciente Acamado",
+      "enunciado": "A posição de 'Fowler' (cabeceira a 45°-60°) é especialmente indicada para pacientes com:",
+      "alineas": {
+        "a": "Hipotensão severa",
+        "b": "Dispneia ou dificuldades respiratórias",
+        "c": "Trauma de coluna cervical",
+        "d": "Necessidade de repouso absoluto após punção lombar"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A posição verticalizada facilita a expansão pulmonar e diminui a pressão do diafragma."
+    },
+    {
+      "numero": 49,
+      "tema": "VI. Cuidados de Enfermagem ao Paciente Acamado",
+      "enunciado": "Para evitar Úlceras de Pressão na região calcâneo, o técnico deve:",
+      "alineas": {
+        "a": "Manter os calcanhares em contacto directo com o colchão",
+        "b": "Usar coxins para elevar os calcanhares da superfície do leito",
+        "c": "Massajar vigorosamente a área avermelhada",
+        "d": "Aplicar gelo nos calcanhares"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A flutuação dos calcanhares elimina totalmente a pressão sobre essa proeminência óssea."
+    },
+    {
+      "numero": 50,
+      "tema": "VI. Cuidados de Enfermagem ao Paciente Acamado",
+      "enunciado": "Ao transferir um paciente da cama para a cadeira de rodas, a posição correcta da cadeira deve ser:",
+      "alineas": {
+        "a": "Atrás da cama",
+        "b": "Em ângulo de 45° com a cama, no lado mais forte do paciente",
+        "c": "De frente para a cama, bloqueando as pernas do paciente",
+        "d": "Distante 2 metros para forçar o paciente a andar"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Esta posição minimiza a distância e utiliza a força do lado íntegro do paciente para estabilidade."
+    },
+    {
+      "numero": 51,
+      "tema": "VI. Cuidados de Enfermagem ao Paciente Acamado",
+      "enunciado": "O cisalhamento é uma força que contribui para o surgimento de úlceras. Ela ocorre principalmente quando:",
+      "alineas": {
+        "a": "O paciente é mantido em Fowler muito alto e escorrega na cama",
+        "b": "O lençol está húmido",
+        "c": "O paciente usa fraldas muito apertadas",
+        "d": "A pele está seca demais"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O cisalhamento ocorre quando a pele permanece fixa mas as estruturas profundas se movem, rompendo vasos sanguíneos."
+    },
+    {
+      "numero": 52,
+      "tema": "VI. Cuidados de Enfermagem ao Paciente Acamado",
+      "enunciado": "A Escala de Braden é utilizada na enfermagem para avaliar:",
+      "alineas": {
+        "a": "O nível de consciência",
+        "b": "O risco de desenvolver Úlceras de Pressão",
+        "c": "A intensidade da dor",
+        "d": "A gravidade do coma"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A escala de Braden avalia percepção sensorial, humidade, actividade, mobilidade, nutrição e fricção/cisalhamento."
+    },
+    {
+      "numero": 53,
+      "tema": "VII. Feridas",
+      "enunciado": "Uma ferida operatória com bordas aproximadas por sutura é classificada como cicatrização por:",
+      "alineas": {
+        "a": "Primeira intenção",
+        "b": "Segunda intenção",
+        "c": "Terceira intenção",
+        "d": "Cicatrização retardada"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Na primeira intenção, há mínima perda de tecido e os bordos são unidos mecanicamente."
+    },
+    {
+      "numero": 54,
+      "tema": "VII. Feridas",
+      "enunciado": "O tecido de coloração amarelada ou esbranquiçada, viscoso, presente no leito da ferida e que impede a cicatrização é chamado de:",
+      "alineas": {
+        "a": "Tecido de granulação",
+        "b": "Tecido epitelial",
+        "c": "Eslacelo",
+        "d": "Escara necrótica"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O esfacelo é composto por restos celulares e fibrina, devendo ser removido para permitir a evolução da ferida."
+    },
+    {
+      "numero": 55,
+      "tema": "VII. Feridas",
+      "enunciado": "Na limpeza de uma ferida infectada, a técnica correcta de assepsia orienta limpar:",
+      "alineas": {
+        "a": "De fora para dentro (da periferia para o centro)",
+        "b": "De dentro para fora (do centro para a periferia)",
+        "c": "Apenas as bordas, ignorando o leito",
+        "d": "Sempre de baixo para cima"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Em feridas infectadas, limpa-se da área menos contaminada (periferia) para a mais contaminada (centro)."
+    },
+    {
+      "numero": 56,
+      "tema": "VII. Feridas",
+      "enunciado": "Qual solução é universalmente recomendada para a limpeza do leito de feridas abertas, por não ser citotóxica?",
+      "alineas": {
+        "a": "Álcool 70%",
+        "b": "Povidona iodada (Betadine)",
+        "c": "Soro Fisiológico 0,9%",
+        "d": "Água Oxigenada"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O soro fisiológico limpa sem agredir as células de granulação recém-formadas."
+    },
+    {
+      "numero": 57,
+      "tema": "VII. Feridas",
+      "enunciado": "O termo 'Deiscência' numa ferida cirúrgica significa:",
+      "alineas": {
+        "a": "Cura rápida da ferida",
+        "b": "Abertura espontânea das bordas da ferida anteriormente suturadas",
+        "c": "Presença de pus",
+        "d": "Saída de órgãos internos através da ferida"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Deiscência é a separação das camadas da pele/tecidos de uma incisão cirúrgica."
+    },
+    {
+      "numero": 58,
+      "tema": "VII. Feridas",
+      "enunciado": "O curativo oclusivo tem como uma de suas funções:",
+      "alineas": {
+        "a": "Permitir a entrada de ar livremente",
+        "b": "Manter o meio húmido e proteger contra contaminação externa",
+        "c": "Secar a ferida o mais rápido possível",
+        "d": "Aumentar a dor local"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Curativos oclusivos protegem e podem promover o desbridamento autolítico ao manter a humidade."
+    },
+    {
+      "numero": 59,
+      "tema": "VII. Feridas",
+      "enunciado": "Uma ferida que apresenta tecido vermelho vivo, brilhante e granuloso indica:",
+      "alineas": {
+        "a": "Infecção severa",
+        "b": "Necrose de coagulação",
+        "c": "Tecido de granulação (bom sinal de cicatrização)",
+        "d": "Fístula activa"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Este tecido é rico em novos vasos sanguíneos, sinalizando que a ferida está a fechar."
+    },
+    {
+      "numero": 60,
+      "tema": "VII. Feridas",
+      "enunciado": "A 'Evisceração' é uma complicação grave de feridas abdominais que consiste em:",
+      "alineas": {
+        "a": "Hematoma abaixo da sutura",
+        "b": "Saída de vísceras através da abertura da parede abdominal",
+        "c": "Inchaço apenas na pele",
+        "d": "Inflamação dos bordos"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A evisceração é uma emergência cirúrgica onde o conteúdo abdominal é exposto após falha da sutura total."
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Durante a triagem no Banco de Urgência, um paciente de 45 anos com suspeita de choque hipovolémico apresenta pulso radial de 118 bpm, mas com uma característica em que a amplitude diminui visivelmente durante a inspiração profunda. Como o técnico deve registar esta alteração semiológica?",
+      "alineas": {
+        "a": "Pulso Dicrótico",
+        "b": "Pulso Paradoxal",
+        "c": "Pulso Alternante",
+        "d": "Pulso Célere"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O pulso paradoxal é caracterizado pela redução da amplitude da pulsação e queda da tensão arterial sistólica durante a inspiração, comum em casos de tamponamento cardíaco ou choque grave.",
+      "numero": 61
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Ao realizar a medição da Tensão Arterial (TA) num paciente idoso acamado, o técnico de enfermagem nota que os sons de Korotkoff desaparecem logo após a fase I e reaparecem 20 mmHg abaixo, antes da fase II. Este fenómeno é conhecido como:",
+      "alineas": {
+        "a": "Défice de pulso",
+        "b": "Hipertensão sistólica isolada",
+        "c": "Hiato auscultatório",
+        "d": "Arritmia sinusal",
+        "e": "Sinal de Musset"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O hiato auscultatório é o desaparecimento temporário dos sons entre as pressões sistólica e diastólica, podendo levar a erros de subestimação da sistólica se o esfigmomanómetro não for insuflado suficientemente.",
+      "numero": 62
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Um lactente de 8 meses é admitido na pediatria com quadro febril. Ao verificar a frequência cardíaca (FC) e a frequência respiratória (FR), o técnico encontra 135 bpm e 48 cpm, respectivamente. Considerando os valores de referência para esta faixa etária, estes sinais indicam:",
+      "alineas": {
+        "a": "Taquicardia e Taquipneia",
+        "b": "Normocardia e Bradipneia",
+        "c": "Normocardia e Normopneia",
+        "d": "Bradicardia e Taquipneia",
+        "e": "Taquicardia e Bradipneia"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Para um lactente (até 1 ano), a FC normal varia de 100-160 bpm e a FR normal varia de 30-50 cpm; portanto, ambos os valores estão dentro da normalidade fisiológica para a idade.",
+      "numero": 63
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "No Banco de Urgência, um paciente apresenta um padrão respiratório caracterizado por períodos de apneia que se alternam com ciclos de respirações progressivamente mais profundas e depois mais superficiais. Este padrão é tecnicamente designado por:",
+      "alineas": {
+        "a": "Respiração de Kussmaul",
+        "b": "Respiração de Biot",
+        "c": "Respiração de Cheyne-Stokes",
+        "d": "Ortopneia",
+        "e": "Tiragem intercostal"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A respiração de Cheyne-Stokes é um padrão de periodicidade comum em insuficiência cardíaca grave ou lesões neurológicas, alternando crescendo e decrescendo ventilatório com apneia.",
+      "numero": 64
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Um paciente adulto jovem chega à Sala de Tratamentos com queixa de tonturas. O técnico verifica a TA em decúbito dorsal obtendo 130/80 mmHg. Ao repetir a medição com o paciente em pé (após 3 min), obtém 105/65 mmHg. Este achado clínico é compatível com:",
+      "alineas": {
+        "a": "Hipertensão Reactiva",
+        "b": "Hipotensão Ortostática",
+        "c": "Síndrome do Jaleco Branco",
+        "d": "Equilíbrio Hemodinâmico",
+        "e": "Choque Neurogénico"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Define-se hipotensão ortostática como a queda da TA sistólica em pelo menos 20 mmHg ou da diastólica em 10 mmHg dentro de três minutos após passar para a posição vertical.",
+      "numero": 65
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Qual o local de eleição para a verificação da temperatura corporal num paciente em estado de coma profundo, com ventilação mecânica, visando a maior precisão central e menor risco de interferência ambiental?",
+      "alineas": {
+        "a": "Axilar",
+        "b": "Oral",
+        "c": "Timpanal",
+        "d": "Rectal",
+        "e": "Inguinal"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A temperatura rectal é considerada a que melhor reflecte a temperatura central do núcleo corporal (core temperature) em pacientes críticos ou inconscientes, sendo menos afectada pelo ambiente externo que a axilar.",
+      "numero": 66
+    },
+    {
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "No Banco de Urgência, um paciente adulto com choque hipovolémico necessita de uma reposição rápida de 450 mL de Ringer Lactato em 45 minutos. Utilizando um equipo de macrogotas (1 mL = 20 gotas), qual deve ser o ritmo de gotejamento ajustado pelo técnico de enfermagem?",
+      "alineas": {
+        "a": "150 gotas/min",
+        "b": "200 gotas/min",
+        "c": "225 gotas/min",
+        "d": "100 gotas/min",
+        "e": "50 gotas/min"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Aplicando a fórmula (Volume x 20) / Tempo em minutos: (450 x 20) / 45 = 9000 / 45 = 200 gotas/min.",
+      "numero": 67
+    },
+    {
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Foi prescrito a um paciente na Sala de Observação 250 mg de Amoxicilina suspensão oral de 8/8h. O frasco disponível no hospital contém 125 mg / 5 mL após reconstituição. O stock apresenta frascos de 60 mL. Quantos frascos serão necessários para completar um tratamento de 7 dias?",
+      "alineas": {
+        "a": "2 frascos",
+        "b": "3 frascos",
+        "c": "4 frascos",
+        "d": "3,5 frascos"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Cada dose é de 10 mL (250mg). Por dia (8/8h), o paciente consome 30 mL. Em 7 dias: 30 x 7 = 210 mL. 210 mL / 60 mL por frasco = 3,5 frascos, logo são necessários 4 frascos para completar o ciclo.",
+      "numero": 68
+    },
+    {
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Um recém-nascido na neonatologia recebeu prescrição de Gentamicina 12 mg EV. O frasco disponível na maleta de emergência é de 80 mg / 2 mL. Para garantir precisão no Banco de Urgência Pediátrica, o técnico decide rediluir a ampola. Se aspirar 1 mL da ampola e adicionar 7 mL de Soro Fisiológico (totalizando 8 mL), quanto deve aspirar da solução final?",
+      "alineas": {
+        "a": "1,2 mL",
+        "b": "3,0 mL",
+        "c": "2,4 mL",
+        "d": "0,8 mL"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Ao aspirar 1 mL (40 mg) e diluir para 8 mL, temos 5 mg/mL (40/8). Para 12 mg: 12 / 5 = 2,4 mL.",
+      "numero": 69
+    },
+    {
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "A prescrição médica solicita a infusão de 1,5 gramas de Gluconato de Cálcio 10% para um paciente com hipocalcemia severa. Sabendo que cada ampola de 10 mL contém 10% da substância, quanto o técnico de enfermagem deve aspirar para cumprir a dosagem exacta?",
+      "alineas": {
+        "a": "1,5 mL",
+        "b": "10 mL",
+        "c": "15 mL",
+        "d": "20 mL",
+        "e": "25 mL"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Uma solução a 10% significa 10g em 100mL, ou 1g em 10mL. Se 1g = 10mL, então 1,5g = 15mL.",
+      "numero": 70
+    },
+    {
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "O médico prescreveu uma infusão contínua de Heparina 1.000 UI/hora. A solução preparada no serviço contém 25.000 UI de Heparina em 250 mL de Soro Fisiológico. Qual deve ser o fluxo na bomba de infusão em mL/h?",
+      "alineas": {
+        "a": "5 mL/h",
+        "b": "10 mL/h",
+        "c": "12,5 mL/h",
+        "d": "20 mL/h"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A concentração é de 100 UI/mL (25.000 UI / 250 mL). Para administrar 1.000 UI/h, divide-se 1.000 por 100, resultando em 10 mL/h.",
+      "numero": 71
+    },
+    {
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Para uma criança em estado crítico, o médico prescreveu Dopamina na dose de 5 mcg/kg/min. A criança pesa 20 kg. A solução disponível é de 250 mg em 250 mL de SF. Qual o gotejamento em microgotas/min para administrar a dose correta?",
+      "alineas": {
+        "a": "6 mgts/min",
+        "b": "10 mgts/min",
+        "c": "12 mgts/min",
+        "d": "15 mgts/min",
+        "e": "60 mgts/min"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Dose: 5x20x60 = 6000 mcg/h (6 mg/h). Como a solução é 1 mg/mL (250mg/250mL), o fluxo é 6 mL/h. Em microgotas, 1 mL/h = 1 microgota/min, logo 6 mgts/min.",
+      "numero": 72
+    },
+    {
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Um técnico de enfermagem deve administrar 125 mg de Metilprednisolona (Solu-Medrol) por via endovenosa. O frasco-ampola contém 500 mg de pó liofilizado. Após diluir o pó com o diluente de 8 mL que acompanha o frasco, qual o volume final que deve ser administrado?",
+      "alineas": {
+        "a": "1 mL",
+        "b": "2 mL",
+        "c": "4 mL",
+        "d": "0,5 mL"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Proporção: 500 mg --- 8 mL | 125 mg --- X mL. X = (125 * 8) / 500 = 1000 / 500 = 2 mL.",
+      "numero": 73
+    },
+    {
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Na farmácia do hospital, há apenas Soro Glicosado a 5% (500 mL). No entanto, a prescrição exige Soro Glicosado a 10% (500 mL). Estão disponíveis ampolas de Glicose Hipertónica a 50% de 20 mL. Quantas ampolas e que volume de soro original devem ser manipulados para obter a concentração desejada, aproximadamente?",
+      "alineas": {
+        "a": "2 ampolas de glicose e retirar 40 mL de SG 5%",
+        "b": "3 ampolas de glicose e retirar 60 mL de SG 5%",
+        "c": "2,8 ampolas de glicose e retirar 55 mL de SG 5%",
+        "d": "5 ampolas de glicose sem retirar soro"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "SG 10% (500mL) precisa de 50g de açúcar. O SG 5% tem 25g. Faltam 25g. Cada ampola de 50% (20mL) tem 10g. Logo, 2,5 ampolas (50mL) seriam 25g. Para manter o volume final de 500mL, retira-se o volume das ampolas. A opção C é a aproximação técnica mais rigorosa.",
+      "numero": 74
+    },
+    {
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Durante o Banco de Urgência, um técnico de enfermagem depara-se com uma situação de paragem cardiorrespiratória (PCR) em dois lactentes vítimas de intoxicação. De acordo com as directrizes actuais para SBV pediátrico com dois socorristas treinados, qual é a relação compressão-ventilação correcta e a técnica de compressão recomendada?",
+      "alineas": {
+        "a": "30:2 com a técnica de dois dedos no terço inferior do esterno.",
+        "b": "15:2 com a técnica de dois dedos no terço inferior do esterno.",
+        "c": "15:2 com a técnica de dois polegares envolvendo o tórax.",
+        "d": "30:2 com a técnica de dois polegares envolvendo o tórax.",
+        "e": "15:1 com a técnica de compressão na metade superior do esterno."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Para lactentes, quando estão presentes dois socorristas, a relação recomendada é de 15:2 e a técnica de dois polegares envolvendo o tórax é preferível por gerar maior pressão de perfusão coronária.",
+      "numero": 75
+    },
+    {
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Um paciente adulto apresenta-se na sala de tratamentos com obstrução grave das vias aéreas por corpo estranho (OVACE). Após várias tentativas da manobra de Heimlich, a vítima torna-se inconsciente e o técnico de enfermagem ampara-a até ao chão. Qual é o próximo passo imediato segundo o protocolo de SBV?",
+      "alineas": {
+        "a": "Efectuar a manobra de varredura digital cega para remover o objecto.",
+        "b": "Iniciar imediatamente ciclos de 30 compressões torácicas, verificando a boca antes das ventilações.",
+        "c": "Aplicar 5 pancadas interescapulares seguidas de 5 compressões abdominais.",
+        "d": "Verificar o pulso carotídeo por 10 segundos antes de iniciar qualquer compressão.",
+        "e": "Realizar a cricotiroidomia de urgência por ser um técnico de enfermagem."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Quando uma vítima de engasgamento fica inconsciente, deve-se iniciar a RCP começando pelas compressões; a cada abertura de via aérea para ventilar, deve-se inspeccionar a boca para ver se o objecto é visível.",
+      "numero": 76
+    },
+    {
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Em ambiente extra-hospitalar, um maqueiro auxilia um técnico de enfermagem no atendimento a uma vítima de afogamento em paragem respiratória, mas com pulso palpável (65 bpm). Qual deve ser a cadência de ventilações de resgate para este adulto e de quanto em quanto tempo o pulso deve ser reavaliado?",
+      "alineas": {
+        "a": "1 ventilação a cada 3 segundos; reavaliar o pulso a cada 5 minutos.",
+        "b": "1 ventilação a cada 10 segundos; reavaliar o pulso a cada 1 minuto.",
+        "c": "1 ventilação a cada 6 segundos; reavaliar o pulso a cada 2 minutos.",
+        "d": "2 ventilações a cada 30 segundos; reavaliar o pulso a cada 2 minutos."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Para adultos em paragem respiratória com pulso presente, a recomendação é de 1 ventilação a cada 6 segundos (10 ventilações/min) e a reavaliação do pulso deve ser feita a cada 2 minutos.",
+      "numero": 77
+    },
+    {
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Ao utilizar o esfigmomanómetro e observar sinais de choque num paciente que subitamente entra em PCR, a equipa inicia a reanimação. Se o ritmo detectado pelo monitor for uma Taquicardia Ventricular sem Pulso (TVSP), quais são as acções prioritárias após o primeiro choque (desfibrilação)?",
+      "alineas": {
+        "a": "Verificar imediatamente o ritmo no monitor e palpar o pulso carotídeo.",
+        "b": "Administrar 1mg de Adrenalina IV imediatamente antes de retomar compressões.",
+        "c": "Retomar imediatamente as compressões torácicas por 2 minutos antes de nova análise de ritmo.",
+        "d": "Realizar uma fase de 5 ventilações de resgate antes de voltar às compressões.",
+        "e": "Aguardar 30 segundos para que o miocárdio estabilize a actividade eléctrica."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Após a entrega de um choque, a RCP (compressões e ventilações) deve ser reiniciada imediatamente, sem interrupção para verificação de pulso ou ritmo, durante 2 minutos (5 ciclos).",
+      "numero": 78
+    },
+    {
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Um técnico médio de enfermagem está a socorrer uma criança de 6 anos (SBV Pediátrico) que colapsou na pediatria. Ao realizar as compressões torácicas num cenário de socorrista único, qual deve ser a profundidade da compressão e a eficácia esperada do retorno do tórax?",
+      "alineas": {
+        "a": "Pelo menos 1/3 do diâmetro anteroposterior do tórax, cerca de 5 cm, permitindo o retorno total do tórax.",
+        "b": "Exactamente 4 cm, mantendo o tórax levemente comprimido para facilitar o retorno venoso.",
+        "c": "Pelo menos 1/2 do diâmetro anteroposterior do tórax, permitindo retorno parcial.",
+        "d": "Entre 5 a 6 cm, sem necessidade de expansão completa entre compressões.",
+        "e": "Cerca de 2 cm, utilizando apenas a polpa dos dedos."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Em crianças, a profundidade deve ser de aproximadamente 1/3 do diâmetro AP do tórax (cerca de 5 cm) e é crítico permitir a expansão completa do tórax para que o coração se encha de sangue.",
+      "numero": 79
+    },
+    {
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Durante a realização do banho no leito a um paciente com diagnóstico de Insuficiência Cardíaca Congestiva (ICC) internado no Banco de Urgência, o técnico de enfermagem nota a presença de edemas nos membros inferiores e cianose periférica. Ao proceder à secagem da pele, qual deve ser a técnica aplicada para prevenir lesões por fricção e minimizar a sobrecarga de retorno venoso súbito?",
+      "alineas": {
+        "a": "Friccionar vigorosamente com a toalha em movimentos circulares para estimular a circulação periférica.",
+        "b": "Secar através de compressão suave (tamponamento) com a toalha, sem esfregar.",
+        "c": "Realizar movimentos longitudinais de secagem no sentido proximal-distal para evitar a dor.",
+        "d": "Deixar a pele secar ao ar livre para evitar o contacto com tecidos ásperos."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A fricção em pacientes com edema e fragilidade capilar pode causar lesões na epiderme. O tamponamento protege a integridade cutânea e evita estímulos excessivos em pacientes cardíacos.",
+      "numero": 80
+    },
+    {
+      "tema": "IV. Banho no Leito",
+      "enunciado": "No contexto da higiene íntima feminina durante o banho no leito, o técnico médio deve seguir princípios rigorosos de assepsia para evitar a translocação bacteriana para o trato urinário. Qual a sequência técnica correta?",
+      "alineas": {
+        "a": "Limpar da região anal em direcção ao monte de Vénus, trocando a face da gaze.",
+        "b": "Lavar os grandes lábios, pequenos lábios e meato urinário, partindo da sínfise púbica para o ânus.",
+        "c": "Lavar primeiro a região perianal para garantir que a sujidade mais densa seja removida.",
+        "d": "Utilizar exclusivamente solução de clorexidina degermante 2% em toda a mucosa interna e externa."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A higiene deve ser realizada do local mais limpo para o mais sujo (sentido anteroposterior) para prevenir infecções do trato urinário por micro-organismos entéricos.",
+      "numero": 81
+    },
+    {
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Um paciente adulto de 75kg, acamado e dependente, apresenta prescrição de 'Banho no Leito'. Durante o procedimento, o técnico deve realizar a mudança de decúbito lateral para lavar o dorso. Sobre este momento, assinale a alternativa tecnicamente correcta:",
+      "alineas": {
+        "a": "O técnico deve puxar o paciente pelo braço estendido para facilitar o giro.",
+        "b": "A grade lateral do lado para o qual o paciente será virado deve estar obrigatoriamente baixada antes de iniciar o movimento.",
+        "c": "Deve-se aproveitar a posição em decúbito lateral para realizar a massagem de conforto com álcool a 70% em áreas de proeminência óssea.",
+        "d": "O técnico deve inspecionar a região sacral e trocantérica em busca de sinais de hiperemia não branqueável (estágio I de LPP)."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A inspeção da pele durante o posicionamento lateral é crucial para a prevenção de lesões por pressão; o uso de álcool em proeminências ósseas é contra-indicado pois resseca a pele e favorece lesões.",
+      "numero": 82
+    },
+    {
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Na Sala de Tratamentos, ao preparar o material para o banho no leito de um paciente queimado em 20% da superfície corporal, qual o cuidado prioritário quanto aos materiais e ambiente?",
+      "alineas": {
+        "a": "Manter a temperatura do quarto em 18°C para evitar a proliferação bacteriana.",
+        "b": "Utilizar água fria para reduzir a dor das queimaduras por vasoconstrição.",
+        "c": "Garantir a técnica estéril ou de máxima assepsia, utilizando compressas esterilizadas e água morna estéril se necessário.",
+        "d": "Realizar o banho com o paciente totalmente despido do início ao fim para maior rapidez."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Pacientes queimados perderam a barreira cutânea primária, exigindo rigor técnica asséptica e controle térmico rigoroso para evitar infecções e hipotermia.",
+      "numero": 83
+    },
+    {
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Durante o banho no leito, ao realizar a higiene da cavidade oral de um paciente em coma (escala de Glasgow 6) e não intubado, qual o procedimento de segurança para evitar aspiração brônquica?",
+      "alineas": {
+        "a": "Utilizar grande quantidade de água corrente para bochechos auxiliados.",
+        "b": "Posicionar o paciente em decúbito dorsal horizontal estrito.",
+        "c": "Posicionar o paciente em decúbito lateral ou com a cabeça lateralizada, utilizando espátula e gaze umedecida.",
+        "d": "Apenas realizar a higiene se o paciente recuperar a consciência para tossir."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O decúbito lateral ou a lateralização da cabeça previne que os resíduos líquidos e secreções sejam aspirados para a árvore traqueobrônquica em pacientes sem reflexo de protecção.",
+      "numero": 84
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "No Banco de Urgência, um paciente adulto com desidratação grave necessita de receber 1.500 ml de Soro Fisiológico 0,9% num período de 8 horas. Utilizando um equipo de macrogotas (1 ml = 20 gotas), qual deve ser o fluxo de gotejamento correcto para cumprir a prescrição?",
+      "alineas": {
+        "a": "31 gotas/min",
+        "b": "60 gotas/min",
+        "c": "63 gotas/min",
+        "d": "187 gotas/min"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Aplicando a fórmula (Volume × 20) / (Tempo em minutos): (1500 × 20) / 480 = 62,5. Arredondando tecnicamente para o valor inteiro mais próximo, obtém-se 63 gotas/min.",
+      "numero": 85
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Durante a administração de uma medicação por via Intramuscular profunda no quadrante superior externo do glúteo (região dorsoglútea), o enfermeiro aspira o êmbolo e observa a entrada de sangue na seringa. Perante este achado, qual é a conduta imediata standard?",
+      "alineas": {
+        "a": "Recuar a agulha 1 cm, redireccionar e injectar o fármaco.",
+        "b": "Retirar a agulha, comprimir o local, descartar a seringa com o fármaco e preparar nova dose.",
+        "c": "Injectar lentamente, pois a presença de sangue indica apenas ruptura de capilares superficiais.",
+        "d": "Aspirar até que o sangue termine e prosseguir com a injecção."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A presença de sangue na aspiração indica que a agulha atingiu um vaso sanguíneo; a injecção deve ser interrompida para evitar a via endovenosa acidental, descartando-se todo o material contaminado.",
+      "numero": 86
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Um paciente pediátrico na enfermaria de malária precisa de 250 mg de um antibiótico em frasco-ampola. O stock disponível é de 1g de pó liofilizado. Após diluir o conteúdo em 10 ml de água para injectáveis, quantos mililitros devem ser aspirados para administrar a dose exacta?",
+      "alineas": {
+        "a": "2,0 ml",
+        "b": "5,0 ml",
+        "c": "2,5 ml",
+        "d": "1,5 ml"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Utilizando a regra de três simples: 1000 mg estão para 10 ml, logo 250 mg estão para X. (250 × 10) / 1000 = 2,5 ml.",
+      "numero": 87
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Na técnica de administração de medicação por via Subcutânea para um paciente caquético (muito magro) na sala de tratamentos, como deve o Enfermeiro proceder em relação à prega cutânea e ao ângulo de inserção?",
+      "alineas": {
+        "a": "Realizar prega cutânea e inserir a agulha a 90º com agulha curta.",
+        "b": "Não realizar prega cutânea e inserir a agulha a 15º.",
+        "c": "Realizar prega cutânea e inserir a agulha a 45º para evitar o tecido muscular.",
+        "d": "Inserir a agulha a 90º sem realizar prega, independentemente do IMC."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Em pacientes com escasso tecido adiposo, a prega cutânea e o ângulo de 45º garantem que o fármaco seja depositado no espaço subcutâneo e não no músculo.",
+      "numero": 88
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Ao administrar um fármaco por via Endovenosa directa (bolus), o Técnico de Enfermagem nota edema localizado, dor e resistência ao fluxo no local da punção. Estes sinais clínicos são fortemente sugestivos de:",
+      "alineas": {
+        "a": "Flebite química.",
+        "b": "Extravasamento ou infiltração.",
+        "c": "Embolia gasosa.",
+        "d": "Reacção anafiláctica sistémica."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O edema e a resistência indicam que o líquido está a ser infundido no tecido intersticial e não no lúmen da veia, caracterizando infiltração ou extravasamento.",
+      "numero": 89
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Sobre a técnica de administração de medicação por via Otológica em adultos, qual o movimento correcto do pavilhão auricular para retificar o canal auditivo externo?",
+      "alineas": {
+        "a": "Puxar a orelha para baixo e para trás.",
+        "b": "Puxar a orelha apenas para frente.",
+        "c": "Puxar a orelha para cima e para trás.",
+        "d": "Puxar o lobo da orelha verticalmente para baixo."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Em adultos, a anatomia do canal auditivo exige a tracção para cima e para trás; em crianças pequenas, a manobra é para baixo e para trás.",
+      "numero": 90
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "No Banco de Urgência, um paciente de 72 anos com AVC isquémico apresenta-se com hemiplegia direita e escala de Braden de 11 pontos. Durante o posicionamento em decúbito lateral esquerdo, qual a angulação recomendada para evitar a compressão excessiva do trocânter maior e a consequente isquemia tecidual?",
+      "alineas": {
+        "a": "90 graus exatos em relação ao colchão.",
+        "b": "30 graus, utilizando coxins de apoio.",
+        "c": "45 graus, com elevação simultânea da cabeceira a 60 graus.",
+        "d": "15 graus, apenas para descompressão escapular."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A posição lateral de 30 graus é recomendada para pacientes de alto risco, pois evita a pressão direta sobre as proeminências ósseas do trocânter maior e maléolos, ao contrário da posição de 90 graus.",
+      "numero": 91
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "Durante a prestação de cuidados de higiene no leito a um paciente crítico, o técnico médio de enfermagem deve realizar a higiene oral para prevenir a Pneumonia Associada à Ventilação (PAV). Qual a solução antissética de eleição recomendada pelo protocolo do MINSA e a sua concentração?",
+      "alineas": {
+        "a": "Água oxigenada a 10 volumes.",
+        "b": "Permanganato de potássio a 1:10.000.",
+        "c": "Gluconato de clorexidina a 0,12%.",
+        "d": "Álcool etílico a 70% diluído em soro fisiológico.",
+        "e": "Solução salina hipertónica a 7%."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O gluconato de clorexidina a 0,12% é o padrão-ouro na higiene oral de pacientes acamados e críticos por possuir substantividade e reduzir drasticamente a carga bacteriana na orofaringe.",
+      "numero": 92
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "Um paciente acamado na enfermaria de ortopedia requer a administração de 1000 ml de Soro Fisiológico a 0,9% para hidratação em exatamente 12 horas. Utilizando um sistema de gotejamento padrão (1 ml = 20 gotas), qual deve ser a velocidade de gotejamento ajustada pelo enfermeiro?",
+      "alineas": {
+        "a": "21 gotas/min.",
+        "b": "28 gotas/min.",
+        "c": "35 gotas/min.",
+        "d": "42 gotas/min.",
+        "e": "84 microgotas/min.",
+        "f": "As opções 'b' e 'e' estão correctas."
+      },
+      "resposta_correcta": "f",
+      "justificativa": "O cálculo (1000 * 20) / (12 * 60) resulta em aproximadamente 28 gotas/min. Como 1 gota equivale a 3 microgotas, 28 * 3 = 84 microgotas/min.",
+      "numero": 93
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "Ao realizar a mudança de decúbito de um paciente com tração esquelética no membro inferior esquerdo, o maqueiro e o técnico de enfermagem devem priorizar qual procedimento para garantir a segurança do paciente e a eficácia do tratamento?",
+      "alineas": {
+        "a": "Retirar os pesos da tração momentaneamente para facilitar o giro.",
+        "b": "Manter o alinhamento corporal e a tração contínua, sem remover os pesos.",
+        "c": "Colocar o paciente em decúbito ventral para expansão pulmonar.",
+        "d": "Elevar o membro tracionado acima do nível do coração durante a manobra."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A tração esquelética nunca deve ser interrompida ou os pesos removidos sem ordem médica, pois isso causaria espasmos musculares e desalinhamento da fratura.",
+      "numero": 94
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "Na avaliação de uma úlcera por pressão (UPP) num paciente acamado há 15 dias, o enfermeiro observa perda da espessura total da pele, onde a gordura subcutânea é visível, mas os ossos, tendões ou músculos não estão expostos. Segundo a classificação internacional, esta lesão encontra-se em que estádio?",
+      "alineas": {
+        "a": "Estádio I.",
+        "b": "Estádio II.",
+        "c": "Estádio III.",
+        "d": "Estádio IV.",
+        "e": "Não classificável."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Estádio III caracteriza-se pela perda total da espessura da pele e visualização do tecido adiposo (subcutâneo), sem exposição de estruturas profundas como músculo ou osso.",
+      "numero": 95
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Um paciente de 45 anos, internado no Banco de Urgência após laparotomia exploradora, apresenta uma ferida cirúrgica com exsudato serossanguinolento abundante e coloração escurecida em algumas áreas periféricas. Durante a avaliação de enfermagem, observa-se que o tecido subcutâneo está visível mas não há protusão de órgãos. Segundo a classificação de profundidade NPUAP/EPUAP, adaptada para feridas abertas, esta lesão que envolve destruição total da espessura da pele, mas sem exposição de músculo ou osso, é classificada como:",
+      "alineas": {
+        "a": "Categoria/Estágio I",
+        "b": "Categoria/Estágio II",
+        "c": "Categoria/Estágio III",
+        "d": "Categoria/Estágio IV",
+        "e": "Lesão não estadiável",
+        "f": "Lesão por pressão de tecidos profundos"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Estágio III caracteriza-se pela perda total da espessura da pele, onde a gordura subcutânea pode ser visível, mas sem exposição de tendões, músculos ou ossos.",
+      "numero": 96
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Na sala de tratamentos, o Técnico de Enfermagem prepara-se para realizar o desbridamento autolítico numa úlcera venosa com presença de esfacelo seco e aderente. Para potenciar a acção das enzimas endógenas e manter o meio húmido ideal, qual a cobertura de eleição, considerando que a ferida apresenta baixo exsudato?",
+      "alineas": {
+        "a": "Alginato de Cálcio em mecha",
+        "b": "Hidrogel amorfo",
+        "c": "Clorexidina alcoólica a 0,5%",
+        "d": "Sulfadiazina de prata a 1%",
+        "e": "Carvão activado com prata"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O hidrogel promove o desbridamento autolítico ao hidratar o tecido necrótico/esfacelo em feridas com pouca drenagem, facilitando a remoção natural pelo organismo.",
+      "numero": 97
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Um paciente pediátrico de 6 anos deu entrada com uma queimadura térmica no antebraço direito. Após avaliação, verificou-se a presença de flictenas (bolhas), dor intensa e base da lesão rosada que branqueia à pressão. O enfermeiro deve registar esta queimadura como de:",
+      "alineas": {
+        "a": "1º Grau (Espessura superficial)",
+        "b": "2º Grau de espessura parcial superficial",
+        "c": "2º Grau de espessura parcial profunda",
+        "d": "3º Grau (Espessura total)",
+        "e": "4º Grau (Envolvimento ósseo)"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "As queimaduras de 2º grau superficiais caracterizam-se pela formação de flictenas, dor aguda e palidez à pressão, atingindo a epiderme e derme papilar.",
+      "numero": 98
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Durante a realização de um curativo num doente com úlcera por pressão infectada, o protocolo do MINSA recomenda a técnica de limpeza adequada para evitar a disseminação de microrganismos. Se a ferida for altamente colonizada e purulenta, a técnica correcta de limpeza com Soro Fisiológico 0,9% deve ser:",
+      "alineas": {
+        "a": "Do centro para as bordas (centrífuga), com movimentos circulares.",
+        "b": "Das bordas para o centro (centrípeta), para conter a infecção.",
+        "c": "Apenas por irrigação sob pressão, sem contacto manual.",
+        "d": "De cima para baixo, utilizando apenas uma gaze por cada movimento.",
+        "e": "As opções 'b' e 'd' são falsas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Em feridas infectadas, a limpeza deve ser feita da área menos contaminada (bordas/periferia) para a mais contaminada (centro/leito purulento) para evitar espalhar patógenos para tecidos íntegros.",
+      "numero": 99
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Um idoso apresenta uma lesão por pressão no calcâneo coberta por uma escara negra, dura e seca, sem flutuação, eritema ou edema perilesional. De acordo com as normas internacionais de tratamento de feridas, qual a conduta imediata do técnico de enfermagem?",
+      "alineas": {
+        "a": "Realizar desbridamento cortante imediato para remover a escara.",
+        "b": "Aplicar papaína a 10% para digerir a necrose rapidamente.",
+        "c": "Manter a escara intacta, funcionando como uma barreira biológica natural.",
+        "d": "Fazer scarificação da escara e aplicar alginato de cálcio.",
+        "e": "Encaminhar para bloco operatório urgentemente."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Escaras estáveis (secas, aderentes, sem sinais de infecção) no calcâneo não devem ser removidas ou desbridadas, pois servem como cobertura protectora natural do corpo.",
+      "numero": 100
+    }
+  ]
+}

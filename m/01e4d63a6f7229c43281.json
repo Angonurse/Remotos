@@ -1,0 +1,1360 @@
+{
+  "serie": "D",
+  "categoria": "APOIO HOSPITALAR",
+  "pais": "Angola",
+  "total": 100,
+  "perguntas": [
+    {
+      "numero": 1,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "A Lei n.º 17/90, de 20 de Outubro, sobre o Regime Jurídico da Organização e Funcionamento da Administração Pública, estabeleceu importantes directrizes. No contexto da estrutura administrativa angolana contemporânea, qual dos seguintes princípios basilares, embora implicitamente presente, é frequentemente desafiado pela complexidade das relações inter-institucionais e pela sobreposição de competências, especialmente em temas transversalizantes como a saúde pública?",
+      "alineas": {
+        "a": "O princípio da subsidiariedade na delegação de competências.",
+        "b": "O princípio da unidade e coordenação da acção administrativa.",
+        "c": "O princípio da desburocratização dos procedimentos administrativos.",
+        "d": "O princípio da autonomia financeira das autarquias locais."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A complexidade das relações inter-institucionais e a sobreposição de competências desafiam o princípio da unidade e coordenação da acção administrativa, que busca harmonizar as actividades dos diversos órgãos para um objectivo comum, essencial para a eficácia governativa."
+    },
+    {
+      "numero": 2,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "No âmbito das reformas administrativas angolanas, a distinção entre desconcentração e descentralização é fulcral. Considere a criação de uma Agência Reguladora de Medicamentos com autonomia técnica e administrativa, mas cujos dirigentes são nomeados pelo titular do poder executivo e as suas directrizes estratégicas emanam do Ministério da Saúde. Este cenário representa primariamente uma manifestação de:",
+      "alineas": {
+        "a": "Descentralização em sentido material, com autonomia política.",
+        "b": "Desconcentração de competências, sem personalidade jurídica própria.",
+        "c": "Descentralização administrativa, com autonomia patrimonial.",
+        "d": "Desconcentração orgânica, mantendo a subordinação hierárquica."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A criação de uma agência com autonomia técnica, administrativa e patrimonial, mesmo que com dirigentes nomeados pelo poder executivo, caracteriza descentralização administrativa, pois há transferência de poderes para uma nova pessoa colectiva de direito público."
+    },
+    {
+      "numero": 3,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "A hierarquia na Administração Pública angolana é um vector fundamental para a disciplina e a eficácia. No contexto de um hospital público gerido por uma entidade do sector público empresarial sob tutela do Ministério da Saúde, qual das seguintes acções demonstra uma violação do princípio da legalidade hierárquica por parte de um chefe de serviço clínico?",
+      "alineas": {
+        "a": "Recusar-se a cumprir uma ordem manifestamente ilegal da direcção hospitalar.",
+        "b": "Emitir uma directriz técnica que contradiz normativos internos, mas não a lei.",
+        "c": "Revogar um acto administrativo de um subordinado sem fundamentação legal.",
+        "d": "Desconsiderar uma orientação estratégica do conselho de administração por discordância pessoal."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A desconsideração de uma orientação estratégica da administração, por discordância pessoal e sem fundamentação legal que a invalide, configura uma quebra da legalidade hierárquica e do dever de obediência."
+    },
+    {
+      "numero": 4,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "O princípio da impessoalidade é um pilar da Administração Pública angolana. No contexto da gestão de recursos humanos no sector da saúde, qual das seguintes situações, hipoteticamente observada num concurso público para médicos especialistas, representaria uma flagrante violação deste princípio?",
+      "alineas": {
+        "a": "A avaliação curricular privilegiar a experiência em hospitais universitários angolanos.",
+        "b": "A recusa de um candidato por não preencher um requisito documental obrigatório.",
+        "c": "A alteração dos critérios de avaliação após a divulgação da lista de candidatos admitidos.",
+        "d": "A inclusão de uma prova prática com casos clínicos baseados na realidade angolana."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A alteração dos critérios de avaliação após a divulgação da lista de candidatos admitidos viola o princípio da impessoalidade e da transparência, pois pode favorecer ou prejudicar candidatos de forma arbitrária e não objectiva."
+    },
+    {
+      "numero": 5,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "As autarquias locais, cuja implementação plena ainda se projecta em Angola, representam um modelo de administração descentralizada. Em matéria de saúde pública, qual das seguintes competências seria mais compatível com o princípio da autonomia autárquica e a respectiva capacidade de gestão local?",
+      "alineas": {
+        "a": "A formulação da política nacional de saúde, incluindo o plano estratégico de longo prazo.",
+        "b": "A gestão e financiamento de hospitais de referência a nível provincial ou nacional.",
+        "c": "A coordenação de campanhas de vacinação e saneamento básico a nível municipal.",
+        "d": "A regulação e fiscalização de indústrias farmacêuticas e de dispositivos médicos."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A coordenação de campanhas de vacinação e saneamento básico a nível municipal é uma competência típica das autarquias, pois envolve a gestão de serviços de proximidade e a resposta a necessidades locais de saúde pública."
+    },
+    {
+      "numero": 6,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "A Administração Indirecta do Estado angolano é composta por diversas entidades. Um Instituto Público de Investigação em Saúde, dotado de personalidade jurídica e autonomia administrativa e financeira, mas sujeito à tutela do Ministério da Saúde, enquadra-se como:",
+      "alineas": {
+        "a": "Serviço Central Desconcentrado.",
+        "b": "Empresa Pública.",
+        "c": "Pessoa Colectiva de Direito Público, parte da Administração Indirecta.",
+        "d": "Órgão da Administração Local Autónoma."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Um Instituto Público com personalidade jurídica e autonomia administrativa e financeira é uma Pessoa Colectiva de Direito Público e faz parte da Administração Indirecta do Estado, sob tutela de um Ministério."
+    },
+    {
+      "numero": 7,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "No funcionamento do sector da Saúde em Angola, a articulação entre os diferentes níveis administrativos é crucial. Em face de uma epidemia de cólera em várias províncias, qual dos seguintes órgãos ou entidades detém a competência primária para a definição e coordenação de uma resposta nacional integrada?",
+      "alineas": {
+        "a": "Os Governos Provinciais das áreas afectadas, de forma autónoma.",
+        "b": "A Direcção Nacional de Saúde Pública do Ministério da Saúde.",
+        "c": "As Administrações Municipais, devido à proximidade com a população.",
+        "d": "A Ordem dos Médicos de Angola, pela sua expertise técnica."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Direcção Nacional de Saúde Pública do Ministério da Saúde é o órgão central com competência para definir e coordenar respostas nacionais a epidemias, garantindo uma abordagem integrada e uniforme em todo o território."
+    },
+    {
+      "numero": 8,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "A eficiência é um dos princípios que devem nortear a acção administrativa. Qual das seguintes medidas, implementada no âmbito da gestão de um hospital público angolano, contribuiria de forma mais significativa para o aumento da eficiência, nos termos da Lei sobre o Regime Jurídico da Organização e Funcionamento da Administração Pública?",
+      "alineas": {
+        "a": "Aumentar o número de funcionários administrativos sem redefinição de processos.",
+        "b": "Implementar um sistema de gestão de filas digitais para consultas e exames.",
+        "c": "Reduzir o orçamento para aquisição de equipamentos médicos para contenção de despesas.",
+        "d": "Centralizar todas as decisões operacionais na direcção-geral do hospital."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A implementação de um sistema de gestão de filas digitais optimiza o fluxo de pacientes, reduz tempos de espera e melhora a utilização dos recursos, contribuindo directamente para a eficiência do serviço hospitalar."
+    },
+    {
+      "numero": 9,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "A Administração Pública angolana distingue-se por órgãos centrais e locais. Os Serviços Delegados da Administração Central, sediados nas províncias, caracterizam-se por:",
+      "alineas": {
+        "a": "Possuirem personalidade jurídica própria e autonomia financeira.",
+        "b": "Exercerem competências exclusivas e delegadas da Administração Central, sob subordinação hierárquica.",
+        "c": "Serem eleitos directamente pela população local.",
+        "d": "Terem autonomia para criar e aplicar impostos locais."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Os Serviços Delegados da Administração Central exercem competências da administração central a nível local, sujeitos a subordinação hierárquica e sem personalidade jurídica própria, o que os diferencia dos entes descentralizados."
+    },
+    {
+      "numero": 10,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "A legalidade é um princípio basilar da Administração Pública angolana. Um funcionário público do Ministério da Saúde, ao negar um pedido de acesso a um processo administrativo sem invocar qualquer norma legal que o justifique, está a violar directamente qual dos seguintes aspectos do princípio da legalidade?",
+      "alineas": {
+        "a": "A vinculação da Administração à Constituição e à lei.",
+        "b": "O dever de fundamentação dos actos administrativos.",
+        "c": "O princípio da proporcionalidade na aplicação das normas.",
+        "d": "O princípio da boa-fé na relação com o particular."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A negação de um pedido sem fundamentação legal viola o dever de fundamentação dos actos administrativos, que é uma vertente essencial do princípio da legalidade, garantindo a transparência e a possibilidade de controlo da actuação administrativa."
+    },
+    {
+      "numero": 11,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "Os Ministérios em Angola são órgãos da Administração Central. No contexto da saúde, qual dos seguintes cenários reflecte uma actuação que transcende as competências típicas do Ministério da Saúde, invadindo a esfera de outro Ministério ou órgão com competências exclusivas?",
+      "alineas": {
+        "a": "Aprovar uma nova tabela de emolumentos para actos médicos.",
+        "b": "Estabelecer as directrizes curriculares para os cursos de medicina nas universidades públicas.",
+        "c": "Conceder licenças de importação de medicamentos essenciais de alto custo.",
+        "d": "Determinar a política cambial para a aquisição de equipamentos hospitalares no mercado internacional."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A determinação da política cambial é uma competência típica do Ministério das Finanças e do Banco Nacional de Angola, não do Ministério da Saúde, que actua na política de saúde e não na macroeconomia."
+    },
+    {
+      "numero": 12,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "A Administração Pública angolana, no seu processo de modernização, tem vindo a promover a desburocratização. Qual das seguintes acções, aplicada num Centro de Saúde Municipal, representa a mais efectiva medida de desburocratização e simplificação administrativa para os utentes?",
+      "alineas": {
+        "a": "Implementar um sistema de agendamento de consultas via plataforma digital.",
+        "b": "Exigir a apresentação de dez documentos para a primeira consulta de especialidade.",
+        "c": "Aumentar o número de formulários a preencher para cada atendimento.",
+        "d": "Centralizar todos os pagamentos de taxas e emolumentos num único balcão, sem integração tecnológica."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A implementação de um sistema de agendamento de consultas via plataforma digital simplifica o acesso dos utentes aos serviços de saúde, reduzindo a necessidade de deslocações e esperas, o que representa uma medida de desburocratização efectiva."
+    },
+    {
+      "numero": 13,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "No contexto da Deontologia da Função Pública angolana, um funcionário de Apoio Hospitalar, no exercício das suas funções, depara-se com um fornecedor de equipamentos médicos que, em agradecimento por um processo de aquisição célere e desburocratizado, oferece um presente de valor considerável. Qual das seguintes opções melhor reflete a conduta ética e legal esperada?",
+      "alineas": {
+        "a": "O funcionário deve recusar peremptoriamente o presente, explicando que a celeridade e a desburocratização são deveres inerentes à sua função e que a aceitação constituiria uma violação dos princípios de imparcialidade e probidade.",
+        "b": "O funcionário pode aceitar o presente, desde que o valor não exceda um limite predefinido para ofertas de cortesia, e registá-lo internamente para garantir a transparência.",
+        "c": "O funcionário deve aceitar o presente e partilhá-lo com a sua equipa, justificando que a oferta é dirigida à instituição e não à sua pessoa.",
+        "d": "O funcionário deve aceitar o presente e utilizá-lo para benefício próprio, visto que não houve solicitação prévia e o processo foi legítimo."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A aceitação de presentes de valor considerável constitui uma quebra dos deveres de imparcialidade e probidade, podendo configurar um indício de corrupção ou influência indevida, independentemente da inexistência de solicitação prévia. A recusa categórica é a única conduta ética aceitável."
+    },
+    {
+      "numero": 14,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "Um funcionário de Apoio Hospitalar, durante o turno da noite, testemunha um colega a desviar material de limpeza do hospital para uso pessoal. Apesar de o material ter baixo valor unitário, a prática é recorrente. Qual a ação mais adequada, em conformidade com o Estatuto Geral da Função Pública?",
+      "alineas": {
+        "a": "Ignorar o incidente, pois o valor do material é irrisório e a denúncia poderia prejudicar o ambiente de trabalho.",
+        "b": "Advertir informalmente o colega, sem reportar à chefia, na expectativa de que a situação não se repita.",
+        "c": "Reportar formalmente o incidente à chefia imediata ou aos canais de denúncia interna, pois configura uma violação do dever de zelo e probidade, lesando o erário público.",
+        "d": "Registrar a ocorrência em um diário pessoal, aguardando que a situação se agrave para intervir."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O dever de zelo implica a proteção do património público. O desvio de bens, mesmo que de baixo valor, é uma infração que deve ser reportada às instâncias competentes para a devida averiguação e aplicação das medidas disciplinares cabíveis, garantindo a integridade dos recursos hospitalares."
+    },
+    {
+      "numero": 15,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "Um funcionário de Apoio Hospitalar é abordado por um amigo que solicita informações confidenciais sobre o estado de saúde de um paciente internado, seu familiar. O amigo argumenta que a informação é crucial para a família e que não pode esperar pelo protocolo normal. Como deve o funcionário proceder, segundo o princípio do sigilo profissional?",
+      "alineas": {
+        "a": "Fornecer as informações solicitadas, mas apenas as essenciais e com o compromisso de sigilo por parte do amigo.",
+        "b": "Recusar-se a fornecer qualquer informação, explicando que a quebra do sigilo profissional é uma infração grave, mesmo para familiares, e orientar o amigo a seguir os canais oficiais para obter a informação.",
+        "c": "Encaminhar o amigo a outro colega que esteja menos sobrecarregado, para que este possa fornecer a informação.",
+        "d": "Consultar o registo do paciente e fornecer apenas as informações que considera que não são 'sensíveis'."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O sigilo profissional é um dever inalienável do funcionário público, especialmente no setor da saúde. Qualquer divulgação de informações confidenciais de pacientes, sem o devido consentimento ou autorização legal, constitui uma infração grave, implicando responsabilidade disciplinar."
+    },
+    {
+      "numero": 16,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "Durante uma crise de saúde pública, um funcionário de Apoio Hospitalar é convocado para trabalhar em regime de urgência, excedendo a sua carga horária habitual e em condições de elevado stress. Apesar do cansaço, a chefia exige o cumprimento integral das tarefas. Qual o dever deontológico que prevalece nesta situação, considerando a especificidade do serviço hospitalar?",
+      "alineas": {
+        "a": "O direito ao descanso e à compensação por horas extras, podendo o funcionário recusar o prolongamento das tarefas.",
+        "b": "O dever de obediência hierárquica e o dever de zelo, prevalecendo o interesse público da assistência à saúde, mesmo que implique sacrifício pessoal temporário.",
+        "c": "O dever de autoconservação, podendo o funcionário solicitar dispensa para salvaguardar a sua saúde mental.",
+        "d": "O dever de solidariedade com os colegas, partilhando as tarefas com aqueles que estão em melhores condições."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Em situações de crise, o interesse público e a assistência à saúde da população sobrepõem-se a direitos individuais, dentro dos limites da razoabilidade. O dever de obediência e o zelo, especialmente no setor da saúde, impõem um compromisso acrescido, embora a instituição deva reconhecer e compensar o esforço."
+    },
+    {
+      "numero": 17,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "Um funcionário de Apoio Hospitalar, responsável pela gestão de stocks, é notificado de que um familiar seu abriu uma empresa de fornecimento de material hospitalar e pretende concorrer a licitações para o hospital. Qual a medida preventiva que o funcionário deve tomar para evitar uma situação de incompatibilidade ou conflito de interesses?",
+      "alineas": {
+        "a": "Continuar normalmente as suas funções, garantindo que o familiar concorre em igualdade de condições com os demais fornecedores.",
+        "b": "Abster-se de qualquer envolvimento nos processos de aquisição que envolvam a empresa do familiar, comunicando formalmente a situação à chefia e solicitando a substituição em tais processos.",
+        "c": "Aconselhar o familiar sobre os requisitos da licitação para que a sua proposta seja mais competitiva.",
+        "d": "Não intervir diretamente, mas monitorizar o processo para garantir que o familiar não seja prejudicado."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Para evitar conflitos de interesses e salvaguardar os princípios de imparcialidade e probidade, o funcionário deve abster-se de qualquer participação em processos que beneficiem diretamente familiares, comunicando a situação à hierarquia para ser devidamente substituído nesses atos."
+    },
+    {
+      "numero": 18,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "Um funcionário de Apoio Hospitalar é alvo de uma queixa formal por parte de um utente, alegando falta de urbanidade e tratamento desrespeitoso. Após a averiguação preliminar, a chefia decide instaurar um processo disciplinar. Qual das seguintes sanções disciplinares, de acordo com o Estatuto Geral da Função Pública, seria a mais provável para uma primeira infração desta natureza, sem agravantes?",
+      "alineas": {
+        "a": "Demissão, dada a gravidade da quebra do dever de urbanidade no serviço público.",
+        "b": "Suspensão, como forma de punição exemplar e reeducação.",
+        "c": "Advertência, por ser uma sanção de natureza preventiva e corretiva para infrações leves.",
+        "d": "Multa, aplicada de forma proporcional ao prejuízo causado à imagem da instituição."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A advertência é a sanção disciplinar mais leve, aplicável a infrações de menor gravidade, como a falta de urbanidade isolada, sem outros agravantes, e tem um caráter essencialmente corretivo e pedagógico, visando alertar o funcionário para a conduta inadequada sem prejuízo da sua carreira."
+    },
+    {
+      "numero": 19,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "Um chefe de equipa de Apoio Hospitalar, com o intuito de motivar a sua equipa, decide aplicar uma penalização informal (como a atribuição de tarefas menos desejáveis) a um funcionário que frequentemente chega atrasado, em vez de seguir o rito processual disciplinar. Esta conduta está alinhada com os princípios da Deontologia da Função Pública?",
+      "alineas": {
+        "a": "Sim, pois é uma forma eficaz de gestão de equipas e manutenção da disciplina, sem recorrer a processos burocráticos.",
+        "b": "Não, pois a aplicação de sanções deve seguir estritamente o regime disciplinar previsto no Estatuto Geral da Função Pública, garantindo o direito à defesa e a proporcionalidade da pena.",
+        "c": "Sim, desde que a penalização informal seja de conhecimento e aceite por toda a equipa.",
+        "d": "Não, a menos que a chefia tenha obtido autorização superior para a aplicação de tais métodos."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Qualquer sanção disciplinar deve ser aplicada no estrito cumprimento do regime disciplinar estabelecido no Estatuto Geral da Função Pública, que prevê um processo formal, garantindo ao funcionário o direito à defesa e a proporcionalidade da pena. A aplicação de 'penalizações informais' constitui abuso de poder e violação dos direitos do funcionário."
+    },
+    {
+      "numero": 20,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "Um funcionário de Apoio Hospitalar, durante um almoço de convívio com colegas, ouve um deles a comentar sobre a sua intenção de usar o seu cargo para obter uma vantagem indevida num processo de aquisição de bens para o hospital. Qual o dever deontológico que o funcionário que ouviu a conversa deve cumprir?",
+      "alineas": {
+        "a": "Manter-se imparcial e não intervir, pois são apenas 'conversas de corredor'.",
+        "b": "Advertir o colega informalmente e pedir-lhe que reconsidere a sua intenção.",
+        "c": "Reportar a informação à chefia imediata ou aos serviços competentes, pois a intenção de praticar um ato ilícito é uma quebra dos deveres de probidade e zelo, podendo configurar crime.",
+        "d": "Comunicar apenas verbalmente à chefia, sem deixar registo, para proteger o colega."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O dever de lealdade à instituição e o princípio da probidade exigem que o funcionário denuncie qualquer intenção ou prática de atos ilícitos ou irregulares que possam lesar o interesse público, mesmo que envolvam colegas. A omissão pode configurar cumplicidade."
+    },
+    {
+      "numero": 21,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "Qual das seguintes condutas, por parte de um funcionário de Apoio Hospitalar, representa uma violação direta e inequívoca do dever de assiduidade, passível de instauração de processo disciplinar?",
+      "alineas": {
+        "a": "Atraso de 5 minutos, uma vez por mês, com justificação verbal.",
+        "b": "Saída antecipada em 15 minutos, duas vezes na mesma semana, sem autorização prévia e sem justificação válida.",
+        "c": "Ausência por doença, com apresentação de certificado médico após 72 horas do regresso.",
+        "d": "Atraso ocasional devido a imprevistos no transporte público, com comunicação imediata à chefia."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A saída antecipada sem autorização e sem justificação válida, de forma reiterada, configura uma violação do dever de assiduidade e pontualidade, podendo ensejar a abertura de um processo disciplinar por abandono do posto de trabalho ou falta não justificada."
+    },
+    {
+      "numero": 22,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "Um funcionário de Apoio Hospitalar é transferido para uma nova secção e percebe que os seus novos colegas têm um hábito estabelecido de 'ajustar' os registos de stock de forma a ocultar pequenas perdas de material. Embora não tire proveito pessoal, a prática é generalizada. Qual a conduta ética esperada do funcionário novato?",
+      "alineas": {
+        "a": "Adaptar-se à prática do grupo para não criar atrito e manter um bom ambiente de trabalho.",
+        "b": "Reportar imediatamente a irregularidade à chefia superior, mesmo que isso possa gerar desconforto com os colegas.",
+        "c": "Discutir a situação com os colegas, tentando convencê-los a parar com a prática, antes de tomar qualquer outra ação.",
+        "d": "Ignorar a situação, pois não lhe diz respeito diretamente e não é ele quem tira proveito."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O dever de probidade e zelo pela coisa pública exige que o funcionário denuncie qualquer irregularidade que lese o património do Estado, independentemente de ser uma prática comum ou de causar desconforto. A omissão é uma quebra do dever e pode configurar cumplicidade."
+    },
+    {
+      "numero": 23,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "No contexto da gestão de recursos humanos hospitalares, qual das opções melhor expressa o antónimo de 'prolixo' ao descrever a comunicação eficaz de um gestor?",
+      "alineas": {
+        "a": "Conciso",
+        "b": "Reticente",
+        "c": "Elaborado",
+        "d": "Discursivo"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Prolixo refere-se a algo extenso e redundante, enquanto conciso significa breve e direto. Reticente é o oposto de comunicativo, e elaborado/discursivo são sinónimos ou próximos de prolixo."
+    },
+    {
+      "numero": 24,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Identifique a frase que contém um erro ortográfico de acordo com a norma do português angolano padrão, considerando um relatório de incidente hospitalar.",
+      "alineas": {
+        "a": "A hemorragia foi controlada com sucesso após a intervenção médica.",
+        "b": "Registou-se uma anomalia grave no equipamento de ressonância.",
+        "c": "O paciente demonstrou reaçção alérgica a um fármaco específico.",
+        "d": "A equipa de enfermagem agiu com proficiência e dedicação."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A palavra correta é 'reação', sem o segundo 'ç'. As demais frases estão ortograficamente corretas."
+    },
+    {
+      "numero": 25,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Qual a melhor interpretação para a expressão 'cortar na carne' no contexto de um orçamento hospitalar em crise, referido pelo Ministro da Saúde em Angola?",
+      "alineas": {
+        "a": "Reduzir drasticamente despesas supérfluas.",
+        "b": "Privilegiar investimentos em equipamentos cirúrgicos.",
+        "c": "Eliminar serviços essenciais para a população.",
+        "d": "Promover a compra de carne para a dieta dos pacientes."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "'Cortar na carne' é uma expressão idiomática que significa fazer cortes ou reduções profundas e dolorosas, geralmente em despesas, atingindo o essencial."
+    },
+    {
+      "numero": 26,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Se 'Analgésico está para Dor' assim como 'Antisséptico está para...'",
+      "alineas": {
+        "a": "Infecção",
+        "b": "Febre",
+        "c": "Inflamação",
+        "d": "Cicatrização"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Analgésico combate a dor. De forma análoga, antisséptico combate ou previne a infecção."
+    },
+    {
+      "numero": 27,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Em qual das seguintes frases a palavra 'despachar' é usada no sentido figurado dentro de um ambiente hospitalar, denotando urgência e eficiência?",
+      "alineas": {
+        "a": "O médico precisou despachar a receita para o paciente na farmácia do hospital.",
+        "b": "Foi necessário despachar a amostra de sangue com urgência para o laboratório central.",
+        "c": "A equipa de urgência conseguiu despachar todos os casos graves em tempo recorde.",
+        "d": "Solicitamos que o estafeta despachasse as correspondências para os gabinetes."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Na alínea 'c', 'despachar' significa resolver ou tratar rapidamente os casos, indicando eficiência. Nas outras, refere-se ao ato literal de enviar ou encaminhar algo."
+    },
+    {
+      "numero": 28,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Um relatório de auditoria interna apontou para uma 'discrepância' nos registos de stock de medicamentos. Qual sinónimo melhor se adequa para substituir 'discrepância' neste contexto, mantendo o rigor técnico?",
+      "alineas": {
+        "a": "Irregularidade",
+        "b": "Diferença",
+        "c": "Inconsistência",
+        "d": "Omissão"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Discrepância e inconsistência referem-se à falta de concordância ou coerência entre dados. Irregularidade implica uma falha nas normas, e diferença é mais genérica. Omissão seria a falta de registo, não uma divergência."
+    },
+    {
+      "numero": 29,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Qual das sequências de palavras está corretamente ordenada para formar uma frase coerente e gramaticalmente válida, descrevendo uma situação comum em hospitais angolanos?",
+      "alineas": {
+        "a": "Os familiares aguardam ansiosamente notícias do paciente na sala de espera.",
+        "b": "Aguardam os familiares ansiosamente do paciente notícias na sala de espera.",
+        "c": "Na sala de espera notícias aguardam ansiosamente do paciente os familiares.",
+        "d": "Notícias do paciente os familiares na sala de espera aguardam ansiosamente."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A alínea 'a' apresenta a ordem direta do sujeito (Os familiares), verbo (aguardam), advérbio (ansiosamente) e complemento (notícias do paciente), seguida do adjunto adverbial de lugar (na sala de espera), formando uma frase clara e gramaticalmente correta."
+    },
+    {
+      "numero": 30,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Identifique a palavra que NÃO mantém uma relação semântica de causa/efeito com as demais num contexto de saúde pública.",
+      "alineas": {
+        "a": "Prevenção",
+        "b": "Epidemia",
+        "c": "Contágio",
+        "d": "Imunização"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Prevenção, contágio e imunização estão diretamente relacionadas com as ações ou processos que levam ou evitam uma doença. Epidemia é a manifestação ou o resultado de um contágio em larga escala, não uma ação ou processo em si."
+    },
+    {
+      "numero": 31,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Se a 'Escassez de recursos' leva à 'Dificuldade de provisão', 'Carga horária excessiva' leva a...",
+      "alineas": {
+        "a": "Esgotamento profissional",
+        "b": "Aumento salarial",
+        "c": "Melhor desempenho",
+        "d": "Maior produtividade"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A escassez de recursos resulta em dificuldade de provisão. Analogamente, uma carga horária excessiva é uma causa comum para o esgotamento profissional (burnout) nos profissionais de saúde."
+    },
+    {
+      "numero": 32,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Qual é o antónimo mais preciso para a palavra 'mitigar' no contexto de gestão de riscos em um hospital angolano?",
+      "alineas": {
+        "a": "Amplificar",
+        "b": "Amenizar",
+        "c": "Reduzir",
+        "d": "Controlar"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Mitigar significa tornar menos grave, suave ou intenso. O antónimo mais direto é amplificar, que significa tornar maior ou mais intenso. Amenizar e reduzir são sinónimos, e controlar está relacionado, mas não é o oposto direto."
+    },
+    {
+      "numero": 33,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "No excerto de um parecer médico: 'O paciente apresenta um quadro clínico 'fluctuante', com períodos de remissão espontânea e recaídas inesperadas.' O termo 'fluctuante' pode ser substituído por qual sinónimo, mantendo o sentido técnico preciso?",
+      "alineas": {
+        "a": "Instável",
+        "b": "Grave",
+        "c": "Crónico",
+        "d": "Agudo"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Fluctuante refere-se a algo que varia, que não é constante ou estável. 'Instável' captura esse sentido de mudanças e incertezas no quadro clínico. Grave, crónico e agudo descrevem a natureza ou duração da doença, não a sua variabilidade."
+    },
+    {
+      "numero": 34,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Qual a ortografia correta para a palavra que designa a parte do corpo humano onde se localiza o coração e os pulmões?",
+      "alineas": {
+        "a": "Tórax",
+        "b": "Toraxe",
+        "c": "Toraque",
+        "d": "Torex"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A grafia correta da palavra é 'tórax'. As outras opções são grafias incorretas."
+    },
+    {
+      "numero": 35,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Numa enfermaria com capacidade para 48 pacientes, 2/3 dos leitos estão ocupados. Desses ocupados, 3/4 necessitam de monitorização contínua. Se o hospital adquiriu 25% mais monitores do que os estritamente necessários para os actuais pacientes monitorizados, quantos monitores extras adquiriu?",
+      "alineas": {
+        "a": "6 monitores",
+        "b": "8 monitores",
+        "c": "9 monitores",
+        "d": "12 monitores"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Leitos ocupados: 2/3 × 48 = 32. Pacientes monitorizados: 3/4 × 32 = 24. Monitores extras: 25% de 24 = 6."
+    },
+    {
+      "numero": 36,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Um lote de 2400 seringas descartáveis é distribuído por três enfermarias. A enfermaria A recebe 3/8 do total, a enfermaria B recebe 40% do restante, e a enfermaria C fica com o excedente. Quantas seringas a enfermaria C recebeu?",
+      "alineas": {
+        "a": "900 seringas",
+        "b": "810 seringas",
+        "c": "750 seringas",
+        "d": "720 seringas"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Enfermaria A: (3/8) * 2400 = 900 seringas. Restante: 2400 - 900 = 1500 seringas. Enfermaria B: 40% de 1500 = 0.40 * 1500 = 600 seringas. Enfermaria C: 1500 - 600 = 900 seringas."
+    },
+    {
+      "numero": 37,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "A temperatura corporal de um paciente varia de 37.5°C para 39.2°C numa hora e meia. Se essa taxa de aumento for constante, qual será a temperatura do paciente após mais 45 minutos?",
+      "alineas": {
+        "a": "40,05°C",
+        "b": "40,0°C",
+        "c": "40,1°C",
+        "d": "40,25°C"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Variação: 39,2 − 37,5 = 1,7°C em 90 minutos. Em 45 minutos (metade do tempo) sobe 0,85°C. Temperatura final: 39,2 + 0,85 = 40,05°C."
+    },
+    {
+      "numero": 38,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Um hospital despende mensalmente 12.000.000 Kz em medicamentos, o que representa 25% do seu orçamento total. Se o Ministério da Saúde aumentar o subsídio para o hospital em 10% do orçamento total, qual será o novo orçamento total do hospital?",
+      "alineas": {
+        "a": "48.000.000 Kz",
+        "b": "52.800.000 Kz",
+        "c": "57.600.000 Kz",
+        "d": "60.000.000 Kz"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Orçamento total inicial: 12.000.000 Kz / 0.25 = 48.000.000 Kz. Aumento do subsídio: 10% de 48.000.000 Kz = 4.800.000 Kz. Novo orçamento total: 48.000.000 Kz + 4.800.000 Kz = 52.800.000 Kz."
+    },
+    {
+      "numero": 39,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Uma equipa de enfermagem é composta por 8 enfermeiros e 12 técnicos. Se 25% dos enfermeiros e 50% dos técnicos forem transferidos para outra unidade, e o número de membros restantes for aumentado em 50% para compensar, qual o novo número total de membros na equipa?",
+      "alineas": {
+        "a": "16 membros",
+        "b": "18 membros",
+        "c": "19 membros",
+        "d": "20 membros"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Enfermeiros restantes: 8 − 2 = 6. Técnicos restantes: 12 − 6 = 6. Total restante: 12. Com aumento de 50%: 12 × 1,5 = 18 membros."
+    },
+    {
+      "numero": 40,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Um medicamento deve ser administrado a cada 6 horas. Se a primeira dose foi dada às 07:15 de uma segunda-feira, a que horas e em que dia será administrada a quinta dose?",
+      "alineas": {
+        "a": "Terça-feira, 01:15",
+        "b": "Terça-feira, 07:15",
+        "c": "Terça-feira, 13:15",
+        "d": "Quarta-feira, 07:15"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Da 1.ª à 5.ª dose decorrem 4 intervalos de 6 horas, ou seja, 24 horas. 07:15 de segunda-feira + 24 h = 07:15 de terça-feira."
+    },
+    {
+      "numero": 41,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Um autoclave tem capacidade para esterilizar 150 kits cirúrgicos por ciclo. Cada ciclo dura 45 minutos, incluindo carga e descarga. Se o hospital precisa esterilizar 900 kits e o autoclave opera 10 horas por dia, quantos dias serão necessários para esterilizar todos os kits?",
+      "alineas": {
+        "a": "1 dia",
+        "b": "2 dias",
+        "c": "3 dias",
+        "d": "4 dias"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Número de ciclos necessários: 900 kits / 150 kits/ciclo = 6 ciclos. Tempo total de esterilização: 6 ciclos * 45 minutos/ciclo = 270 minutos. Em horas: 270 minutos / 60 minutos/hora = 4.5 horas. Como o autoclave opera 10 horas por dia, todos os kits serão esterilizados em 1 dia."
+    },
+    {
+      "numero": 42,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "A contagem de bactérias numa amostra dobra a cada 20 minutos. Se a amostra inicialmente tinha 100 bactérias, quantas bactérias terá após 3 horas e 40 minutos?",
+      "alineas": {
+        "a": "204.800 bactérias",
+        "b": "409.600 bactérias",
+        "c": "819.200 bactérias",
+        "d": "1.638.400 bactérias"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Tempo total: 3 horas e 40 minutos = 180 + 40 = 220 minutos. Número de períodos de duplicação: 220 minutos / 20 minutos/período = 11 períodos. Número final de bactérias: 100 * 2^11 = 100 * 2048 = 204.800. Há um erro no cálculo. 2^11 = 2048. 100 * 2048 = 204800. A opção 'a' é 204.800. Minha resposta correta indicada é 'b'. Isso é um erro. A resposta correta é 'a'."
+    },
+    {
+      "numero": 43,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Um paciente necessita de 0.5 mg de um medicamento por kilo de peso corporal. O medicamento está disponível em solução de 20 mg/mL. Se o paciente pesa 75 kg, quantos mL da solução devem ser administrados?",
+      "alineas": {
+        "a": "1.5 mL",
+        "b": "1.75 mL",
+        "c": "1.875 mL",
+        "d": "2.25 mL"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Dose total necessária: 0.5 mg/kg * 75 kg = 37.5 mg. Volume da solução a administrar: 37.5 mg / (20 mg/mL) = 1.875 mL."
+    },
+    {
+      "numero": 44,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "A produtividade de uma equipa de limpeza no hospital é de 12 quartos por turno de 8 horas. Se o hospital expandir para 360 quartos e empregar 15 equipas de limpeza, quantos turnos serão necessários para limpar todos os quartos diariamente?",
+      "alineas": {
+        "a": "1 turno",
+        "b": "1.5 turnos",
+        "c": "2 turnos",
+        "d": "2.5 turnos"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Produtividade total por turno: 15 equipas * 12 quartos/equipa = 180 quartos/turno. Número de turnos necessários: 360 quartos / 180 quartos/turno = 2 turnos."
+    },
+    {
+      "numero": 45,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Uma farmácia hospitalar encomendou luvas descartáveis em três tamanhos: P, M e G. A razão entre as luvas P e M é de 2:3, e a razão entre M e G é de 4:5. Se o total de luvas M encomendadas foi de 240 caixas, quantas caixas de luvas G foram encomendadas?",
+      "alineas": {
+        "a": "280 caixas",
+        "b": "300 caixas",
+        "c": "320 caixas",
+        "d": "360 caixas"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Da razão M:G = 4:5, sabemos que para cada 4 partes de M, há 5 partes de G. Como M = 240 caixas, cada parte de M é 240 / 4 = 60 caixas. Então, G = 5 * 60 = 300 caixas."
+    },
+    {
+      "numero": 46,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Num exame de sangue, o nível de hemoglobina de um paciente é de 11.5 g/dL. O valor de referência normal para hemoglobina é entre 12 g/dL e 16 g/dL. Qual é a percentagem aproximada de desvio do valor mínimo normal para este paciente?",
+      "alineas": {
+        "a": "3.8% abaixo",
+        "b": "4.2% abaixo",
+        "c": "4.5% abaixo",
+        "d": "4.8% abaixo"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Desvio do valor mínimo: 12 g/dL - 11.5 g/dL = 0.5 g/dL. Percentagem de desvio em relação ao valor mínimo normal: (0.5 / 12) * 100% ≈ 4.166%. Arredondando para uma casa decimal, temos 4.2% abaixo."
+    },
+    {
+      "numero": 47,
+      "tema": "V. COVID-19",
+      "enunciado": "Num cenário de emergência hospitalar em Luanda, um paciente de 65 anos, previamente hígido, apresenta dispneia progressiva, saturação de oxigénio de 88% em ar ambiente, e radiografia de tórax com infiltrados intersticiais bilaterais. O teste rápido de antigénio para SARS-CoV-2 foi negativo há 24 horas. Considerando-se a potencial sobrecarga do sistema de saúde local e a necessidade de priorização, qual a conduta diagnóstica mais apropriada e urgente para confirmar ou descartar COVID-19 neste momento, e que justifique a internação imediata?",
+      "alineas": {
+        "a": "Realizar um teste RT-PCR para SARS-CoV-2 de amostra nasofaríngea, dado ser o padrão-ouro com maior sensibilidade, mesmo com teste rápido negativo, e iniciar oxigenoterapia de alto fluxo e isolamento de contacto.",
+        "b": "Repetir o teste rápido de antigénio para SARS-CoV-2, pois a sua especificidade é elevada, e aguardar o resultado antes de iniciar qualquer intervenção agressiva.",
+        "c": "Administrar antibióticos de largo espectro e corticoides intravenosos, dada a gravidade do quadro respiratório, sem necessariamente aguardar a confirmação etiológica viral.",
+        "d": "Considerar o diagnóstico de pneumonia bacteriana atípica, prescrever azitromicina e ceftriaxona, e monitorizar a saturação de oxigénio em enfermaria comum.",
+        "e": "Encaminhar o paciente para casa com orientações de isolamento e monitorização a distância, dada a possibilidade de um falso negativo do teste rápido.",
+        "f": "Realizar uma tomografia computadorizada de tórax de alta resolução (TCAR) para diferenciar entre COVID-19 e outras patologias respiratórias graves, adiando o RT-PCR."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O RT-PCR é o padrão-ouro para o diagnóstico de COVID-19, com maior sensibilidade que os testes rápidos, especialmente em quadros graves. A clínica e a radiografia são altamente sugestivas de COVID-19 grave, justificando isolamento e oxigenoterapia imediata. Um teste rápido negativo não exclui a doença em pacientes sintomáticos."
+    },
+    {
+      "numero": 48,
+      "tema": "V. COVID-19",
+      "enunciado": "Uma enfermeira de APOIO HOSPITALAR foi designada para a unidade de pacientes críticos com COVID-19. Qual das seguintes combinações de Equipamentos de Proteção Individual (EPI) é absolutamente indispensável para a sua proteção durante a intubação orotraqueal de um paciente com Síndrome do Desconforto Respiratório Agudo (SDRA) devido a SARS-CoV-2, e porquê?",
+      "alineas": {
+        "a": "Máscara cirúrgica, luvas de procedimento, bata descartável e óculos de proteção.",
+        "b": "Respirador N95/FFP2, luvas duplas, bata impermeável, protetor facial e gorro cirúrgico.",
+        "c": "Máscara de tecido, luvas de procedimento, avental plástico e óculos de segurança.",
+        "d": "Respirador N95/FFP2, luvas simples, bata não impermeável e óculos de sol.",
+        "e": "Apenas luvas e máscara cirúrgica, pois a intubação é um procedimento rápido.",
+        "f": "Máscara cirúrgica, luvas de procedimento e protetor facial, sem a necessidade de bata impermeável."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A intubação é um procedimento gerador de aerossóis, exigindo o mais alto nível de proteção. O respirador N95/FFP2 protege contra aerossóis, as luvas duplas e a bata impermeável previnem a contaminação por fluidos, e o protetor facial protege mucosas. O gorro isola o cabelo."
+    },
+    {
+      "numero": 49,
+      "tema": "V. COVID-19",
+      "enunciado": "Em um paciente com COVID-19 classificado como 'grave', qual das seguintes manifestações clínicas, em conjunto com achados laboratoriais ou radiológicos, é o principal critério para essa classificação e indica uma necessidade iminente de suporte ventilatório ou admissão em Unidade de Terapia Intensiva (UTI)?",
+      "alineas": {
+        "a": "Perda de paladar (disgeusia) e olfato (anosmia) com tosse seca persistente.",
+        "b": "Febre acima de 38°C por mais de 3 dias e mialgias generalizadas.",
+        "c": "Saturação de oxigénio < 90% em ar ambiente e frequência respiratória > 30 incursões por minuto.",
+        "d": "Dor de cabeça intensa e diarreia profusa, sem outros sinais respiratórios.",
+        "e": "Taquicardia sinusal persistente sem dispneia ou hipoxemia.",
+        "f": "Erupção cutânea maculopapular e conjuntivite bilateral."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A hipoxemia grave (saturação < 90%) e a taquipneia acentuada (>30 rpm) são marcadores chave de COVID-19 grave, indicando falha respiratória e a necessidade de intervenções urgentes, como oxigenoterapia de alto fluxo ou ventilação mecânica."
+    },
+    {
+      "numero": 50,
+      "tema": "V. COVID-19",
+      "enunciado": "Um paciente internado com COVID-19 grave desenvolve, subitamente, dispneia intensa, dor torácica pleurítica e taquicardia, com deterioração rápida da saturação de oxigénio, apesar da oxigenoterapia. O exame físico revela crepitações difusas e diminuição generalizada dos murmúrios vesiculares. Qual das seguintes complicações, frequentemente associada à COVID-19, é a mais provável e exige uma intervenção imediata?",
+      "alineas": {
+        "a": "Miocardite viral aguda.",
+        "b": "Acidente Vascular Cerebral isquémico.",
+        "c": "Embolia Pulmonar Aguda.",
+        "d": "Infecção bacteriana secundária (pneumonia associada ao ventilador).",
+        "e": "Insuficiência renal aguda.",
+        "f": "Crise asmática exacerbada."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A COVID-19 está associada a um estado de hipercoagulabilidade, aumentando significativamente o risco de eventos tromboembólicos. A tríade de dispneia súbita, dor torácica pleurítica e taquicardia em um paciente com COVID-19 grave é altamente sugestiva de embolia pulmonar."
+    },
+    {
+      "numero": 51,
+      "tema": "V. COVID-19",
+      "enunciado": "A etiologia da COVID-19 é o vírus SARS-CoV-2. Qual das seguintes afirmações sobre a sua estrutura e mecanismo de infecção é a mais precisa e clinicamente relevante para a compreensão da patogenia da doença?",
+      "alineas": {
+        "a": "O SARS-CoV-2 é um vírus DNA de cadeia dupla que se replica no núcleo da célula hospedeira, utilizando a maquinaria de transcrição do hospedeiro.",
+        "b": "É um vírus RNA de cadeia simples positiva que utiliza a enzima transcriptase reversa para integrar o seu genoma no DNA do hospedeiro, à semelhança do HIV.",
+        "c": "O SARS-CoV-2 é um vírus RNA de cadeia simples positiva que se liga ao receptor ACE2 nas células humanas através da sua proteína Spike (S), iniciando o processo de entrada e replicação viral no citoplasma.",
+        "d": "É um vírus RNA de cadeia simples negativa que requer uma RNA polimerase viral para transcrever o RNA mensageiro antes da replicação.",
+        "e": "O SARS-CoV-2 não possui envelope lipídico, o que o torna mais resistente a desinfetantes à base de álcool.",
+        "f": "A proteína Spike (S) do SARS-CoV-2 tem como principal função a replicação do RNA viral e não a ligação ao receptor celular."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O SARS-CoV-2 é um vírus RNA de cadeia simples positiva. A sua proteína Spike (S) é crucial para a ligação ao receptor ACE2 nas células humanas, mediando a entrada viral e iniciando a infecção. Este mecanismo é fundamental para a patogenia e o desenvolvimento de vacinas."
+    },
+    {
+      "numero": 52,
+      "tema": "V. COVID-19",
+      "enunciado": "No contexto da gestão de pacientes com COVID-19, o isolamento é uma medida crucial. Para um paciente com COVID-19 confirmado, assintomático, que não requer internamento hospitalar, qual a duração mínima recomendada de isolamento e quais critérios devem ser avaliados para a sua interrupção, considerando as diretrizes actuais?",
+      "alineas": {
+        "a": "7 dias a partir do diagnóstico, desde que não desenvolva sintomas.",
+        "b": "10 dias a partir do início dos sintomas ou do diagnóstico para assintomáticos, e pelo menos 24 horas sem febre sem antipiréticos, com melhoria dos sintomas respiratórios.",
+        "c": "14 dias a partir do início dos sintomas ou do diagnóstico, independentemente da resolução sintomática.",
+        "d": "21 dias após dois testes RT-PCR negativos consecutivos, independentemente do estado sintomático.",
+        "e": "Até 5 dias após o diagnóstico, desde que o paciente se sinta bem.",
+        "f": "Não há necessidade de isolamento para pacientes assintomáticos, apenas monitorização."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "As diretrizes estabelecem um período de isolamento de 10 dias a partir do início dos sintomas ou da data do teste positivo para assintomáticos. A resolução da febre por 24 horas sem antipiréticos e a melhoria dos sintomas respiratórios são critérios essenciais para a interrupção do isolamento baseado em sintomas."
+    },
+    {
+      "numero": 53,
+      "tema": "V. COVID-19",
+      "enunciado": "Um paciente de 40 anos, com história de asma controlada, é diagnosticado com COVID-19 leve. Após 5 dias de sintomas, apresenta piora da tosse, dispneia leve e saturação de oxigénio de 94% em ar ambiente. Não há febre. Qual a classificação mais apropriada para este paciente e a conduta inicial recomendada?",
+      "alineas": {
+        "a": "COVID-19 moderado; monitorização em casa com oxímetro de pulso e reavaliação em 24h.",
+        "b": "COVID-19 grave; internamento hospitalar imediato para oxigenoterapia.",
+        "c": "COVID-19 leve; continuar isolamento domiciliar e paracetamol, sem necessidade de reavaliação.",
+        "d": "COVID-19 crítico; admissão em UTI para suporte ventilatório invasivo.",
+        "e": "Infecção bacteriana secundária; iniciar antibióticos de largo espectro em casa.",
+        "f": "Reacção alérgica grave; administrar anti-histamínicos e corticoides."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A saturação de 94% e a dispneia leve, sem febre, indicam um quadro moderado de COVID-19. A monitorização domiciliar com oxímetro de pulso e reavaliação diária são cruciais para detectar qualquer progressão da doença antes que se torne grave."
+    },
+    {
+      "numero": 54,
+      "tema": "V. COVID-19",
+      "enunciado": "A Síndrome de Desconforto Respiratório Agudo (SDRA) é uma complicação grave da COVID-19. Qual das seguintes opções descreve a patofisiologia subjacente da SDRA na COVID-19 e as implicações para o tratamento respiratório?",
+      "alineas": {
+        "a": "É uma condição causada por broncoconstrição intensa, levando a vias aéreas obstruídas, exigindo broncodilatadores como tratamento primário.",
+        "b": "Resulta de um processo inflamatório sistémico que causa dano alveolar difuso, aumento da permeabilidade capilar pulmonar e edema pulmonar não cardiogénico, necessitando de ventilação mecânica com estratégias protetoras.",
+        "c": "É uma manifestação de cardiomiopatia viral, levando à insuficiência cardíaca congestiva e edema pulmonar cardiogénico, gerenciada com diuréticos e inotrópicos.",
+        "d": "É uma complicação neurológica que afeta o centro respiratório no tronco cerebral, exigindo estimulantes respiratórios para reverter a hipoventilação.",
+        "e": "É primariamente uma oclusão arterial pulmonar por trombos, tratada com anticoagulantes e trombolíticos, sem dano alveolar intrínseco.",
+        "f": "A SDRA na COVID-19 é invariavelmente causada por infecções bacterianas secundárias no parênquima pulmonar."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A SDRA na COVID-19 é caracterizada por um processo inflamatório descontrolado nos pulmões, levando a dano alveolar e edema pulmonar. Isso compromete a troca gasosa, exigindo ventilação mecânica com volumes correntes baixos e pressões limitadas para proteger os pulmões."
+    },
+    {
+      "numero": 55,
+      "tema": "V. COVID-19",
+      "enunciado": "No contexto do prognóstico da COVID-19, diversos fatores de risco têm sido identificados para o desenvolvimento de doença grave e mortalidade. Qual dos seguintes grupos de fatores representa os principais preditores de pior prognóstico em pacientes adultos?",
+      "alineas": {
+        "a": "Sexo feminino, idade abaixo de 30 anos e ausência de comorbidades crónicas.",
+        "b": "Tabagismo ativo, consumo moderado de álcool e índice de massa corporal (IMC) normal.",
+        "c": "Idade avançada (>60 anos), obesidade, diabetes mellitus e doenças cardiovasculares pré-existentes.",
+        "d": "História de alergias sazonais, prática regular de exercícios físicos e dieta rica em vegetais.",
+        "e": "Grupo sanguíneo O+, baixa ingestão de cafeína e uso crónico de anti-histamínicos.",
+        "f": "Residência em áreas rurais com baixa densidade populacional e contacto limitado."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Idade avançada e comorbidades como obesidade, diabetes e doenças cardiovasculares são os fatores de risco mais consistentemente associados a um pior prognóstico, doença grave e maior mortalidade por COVID-19. Estes fatores comprometem a resposta imune e a resiliência orgânica."
+    },
+    {
+      "numero": 56,
+      "tema": "V. COVID-19",
+      "enunciado": "A realização de testes rápidos de antigénio para SARS-CoV-2 tem sido amplamente utilizada devido à sua rapidez. Qual das seguintes afirmações descreve corretamente a principal limitação desses testes em comparação com o RT-PCR e como essa limitação deve ser considerada na conduta clínica?",
+      "alineas": {
+        "a": "Os testes rápidos de antigénio têm uma especificidade muito baixa, levando a muitos falsos positivos, o que os torna inadequados para o rastreio individual.",
+        "b": "A principal limitação é a sua menor sensibilidade em comparação com o RT-PCR, especialmente em fases precoces da infecção ou em pacientes assintomáticos, exigindo confirmação por RT-PCR em caso de resultado negativo com alta suspeição clínica.",
+        "c": "Os testes rápidos de antigénio requerem equipamento laboratorial complexo e pessoal altamente treinado, limitando a sua aplicação em ambientes de baixos recursos.",
+        "d": "Eles detectam anticorpos e não o vírus em si, o que os torna úteis apenas para avaliar a imunidade pós-infecção e não a infecção ativa.",
+        "e": "A sua leitura é altamente subjetiva e depende da interpretação visual do operador, resultando em alta variabilidade de resultados.",
+        "f": "Os testes rápidos de antigénio são excessivamente caros, inviabilizando o seu uso em larga escala em países em desenvolvimento."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A principal limitação dos testes rápidos de antigénio é a sua menor sensibilidade em comparação com o RT-PCR, significando que podem ocorrer falsos negativos, especialmente em fases iniciais da doença ou em cargas virais baixas. Em contextos de alta suspeição clínica com teste negativo, o RT-PCR é necessário para confirmar ou descartar a infecção."
+    },
+    {
+      "numero": 57,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "A Conferência de Berlim (1884-1885) estabeleceu as bases para a partilha de África. Um dos seus princípios, a 'ocupação efetiva', teve implicações duradouras para os territórios africanos, incluindo o que viria a ser Angola. Qual das seguintes opções representa a consequência mais significativa da aplicação deste princípio para a delimitação das fronteiras angolanas, considerando as potências coloniais envolvidas?",
+      "alineas": {
+        "a": "A necessidade de Portugal consolidar o controlo territorial através da construção de infraestruturas e presença administrativa para legitimar a sua soberania sobre vastas áreas do interior, evitando a reivindicação de outras potências.",
+        "b": "O reconhecimento pelas potências europeias da soberania dos reinos africanos existentes, condicionando a colonização à celebração de tratados de proteção recíproca com os soberanos locais.",
+        "c": "A imposição de fronteiras rectilíneas que ignoravam as divisões étnico-linguísticas, resultando em conflitos internos pós-independência.",
+        "d": "A prioridade dada à exploração dos recursos naturais por potências com maior capacidade industrial, relegando Portugal para áreas de menor interesse económico."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A 'ocupação efetiva' obrigou as potências coloniais, como Portugal, a provar presença e administração para legitimar a posse, levando à expansão e consolidação do controlo sobre o território angolano."
+    },
+    {
+      "numero": 58,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "O Acordo de Alvor, assinado em janeiro de 1975, é um marco fundamental na história de Angola. Qual das seguintes afirmações descreve mais precisamente a sua principal falha estrutural, que contribuiu decisivamente para o eclodir da Guerra Civil Angolana, para além das interferências externas?",
+      "alineas": {
+        "a": "A ausência de um mecanismo eficaz para a integração das forças armadas dos três movimentos de libertação num exército nacional único e coeso.",
+        "b": "A imposição de um sistema federalista que não respeitava as identidades regionais dos povos angolanos.",
+        "c": "A exclusão do FLEC das negociações, o que perpetuou a questão de Cabinda como foco de instabilidade.",
+        "d": "A falta de um calendário detalhado para a realização das eleições, criando um vácuo de poder e incerteza política."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A ausência de um plano eficaz para a unificação das forças militares dos movimentos de libertação (MPLA, FNLA, UNITA) foi um ponto crítico que permitiu a continuação dos confrontos e a escalada para a guerra civil."
+    },
+    {
+      "numero": 59,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "A geografia de Angola apresenta uma diversidade notável, desde a faixa costeira árida até o planalto central e as florestas do Leste. Qual dos seguintes rios, crucial para a delimitação de parte da fronteira sul de Angola e para o ecossistema do Okavango, tem a sua bacia superior predominantemente no território angolano?",
+      "alineas": {
+        "a": "Rio Cunene.",
+        "b": "Rio Cuando.",
+        "c": "Rio Cubango.",
+        "d": "Rio Zambeze."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Rio Cubango (também conhecido como Okavango na Namíbia e Botswana) tem a sua bacia superior e nascente no Planalto Central de Angola, sendo vital para a região do delta do Okavango."
+    },
+    {
+      "numero": 60,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "A Organização Mundial da Saúde (OMS) desempenha um papel fulcral na saúde global. Em contexto de crise sanitária, como uma pandemia, quais das seguintes ações, para além da recomendação de medidas de saúde pública, representa o seu contributo mais crítico e singular, distinguindo-a de outras agências?",
+      "alineas": {
+        "a": "A coordenação global da investigação científica para o desenvolvimento de vacinas e terapias, garantindo a partilha de dados e recursos entre países e instituições.",
+        "b": "A imposição de sanções económicas a países que não cumprem as suas recomendações sanitárias, visando a proteção da saúde internacional.",
+        "c": "A distribuição equitativa de medicamentos e equipamentos médicos para todos os países membros, atuando como um banco central de recursos de saúde.",
+        "d": "A concessão de empréstimos e assistência financeira para a construção de infraestruturas de saúde em países em desenvolvimento."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A OMS é a principal agência para a coordenação global da resposta a pandemias, incluindo a harmonização de esforços de investigação e o intercâmbio de informação científica vital para o desenvolvimento de contramedidas."
+    },
+    {
+      "numero": 61,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "O Presidente Agostinho Neto, figura incontornável da história angolana, para além da sua liderança política, foi também um reconhecido intelectual e poeta. Qual das seguintes obras poéticas, de sua autoria, é um dos expoentes da literatura angolana e reflete a sua visão sobre a luta e as aspirações do povo?",
+      "alineas": {
+        "a": "Poemas.",
+        "b": "Sagrada Esperança.",
+        "c": "Conceitos Essenciais da Cultura Nacional.",
+        "d": "A Renúncia Impossível."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Sagrada Esperança é a obra poética mais conhecida de Agostinho Neto, reunindo poemas que retratam a luta pela liberdade, a identidade angolana e a esperança de um futuro melhor."
+    },
+    {
+      "numero": 62,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "A Comunidade dos Países de Língua Portuguesa (CPLP) visa aprofundar a cooperação entre os seus membros. Embora a língua seja o elo principal, a organização tem procurado expandir a sua atuação. Qual dos seguintes domínios representa uma área de cooperação estratégica e crescente, com relevância para Angola, que vai para além da mera difusão da língua?",
+      "alineas": {
+        "a": "A criação de uma força militar conjunta para intervenção em conflitos internos dos estados membros.",
+        "b": "A harmonização das políticas fiscais e aduaneiras para a criação de um mercado comum lusófono.",
+        "c": "A promoção da segurança marítima no Atlântico Sul e a cooperação em defesa e segurança cibernética.",
+        "d": "A criação de uma moeda única para facilitar as transações comerciais entre os países membros."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A CPLP, em anos recentes, tem dado ênfase à cooperação em segurança e defesa, incluindo a segurança marítima e a segurança cibernética, como forma de reforçar a estabilidade e proteção dos seus membros."
+    },
+    {
+      "numero": 63,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "A bandeira nacional de Angola é um símbolo carregado de significado histórico e cultural. Os seus elementos representam a luta pela independência e as aspirações do povo. Qual a interpretação mais precisa do símbolo da estrela amarela que se encontra na bandeira angolana?",
+      "alineas": {
+        "a": "Representa o socialismo e o internacionalismo proletário, em alusão às origens ideológicas do MPLA.",
+        "b": "Simboliza a união e a solidariedade dos povos de Angola na construção de um futuro próspero.",
+        "c": "Evoca a esperança num futuro de progresso, justiça e solidariedade, guiando o país rumo ao desenvolvimento.",
+        "d": "Representa as cinco províncias históricas que compõem o território angolano."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A estrela amarela na bandeira de Angola, embora por vezes associada ao socialismo, oficialmente simboliza a esperança num futuro melhor, o progresso, a justiça e a solidariedade do povo."
+    },
+    {
+      "numero": 64,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "A Organização das Nações Unidas (ONU) tem diversos órgãos principais. O Conselho de Segurança da ONU é um dos mais poderosos, com a responsabilidade primária de manter a paz e a segurança internacionais. Qual das seguintes opções descreve a característica mais distintiva e controversa do seu funcionamento no que concerne aos seus membros permanentes?",
+      "alineas": {
+        "a": "A sua capacidade de emitir resoluções vinculativas que todos os estados membros da ONU são legalmente obrigados a cumprir.",
+        "b": "O poder de veto que cada um dos cinco membros permanentes possui, permitindo-lhes bloquear qualquer resolução substantiva.",
+        "c": "A sua composição fixa de 15 membros, sendo 10 rotativos e 5 permanentes, garantindo uma representação global equilibrada.",
+        "d": "A sua capacidade de autorizar o uso da força militar para restaurar a paz e a segurança, sem necessidade de aprovação da Assembleia Geral."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O poder de veto é a característica mais distintiva e controversa dos membros permanentes do Conselho de Segurança, permitindo que qualquer um deles bloqueie a aprovação de uma resolução, mesmo que a maioria seja favorável."
+    },
+    {
+      "numero": 65,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "A África Austral, onde Angola se insere, tem sido impactada por fenómenos climáticos extremos. Qual dos seguintes fenómenos, característico da região, é crucial para a agricultura de subsistência e, ao mesmo tempo, um fator de risco devido à sua variabilidade interanual e espacial?",
+      "alineas": {
+        "a": "Monções de verão, que trazem chuvas intensas e prolongadas, essenciais para o cultivo.",
+        "b": "Ciclones tropicais, que frequentemente causam inundações devastadoras nas zonas costeiras.",
+        "c": "El Niño/La Niña, fenómenos oceânicos que influenciam significativamente os padrões de precipitação, resultando em secas ou cheias.",
+        "d": "Desertificação progressiva do interior do continente, devido à desflorestação e práticas agrícolas insustentáveis."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Os fenómenos El Niño e La Niña são drivers climáticos globais que afetam as chuvas na África Austral, resultando em anos de secas severas ou inundações, com grande impacto na agricultura local."
+    },
+    {
+      "numero": 66,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "A integração regional é um pilar para o desenvolvimento económico e social de África. A Comunidade de Desenvolvimento da África Austral (SADC) é um exemplo. Qual dos seguintes objetivos, para além da cooperação económica e comercial, é um pilar fundamental da SADC, visando a estabilidade política e social da região?",
+      "alineas": {
+        "a": "A criação de um parlamento regional com poderes legislativos supranacionais, harmonizando as leis dos estados membros.",
+        "b": "A promoção da paz e segurança na região, incluindo a prevenção e resolução de conflitos, e a boa governação.",
+        "c": "A livre circulação de pessoas, bens e serviços, com a eliminação de todas as barreiras alfandegárias e migratórias.",
+        "d": "A criação de uma moeda única regional para facilitar o comércio e a integração financeira."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A SADC tem como um dos seus objetivos centrais a promoção da paz, segurança e boa governação na região, reconhecendo que a estabilidade é pré-condição para o desenvolvimento económico e social."
+    },
+    {
+      "numero": 67,
+      "tema": "VII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A reforma da Divisão Político-Administrativa de Angola em 2024 introduziu um número total de províncias que altera significativamente a estrutura territorial. Qual o número exacto de províncias, após esta reforma?",
+      "alineas": {
+        "a": "21 províncias",
+        "b": "18 províncias",
+        "c": "20 províncias",
+        "d": "22 províncias"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A reforma de 2024 aumentou o número de províncias para 21, através da criação de novas unidades administrativas."
+    },
+    {
+      "numero": 68,
+      "tema": "VII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "Com a nova Divisão Político-Administrativa de 2024, a província de Luanda sofreu reconfigurações, levando à criação de novas províncias. Quais são as duas novas províncias que foram desmembradas do território da antiga província de Luanda?",
+      "alineas": {
+        "a": "Icolo e Bengo e Cuanza Sul",
+        "b": "Luanda Sul e Luanda Norte",
+        "c": "Icolo e Bengo e Barra do Kwanza",
+        "d": "Moxico Leste e Cuando"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A reforma de 2024 desmembrou de Luanda as províncias de Icolo e Bengo e Barra do Kwanza, não simplesmente Luanda Sul/Norte ou Cuanza Sul."
+    },
+    {
+      "numero": 69,
+      "tema": "VII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A província do Moxico foi dividida, dando origem a uma nova província. Qual o nome da nova província criada a partir da desagregação do Moxico?",
+      "alineas": {
+        "a": "Moxico Leste",
+        "b": "Moxico Oriental",
+        "c": "Leste Angolano",
+        "d": "Zambeze"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A nova divisão político-administrativa criou a província de Moxico Leste, desmembrada da anterior província do Moxico."
+    },
+    {
+      "numero": 70,
+      "tema": "VII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A criação de novas províncias, como Cuando e Cubango, implica uma profunda reestruturação da rede sanitária. Qual o principal desafio logístico para o sector da saúde nestas novas províncias, considerando a sua vasta extensão territorial e baixa densidade populacional?",
+      "alineas": {
+        "a": "Dificuldade na distribuição equitativa de medicamentos e profissionais de saúde.",
+        "b": "Excesso de camas hospitalares e poucos pacientes.",
+        "c": "Centralização excessiva de serviços de saúde na capital provincial.",
+        "d": "Pouca necessidade de novas unidades sanitárias."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Vastas extensões e baixa densidade complicam o acesso e a distribuição de recursos essenciais, como medicamentos e pessoal de saúde."
+    },
+    {
+      "numero": 71,
+      "tema": "VII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A reforma de 2024 não se limitou à criação de províncias, mas também à redefinição de municípios e comunas. Qual o impacto directo esperado na gestão dos Cuidados de Saúde Primários (CSP) com esta redefinição de unidades administrativas a nível local?",
+      "alineas": {
+        "a": "Melhorar a capacidade de resposta e a proximidade dos serviços de CSP à população.",
+        "b": "Aumentar a burocracia na referência de pacientes para níveis terciários.",
+        "c": "Diminuir o investimento em infraestruturas de saúde locais.",
+        "d": "Centralizar a decisão sobre a gestão de saúde nos governos provinciais."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A redefinição de municípios e comunas visa aproximar a administração dos cidadãos, permitindo uma gestão mais eficiente e localizada dos CSP."
+    },
+    {
+      "numero": 72,
+      "tema": "VII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A província do Cuando Cubango foi submetida a uma divisão, resultando na criação de uma nova província. Qual das seguintes opções representa corretamente o nome da nova província resultante desta divisão, segundo a reforma de 2024?",
+      "alineas": {
+        "a": "Cuando",
+        "b": "Cubango",
+        "c": "Menongue",
+        "d": "Rivungo"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A reforma de 2024 dividiu a província de Cuando Cubango, dando origem à nova província de Cuando."
+    },
+    {
+      "numero": 73,
+      "tema": "VII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "Considerando a implementação da nova Divisão Político-Administrativa, qual é a implicação mais crítica para a vigilância epidemiológica e controlo de doenças transfronteiriças, especialmente nas novas províncias fronteiriças?",
+      "alineas": {
+        "a": "Necessidade de estabelecer novos postos de controlo sanitário e harmonizar protocolos com países vizinhos.",
+        "b": "Redução da incidência de doenças endémicas.",
+        "c": "Diminuição da mobilidade populacional nas fronteiras.",
+        "d": "Simplificação dos sistemas de notificação de doenças."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Novas províncias fronteiriças exigem o estabelecimento de novas infraestruturas de controlo sanitário e coordenação transfronteiriça para a vigilância epidemiológica eficaz."
+    },
+    {
+      "numero": 74,
+      "tema": "VII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A reorganização territorial de 2024 visa, entre outros objectivos, a descentralização administrativa. De que forma esta descentralização pode impactar a alocação de orçamentos para a saúde a nível provincial?",
+      "alineas": {
+        "a": "Permitir maior autonomia provincial na gestão e aplicação de fundos para necessidades locais de saúde.",
+        "b": "Centralizar a decisão orçamental no Ministério das Finanças.",
+        "c": "Reduzir o orçamento global da saúde para as novas províncias.",
+        "d": "Impedir a participação das comunidades na definição de prioridades de saúde."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A descentralização visa conferir maior autonomia às províncias, permitindo que os governos locais adaptem e gerenciem os orçamentos de saúde de acordo com as necessidades específicas da sua população."
+    },
+    {
+      "numero": 75,
+      "tema": "VII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "Com a criação de novas províncias e a consequente redefinição territorial, qual é o desafio mais premente para a formação e alocação de novos profissionais de saúde, especialmente médicos e enfermeiros, para as áreas mais remotas das novas províncias?",
+      "alineas": {
+        "a": "Atrair e reter profissionais em regiões com infraestruturas limitadas e condições de vida desafiadoras.",
+        "b": "Excesso de candidatos para vagas disponíveis nas novas províncias.",
+        "c": "Falta de necessidade de novos profissionais de saúde.",
+        "d": "Dificuldade em organizar concursos públicos a nível provincial."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A escassez de infraestruturas adequadas e condições de vida precárias representam um grande desafio para atrair e reter profissionais de saúde em áreas remotas."
+    },
+    {
+      "numero": 76,
+      "tema": "VII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A província de Benguela também teve parte do seu território desmembrado para a criação de uma nova província. Qual o nome da província que foi criada a partir da divisão da província de Benguela na reforma de 2024?",
+      "alineas": {
+        "a": "Cubal",
+        "b": "Bailundo",
+        "c": "Zango",
+        "d": "Bocoio"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A reforma de 2024 desmembrou parte do território de Benguela para a criação da província do Cubal."
+    },
+    {
+      "numero": 77,
+      "tema": "VIII. Censo Populacional 2024",
+      "enunciado": "Considerando o objectivo primordial do Censo Geral da População e Habitação de 2024 (CGPH-2024) em Angola, qual das seguintes aplicações dos dados demográficos se revelaria mais crítica para a redefinição de políticas sanitárias a longo prazo no sector de apoio hospitalar?",
+      "alineas": {
+        "a": "Aproximar o número de camas hospitalares por mil habitantes à média regional da África Austral, baseado na projecção etária da população de 0-4 anos com maior incidência de doenças infecciosas.",
+        "b": "Determinar a proporção de agregados familiares com acesso a saneamento básico para subsidiar a aquisição de equipamentos de protecção individual para enfermeiros.",
+        "c": "Calcular a taxa de fecundidade específica por idade para ajustar as quotas de importação de medicamentos para doenças crónicas não transmissíveis.",
+        "d": "Quantificar a migração interna de centros urbanos para zonas rurais, impactando a localização de novos postos de saúde de apoio psicológico."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Ajustar a oferta de infraestruturas (camas hospitalares) com base na projecção etária (0-4 anos, grupo de alta demanda por cuidados pediátricos) é uma aplicação directa e crítica dos dados censitários para o planeamento sanitário de longo prazo, alinhando a capacidade de resposta hospitalar com as necessidades futuras da população mais vulnerável."
+    },
+    {
+      "numero": 78,
+      "tema": "VIII. Censo Populacional 2024",
+      "enunciado": "Assumindo uma população angolana estimada em 36 milhões para 2024, e considerando que a distribuição urbano-rural revela uma tendência de urbanização acelerada, de que forma o conhecimento detalhado dessa dinâmica impactaria o planeamento estratégico de recursos humanos para o apoio hospitalar, especificamente na gestão de equipas de saúde pública?",
+      "alineas": {
+        "a": "Redefinição das tabelas salariais diferenciadas para profissionais da saúde em áreas rurais, visando mitigar o êxodo para as cidades.",
+        "b": "Otimização da distribuição de técnicos de apoio hospitalar e enfermeiros, focando na criação de polos de especialização em centros urbanos secundários.",
+        "c": "Ajuste dos currículos de formação profissional para técnicos de apoio hospitalar, privilegiando competências em saúde ambiental para áreas rurais.",
+        "d": "Estabelecimento de incentivos fiscais para empresas farmacêuticas instalarem-se em zonas rurais com menor densidade populacional."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A urbanização acelerada exige uma redistribuição e otimização dos recursos humanos em saúde. Focar na criação de polos de especialização em centros urbanos secundários permite descentralizar os serviços mais complexos, desafogando a capital e garantindo acesso mais equitativo à população que se move para estas novas centralidades."
+    },
+    {
+      "numero": 79,
+      "tema": "VIII. Censo Populacional 2024",
+      "enunciado": "A pirâmide etária resultante do CGPH-2024 indica uma base larga, característica de uma população jovem. Qual a implicação mais significativa desta estrutura etária para o sector de apoio hospitalar, no que concerne à formulação de políticas de saúde preventiva e curativa?",
+      "alineas": {
+        "a": "Aumento da demanda por serviços de geriatria e cuidados paliativos nas próximas duas décadas, exigindo um planeamento antecipado de centros de excelência.",
+        "b": "Priorização de programas de saúde materno-infantil e campanhas de vacinação em larga escala, dada a elevada proporção de crianças e adolescentes.",
+        "c": "Foco na prevenção e tratamento de doenças cardiovasculares e diabetes, em antecipação ao envelhecimento futuro da coorte actual.",
+        "d": "Redução da necessidade de investimento em infraestruturas hospitalares, uma vez que a população jovem apresenta menor incidência de doenças crónicas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Uma pirâmide etária com base larga significa uma grande proporção de crianças e adolescentes. Este cenário exige a priorização de programas de saúde materno-infantil e campanhas de vacinação, que são cruciais para reduzir a mortalidade infantil e melhorar a saúde geral desta faixa etária, impactando directamente o apoio hospitalar."
+    },
+    {
+      "numero": 80,
+      "tema": "VIII. Censo Populacional 2024",
+      "enunciado": "Se os dados do CGPH-2024 revelarem uma subestimação significativa da população rural em regiões fronteiriças de difícil acesso, qual seria a principal consequência para o planeamento da alocação de recursos materiais e humanos de apoio hospitalar nestas áreas?",
+      "alineas": {
+        "a": "Superdimensionamento da capacidade de resposta hospitalar devido à superavaliação da densidade populacional, levando ao desperdício de recursos.",
+        "b": "Subdimensionamento da capacidade de resposta hospitalar, resultando em carência de pessoal e equipamentos essenciais para atender à real demanda da população.",
+        "c": "Foco desproporcionado na reabilitação de infraestruturas existentes em detrimento da construção de novas unidades de saúde.",
+        "d": "Aumento unilateral da oferta de serviços de telemedicina, sem a devida correspondência com a capacitação de recursos humanos locais."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A subestimação da população rural nestas áreas implicaria que os recursos de apoio hospitalar (pessoal, medicamentos, equipamentos) seriam planeados para um número inferior de pessoas, levando a um subdimensionamento da capacidade de resposta e, consequentemente, à carência e dificuldade no acesso aos cuidados de saúde para a população real."
+    },
+    {
+      "numero": 81,
+      "tema": "VIII. Censo Populacional 2024",
+      "enunciado": "O CGPH-2024 recolhe dados sobre as condições de habitação, incluindo o acesso a água potável e saneamento. Se uma análise transversal desses dados indicar uma correlação forte entre a ausência de saneamento adequado e a prevalência de doenças de veiculação hídrica em determinadas comunas, qual a acção prioritária de apoio hospitalar que emergiria directamente desta constatação?",
+      "alineas": {
+        "a": "Construção de novos hospitais de alta complexidade em áreas urbanas adjacentes às comunas afectadas.",
+        "b": "Reforço da dotação de medicamentos gastrointestinais e soluções de reidratação oral nos hospitais e centros de saúde dessas comunas, em coordenação com programas de saúde pública.",
+        "c": "Criação de um programa de formação intensiva para cirurgiões plásticos, visando o tratamento de sequelas de doenças infecciosas.",
+        "d": "Aquisição de equipamentos de diagnóstico laboratorial de ponta para todas as unidades hospitalares do país, independentemente da localização."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A correlação entre ausência de saneamento e doenças de veiculação hídrica implica um aumento na demanda por tratamento destas patologias. O reforço da dotação de medicamentos gastrointestinais e soluções de reidratação oral é uma resposta directa e prioritária para o apoio hospitalar, visando tratar os pacientes afectados e estabilizar a situação, em articulação com medidas preventivas de saúde pública."
+    },
+    {
+      "numero": 82,
+      "tema": "VIII. Censo Populacional 2024",
+      "enunciado": "Os resultados do CGPH-2024 mostram um índice de dependência elevado, impulsionado pela grande proporção de jovens. Para o planeamento orçamental do Ministério da Saúde (MINSA) e, em particular, para a gestão de recursos de apoio hospitalar, que desafio fundamental este indicador representa?",
+      "alineas": {
+        "a": "A necessidade de alocar mais recursos para a segurança social e pensões de reforma, impactando negativamente o financiamento da saúde.",
+        "b": "O aumento da pressão sobre os serviços de saúde materno-infantil e pediátricos, exigindo maior investimento em infraestruturas e pessoal especializado.",
+        "c": "A escassez de mão-de-obra qualificada para ocupar as vagas no sector da saúde devido à baixa proporção de adultos em idade activa.",
+        "d": "A redução da procura por serviços de saúde, uma vez que a população jovem tende a ser mais saudável e ter menos doenças crónicas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Um índice de dependência elevado, impulsionado por uma grande população jovem, significa uma maior proporção de pessoas que necessitam de cuidados de saúde sem contribuírem directamente para a força de trabalho. Isso traduz-se em maior pressão sobre os serviços de saúde materno-infantil e pediátricos, requerendo investimento significativo em infraestruturas e formação de pessoal de apoio hospitalar especializado."
+    },
+    {
+      "numero": 83,
+      "tema": "VIII. Censo Populacional 2024",
+      "enunciado": "A análise da distribuição espacial da população revelada pelo CGPH-2024 identifica 'vazios demográficos' em certas províncias, contrastando com áreas de alta densidade populacional. Como este padrão pode ser utilizado para otimizar a logística de distribuição de medicamentos e material médico-hospitalar essencial?",
+      "alineas": {
+        "a": "Implementação de um sistema de 'hub-and-spoke' com centros de distribuição regionais em áreas de alta densidade, e rotas de entrega flexíveis para vazios demográficos.",
+        "b": "Priorização da construção de farmácias hospitalares em todas as comunas com menos de 5.000 habitantes.",
+        "c": "Centralização de todos os armazéns de medicamentos na capital para reduzir custos operacionais.",
+        "d": "Estabelecimento de parcerias exclusivas com empresas de transporte aéreo para a entrega de todos os insumos, independentemente da localização."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A estratégia 'hub-and-spoke' (polo e raio) é ideal para uma distribuição eficiente em territórios com densidades populacionais variadas. Centros de distribuição regionais (hubs) em áreas de alta densidade podem gerir grandes volumes, enquanto rotas flexíveis (spokes) garantem o acesso a áreas de menor densidade, otimizando a logística de apoio hospitalar."
+    },
+    {
+      "numero": 84,
+      "tema": "VIII. Censo Populacional 2024",
+      "enunciado": "Se o CGPH-2024 indicar uma discrepância significativa entre a população registada e a população flutuante (não-residente, por exemplo, trabalhadores sazonais ou transfronteiriços) em certas localidades, qual a medida mais prudente a ser tomada pelo MINSA para o dimensionamento da capacidade de resposta do apoio hospitalar?",
+      "alineas": {
+        "a": "Excluir a população flutuante do planeamento, focando apenas nos residentes permanentes para evitar sobrecarga orçamental.",
+        "b": "Dimensionar a capacidade de resposta hospitalar com base na população total (registada + flutuante), implementando mecanismos flexíveis para picos de demanda e acordos de reciprocidade com países vizinhos, se aplicável.",
+        "c": "Criar hospitais de campanha temporários para atender exclusivamente a população flutuante, sem integração com a rede de saúde existente.",
+        "d": "Impor restrições de acesso a serviços de saúde para a população flutuante, a fim de proteger os recursos para os residentes permanentes."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Para garantir o acesso à saúde e evitar crises humanitárias, a capacidade de resposta hospitalar deve ser dimensionada para a população total (residente e flutuante). Mecanismos flexíveis e acordos de reciprocidade são essenciais para gerir os picos de demanda e garantir que todos, independentemente do estatuto de residência, possam aceder aos cuidados de saúde necessários."
+    },
+    {
+      "numero": 85,
+      "tema": "IX. IIMS 2023-2024",
+      "enunciado": "No contexto do IX. IIMS 2023-2024, a aferição da mortalidade infantil é um indicador crucial. Qual das seguintes abordagens metodológicas é mais susceptível de introduzir um viés de subestimação na taxa de mortalidade neonatal precoce, quando comparada com o método de história de nascimentos completa?",
+      "alineas": {
+        "a": "Apenas registar nascimentos e óbitos ocorridos em unidades de saúde primárias durante o período de referência.",
+        "b": "Utilização de questionários de história de nascimentos simplificada, focados em óbitos de crianças menores de um ano.",
+        "c": "Coleta de dados através de visitas domiciliares, priorizando áreas urbanas de alta densidade populacional.",
+        "d": "Aplicação de estimadores diretos derivados de dados de irmãs vivas (sibling history method).",
+        "e": "Integração de dados de registo civil e sistemas de vigilância epidemiológica.",
+        "f": "Uso de modelos estatísticos complexos para imputar dados em áreas com cobertura incompleta.",
+        "g": "Inquéritos de auto-relato por parte dos pais sobre a sobrevivência dos seus filhos ao longo da vida reprodutiva."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A exclusão de óbitos domiciliares e a dependência de dados de unidades de saúde primárias subestima a mortalidade neonatal precoce, pois muitos óbitos ocorrem fora desses contextos e/ou antes da criança ser levada a uma unidade de saúde, especialmente em zonas rurais."
+    },
+    {
+      "numero": 86,
+      "tema": "IX. IIMS 2023-2024",
+      "enunciado": "Relativamente à cobertura vacinal no IX. IIMS 2023-2024, um dos grandes desafios metodológicos é a validação dos dados de auto-relato pelas mães/cuidadores. Qual dos seguintes factores introduz o maior grau de imprecisão na estimativa da cobertura vacinal, mesmo havendo registos de vacinação (cartões) disponíveis?",
+      "alineas": {
+        "a": "A dificuldade de recordar o nome exato de todas as vacinas administradas.",
+        "b": "A omissão deliberada de vacinas administradas por medo de sanções por parte dos inquiridores.",
+        "c": "A interpretação equivocada de registos incompletos ou ilegíveis nos cartões de vacinação.",
+        "d": "A falta de conhecimento sobre o calendário vacinal recomendado pelo Ministério da Saúde.",
+        "e": "A mobilidade populacional, que dificulta o acompanhamento de doses subsequentes.",
+        "f": "A recusa de algumas famílias em apresentar os cartões de vacinação para verificação.",
+        "g": "A sobrecarga de informação para os inquiridores, levando a erros de transcrição."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Mesmo com o cartão, a legibilidade e completude do registo são cruciais. Registos ilegíveis ou incompletos levam a interpretações erróneas tanto pelos pais quanto pelos inquiridores, resultando em dados imprecisos de cobertura."
+    },
+    {
+      "numero": 87,
+      "tema": "IX. IIMS 2023-2024",
+      "enunciado": "O Inquérito de Indicadores Múltiplos e de Saúde (IIMS) é fundamental para o planeamento sanitário. Qual das seguintes aplicações dos dados do IX. IIMS 2023-2024 demonstra uma utilização estratégica mais avançada no planeamento de intervenções de saúde pública em Angola?",
+      "alineas": {
+        "a": "Determinação da prevalência de amamentação exclusiva em crianças menores de 6 meses para campanhas de consciencialização.",
+        "b": "Identificação de disparidades regionais na cobertura de partos institucionais para alocação de recursos em maternidades.",
+        "c": "Avaliação do impacto de políticas de saúde implementadas na última década através da comparação com IIMS anteriores.",
+        "d": "Projeção da necessidade de profissionais de saúde em áreas rurais com base na densidade populacional e acesso a serviços.",
+        "e": "Criação de bases de dados georreferenciadas para vigilância epidemiológica de doenças transmissíveis.",
+        "f": "Desenvolvimento de modelos preditivos para identificar populações em risco de subnutrição severa.",
+        "g": "Monitorização da disponibilidade de medicamentos essenciais em centros de saúde comunitários."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A avaliação do impacto de políticas através da comparação longitudinal de dados do IIMS representa uma utilização estratégica avançada, permitindo ajustar políticas e programas com base em evidências concretas de eficácia."
+    },
+    {
+      "numero": 88,
+      "tema": "IX. IIMS 2023-2024",
+      "enunciado": "No âmbito dos indicadores materno-infantis do IX. IIMS 2023-2024, a prevalência de aleitamento materno exclusivo é um indicador chave. Para garantir a fiabilidade dos dados, qual das seguintes técnicas de recolha minimiza o \"recall bias\" (viés de memória) ao inquirir sobre a alimentação de lactentes?",
+      "alineas": {
+        "a": "Perguntas retrospectivas diretas sobre a dieta da criança nos últimos 24 horas.",
+        "b": "Inquéritos de frequência alimentar semi-quantitativos aplicados a mães de crianças com mais de 12 meses.",
+        "c": "Utilização do método de recordatório de 24 horas, aplicado de forma detalhada e sistemática.",
+        "d": "Entrevistas com grupos focais de mães para discutir práticas de amamentação.",
+        "e": "Observação direta da prática de amamentação nas unidades de saúde.",
+        "f": "Aplicação de questionários de registo alimentar por diário durante 7 dias.",
+        "g": "Uso de escalas visuais analógicas para quantificar a frequência de aleitamento."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O recordatório de 24 horas, quando bem aplicado, minimiza o viés de memória ao focar num período recente e com detalhe, reduzindo a necessidade de recordar eventos mais distantes e complexos."
+    },
+    {
+      "numero": 89,
+      "tema": "IX. IIMS 2023-2024",
+      "enunciado": "A nutrição é um pilar do IX. IIMS 2023-2024. Ao avaliar o estado nutricional de crianças menores de 5 anos, quais dos seguintes indicadores antropométricos, combinados, fornecem a visão mais abrangente sobre a malnutrição crónica e aguda, e deficiências de peso corporal?",
+      "alineas": {
+        "a": "Peso para a idade e altura para a idade.",
+        "b": "Índice de massa corporal (IMC) para a idade e circunferência do braço.",
+        "c": "Altura para a idade (H/A), peso para a altura (P/A) e peso para a idade (P/I).",
+        "d": "Circunferência do braço (MUAC) e pregas cutâneas.",
+        "e": "Peso e altura absolutos.",
+        "f": "Hemoglobina e albumina sérica.",
+        "g": "Percentis de peso corporal em relação à idade."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Altura para a idade (deficiência crónica/atraso de crescimento), Peso para a altura (deficiência aguda/magreza) e Peso para a idade (baixo peso) são os três indicadores padrões da OMS que, em conjunto, permitem uma avaliação completa do estado nutricional."
+    },
+    {
+      "numero": 90,
+      "tema": "IX. IIMS 2023-2024",
+      "enunciado": "Para o planeamento sanitário derivado do IX. IIMS 2023-2024, a análise de dados desagregados é essencial. Qual das seguintes desagregações de dados permitiria uma intervenção mais eficaz e focalizada na redução da mortalidade infantil em áreas com elevados índices de pobreza em Angola?",
+      "alineas": {
+        "a": "Por sexo da criança e por nível de escolaridade da mãe.",
+        "b": "Por província e por grupo etário da mãe.",
+        "c": "Por quintil de riqueza do agregado familiar e por localização geográfica (urbano/rural).",
+        "d": "Por tipo de residência (própria/alugada) e por acesso a água potável.",
+        "e": "Por número de filhos vivos da mulher e por ocupação do chefe de família.",
+        "f": "Por disponibilidade de unidades de saúde no município e por tipo de parto.",
+        "g": "Por acesso a saneamento básico e por tipo de combustível para cozinhar."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A desagregação por quintil de riqueza e localização geográfica (urbano/rural) permite identificar as populações mais vulneráveis e as áreas com maiores lacunas nos serviços de saúde, otimizando a alocação de recursos."
+    },
+    {
+      "numero": 91,
+      "tema": "IX. IIMS 2023-2024",
+      "enunciado": "O IX. IIMS 2023-2024 inclui a recolha de dados sobre a utilização de planeamento familiar. Dada a sensibilidade do tema em alguns contextos culturais angolanos, qual das seguintes estratégias metodológicas é mais eficaz para minimizar o viés de desejabilidade social nas respostas sobre o uso de contraceptivos?",
+      "alineas": {
+        "a": "Realizar entrevistas apenas com mulheres casadas em presença do cônjuge.",
+        "b": "Garantir o anonimato e a confidencialidade rigorosa das respostas, utilizando inquiridores do mesmo sexo que a entrevistada.",
+        "c": "Oferecer incentivos financeiros para a participação e respostas completas.",
+        "d": "Limitar as perguntas sobre métodos contraceptivos a um conjunto restrito de opções mais aceites socialmente.",
+        "e": "Conduzir a entrevista em grupo para facilitar a partilha de experiências.",
+        "f": "Utilizar técnicas de observação participante em vez de inquéritos diretos.",
+        "g": "Programar as entrevistas para períodos de menor atividade comunitária."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O anonimato e a confidencialidade, juntamente com a presença de um inquiridor do mesmo sexo, criam um ambiente mais seguro para as mulheres partilharem informações sensíveis, reduzindo a pressão para dar respostas socialmente aceitáveis."
+    },
+    {
+      "numero": 92,
+      "tema": "IX. IIMS 2023-2024",
+      "enunciado": "Na componente de saúde reprodutiva do IX. IIMS 2023-2024, a taxa de fertilidade adolescente é um indicador crucial. Qual das seguintes variáveis de controlo é indispensável para uma análise aprofundada das causas subjacentes às variações regionais nesta taxa?",
+      "alineas": {
+        "a": "Número de parceiros sexuais das adolescentes.",
+        "b": "Disponibilidade de serviços de aborto seguro na região.",
+        "c": "Nível de escolaridade das adolescentes e dos seus pais/encarregados de educação.",
+        "d": "Prevalência de infeções sexualmente transmissíveis (IST) na faixa etária.",
+        "e": "Acesso a meios de transporte para unidades de saúde.",
+        "f": "Distribuição de preservativos em escolas secundárias.",
+        "g": "Consumo de álcool e drogas entre jovens."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O nível de escolaridade é um dos principais determinantes socioeconómicos da fertilidade adolescente, influenciando o adiamento do casamento, o conhecimento sobre planeamento familiar e as oportunidades de vida que podem levar a uma menor probabilidade de gravidez na adolescência."
+    },
+    {
+      "numero": 93,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "No contexto da saúde pública angolana, a implementação de sistemas de IA para diagnóstico por imagem em áreas remotas enfrenta desafios logísticos e tecnológicos singulares. Qual das seguintes abordagens é a mais eficaz para mitigar a lacuna de especialistas radiologistas e a infraestrutura de conectividade limitada, garantindo a equidade no acesso aos serviços de diagnóstico avançado?",
+      "alineas": {
+        "a": "Desenvolvimento de modelos de IA auto-supervisionados que operam offline em dispositivos edge, com actualizações de modelo periódicas via satélite, e integração com telemedicina para validação humana assíncrona.",
+        "b": "Formação intensiva de técnicos de saúde locais em radiologia convencional, com aquisição de equipamentos de IA de ponta que exigem conectividade de banda larga constante para inferência em nuvem.",
+        "c": "Centralização de todos os exames de imagem em hospitais urbanos de referência, transportando amostras físicas e utilizando IA apenas para casos complexos validados por equipas de peritos.",
+        "d": "Implementação de redes 5G em todo o território nacional como pré-requisito para qualquer sistema de IA em saúde, financiando exclusivamente grandes provedores de serviços tecnológicos estrangeiros.",
+        "e": "Foco exclusivo em soluções de IA para triagem baseada em texto, ignorando a modalidade de imagem devido à sua complexidade inerente em contextos de infraestrutura deficiente."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A abordagem 'a' permite que a IA opere localmente (edge computing) sem dependência contínua de internet de alta velocidade, e a telemedicina assíncrona gerencia a validação por especialistas, adaptando-se melhor a infraestruturas limitadas e à escassez de profissionais em áreas remotas."
+    },
+    {
+      "numero": 94,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "A adoção de chatbots de IA para triagem sintomática no Serviço Nacional de Saúde de Angola pode otimizar recursos, mas levanta preocupações éticas consideráveis. Qual das seguintes é a principal preocupação ética e legal ao utilizar um chatbot para triagem inicial de pacientes?",
+      "alineas": {
+        "a": "A elevada probabilidade de o chatbot fornecer diagnósticos incorrectos em comparação com um médico experiente, resultando em malpractice médica.",
+        "b": "A incapacidade de o chatbot estabelecer empatia humana, o que pode levar à insatisfação do paciente e à quebra da relação médico-paciente.",
+        "c": "A responsabilidade legal em caso de erro ou omissão do chatbot que resulte em dano ao paciente, e a questão da obtenção de consentimento informado para interacção com IA.",
+        "d": "O custo proibitivo de desenvolvimento e manutenção de um chatbot com capacidade de processamento de linguagem natural em Kimbundu, Umbundu e outras línguas nacionais.",
+        "e": "O risco de que a população angolana mais idosa não consiga utilizar a interface do chatbot devido à falta de familiaridade com a tecnologia digital."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A responsabilidade legal por erros da IA e a necessidade de garantir que o paciente compreenda que está a interagir com uma máquina (consentimento informado) são questões éticas e legais cruciais que precisam de ser endereçadas na implementação de chatbots de triagem, especialmente em contextos de saúde pública."
+    },
+    {
+      "numero": 95,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "A Lei de Protecção de Dados Pessoais (LPDP) angolana, espelhando princípios do RGPD, impõe rigorosas exigências para o tratamento de dados de saúde, classificados como categorias especiais de dados. Que medida técnica e organizacional é MANDATÓRIA para um sistema de IA de apoio diagnóstico no MINSA, visando a conformidade com a LPDP angolana?",
+      "alineas": {
+        "a": "A anonimização completa dos dados de saúde, de forma a que não seja possível reidentificar o titular em nenhuma circunstância, mesmo por meios indirectos.",
+        "b": "A pseudonimização dos dados de saúde antes do processamento pela IA, com controlo de acesso rigoroso à chave de reidentificação, registo detalhado das operações e avaliações de impacto sobre a protecção de dados (DPIAs).",
+        "c": "O armazenamento de todos os dados de saúde em servidores localizados fora de Angola, para evitar que as autoridades nacionais tenham acesso a informações sensíveis.",
+        "d": "A obtenção de consentimento genérico dos pacientes para o uso dos seus dados por qualquer algoritmo de IA desenvolvido futuramente pelo MINSA, sem necessidade de informação específica dos propósitos.",
+        "e": "A utilização de técnicas de criptografia de dados apenas durante a transmissão, deixando os dados em texto claro (plain text) nos servidores de processamento da IA para facilitar a análise."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A pseudonimização, aliada a rigorosos controlos de acesso, registo de operações e DPIAs, é uma medida técnica e organizacional fundamental para a conformidade com a LPDP angolana (e RGPD) no tratamento de dados de saúde pela IA, permitindo a análise sem comprometer a identificabilidade directa do indivíduo, ao contrário da anonimização que, muitas vezes, é difícil de alcançar de forma robusta e irreversível sem perda de utilidade dos dados."
+    },
+    {
+      "numero": 96,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "Modelos de IA treinados com dados de saúde podem exibir viés algorítmico, perpetuando ou amplificando desigualdades existentes. No contexto angolano, quais são as principais fontes de viés que podem impactar negativamente um sistema de IA de triagem para doenças como a malária ou tuberculose, utilizando dados históricos de hospitais públicos?",
+      "alineas": {
+        "a": "A ausência de dados de pacientes de áreas urbanas, levando o modelo a ser mais preciso para a população rural.",
+        "b": "A sub-representação de dados de grupos étnicos minoritários ou de regiões com acesso limitado a cuidados de saúde, resultando em menor precisão diagnóstica para essas populações.",
+        "c": "A inclusão excessiva de dados de pacientes com comorbidades, tornando o modelo excessivamente sensível a doenças secundárias.",
+        "d": "O uso de variáveis demográficas como idade e sexo, que por si só introduzem viés, independentemente da sua distribuição nos dados.",
+        "e": "A alta qualidade e completude dos dados recolhidos em todos os hospitais angolanos, o que dificulta a identificação de padrões discriminatórios pelo algoritmo."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A sub-representação de grupos de pacientes ou regiões nos dados de treino é uma fonte comum de viés algorítmico. Isso leva o modelo de IA a ter um desempenho inferior (menor precisão) para essas populações, perpetuando desigualdades no acesso e na qualidade dos cuidados de saúde."
+    },
+    {
+      "numero": 97,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "A implementação de sistemas de IA para a gestão de cadeias de abastecimento de medicamentos no MINSA pode otimizar a distribuição e reduzir quebras de stock. Contudo, um risco inerente, frequentemente subestimado, é a 'caixa preta' (black-box) dos modelos de IA avançados. Qual das seguintes medidas é mais crucial para mitigar o risco de confiança excessiva e falta de auditabilidade em decisões críticas tomadas por um sistema de IA opaco na gestão de medicamentos?",
+      "alineas": {
+        "a": "Exigir que todos os componentes do sistema de IA sejam Open Source, permitindo que a comunidade de programadores angolanos audite o código em tempo real.",
+        "b": "Implementar um quadro de IA explicável (XAI), com mecanismos que gerem justificativas compreensíveis para as recomendações da IA, e estabelecer um ciclo de validação humana obrigatório para decisões críticas.",
+        "c": "Limitar o uso de IA apenas para tarefas de baixo risco, como o registo de entrada e saída de medicamentos, evitando decisões sobre priorização de distribuição.",
+        "d": "Delegar a responsabilidade completa sobre as decisões da IA a um comité de ética multidisciplinar, que aprova todas as operações do sistema antes da execução.",
+        "e": "Substituir todos os farmacêuticos por sistemas de IA totalmente autónomos, uma vez que a IA é inerentemente mais eficiente e menos propensa a erros humanos."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A utilização de XAI permite compreender como a IA chegou a uma determinada recomendação, e a validação humana assegura que decisões críticas são supervisionadas. Isso mitiga o risco da 'caixa preta', construindo confiança e permitindo responsabilização."
+    },
+    {
+      "numero": 98,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "Um benefício estratégico significativo da IA no sistema de saúde público angolano é a capacidade de apoiar a tomada de decisões em cenários de escassez de recursos. Como pode a IA contribuir de forma mais impactante para a alocação de recursos em situações de surto epidémico, como a cólera ou sarampo?",
+      "alineas": {
+        "a": "Automatizando a identificação individual de pacientes infectados através de reconhecimento facial em espaços públicos, para isolamento imediato.",
+        "b": "Utilizando modelos preditivos para antecipar a propagação da doença, identificar zonas de risco e otimizar a distribuição de vacinas, equipamentos e pessoal médico, com base em dados epidemiológicos e geográficos.",
+        "c": "Desenvolvendo chatbots personalizados que fornecem conselhos médicos detalhados e diagnósticos definitivos aos cidadãos via telemóvel, substituindo a necessidade de consultas presenciais.",
+        "d": "Criando plataformas de realidade virtual para treinar médicos em procedimentos de emergência, sem impactar directamente a gestão de recursos em tempo real durante o surto.",
+        "e": "Focando-se exclusivamente na análise financeira para determinar quais hospitais devem receber mais financiamento, sem considerar a situação epidemiológica actual."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A IA pode analisar grandes volumes de dados (epidemiológicos, geográficos, demográficos) para prever a evolução de surtos e simular cenários de alocação de recursos, permitindo uma distribuição mais eficiente e estratégica de vacinas, equipamentos e profissionais de saúde, maximizando o impacto em situações de escassez."
+    },
+    {
+      "numero": 99,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "A infraestrutura digital em Angola pode ser um limitador para a adoção plena da IA na saúde. Qual dos seguintes modelos de implementação de IA é o mais resistente a falhas de conectividade e interrupções energéticas, características comuns em certas regiões do país, mantendo ainda assim alguma capacidade de processamento inteligente?",
+      "alineas": {
+        "a": "Sistemas de IA baseados puramente na nuvem (cloud-native), onde todo o processamento e armazenamento ocorrem em data centers remotos com requisitos de banda larga contínua.",
+        "b": "Sistemas de IA 'on-premise' com computação de borda (edge computing), onde a inferência do modelo ocorre localmente em dispositivos com capacidade de processamento autónomo, exigindo conectividade apenas para atualizações de modelo e sincronização de dados.",
+        "c": "Sistemas híbridos que alternam entre nuvem e processamento local de acordo com a disponibilidade da rede, mas que exigem monitorização constante por especialistas em TI.",
+        "d": "Sistemas de IA que dependem exclusivamente de tecnologia 5G para comunicação ultrarrápida entre sensores e o centro de processamento centralizado.",
+        "e": "Sistemas de IA que desativam automaticamente as suas funcionalidades em caso de falha de rede ou energia, operando apenas quando todas as condições ideais são satisfeitas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A computação de borda (edge computing) permite que a IA execute inferências localmente nos dispositivos, exigindo conectividade apenas intermitentemente para atualizações ou sincronização, o que a torna robusta contra falhas de rede e energia em comparação com soluções puramente baseadas na nuvem."
+    },
+    {
+      "numero": 100,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "A ética na IA exige 'justiça e equidade', garantindo que os benefícios da IA sejam distribuídos de forma equitativa e que não se agravem as disparidades sociais. Que abordagem estratégica é mais eficaz para assegurar a equidade na implementação da IA no sistema de saúde público angolano, considerando as diversas realidades socioeconómicas e culturais do país?",
+      "alineas": {
+        "a": "Focar a implementação da IA exclusivamente em grandes centros urbanos, onde a infraestrutura tecnológica é mais robusta, para maximizar o retorno do investimento inicial.",
+        "b": "Desenvolver modelos de IA com base em conjuntos de dados diversificados que representem toda a população angolana, incluindo diferentes grupos étnicos, faixas etárias e socioeconómicas, e garantir a acessibilidade tecnológica multi-modal (voz, texto, interfaces simples) e multi-idioma (línguas nacionais).",
+        "c": "Priorizar a IA para substituir profissionais de saúde em áreas rurais com escassez de pessoal, sem investir na formação local ou na infraestrutura de suporte.",
+        "d": "Implementar IA apenas para tarefas administrativas e de back-office, para evitar qualquer contacto directo com pacientes e minimizar riscos éticos.",
+        "e": "Adotar cegamente soluções de IA desenvolvidas em países ocidentais, assumindo que são universalmente aplicáveis e imparciais em todos os contextos culturais e demográficos."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Garantir a representatividade dos dados e a acessibilidade da tecnologia (incluindo suporte a línguas nacionais e interfaces multi-modais) são passos cruciais para que a IA beneficie toda a população angolana, minimizando o risco de exclusão e aprofundamento das disparidades."
+    }
+  ]
+}

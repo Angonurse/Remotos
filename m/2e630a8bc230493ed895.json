@@ -1,0 +1,1424 @@
+{
+  "serie": "B",
+  "categoria": "TÉCNICO MÉDIO DE DIAGNÓSTICO E TERAPÊUTICA DE 2ª CLASSE",
+  "subcategoria": "Análises Clínicas e Saúde Pública / Bio Análises Clínicas",
+  "pais": "Angola",
+  "total": 100,
+  "perguntas": [
+    {
+      "resposta_correcta": "d",
+      "alineas": {
+        "a": "Giardia lamblia",
+        "b": "Entamoeba coli",
+        "d": "Entamoeba histolytica",
+        "c": "Blastocystis hominis",
+        "e": "Cyclospora cayetanensis"
+      },
+      "justificativa": "A presença de trofozoítos de Entamoeba histolytica eritrófagos é patognomónica de amebíase invasiva, associada a disenteria.",
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Um paciente apresenta diarreia com muco e sangue, dores abdominais e tenesmo. O exame parasitológico de fezes (EPF) por método direto revela trofozoítos com movimento direcional e eritrófagos. Qual o provável agente etiológico?",
+      "numero": 1
+    },
+    {
+      "enunciado": "Na análise microscópica de uma amostra fecal concentrada pelo método de Faust e Magalhães, são observados ovos ovais com opérculo proeminente e \"ombros\" laterais. Que parasita é este?",
+      "justificativa": "Os ovos de Fasciola hepatica são caracteristicamente grandes, ovais, operculados e geralmente não embrionados nas fezes.",
+      "tema": "I. Coproparasitologia",
+      "alineas": {
+        "b": "Enterobius vermicularis",
+        "d": "Hymenolepis nana",
+        "a": "Ascaris lumbricoides",
+        "e": "Taenia solium",
+        "c": "Fasciola hepatica"
+      },
+      "resposta_correcta": "c",
+      "numero": 2
+    },
+    {
+      "resposta_correcta": "e",
+      "alineas": {
+        "c": "Insuficiência pancreática",
+        "e": "Actividade física moderada e regular",
+        "b": "Uso prolongado de antibióticos",
+        "d": "Estado de hidratação do indivíduo",
+        "a": "Dieta rica em fibras"
+      },
+      "tema": "I. Coproparasitologia",
+      "justificativa": "A actividade física moderada tem um impacto mínimo na composição química das fezes em comparação com dieta, microbiota, hidratação e função digestiva.",
+      "enunciado": "Qual das seguintes condições influencia MENOS a composição química normal das fezes?",
+      "numero": 3
+    },
+    {
+      "resposta_correcta": "d",
+      "alineas": {
+        "a": "Aumento da concentração de ovos de helmintos.",
+        "b": "Lise de cistos de protozoários.",
+        "d": "Degeneração de trofozoítos e alteração da morfologia de cistos.",
+        "c": "Formação de cristais que dificultam a leitura.",
+        "e": "Inibição do crescimento de fungos comensais."
+      },
+      "justificativa": "Trofozoítos são muito lábeis e degeneram rapidamente à temperatura ambiente, e a morfologia dos cistos também pode ser comprometida, dificultando a identificação.",
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Um técnico de laboratório recebe uma amostra de fezes para EPF, mas a amostra foi recolhida há 48 horas e mantida à temperatura ambiente. Qual a principal preocupação em relação à viabilidade do exame?",
+      "numero": 4
+    },
+    {
+      "resposta_correcta": "b",
+      "alineas": {
+        "c": "Uso de antiácidos.",
+        "e": "Colheita da amostra em recipiente não estéril.",
+        "a": "Ingestão de vitamina C em altas doses.",
+        "b": "Dieta rica em carne vermelha (hemoglobina).",
+        "d": "Presença de bilirrubina nas fezes."
+      },
+      "justificativa": "A presença de hemoglobina proveniente da carne vermelha na dieta pode reagir com o reagente de Guáiaco, causando um falso-positivo. A vitamina C é um inibidor, causando falso-negativo.",
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Durante a pesquisa de sangue oculto nas fezes pelo método de Guáiaco, um resultado falso-positivo pode ser causado por:",
+      "numero": 5
+    },
+    {
+      "justificativa": "Quistos maduros de E. histolytica possuem 1 a 4 núcleos, enquanto quistos maduros de E. coli tipicamente possuem 5 a 8 ou mais núcleos.",
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Qual das seguintes características é mais útil para diferenciar quistos de Entamoeba histolytica de quistos de Entamoeba coli?",
+      "resposta_correcta": "b",
+      "alineas": {
+        "c": "Presença de corpos cromatoides.",
+        "e": "Espessura da parede do quisto.",
+        "b": "Número de núcleos maduros.",
+        "d": "Morfologia do cariossoma.",
+        "a": "Tamanho do quisto."
+      },
+      "numero": 6
+    },
+    {
+      "alineas": {
+        "c": "Forma um tampão lipídico mais limpo, facilitando a leitura.",
+        "e": "Não requer centrifugação.",
+        "a": "Maior recuperação de ovos leves.",
+        "b": "Melhor preservação da morfologia de trofozoítos.",
+        "d": "Apropriado para a pesquisa de cistos e ovos, com menor distorção e boa sedimentação."
+      },
+      "resposta_correcta": "d",
+      "enunciado": "Um laboratório utiliza o método de Ritchie (formol-éter) para concentrar amostras fecais. Qual é a principal vantagem deste método em relação ao método de Faust e Magalhães?",
+      "tema": "I. Coproparasitologia",
+      "justificativa": "O método de Ritchie é globalmente eficaz para cistos e ovos, com boa separação de detritos e menor distorção morfológica, sendo uma vantagem sobre métodos que podem induzir mais artefactos.",
+      "numero": 7
+    },
+    {
+      "justificativa": "O método da fita gomada é o mais eficaz para detectar ovos de Enterobius vermicularis (oxiúros), que são depositados na região perianal nocturnamente.",
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Um paciente em idade pediátrica apresenta prurido anal noturno. O método mais adequado para a pesquisa do parasita suspeito é:",
+      "resposta_correcta": "c",
+      "alineas": {
+        "c": "Método da fita gomada (método de Graham).",
+        "e": "Método de Baermann-Moraes.",
+        "a": "Exame parasitológico de fezes por Faust e Magalhães.",
+        "b": "Coprocultura para Shiguella sp.",
+        "d": "Pesquisa de sangue oculto nas fezes."
+      },
+      "numero": 8
+    },
+    {
+      "resposta_correcta": "c",
+      "alineas": {
+        "a": "As amostras devem ser colhidas em recipientes limpos e secos, de boca larga.",
+        "b": "Para a pesquisa de trofozoítos, as amostras devem ser analisadas poucas horas após a colheita ou conservadas adequadamente.",
+        "d": "Para exames seriados, recomenda-se a colheita de 3 amostras em dias alternados.",
+        "e": "É preferível evitar o uso de laxantes oleosos antes da colheita.",
+        "c": "A colheita de fezes diretamente da sanita é aceitável, desde que não haja contaminação com urina."
+      },
+      "tema": "I. Coproparasitologia",
+      "justificativa": "A colheita de fezes diretamente da sanita é inaceitável devido ao risco de contaminação com água clorada, que pode destruir formas parasitárias.",
+      "enunciado": "Qual das seguintes afirmações sobre a colheita de amostras de fezes para coproparasitologia é INCORRETA?",
+      "numero": 9
+    },
+    {
+      "resposta_correcta": "b",
+      "alineas": {
+        "e": "Coloração pelo Lugol.",
+        "c": "Tamanho e formato do ovo.",
+        "a": "Presença de embrióforo radiado.",
+        "b": "Presença de filamentos polares.",
+        "d": "Espessura da casca."
+      },
+      "tema": "I. Coproparasitologia",
+      "justificativa": "Ovos de Hymenolepis nana possuem filamentos polares nos espaços entre a oncosfera e o embrióforo, característica ausente nos ovos de Taenia spp.",
+      "enunciado": "Na identificação de ovos de helmintos, qual característica é crucial para diferenciar ovos de Taenia spp. de ovos de Hymenolepis nana?",
+      "numero": 10
+    },
+    {
+      "resposta_correcta": "b",
+      "alineas": {
+        "a": "Ascaris lumbricoides; método de Faust e Magalhães.",
+        "b": "Strongyloides stercoralis; método de Baermann-Moraes.",
+        "d": "Trichuris trichiura; método de Kato-Katz.",
+        "e": "Ancylostoma duodenale; método de Willis.",
+        "c": "Schistosoma mansoni; método de sedimentação espontânea."
+      },
+      "tema": "I. Coproparasitologia",
+      "justificativa": "Strongyloides stercoralis pode causar hiperinfecção em imunocomprometidos e suas larvas são melhor detectadas pelo método de Baermann-Moraes, que se baseia no termotropismo das larvas.",
+      "enunciado": "Um paciente submetido a um transplante renal desenvolve diarreia persistente e eosinofilia. O médico suspeita de uma infecção oportunista. Qual parasita helminto poderia ser detectado nas fezes e qual método de concentração seria mais indicado?",
+      "numero": 11
+    },
+    {
+      "alineas": {
+        "e": "Amónia",
+        "c": "Esterco biliares",
+        "b": "Sais biliares",
+        "d": "Escatol e Indol",
+        "a": "Ureia"
+      },
+      "resposta_correcta": "d",
+      "enunciado": "Qual o principal componente nitrogenado das fezes, responsável em grande parte pelo seu odor característico?",
+      "tema": "I. Coproparasitologia",
+      "justificativa": "O escatol e o indol são produtos de degradação do triptofano pelas bactérias intestinais e são os principais responsáveis pelo odor fecal.",
+      "numero": 12
+    },
+    {
+      "enunciado": "Um resultado de exame direto de fezes indica a presença de \"ovos com um embrião hexacanto, estriado radialmente, e sem características operculares ou polares\". Este achado é compatível com:",
+      "justificativa": "Os ovos de Taenia spp. (saginata ou solium) são morfológica e microscopicamente indistinguíveis nas fezes, caracterizados por um embrióforo espesso, radiado e contendo um embrião hexacanto.",
+      "tema": "I. Coproparasitologia",
+      "alineas": {
+        "a": "Ovos de Enterobius vermicularis.",
+        "b": "Ovos de Ascaris lumbricoides inférteis.",
+        "d": "Ovos de Schistosoma mansoni.",
+        "c": "Ovos de Taenia saginata.",
+        "e": "Ovos de Strongyloides stercoralis."
+      },
+      "resposta_correcta": "c",
+      "numero": 13
+    },
+    {
+      "alineas": {
+        "b": "Larvas de Strongyloides stercoralis.",
+        "d": "Ovos de Enterobius vermicularis.",
+        "a": "Protozoários intestinais (cistos e trofozoítos).",
+        "e": "Criptosporídeos e cíclicos.",
+        "c": "Ovos de Schistosoma spp. e geo-helmintos."
+      },
+      "resposta_correcta": "c",
+      "enunciado": "No contexto da coproparasitologia, a técnica de Kato-Katz é particularmente útil para a quantificação de ovos de qual grupo de parasitas?",
+      "tema": "I. Coproparasitologia",
+      "justificativa": "A técnica de Kato-Katz é amplamente utilizada para quantificar ovos de Schistosoma spp. e de geo-helmintos (Ascaris, Trichuris, Ancylostoma) devido à sua capacidade de concentrar e clarear a amostra para contagem.",
+      "numero": 14
+    },
+    {
+      "resposta_correcta": "d",
+      "alineas": {
+        "e": "Intestino delgado, na absorção de nutrientes.",
+        "c": "Fígado, na produção de bile.",
+        "b": "Pâncreas, na produção de enzimas digestivas.",
+        "d": "Intestino grosso, na absorção de água e eletrólitos.",
+        "a": "Estômago, na digestão inicial."
+      },
+      "justificativa": "O intestino grosso é crucial para a reabsorção de água e eletrólitos, moldando a consistência e a forma das fezes. Qualquer alteração nesta função leva a fezes diarreicas ou obstipadas.",
+      "tema": "I. Coproparasitologia",
+      "enunciado": "A importância da correta formação das fezes está diretamente relacionada com a função de qual órgão ou sistema?",
+      "numero": 15
+    },
+    {
+      "alineas": {
+        "c": "Giardíase.",
+        "e": "Ciclosporíase.",
+        "b": "Isosporidiose.",
+        "d": "Balantidíase.",
+        "a": "Criptosporidiose."
+      },
+      "resposta_correcta": "c",
+      "enunciado": "Um paciente com história de viagem recente a áreas endémicas apresenta dor abdominal e fezes volumosas e esteatorreicas. O EPF revela cistos ovais, piriformes, com 2 a 4 núcleos, localizados numa extremidade, e axóstilos visíveis. Qual o diagnóstico provável?",
+      "tema": "I. Coproparasitologia",
+      "justificativa": "As características morfológicas descritas são clássicas dos cistos de Giardia lamblia, associados com giardíase, que cursa com esteatorreia e dor abdominal.",
+      "numero": 16
+    },
+    {
+      "tema": "II. Imunologia",
+      "justificativa": "Um VDRL reagente com FTA-Abs também reagente indica infecção por treponema. Títulos elevados de VDRL podem indicar doença ativa, latente ou falha terapêutica, enquanto o FTA-Abs permanece reagente após tratamento.",
+      "enunciado": "Um paciente apresenta resultado de VDRL reagente 1:16 e FTA-Abs também reagente. Qual a interpretação mais provável destes resultados para o diagnóstico da sífilis?",
+      "alineas": {
+        "e": "Reacção de hipersensibilidade imediata a agentes microbianos diversos.",
+        "d": "Infecção sifilítica tratada e curada, com persistência de cicatriz sorológica.",
+        "b": "Infecção sifilítica latente ou tratada anteriormente com falha terapêutica.",
+        "a": "Infecção sifilítica primária, provavelmente em fase inicial.",
+        "c": "Falso-positivo para sífilis devido a outra patologia autoimune."
+      },
+      "resposta_correcta": "b",
+      "numero": 17
+    },
+    {
+      "resposta_correcta": "b",
+      "alineas": {
+        "d": "Hipersensibilidade tipo IV, mediada por linfócitos T citotóxicos.",
+        "e": "Imunidade inata, com participação exclusiva de neutrófilos e macrófagos.",
+        "c": "Hipersensibilidade tipo III, formação de imunocomplexos circulantes.",
+        "b": "Hipersensibilidade tipo II, mediada por IgG e IgM, com ativação do sistema complemento.",
+        "a": "Hipersensibilidade tipo I, mediada principalmente por IgE."
+      },
+      "justificativa": "As reacções transfusionais hemolíticas agudas são exemplos de hipersensibilidade tipo II, onde anticorpos (IgG e IgM) se ligam a antigénios na superfície dos eritrócitos, activando o sistema complemento e causando lise celular.",
+      "enunciado": "Durante uma reacção transfusional hemolítica aguda, qual o principal mecanismo imunológico envolvido e as imunoglobulinas predominantemente activadas?",
+      "tema": "II. Imunologia",
+      "numero": 18
+    },
+    {
+      "tema": "II. Imunologia",
+      "resposta_correcta": "c",
+      "alineas": {
+        "b": "Aquisição de anticorpos maternos pelo feto através da placenta.",
+        "a": "Desenvolvimento de anticorpos após vacinação contra o sarampo.",
+        "c": "Administração de imunoglobulina humana anti-tetânica após uma lesão profunda.",
+        "e": "Resposta imune mediada por células T após transplante de órgãos.",
+        "d": "Produção de anticorpos após infecção natural pelo vírus da gripe."
+      },
+      "justificativa": "A imunidade adquirida artificialmente passiva envolve a transferência de anticorpos pré-formados (imunoglobulinas) de uma fonte externa, conferindo protecção imediata mas temporária, como na administração de soro antitetânico.",
+      "enunciado": "Qual dos seguintes cenários é um exemplo de imunidade adquirida artificialmente passiva?",
+      "numero": 19
+    },
+    {
+      "resposta_correcta": "b",
+      "alineas": {
+        "b": "Declínio da imunidade mediada por células, aumentando o risco de infecções oportunistas e neoplasias.",
+        "a": "Resposta imune humoral robusta e eficaz contra infecções oportunistas.",
+        "c": "Ativação excessiva do sistema complemento, levando a reacções anafiláticas.",
+        "e": "Normalização da função dos linfócitos B, potenciando a produção de anticorpos neutralizantes.",
+        "d": "Aumento significativo da produção de IgE, predispondo a alergias graves."
+      },
+      "justificativa": "A infecção por VIH-1 ataca e destrói os linfócitos CD4+, que são cruciais para a coordenação da resposta imune celular. Uma contagem abaixo de 200 células/µL indica imunodeficiência grave, com alto risco de infeções oportunistas.",
+      "enunciado": "Um paciente com VIH-1 apresenta uma carga viral elevada e contagem de linfócitos CD4+ abaixo de 200 células/µL. Qual a principal implicação imunológica deste achado?",
+      "tema": "II. Imunologia",
+      "numero": 20
+    },
+    {
+      "tema": "II. Imunologia",
+      "justificativa": "Uma mulher Rh negativa só produz anticorpos anti-D após exposição a antigénios D (presentes em sangue Rh-positivo). Isso ocorre tipicamente em gestações anteriores com feto Rh-positivo ou por transfusão de sangue Rh-positivo, indicando sensibilização.",
+      "enunciado": "Num hemograma, a presença de aloanticorpos anti-D numa grávida Rh- negativa que nunca foi previamente sensibilizada sugere:",
+      "resposta_correcta": "b",
+      "alineas": {
+        "e": "Um erro laboratorial, pois ela deveria ser Rh-positiva para ter anti-D.",
+        "d": "Produção deficiente de imunoglobulinas pelos linfócitos B.",
+        "b": "Exposição prévia a sangue Rh-positivo, provavelmente por gestação anterior incompatível ou transfusão.",
+        "a": "Hipersensibilidade de tipo I a alérgenos ambientais.",
+        "c": "Uma reacção autoimune que afecta os eritrócitos maternos."
+      },
+      "numero": 21
+    },
+    {
+      "resposta_correcta": "b",
+      "alineas": {
+        "c": "Determinar a especificidade isotípica da imunoglobulina.",
+        "b": "Activação do sistema complemento e ligação a receptores em células efectoras (macrófagos, neutrófilos, etc.).",
+        "a": "Reconhecimento e ligação ao antigénio de forma específica.",
+        "d": "Conferir flexibilidade à molécula de anticorpo.",
+        "e": "Participar na formação de ligações dissulfeto intercadeias."
+      },
+      "justificativa": "A porção Fc da imunoglobulina, ou região constante, interage com células efectoras do sistema imune (como macrófagos e neutrófilos) e activa o sistema complemento, mediando a eliminação de patógenos. A porção Fab é responsável pela ligação ao antigénio.",
+      "enunciado": "Qual a principal função da porção Fc de uma imunoglobulina?",
+      "tema": "II. Imunologia",
+      "numero": 22
+    },
+    {
+      "justificativa": "A resposta imune secundária, após reexposição a um antigénio, é mais rápida na sua instalação, mais potente em termos de produção de anticorpos e mais duradoura devido à memória imunológica, com predomínio da produção de IgG.",
+      "enunciado": "A principal diferença entre a resposta imune primária e secundária a um antigénio é:",
+      "resposta_correcta": "c",
+      "alineas": {
+        "e": "Ambas as respostas são idênticas em magnitude e cinética.",
+        "d": "A resposta primária envolve apenas imunidade inata, enquanto a secundária envolve apenas imunidade adquirida.",
+        "b": "A resposta secundária é caracterizada pela predominância de IgM, enquanto a primária é por IgG.",
+        "a": "A resposta primária é mais rápida e intensa que a secundária.",
+        "c": "A resposta secundária é mais rápida, mais potente e mais duradoura, com maior produção de IgG."
+      },
+      "tema": "II. Imunologia",
+      "numero": 23
+    },
+    {
+      "alineas": {
+        "b": "Transfusão sanguínea, IgM.",
+        "a": "Via respiratória, IgA.",
+        "c": "Transplacentária, IgG.",
+        "e": "Contacto directo com o ambiente, IgE.",
+        "d": "Injecção de vacina, IgD."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Durante a gestação, a imunoglobulina IgG é a única classe de anticorpos que atravessa a placenta, fornecendo ao recém-nascido imunidade passiva contra patógenos aos quais a mãe foi exposta.",
+      "enunciado": "Um bebé recém-nascido adquire imunidade passiva contra diversas doenças. Qual a principal via e tipo de imunoglobulina responsável por esta aquisição?",
+      "tema": "II. Imunologia",
+      "numero": 24
+    },
+    {
+      "justificativa": "Os linfócitos T citotóxicos são componentes da imunidade adquirida, específicos para antigénios. Os outros itens listados são elementos da imunidade inata, que fornece uma primeira linha de defesa não-específica.",
+      "enunciado": "Qual dos seguintes componentes NÃO faz parte da imunidade inata?",
+      "resposta_correcta": "c",
+      "alineas": {
+        "d": "Barreiras epiteliais.",
+        "e": "Células Natural Killer (NK).",
+        "c": "Linfócitos T citotóxicos.",
+        "b": "Sistema complemento.",
+        "a": "Fagócitos (macrófagos e neutrófilos)."
+      },
+      "tema": "II. Imunologia",
+      "numero": 25
+    },
+    {
+      "tema": "II. Imunologia",
+      "resposta_correcta": "b",
+      "alineas": {
+        "b": "Hepatite B crónica.",
+        "a": "Infecção aguda por Hepatite B.",
+        "c": "Resolução de infecção prévia e imunidade.",
+        "e": "Falso-positivo para HBsAg.",
+        "d": "Vacinação eficaz contra Hepatite B."
+      },
+      "justificativa": "HBsAg reagente (vírus presente) por mais de 6 meses, Anti-HBs não reagente (ausência de anticorpos protectores) e Anti-HBc total reagente (exposição passada ou presente) sem Anti-HBc IgM (não é infecção aguda) são marcadores de Hepatite B crónica.",
+      "enunciado": "No diagnóstico laboratorial de Hepatite B, um resultado de HBsAg reagente e Anti-HBs não reagente, juntamente com Anti-HBc total reagente e Anti-HBc IgM não reagente, indica qual cenário?",
+      "numero": 26
+    },
+    {
+      "tema": "II. Imunologia",
+      "alineas": {
+        "c": "Hipersensibilidade tipo III (por imunocomplexos), mediada por IgG.",
+        "b": "Hipersensibilidade tipo II (citotóxica), mediada por IgG e IgM.",
+        "a": "Hipersensibilidade tipo I (imediata), mediada por IgE.",
+        "d": "Hipersensibilidade tipo IV (tardia), mediada por linfócitos T.",
+        "e": "Reacção de irritação não imunológica."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A urticária e o angioedema com início rápido após exposição a um alérgeno são sinais clássicos de reacção de hipersensibilidade tipo I (anafilaxia), que é mediada pela IgE e pela libertação de mediadores inflamatórios pelos mastócitos e basófilos.",
+      "enunciado": "Um paciente desenvolve urticária e angioedema severos minutos após a administração de um medicamento. Este quadro é característico de qual tipo de reacção de hipersensibilidade?",
+      "numero": 27
+    },
+    {
+      "justificativa": "As IgD são encontradas predominantemente na superfície dos linfócitos B virgens, onde funcionam como receptores de antigénio, participando na ativação e diferenciação destas células.",
+      "enunciado": "Qual a principal função das IgD nas células B?",
+      "resposta_correcta": "c",
+      "alineas": {
+        "c": "Actuar como receptor de antigénio na superfície dos linfócitos B virgens.",
+        "b": "Ativação do sistema complemento.",
+        "a": "Neutralização de toxinas bacterianas.",
+        "d": "Mediação de reacções alérgicas.",
+        "e": "Proteger as mucosas contra invasores."
+      },
+      "tema": "II. Imunologia",
+      "numero": 28
+    },
+    {
+      "justificativa": "Os indivíduos com grupo sanguíneo B possuem naturalmente anticorpos anti-A, que são predominantemente da classe IgM. Os indivíduos do grupo O possuem ambos os anti-A e anti-B, que também são IgM.",
+      "enunciado": "A iso-hemaglutinina anti-A é uma imunoglobulina de que classe e é naturalmente presente no plasma de indivíduos com qual grupo sanguíneo?",
+      "resposta_correcta": "b",
+      "alineas": {
+        "d": "IgE, grupo sanguíneo O.",
+        "e": "IgM, grupo sanguíneo O.",
+        "c": "IgA, grupo sanguíneo A.",
+        "b": "IgM, grupo sanguíneo B.",
+        "a": "IgG, grupo sanguíneo AB."
+      },
+      "tema": "II. Imunologia",
+      "numero": 29
+    },
+    {
+      "tema": "II. Imunologia",
+      "justificativa": "O teste de Coombs directo detecta anticorpos (geralmente IgG) ou componentes do complemento que estão aderidos à superfície dos eritrócitos, indicando hemólise mediada por anticorpos.",
+      "enunciado": "O teste de Coombs directo positivo indica a presença de anticorpos ou complemento fixados em qual componente sanguíneo?",
+      "alineas": {
+        "e": "Anticorpos livres no soro.",
+        "d": "Proteínas plasmáticas livres.",
+        "b": "Eritrócitos na superfície das células.",
+        "a": "Plaquetas circulantes.",
+        "c": "Leucócitos no citoplasma."
+      },
+      "resposta_correcta": "b",
+      "numero": 30
+    },
+    {
+      "alineas": {
+        "b": "Período em que os anticorpos anti-HIV ainda não são detectáveis, apesar da presença do vírus.",
+        "a": "Período em que a carga viral é indetectável devido à alta resposta imune.",
+        "c": "Período em que o vírus está latente e não se replica.",
+        "e": "Período em que o teste de carga viral é mais sensível que o teste de anticorpos.",
+        "d": "Período em que apenas o antigénio p24 é detectável, sem anticorpos."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A janela imunológica é o período entre a infecção pelo HIV e o desenvolvimento de anticorpos detectáveis pelos testes de rotina. Durante este tempo, o paciente está infectado e infecioso, mas o teste de anticorpos pode ser negativo.",
+      "enunciado": "Um indivíduo infectado com HIV pode apresentar um período de janela imunológica. O que significa este período em termos de diagnóstico laboratorial?",
+      "tema": "II. Imunologia",
+      "numero": 31
+    },
+    {
+      "tema": "II. Imunologia",
+      "resposta_correcta": "b",
+      "alineas": {
+        "d": "É um marcador de infecção crónica pelo vírus da Hepatite A.",
+        "e": "Indica um falso-positivo para Hepatite A.",
+        "c": "Aponta para vacinação eficaz contra o vírus.",
+        "b": "Sugere infecção aguda recente ou em curso.",
+        "a": "Indica infecção prévia e imunidade protectora duradoura."
+      },
+      "justificativa": "A presença de anticorpos IgM anti-HAV é um marcador de infecção aguda ou recente pelo vírus da Hepatite A, pois é a primeira classe de anticorpos a ser produzida em resposta à infecção.",
+      "enunciado": "Qual o significado da presença de IgM anti-HAV no diagnóstico serológico de Hepatite A?",
+      "numero": 32
+    },
+    {
+      "tema": "II. Imunologia",
+      "resposta_correcta": "c",
+      "alineas": {
+        "e": "Promover a citotoxicidade mediada por células dependente de anticorpos (ADCC).",
+        "d": "Mediar reacções alérgicas locais através da ligação a mastócitos.",
+        "b": "Opsonizar patógenos para facilitar a fagocitose por macrófagos.",
+        "a": "Ativar o sistema complemento de forma eficiente para lise bacteriana.",
+        "c": "Neutralizar toxinas e impedir a adesão de patógenos aos epitélios mucosos."
+      },
+      "justificativa": "As IgA secretoras são abundantes nas mucosas e têm como principal função formar uma barreira imune, agindo através da neutralização de toxinas e vírus e impedindo que os patógenos se adiram e colonizem as superfícies epiteliais.",
+      "enunciado": "A principal função das IgA nas mucosas (trato gastrointestinal, respiratório e geniturinário) é:",
+      "numero": 33
+    },
+    {
+      "enunciado": "Um paciente pediátrico, com 8 anos de idade, apresenta palidez cutâneo-mucosa, fadiga e dispneia. O hemograma revela hemoglobina de 75 g/L, volume corpuscular médio (VCM) de 68 fL e concentração de hemoglobina corpuscular média (CHCM) de 280 g/L de eritrócitos. Qual é a causa mais provável da anemia neste paciente?",
+      "alineas": {
+        "d": "Anemia megaloblástica",
+        "c": "Anemia ferropénica",
+        "b": "Anemia por doença crónica",
+        "a": "Anemia falciforme",
+        "e": "Esferocitose hereditária"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Os valores de hemoglobina reduzida, VCM diminuído e CHCM baixo são consistentes com anemia microcítica e hipocrómica, classicamente associada à deficiência de ferro.",
+      "tema": "III. Hematologia",
+      "numero": 34
+    },
+    {
+      "justificativa": "A medula óssea vermelha é o principal local de hematopoiese pós-natal, e a eritropoietina, produzida nos rins, estimula a produção de glóbulos vermelhos.",
+      "tema": "III. Hematologia",
+      "enunciado": "Na eritropoiese, qual das seguintes afirmativas descreve correctamente o principal local de produção de eritrócitos no estágio pós-natal e o hormónio que a regula?",
+      "alineas": {
+        "b": "Fígado; Angiotensina",
+        "a": "Baço; Trombopoietina",
+        "c": "Medula óssea vermelha; Eritropoietina",
+        "e": "Rins; Renina",
+        "d": "Nódulos linfáticos; Glicocorticóides"
+      },
+      "resposta_correcta": "c",
+      "numero": 35
+    },
+    {
+      "enunciado": "Um esfregaço de sangue periférico de um paciente com icterícia e esplenomegalia revelou a presença de esquistócitos (fragmentos de eritrócitos), dacriócitos (eritrócitos em forma de lágrima) e policromatofilia acentuada. Qual o diagnóstico mais provável para este padrão morfológico?",
+      "alineas": {
+        "d": "Talassemia major",
+        "b": "Deficiência de G6PD",
+        "a": "Anemia aplástica",
+        "c": "Mielofibrose primária",
+        "e": "Anemia megaloblástica"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A presença de esquistócitos, dacriócitos e policromatofilia é um achado característico de mielofibrose, indicando hematopoiese extramedular e fragmentação eritrocitária.",
+      "tema": "III. Hematologia",
+      "numero": 36
+    },
+    {
+      "enunciado": "Qual dos seguintes métodos é considerado o mais preciso para a determinação do hematócrito, e quais são os seus valores de referência aproximados para um homem adulto?",
+      "alineas": {
+        "b": "Micro-hematócrito; 0,40 - 0,54 L/L",
+        "a": "Macro-hematócrito; 0,40 - 0,54 L/L",
+        "c": "Macro-hematócrito; 0,35 - 0,47 L/L",
+        "e": "Impedância eléctrica; 0,40 - 0,54 L/L",
+        "d": "Micro-hematócrito; 0,35 - 0,47 L/L"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O micro-hematócrito é o método mais comum e preciso. Para homens adultos, os valores de referência estão entre 0,40 a 0,54 L/L (40-54%).",
+      "tema": "III. Hematologia",
+      "numero": 37
+    },
+    {
+      "justificativa": "Uma hemorragia aguda resulta na perda de eritrócitos, estimulando a medula óssea a produzir mais, elevando a contagem de reticulócitos como resposta compensatória.",
+      "tema": "III. Hematologia",
+      "enunciado": "A contagem de reticulócitos é um índice essencial para avaliar a actividade eritropoética da medula óssea. Em qual das seguintes condições clínicas se esperaria encontrar uma contagem de reticulócitos significativamente elevada?",
+      "alineas": {
+        "d": "Hemorragia aguda",
+        "e": "Insuficiência renal crónica",
+        "c": "Cirse hepática",
+        "b": "Anemia ferropénica não tratada",
+        "a": "Anemia aplástica"
+      },
+      "resposta_correcta": "d",
+      "numero": 38
+    },
+    {
+      "justificativa": "Os achados descritos (bilirrubina indirecta elevada, LDH aumentada, haptoblobina diminuída, reticulocitose e esferócitos) são marcadores clássicos de anemia hemolítica, caracterizada pela destruição excessiva de glóbulos vermelhos.",
+      "tema": "III. Hematologia",
+      "enunciado": "Um paciente apresenta níveis elevados de bilirrubina indirecta, desidrogenase láctica (LDH) aumentada e haptoglobina diminuída. O hemograma revela anemia com esferócitos e reticulocitose. Qual o tipo de anemia mais provável, e qual a sua principal característica?",
+      "alineas": {
+        "e": "Anemia aplástica; Falência da medula óssea",
+        "b": "Anemia megaloblástica; Deficiência de vitamina B12 ou folato",
+        "a": "Anemia por doença crónica; Deficiência na utilização de ferro",
+        "c": "Anemia hemolítica; Destruição prematura de eritrócitos",
+        "d": "Anemia ferropénica; Produção insuficiente de hemoglobina"
+      },
+      "resposta_correcta": "c",
+      "numero": 39
+    },
+    {
+      "justificativa": "A anemia aplástica é um exemplo clássico de anemia hipoproliferativa, onde a medula óssea falha em produzir células sanguíneas adequadamente.",
+      "tema": "III. Hematologia",
+      "enunciado": "Na classificação das anemias com base na resposta medular, as anemias hipoproliferativas são caracterizadas por uma produção inadequada de eritrócitos. Qual das opções abaixo corresponde a uma anemia hipoproliferativa?",
+      "alineas": {
+        "d": "Talassémia beta major",
+        "c": "Anemia aplástica",
+        "b": "Anemia falciforme",
+        "a": "Anemia hemolítica autoimune",
+        "e": "Hemorragia aguda"
+      },
+      "resposta_correcta": "c",
+      "numero": 40
+    },
+    {
+      "justificativa": "A mutação JAK2 V617F está presente em aproximadamente 95% dos pacientes com policitemia vera e é um critério diagnóstico maior.",
+      "tema": "III. Hematologia",
+      "enunciado": "A policitemia é uma condição caracterizada pelo aumento do número de glóbulos vermelhos. Num caso de suspeita de policitemia vera, qual dos seguintes achados laboratoriais seria mais indicativo para o diagnóstico?",
+      "alineas": {
+        "e": "Presença de células falciformes",
+        "c": "Leucopenia e trombocitopenia",
+        "b": "Mutação JAK2 V617F",
+        "a": "Eritropoietina sérica elevada",
+        "d": "Saturação de oxigénio diminuída"
+      },
+      "resposta_correcta": "b",
+      "numero": 41
+    },
+    {
+      "enunciado": "Um paciente idoso apresenta macrocitose no hemograma (VCM > 100 fL), com neutrófilos hipersegmentados e pancitopenia. Qual a causa provável, e a deficiência de qual vitamina está associada a estes achados?",
+      "alineas": {
+        "d": "Anemia hemolítica; Vitamina K",
+        "e": "Anemia aplástica; Vitamina C",
+        "b": "Anemia por doença crónica; Nenhuma deficiência vitamínica",
+        "a": "Anemia ferropénica; Ferro",
+        "c": "Anemia megaloblástica; Vitamina B12 ou folato"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Macrocitose com neutrófilos hipersegmentados e pancitopenia são características da anemia megaloblástica, causada por deficiência de vitamina B12 ou folato.",
+      "tema": "III. Hematologia",
+      "numero": 42
+    },
+    {
+      "enunciado": "No contexto da função respiratória dos eritrócitos, qual a hemoglobina primária responsável pelo transporte de oxigénio em adultos e como ela se liga ao oxigénio?",
+      "alineas": {
+        "e": "Hemoglobina A (HbA); Ligação reversível ao ferro ferroso do grupo heme",
+        "b": "Oxi-hemoglobina; Ligação covalente ao ferro férrico",
+        "a": "Hemoglobina fetal (HbF); Ligação irreversível ao grupo heme",
+        "c": "Meta-hemoglobina; Ligação de alta afinidade ao grupo heme",
+        "d": "Deoxi-hemoglobina; Ligação fraca ao grupo heme"
+      },
+      "resposta_correcta": "e",
+      "justificativa": "A hemoglobina A (HbA) é a principal em adultos, e o oxigénio liga-se de forma reversível ao ião ferroso (Fe2+) do grupo heme.",
+      "tema": "III. Hematologia",
+      "numero": 43
+    },
+    {
+      "justificativa": "O valor de referência normal para mulheres adultas é de aproximadamente 4,0 - 5,5 x 10^12/L. Uma CGE baixa indica anemia.",
+      "tema": "III. Hematologia",
+      "enunciado": "A contagem global de eritrócitos (CGE) é um parâmetro importante do hemograma. Qual o valor de referência normal aproximado para mulheres adultas, e o que uma CGE muito baixa pode indicar?",
+      "alineas": {
+        "d": "4,5 - 6,0 x 10^12/L; Hemocromatose",
+        "e": "3,0 - 4,0 x 10^12/L; Desidratação",
+        "b": "4,0 - 5,5 x 10^12/L; Anemia",
+        "a": "2,5 - 3,5 x 10^12/L; Policitemia",
+        "c": "5,0 - 6,5 x 10^9/L; Leucocitose"
+      },
+      "resposta_correcta": "b",
+      "numero": 44
+    },
+    {
+      "justificativa": "O plasma representa cerca de 55% do volume sanguíneo total e é composto principalmente por água, proteínas, eletrólitos, nutrientes e hormonas.",
+      "tema": "III. Hematologia",
+      "enunciado": "Na composição do sangue, qual o percentual aproximado do volume total de sangue que o plasma representa e quais são os seus principais componentes?",
+      "alineas": {
+        "c": "55%; Água, proteínas plasmáticas, eletrólitos, nutrientes e hormonas",
+        "b": "45%; Células sanguíneas e proteínas",
+        "a": "25%; Água e eletrólitos",
+        "e": "30%; Lipídios e carboidratos",
+        "d": "70%; Somente água"
+      },
+      "resposta_correcta": "c",
+      "numero": 45
+    },
+    {
+      "enunciado": "A hematopoiese pré-natal ocorre em diferentes órgãos ao longo do desenvolvimento fetal. Qual a sequência correcta dos principais locais de hematopoiese no feto?",
+      "alineas": {
+        "d": "Fígado \t\t→ Saco vitelino \t→ Medula óssea \t→ Baço",
+        "c": "Medula óssea \t→ Saco vitelino \t→ Fígado \t\t→ Baço",
+        "b": "Saco vitelino \t→ Fígado \t\t→ Baço \t\t→ Medula óssea",
+        "a": "Baço \t\t→ Fígado \t\t→ Saco vitelino \t→ Medula óssea",
+        "e": "Saco vitelino \t→ Medula óssea \t→ Fígado \t\t→ Baço"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A sequência da hematopoiese fetal é saco vitelino, seguido pelo fígado, baço e, finalmente, a medula óssea, que se torna o principal local no final da gestação e após o nascimento.",
+      "tema": "III. Hematologia",
+      "numero": 46
+    },
+    {
+      "enunciado": "Os eritrócitos têm um tempo de vida médio de aproximadamente 120 dias. Qual o principal órgão responsável pela remoção dos eritrócitos senescentes da circulação?",
+      "alineas": {
+        "b": "Rins",
+        "a": "Fígado",
+        "c": "Baço",
+        "e": "Medula óssea",
+        "d": "Pulmões"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O baço é conhecido como o 'cemitério dos glóbulos vermelhos', sendo o principal órgão responsável pela remoção de eritrócitos velhos ou danificados.",
+      "tema": "III. Hematologia",
+      "numero": 47
+    },
+    {
+      "enunciado": "Um paciente com talassemia beta major apresenta anemia microcítica e hipocrómica grave. Qual a principal causa etiopatogénica desta anemia?",
+      "alineas": {
+        "d": "Destruição prematura de eritrócitos devido a anticorpos",
+        "e": "Perda crónica de sangue",
+        "c": "Defeito genético na síntese de cadeias de globina",
+        "b": "Deficiência de vitamina B12",
+        "a": "Deficiência de ferro"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A talassemia é uma hemoglobinopatia caracterizada por um defeito genético na síntese das cadeias de globina da hemoglobina, resultando em eritrócitos microcíticos e hipocrómicos.",
+      "tema": "III. Hematologia",
+      "numero": 48
+    },
+    {
+      "enunciado": "A função principal dos eritrócitos na circulação sanguínea está directamente relacionada com a sua capacidade de transportar gases. Qual é a principal função dos eritrócitos?",
+      "alineas": {
+        "b": "Defesa contra infecções",
+        "a": "Transporte de nutrientes",
+        "c": "Coagulação sanguínea",
+        "e": "Regulação da temperatura corporal",
+        "d": "Transporte de oxigénio e dióxido de carbono"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A principal função dos eritrócitos é o transporte de oxigénio dos pulmões para os tecidos e de dióxido de carbono dos tecidos para os pulmões, facilitado pela hemoglobina.",
+      "tema": "III. Hematologia",
+      "numero": 49
+    },
+    {
+      "justificativa": "A ferritina sérica é o melhor indicador das reservas corporais de ferro, diminuindo antes que a anemia se manifeste completamente.",
+      "tema": "III. Hematologia",
+      "enunciado": "No contexto da anemia ferropénica, qual o exame laboratorial que melhor reflecte as reservas de ferro no organismo e, portanto, é crucial para o seu diagnóstico diferencial?",
+      "alineas": {
+        "e": "Transferrina",
+        "c": "Ferro sérico",
+        "b": "Hematócrito",
+        "a": "Hemoglobina",
+        "d": "Ferritina sérica"
+      },
+      "resposta_correcta": "d",
+      "numero": 50
+    },
+    {
+      "justificativa": "A coloração de Gram é essencial para classificar bactérias em Gram-positivas ou Gram-negativas, fornecendo informações cruciais para o tratamento empírico inicial.",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "c": "Coloração de Albert.",
+        "a": "Coloração de Ziehl-Neelsen.",
+        "b": "Coloração de Gram.",
+        "d": "Coloração de Giemsa."
+      },
+      "enunciado": "Um técnico de análises clínicas recebe uma amostra de escarro para cultura bacteriana. Qual das seguintes técnicas de coloração é fundamental para uma rápida diferenciação inicial dos microrganismos presentes e para orientar a conduta terapêutica preliminar?",
+      "resposta_correcta": "b",
+      "numero": 51
+    },
+    {
+      "resposta_correcta": "c",
+      "justificativa": "A membrana externa das bactérias Gram-negativas, rica em lipopolissacarídeos (LPS), confere-lhes resistência e é um endotoxina potente.",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "d": "Flagelo.",
+        "c": "Membrana externa (com lipopolissacarídeo).",
+        "a": "Cápsula.",
+        "b": "Parede celular (peptidoglicano)."
+      },
+      "enunciado": "Na identificação laboratorial de um agente etiológico de infeção urinária, é frequentemente isolada uma bactéria Gram-negativa em forma de bastonete. Qual estrutura bacteriana, tipicamente presente em bactérias Gram-negativas, confere resistência a certos antibióticos e é um potente fator de virulência?",
+      "numero": 52
+    },
+    {
+      "enunciado": "Um paciente apresenta sintomas de diarreia grave. A cultura de fezes revela a presença de uma bactéria que exige um meio de transporte específico para manter a viabilidade, dada a sua sensibilidade ao oxigénio e à desidratação. Qual dos seguintes meios de transporte é o mais adequado para esta situação?",
+      "justificativa": "O meio de Cary-Blair é recomendado para o transporte de amostras de fezes para cultura bacteriana, pois preserva a viabilidade de enteropatógenos, incluindo bactérias sensíveis.",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "a": "Meio de Stuart.",
+        "b": "Meio de Cary-Blair.",
+        "c": "Meio Thio.",
+        "d": "Meio de Amies."
+      },
+      "resposta_correcta": "b",
+      "numero": 53
+    },
+    {
+      "alineas": {
+        "d": "Radiação gama.",
+        "c": "Calor seco (estufa).",
+        "a": "Autoclave.",
+        "b": "Filtração por membrana."
+      },
+      "justificativa": "A filtração por membrana é um método eficaz para esterilizar soluções termossensíveis, removendo microrganismos sem alterar a composição química.",
+      "tema": "IV. Microbiologia",
+      "enunciado": "A esterilização de materiais termossensíveis no laboratório de análises clínicas é um desafio. Qual método é o mais apropriado para esterilizar soluções de vitaminas e alguns plásticos, preservando a sua integridade e garantindo a remoção de microrganismos?",
+      "resposta_correcta": "b",
+      "numero": 54
+    },
+    {
+      "resposta_correcta": "d",
+      "enunciado": "Em um contexto de surto de doença viral, a identificação do agente etiológico é crucial. Qual característica fundamental distingue os vírus dos outros microrganismos e influencia diretamente o desenvolvimento de antivirais?",
+      "alineas": {
+        "d": "Parasitismo intracelular obrigatório.",
+        "c": "Metabolismo independente do hospedeiro.",
+        "a": "Presença de parede celular.",
+        "b": "Reprodução por fissão binária."
+      },
+      "justificativa": "Os vírus são parasitas intracelulares obrigatórios, dependendo da maquinaria celular do hospedeiro para a sua replicação, o que os distingue de bactérias e fungos.",
+      "tema": "IV. Microbiologia",
+      "numero": 55
+    },
+    {
+      "resposta_correcta": "c",
+      "enunciado": "Um laboratório de microbiologia pretende isolar bactérias exigentes, como *Neisseria gonorrhoeae*, a partir de amostras clínicas. Qual meio de cultura enriquecido é classicamente utilizado para o cultivo destas bactérias?",
+      "alineas": {
+        "a": "Ágar MacConkey.",
+        "b": "Ágar Sangue.",
+        "c": "Ágar Chocolate.",
+        "d": "Ágar Sabouraud."
+      },
+      "justificativa": "O Ágar Chocolate é um meio enriquecido que fornece fatores de crescimento essenciais para bactérias fastidiosas como *Neisseria gonorrhoeae* e *Haemophilus influenzae*.",
+      "tema": "IV. Microbiologia",
+      "numero": 56
+    },
+    {
+      "resposta_correcta": "a",
+      "enunciado": "Qual dos seguintes agentes subvirais é composto apenas por uma molécula de RNA circular, sem cápside proteica, e é conhecido por causar doenças em plantas, mas não em humanos?",
+      "justificativa": "Viróides são pequenas moléculas de RNA circular, não codificantes, que causam doenças em plantas e não possuem cápside proteica.",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "d": "Retrovírus.",
+        "c": "Príon.",
+        "a": "Viróide.",
+        "b": "Vírusoid."
+      },
+      "numero": 57
+    },
+    {
+      "enunciado": "Durante a coloração de Gram, um passo crítico é a descoloração. Qual reagente é utilizado para descolorar as células, diferenciando as bactérias Gram-positivas das Gram-negativas?",
+      "justificativa": "O álcool-acetona é o agente descolorante na coloração de Gram, removendo o complexo cristal de violeta-iodo das células Gram-negativas.",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "d": "Safranina.",
+        "a": "Cristal de violeta.",
+        "b": "Lugol (iodeto de potássio).",
+        "c": "Álcool-acetona."
+      },
+      "resposta_correcta": "c",
+      "numero": 58
+    },
+    {
+      "justificativa": "Amostras de LCR para cultura bacteriana devem ser transportadas e processadas urgentemente, preferencialmente dentro de 1 hora, para otimizar a recuperação de patógenos sensíveis.",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "d": "Até 12 horas.",
+        "c": "Até 1 hora.",
+        "a": "Até 6 horas.",
+        "b": "Até 24 horas."
+      },
+      "enunciado": "Uma amostra de líquido cefalorraquidiano (LCR) é colhida de um neonato com suspeita de meningite. Qual o tempo máximo recomendado para o transporte desta amostra ao laboratório, sem comprometer a viabilidade bacteriana e a precisão do diagnóstico?",
+      "resposta_correcta": "c",
+      "numero": 59
+    },
+    {
+      "resposta_correcta": "c",
+      "enunciado": "Qual a principal função do peptidoglicano na estrutura bacteriana, especialmente em bactérias Gram-positivas onde é uma camada mais espessa?",
+      "alineas": {
+        "c": "Manutenção da forma e proteção contra a lise osmótica.",
+        "a": "Síntese de proteínas.",
+        "b": "Armazenamento de energia.",
+        "d": "Detecção de nutrientes."
+      },
+      "justificativa": "O peptidoglicano é crucial para manter a integridade estrutural da bactéria, conferindo forma e protegendo-a contra diferenças de pressão osmótica.",
+      "tema": "IV. Microbiologia",
+      "numero": 60
+    },
+    {
+      "enunciado": "Na taxonomia bacteriana, qual a sequência hierárquica correta, do táxon mais abrangente ao mais específico?",
+      "justificativa": "A sequência taxonómica correta é Reino, Filo, Classe, Ordem, Família, Género, Espécie.",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "a": "Família, Ordem, Classe, Género, Espécie.",
+        "b": "Classe, Ordem, Família, Género, Espécie.",
+        "c": "Ordem, Família, Classe, Género, Espécie.",
+        "d": "Género, Espécie, Família, Ordem, Classe."
+      },
+      "resposta_correcta": "b",
+      "numero": 61
+    },
+    {
+      "resposta_correcta": "c",
+      "justificativa": "Esporos bacterianos são notavelmente resistentes a condições adversas, incluindo calor, dessecação e agentes químicos, devido à sua estrutura complexa e baixa atividade metabólica.",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "a": "Alta atividade metabólica.",
+        "b": "Conteúdo de água elevado.",
+        "c": "Resistência extrema ao calor, dessecação e químicos.",
+        "d": "Ausência de parede celular."
+      },
+      "enunciado": "Os esporos bacterianos, formados por algumas espécies, são estruturas de resistência. Qual das seguintes características é a mais proeminente nos esporos, dificultando a sua erradicação por métodos comuns?",
+      "numero": 62
+    },
+    {
+      "enunciado": "Um técnico de microbiologia prepara uma série de meios de cultura seletivos para isolar enterobactérias. Qual característica é comum a esses meios para inibir o crescimento de Gram-positivas e favorecer Gram-negativas?",
+      "alineas": {
+        "d": "Ausência de nutrientes.",
+        "a": "Alto teor de açúcares.",
+        "b": "Presença de inibidores como sais biliares e violeta de cristal.",
+        "c": "pH neutro."
+      },
+      "justificativa": "Meios seletivos para enterobactérias frequentemente contêm sais biliares e corantes como violeta de cristal que inibem o crescimento de bactérias Gram-positivas.",
+      "tema": "IV. Microbiologia",
+      "resposta_correcta": "b",
+      "numero": 63
+    },
+    {
+      "enunciado": "A replicação viral é um processo complexo. Qual a etapa do ciclo viral que envolve a síntese de proteínas virais e a replicação do genoma viral, utilizando a maquinaria celular do hospedeiro?",
+      "alineas": {
+        "d": "Libertação.",
+        "a": "Adsorção.",
+        "b": "Penetração.",
+        "c": "Biossíntese."
+      },
+      "justificativa": "A biossíntese é a fase do ciclo viral onde o genoma viral é replicado e as proteínas virais são sintetizadas usando os recursos da célula hospedeira.",
+      "tema": "IV. Microbiologia",
+      "resposta_correcta": "c",
+      "numero": 64
+    },
+    {
+      "resposta_correcta": "b",
+      "justificativa": "O sistema de Baltimore classifica os vírus com base no seu tipo de genoma e na forma como o mRNA é produzido, o que é crucial para a replicação viral.",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "c": "Tipo de célula hospedeira que infetam.",
+        "a": "Tipo de patologia que causam.",
+        "b": "Tipo de genoma viral (DNA ou RNA, simples ou dupla fita, polaridade).",
+        "d": "Presença ou ausência de envelope."
+      },
+      "enunciado": "Qual o principal critério utilizado para classificar os vírus, segundo o sistema de Baltimore?",
+      "numero": 65
+    },
+    {
+      "resposta_correcta": "c",
+      "justificativa": "O nome científico de uma bactéria deve ser escrito em itálico, com a primeira letra do género em maiúscula e a espécie em minúscula.",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "c": "*Staphylococcus aureus*.",
+        "a": "Staphylococcus Aureus.",
+        "b": "staphylococcus aureus.",
+        "d": "Staphylococcus *aureus*."
+      },
+      "enunciado": "Em relação à nomenclatura bacteriana, qual a escrita correta para o nome científico de uma bactéria?",
+      "numero": 66
+    },
+    {
+      "enunciado": "Um doente com suspeita de tuberculose pulmonar colheu uma amostra de escarro. Para a pesquisa de bacilos álcool-ácido resistentes (BAAR), qual a coloração específica a ser realizada e o resultado esperado em caso positivo?",
+      "alineas": {
+        "d": "Coloração de Giemsa, bacilos de cor variada.",
+        "c": "Coloração de Albert, bacilos azuis.",
+        "a": "Coloração de Gram, bacilos roxos.",
+        "b": "Coloração de Ziehl-Neelsen, bacilos vermelhos."
+      },
+      "justificativa": "A coloração de Ziehl-Neelsen é o método padrão para identificar BAAR, como *Mycobacterium tuberculosis*, que aparecem vermelhos após a coloração.",
+      "tema": "IV. Microbiologia",
+      "resposta_correcta": "b",
+      "numero": 67
+    },
+    {
+      "enunciado": "Um paciente adulto apresenta resultados de urina rotina com densidade de 1.005. Qual das seguintes condições clínicas é mais provável estar associada a este achado?",
+      "alineas": {
+        "d": "Síndrome de secreção inadequada de hormona antidiurética (SIADH)",
+        "c": "Insuficiência renal crónica avançada",
+        "e": "Edemas generalizados",
+        "b": "Desidratação severa",
+        "a": "Diabetes mellitus descompensada"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Uma densidade urinária baixa (inferior a 1.010) é comum na insuficiência renal crónica, indicando perda da capacidade de concentração e diluição tubular.",
+      "tema": "V. Urinologia",
+      "numero": 68
+    },
+    {
+      "enunciado": "Na avaliação laboratorial da urina, a presença de urobilinogénio aumentado pode indicar qual destas patologias?",
+      "alineas": {
+        "d": "Insuficiência renal aguda",
+        "c": "Hepatite fulminante",
+        "e": "Diabetes insipidus",
+        "b": "Anemia hemolítica",
+        "a": "Obstrução biliar completa"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O urobilinogénio aumentado na urina é um indicador de maior produção de bilirrubina, comum em condições hemolíticas.",
+      "tema": "V. Urinologia",
+      "numero": 69
+    },
+    {
+      "alineas": {
+        "e": "Colheita de urina de 24 horas",
+        "b": "Saco colector estéril fixado após higiene perineal",
+        "a": "Colheita de jacto médio após assepsia",
+        "c": "Punção supra-púbica",
+        "d": "Sonda vesical de demora"
+      },
+      "resposta_correcta": "c",
+      "enunciado": "Qual o procedimento de colheita de urina mais adequado para a cultura e análise bacteriológica em um bebé que ainda usa fraldas?",
+      "justificativa": "A punção supra-púbica é considerada o método mais estéril e fiável para obter amostras de urina para cultura em bebés com fraldas, minimizando a contaminação.",
+      "tema": "V. Urinologia",
+      "numero": 70
+    },
+    {
+      "justificativa": "Cilindros hialinos podem ser encontrados em maior quantidade após exercício físico vigoroso devido à concentração da urina e aumento da excreção proteica tubular.",
+      "tema": "V. Urinologia",
+      "enunciado": "No exame microscópico do sedimento urinário, a presença abundante de cilindros hialinos é um achado inespecífico. Contudo, em qual das situações a seguir a sua quantidade pode estar significativamente aumentada, mesmo em indivíduos saudáveis?",
+      "alineas": {
+        "e": "Obstrução do trato urinário",
+        "b": "Exercício físico intenso",
+        "a": "Grave infeção urinária",
+        "c": "Glomerulonefrite aguda",
+        "d": "Nefropatia diabética"
+      },
+      "resposta_correcta": "b",
+      "numero": 71
+    },
+    {
+      "justificativa": "O exame microscópico permite a visualização de eritrócitos intactos na hematúria, diferenciando-a da hemoglobinúria ou mioglobinúria, onde não há eritrócitos.",
+      "tema": "V. Urinologia",
+      "enunciado": "Um técnico de laboratório recebe uma amostra de urina com coloração avermelhada-acastanhada. Qual dos seguintes testes é crucial para diferenciar entre hematúria e hemoglobinúria/mioglobinúria?",
+      "alineas": {
+        "e": "Pesquisa de pigmentos biliares",
+        "b": "Teste de glicose com fita reactiva",
+        "a": "Teste de proteína por ácido sulfosalicílico",
+        "c": "Exame microscópico do sedimento urinário",
+        "d": "Determinação de pH urinário"
+      },
+      "resposta_correcta": "c",
+      "numero": 72
+    },
+    {
+      "enunciado": "Qual dos seguintes métodos é o mais sensível e específico para a determinação quantitativa de proteinúria significativa, especialmente em casos de suspeita de doença renal?",
+      "alineas": {
+        "c": "Relação proteína/creatinina em amostra isolada de urina",
+        "d": "Teste de Benedict para redução",
+        "e": "Teste de acetona por tira reactiva",
+        "b": "Teste de ácido sulfosalicílico (SSA) qualitativo",
+        "a": "Fita reactiva para proteínas"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A relação proteína/creatinina em amostra isolada correlaciona-se bem com a excreção de proteína em 24 horas, sendo um método mais prático e preciso que as fitas ou testes qualitativos.",
+      "tema": "V. Urinologia",
+      "numero": 73
+    },
+    {
+      "justificativa": "A Síndrome de Fanconi caracteriza-se por um defeito tubular renal que impede a reabsorção de glicose, aminoácidos, fosfato e bicarbonato, resultando em glicosúria normoglicémica.",
+      "tema": "V. Urinologia",
+      "enunciado": "Uma amostra de urina de um paciente com suspeita de diabetes mellitus é submetida a análise. A fita reactiva indica glicosúria 4+. No entanto, o paciente nega ter se alimentado nas últimas 12 horas. Qual a condição mais provável que explicaria este achado?",
+      "alineas": {
+        "a": "Diabetes insipidus",
+        "e": "Doença de Addison",
+        "b": "Síndrome de Fanconi",
+        "d": "Insuficiência da glândula pituitária",
+        "c": "Hipertiroidismo"
+      },
+      "resposta_correcta": "b",
+      "numero": 74
+    },
+    {
+      "justificativa": "Os túbulos distais e ductos coletores são responsáveis pelo ajuste final da composição da urina através da reabsorção, especialmente de água e sódio sob controlo hormonal, e secreção de eletrólitos.",
+      "tema": "V. Urinologia",
+      "alineas": {
+        "a": "Filtração glomerular de solutos e água",
+        "e": "Produção de renina",
+        "b": "Reabsorção de grandes quantidades de glicose e aminoácidos",
+        "c": "Ajustamento fino da reabsorção de água e sódio, e secreção de iões hidrogénio e potássio",
+        "d": "Formação do gradiente osmótico medular"
+      },
+      "resposta_correcta": "c",
+      "enunciado": "Na avaliação do sistema urinário, qual é a principal função dos túbulos contorcidos distais e dos ductos coletores na formação da urina secundária?",
+      "numero": 75
+    },
+    {
+      "justificativa": "A turvação, odor amoniacal e nitritos positivos são marcadores clássicos de infecção do trato urinário por bactérias que reduzem nitrato a nitrito, como E. coli.",
+      "tema": "V. Urinologia",
+      "enunciado": "Um paciente apresenta urina com aspecto turvo e forte odor amoniacal. Qual a causa mais comum para estes achados, considerando um resultado positivo para nitritos na fita reactiva?",
+      "alineas": {
+        "e": "Diabetes mellitus",
+        "b": "Uropatia obstrutiva",
+        "a": "Contaminação da amostra com fezes",
+        "d": "Litíase renal de oxalato de cálcio",
+        "c": "Infecção do trato urinário por bactérias Gram-negativas"
+      },
+      "resposta_correcta": "c",
+      "numero": 76
+    },
+    {
+      "enunciado": "Qual das seguintes metodologias é mais sensível para a detecção de corpos cetónicos na urina?",
+      "alineas": {
+        "d": "Cromatografia líquida de alta eficiência (HPLC)",
+        "c": "Teste de Rothera",
+        "e": "Espectrometria de massa",
+        "b": "Fita reactiva para acetona e ácido acetoacético",
+        "a": "Teste de Benedict"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "As fitas reactivas são padronizadas e amplamente utilizadas para a detecção de acetona e ácido acetoacético na urina, sendo um método rápido e sensível em ambiente laboratorial. O teste de Rothera é um método clássico, mas menos prático para triagem de rotina.",
+      "tema": "V. Urinologia",
+      "numero": 77
+    },
+    {
+      "alineas": {
+        "a": "Coletar a primeira urina da manhã no recipiente",
+        "e": "Adicionar um conservante à amostra antes de iniciar a colheita",
+        "b": "Descartar a primeira urina da manhã do primeiro dia e coletar todas as urinas subsequentes, incluindo a primeira do dia seguinte",
+        "c": "Coletar apenas as micções do meio do dia",
+        "d": "Não consumir líquidos durante o período de colheita"
+      },
+      "resposta_correcta": "b",
+      "enunciado": "Na colheita de urina de 24 horas, qual a instrução mais importante a ser dada ao paciente para garantir a precisão do resultado?",
+      "justificativa": "Para uma amostra de 24 horas precisa, a primeira urina do dia inicial é descartada para iniciar o período com a bexiga vazia, e todas as micções subsequentes são coletadas, incluindo a primeira do dia seguinte, para completar o ciclo exato de 24 horas.",
+      "tema": "V. Urinologia",
+      "numero": 78
+    },
+    {
+      "enunciado": "Na interpretação de uma tira reativa urinária, um resultado de pH 9.0 levanta a suspeita de qual das seguintes condições ou interferências?",
+      "alineas": {
+        "d": "Diabetes mellitus descompensada",
+        "c": "Regime alimentar rico em proteínas",
+        "a": "Acidose metabólica",
+        "e": "Litíase renal de cistina",
+        "b": "Infeção urinária por bactérias produtoras de urease"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Um pH urinário fortemente alcalino (>= 9.0) é frequentemente associado a infeções do trato urinário por bactérias produtoras de urease, como Proteus spp., que hidrolisam a ureia em amónia.",
+      "tema": "V. Urinologia",
+      "numero": 79
+    },
+    {
+      "alineas": {
+        "a": "Contaminação da amostra",
+        "e": "Obstrução ureteral",
+        "b": "Inflamação da bexiga",
+        "c": "Lesão tubular renal activa",
+        "d": "Glomerulonefrite aguda"
+      },
+      "resposta_correcta": "c",
+      "enunciado": "Durante a análise de uma urina sumária, o achado de células epiteliais renais tubulares em número aumentado no sedimento urinário é um indicador importante de:",
+      "justificativa": "A presença de células epiteliais tubulares renais em quantidades elevadas indica lesão ou necrose tubular ativa.",
+      "tema": "V. Urinologia",
+      "numero": 80
+    },
+    {
+      "justificativa": "Cristais (como os de oxalato de cálcio) são elementos não organizados do sedimento urinário, enquanto leucócitos, eritrócitos, cilindros e células epiteliais são considerados elementos organizados.",
+      "tema": "V. Urinologia",
+      "alineas": {
+        "e": "Células epiteliais escamosas",
+        "b": "Eritrócitos",
+        "a": "Leucócitos",
+        "c": "Cilindros granulosos",
+        "d": "Cristais de oxalato de cálcio"
+      },
+      "resposta_correcta": "d",
+      "enunciado": "Qual dos seguintes elementos NÃO é considerado um elemento organizado do sedimento urinário?",
+      "numero": 81
+    },
+    {
+      "enunciado": "Na avaliação laboratorial da urina, a presença de pigmentos biliares (bilirrubina) numa amostra é um forte indicativo de:",
+      "alineas": {
+        "c": "Diabetes mellitus",
+        "d": "Insuficiência renal crónica",
+        "a": "Hemólise intravascular",
+        "e": "Infeção urinária",
+        "b": "Doença hepática ou obstrução biliar"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A bilirrubina na urina indica um aumento da bilirrubina direta (conjugada) no sangue, o que ocorre em doenças hepáticas ou obstrução biliar.",
+      "tema": "V. Urinologia",
+      "numero": 82
+    },
+    {
+      "alineas": {
+        "e": "Bactérias e nitritos positivos",
+        "b": "Leucócitos isolados em grande quantidade",
+        "a": "Cristais de triplo fosfato abundantes",
+        "d": "Células epiteliais escamosas em aglomerados",
+        "c": "Cilindros hemáticos e dismorfismo eritrocitário"
+      },
+      "resposta_correcta": "c",
+      "enunciado": "Um paciente com suspeita de glomerulonefrite é submetido a exame de urina. Qual dos seguintes achados no sedimento urinário seria mais sugestivo desta patologia?",
+      "justificativa": "Cilindros hemáticos e eritrócitos dismórficos são marcadores patognomónicos de glomerulonefrite, indicando sangramento de origem glomerular.",
+      "tema": "V. Urinologia",
+      "numero": 83
+    },
+    {
+      "enunciado": "Qual a principal alteração que se espera observar na densidade urinária de um paciente com Diabetes Insipidus?",
+      "alineas": {
+        "a": "Densidade urinária muito elevada (>1.030)",
+        "e": "Presença de glicose na urina",
+        "b": "Densidade urinária consistentemente baixa (<1.005)",
+        "d": "Densidade urinária variável ao longo do dia",
+        "c": "Densidade urinária normal (1.010-1.025)"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "No Diabetes Insipidus, há uma deficiência na produção ou ação da hormona antidiurética (ADH), resultando na incapacidade do rim de concentrar a urina, levando a uma densidade urinária cronicamente baixa.",
+      "tema": "V. Urinologia",
+      "numero": 84
+    },
+    {
+      "resposta_correcta": "c",
+      "enunciado": "Um paciente de 55 anos, diabético tipo 2, apresenta um resultado de hemoglobina glicada (HbA1c) de 9,5%. De acordo com as recomendações clínicas para o controlo da diabetes, qual a interpretação mais apropriada para este resultado?",
+      "alineas": {
+        "e": "A HbA1c de 9,5% sugere um estado pré-diabético, necessitando de reavaliação em 6 meses.",
+        "a": "O controlo glicémico do paciente está excelente e não necessita de ajustes na terapêutica.",
+        "d": "O resultado indica hipoglicemia recente e severa, requerendo ajuste imediato na dose de insulina.",
+        "g": "O resultado é inconclusivo e a medição deve ser repetida em jejum absoluto por 12 horas.",
+        "c": "O paciente apresenta um controlo glicémico inadequado e está em risco elevado de complicações micro e macrovasculares.",
+        "f": "Este valor é comum em pacientes em tratamento com metformina e não indica descompensação.",
+        "b": "O controlo glicémico do paciente está dentro da meta para diabéticos tipo 2, mas deve ser monitorizado anualmente."
+      },
+      "justificativa": "Um valor de HbA1c > 8,0% indica um controlo glicémico deficiente em pacientes diabéticos, associado a um risco aumentado de complicações.",
+      "tema": "VI. Bioquímica Clínica",
+      "numero": 85
+    },
+    {
+      "justificativa": "O método do Biureto baseia-se na formação de um complexo violeta entre iões cúpricos e as ligações peptídicas das proteínas em ambiente alcalino, cuja intensidade de cor é proporcional à concentração proteica.",
+      "tema": "VI. Bioquímica Clínica",
+      "enunciado": "Na dosagem de proteínas séricas pelo método do Biureto, qual o princípio químico fundamental que permite a quantificação?",
+      "alineas": {
+        "c": "Capacidade das proteínas de se ligarem ao corante Coomassie Brilliant Blue, alterando o seu espectro de absorção.",
+        "f": "Aumento da absorvância em 280 nm devido à presença de aminoácidos aromáticos nas proteínas.",
+        "b": "Redução do ião cúprico em ião cuproso, que reage com o ácido fosfomolibdico formando um complexo azul.",
+        "d": "Reacção de grupos aminos terminais das proteínas com reagentes específicos, formando compostos coloridos.",
+        "g": "Formação de um produto fluorescente após a clivagem enzimática de substratos específicos.",
+        "a": "Formação de um complexo de cor púrpura derivado da reacção de iões cúpricos com ligações peptídicas em meio alcalino.",
+        "e": "Floculação e precipitação das proteínas em ambiente ácido, seguida de medição da turbidez."
+      },
+      "resposta_correcta": "a",
+      "numero": 86
+    },
+    {
+      "justificativa": "A curva de calibração é essencial para converter as medições de sinal (absorvância) em concentrações exactas do analito (glicose) nas amostras clínicas desconhecidas, garantindo a precisão dos resultados.",
+      "tema": "VI. Bioquímica Clínica",
+      "resposta_correcta": "c",
+      "enunciado": "Um Técnico Médio de Diagnóstico e Terapêutica de 2ª Classe (Análises Clínicas) está a preparar uma curva de calibração para a dosagem de glicose. Qual é a importância crucial de uma curva de calibração bem construída neste contexto?",
+      "alineas": {
+        "d": "Minimizar a interferência de substâncias endógenas na amostra do paciente, como bilirrubina e hemoglobina.",
+        "g": "Estabelecer os limites de detecção e quantificação mínimos para o ensaio de glicose.",
+        "c": "Determinar a relação entre a intensidade do sinal (absorvância) e a concentração do analito, permitindo quantificar amostras desconhecidas.",
+        "f": "Validar a sensibilidade analítica de métodos alternativos à dosagem de glicose no sangue.",
+        "b": "Compensar pequenas variações na temperatura ambiente do laboratório durante a análise.",
+        "e": "Assegurar que o equipamento espectrofotométrico está devidamente calibrado para outras análises bioquímicas.",
+        "a": "Garantir que todos os reagentes estão dentro da validade especificada pelo fabricante."
+      },
+      "numero": 87
+    },
+    {
+      "justificativa": "Ureia sérica elevada (azotemia) é um marcador de função renal comprometida. 15 mmol/L é significativamente acima do normal, indicando uma falha na excreção renal de produtos do metabolismo proteico e risco de uremia.",
+      "tema": "VI. Bioquímica Clínica",
+      "resposta_correcta": "c",
+      "enunciado": "Na interpretação de resultados de ureia sérica, um valor de 15 mmol/L (intervalo de referência: 2,5 – 7,5 mmol/L) num paciente com insuficiência renal crónica, o que este resultado indica e qual a sua implicação clínica?",
+      "alineas": {
+        "e": "O valor elevado sugere uma degradação proteica acentuada na dieta, sem relação directa com a função renal.",
+        "a": "O paciente apresenta hidratação excessiva, levando à diluição da ureia e um resultado falsamente elevado.",
+        "d": "Este valor é esperado devido a uma dieta rica em carboidratos e não tem relevância clínica para a função renal.",
+        "g": "A interpretação requer a co-avaliação com os níveis de creatinina sérica para uma conclusão precisa.",
+        "c": "O paciente tem uma elevação significativa da ureia, compatível com a progressão da sua doença renal e possível uremia.",
+        "f": "Pode indicar uma colheita de amostra inadequada, com possível contaminação bacteriana.",
+        "b": "A função renal do paciente está normalizada, pois a ureia é um marcador de hidratação."
+      },
+      "numero": 88
+    },
+    {
+      "resposta_correcta": "e",
+      "enunciado": "Qual dos seguintes métodos é considerado o 'gold standard' para a dosagem de glicose no plasma em ambiente laboratorial, devido à sua especificidade e precisão?",
+      "alineas": {
+        "e": "Método da hexoquinase.",
+        "a": "Método da o-toluidina.",
+        "g": "Método do ácido 3,5-dinitrosalicílico.",
+        "d": "Método de Nelson-Somogyi modificado.",
+        "f": "Método da orto-fenilenediamina.",
+        "b": "Método da glicose oxidase / peroxidase (GOD-POD).",
+        "c": "Método de Benedict quantitativo modificado."
+      },
+      "justificativa": "O método da hexoquinase é o método enzimático \"gold standard\" para a dosagem de glicose, sendo altamente específico e preciso por utilizar a enzima hexoquinase que fosforila selectivamente a glicose.",
+      "tema": "VI. Bioquímica Clínica",
+      "numero": 89
+    },
+    {
+      "enunciado": "Na electroforese de proteínas séricas, um padrão de \"banda monoclonal\" na região gama é frequentemente associado a que condição clínica?",
+      "alineas": {
+        "e": "Síndrome nefrótica com perda proteica urinária.",
+        "a": "Distúrbios nutricionais graves com hipoproteinemia.",
+        "g": "Infecções virais agudas benignas.",
+        "d": "Doenças hepáticas avançadas com cirrose.",
+        "f": "Anemia ferropriva severa.",
+        "b": "Processos inflamatórios agudos ou crónicos.",
+        "c": "Gamopatias monoclonais, como o mieloma múltiplo."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Uma banda monoclonal na região gama indica a produção excessiva de um único tipo de imunoglobulina por um clone de plasmócitos, característica de gamopatias monoclonais como o mieloma múltiplo.",
+      "tema": "VI. Bioquímica Clínica",
+      "numero": 90
+    },
+    {
+      "enunciado": "O metabolismo da glicose envolve diversas vias. Qual é o destino metabólico principal da glicose quando as suas necessidades energéticas imediatas são satisfeitas e os seus níveis são elevados?",
+      "alineas": {
+        "a": "Conversão em ácidos gordos e armazenamento como triglicerídeos.",
+        "e": "Transformação em aminoácidos não essenciais.",
+        "c": "Oxidação completa na via das pentoses fosfato.",
+        "f": "Degradação por via anaeróbia para produção de lactato.",
+        "b": "Armazenamento como glicogénio (glicogénese) principalmente no fígado e músculos.",
+        "d": "Excreção renal aumentada para manter a homeostase.",
+        "g": "Estimulação directa da gluconeogénese."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Quando as necessidades energéticas são satisfeitas e os níveis de glicose são altos, o corpo armazena o excesso como glicogénio no fígado e nos músculos através da glicogénese.",
+      "tema": "VI. Bioquímica Clínica",
+      "numero": 91
+    },
+    {
+      "justificativa": "A insulina promove a captação de glicose no músculo e tecido adiposo através da translocação dos transportadores GLUT4 para a superfície da célula, diminuindo a glicemia.",
+      "tema": "VI. Bioquímica Clínica",
+      "enunciado": "A insulina desempenha um papel fulcral na regulação da glicemia. Qual é o seu principal mecanismo de acção no músculo e tecido adiposo?",
+      "alineas": {
+        "a": "Estimular a libertação de glicogénio armazenado para a corrente sanguínea.",
+        "e": "Aumentar a produção de corpos cetónicos pelo fígado.",
+        "c": "Aumentar a captação de glicose pelas células através da translocação de transportadores GLUT4 para a membrana celular.",
+        "f": "Estimular a degradação de proteínas musculares para libertação de aminoácidos.",
+        "b": "Promover a gluconeogénese a partir de aminoácidos e glicerol.",
+        "d": "Inibir a glicólise e promover a oxidação de ácidos gordos como fonte de energia.",
+        "g": "Inibir a síntese proteica e de triglicerídeos."
+      },
+      "resposta_correcta": "c",
+      "numero": 92
+    },
+    {
+      "enunciado": "Numa situação de emergência diabética, um valor de glicose plasmática de 32 mmol/L num adulto, acompanhado de cetonúria e acidose metabólica, é mais indicativo de qual condição?",
+      "alineas": {
+        "a": "Hipoglicemia grave com exaustão das reservas de glicogénio.",
+        "e": "Um erro laboratorial na dosagem de glicose.",
+        "f": "Diabetes gestacional não controlada.",
+        "b": "Cetoacidose diabética (CAD).",
+        "c": "Síndrome hiperosmolar hiperglicémico (SHH).",
+        "g": "Diagnóstico recente de diabetes tipo 1.",
+        "d": "Diabetes insipidus central."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Glicose plasmática muito elevada (>13,9 mmol/L), cetonúria e acidose metabólica são os pilares diagnósticos da cetoacidose diabética (CAD), uma complicação aguda e grave da diabetes mellitus.",
+      "tema": "VI. Bioquímica Clínica",
+      "numero": 93
+    },
+    {
+      "justificativa": "O método do Verde de Bromocresol (BCG) é amplamente utilizado na dosagem de albumina sérica devido à sua alta especificidade, uma vez que o BCG se liga selectivamente à albumina em pH ácido, formando um complexo colorido.",
+      "tema": "VI. Bioquímica Clínica",
+      "enunciado": "Qual a principal vantagem da dosagem de proteínas utilizando o método do Verde de Bromocresol (BCG) para a albumina sérica, em comparação com métodos que reagem com todas as proteínas?",
+      "alineas": {
+        "d": "É menos afectado pela hemólise da amostra.",
+        "g": "Reage exclusivamente com aminoácidos sulfurados presentes na albumina.",
+        "c": "Não requer equipamento espectrofotométrico, podendo ser realizado por métodos colorimétricos visuais.",
+        "f": "É um método de referência para quantificação total de proteínas.",
+        "b": "Apresenta maior especificidade para a albumina, minimizando a interferência de outras proteínas plasmáticas.",
+        "e": "Permite a quantificação simultânea de albumina e globulinas.",
+        "a": "É um método mais sensível para proteínas de baixo peso molecular."
+      },
+      "resposta_correcta": "b",
+      "numero": 94
+    },
+    {
+      "resposta_correcta": "d",
+      "enunciado": "Ao preparar amostras para dosagem de glicose, qual é o anticoagulante de eleição e porquê?",
+      "alineas": {
+        "e": "Nenhum anticoagulante, deve ser colhido em soro para evitar diluição.",
+        "a": "EDTA, para evitar a coagulação do sangue e preservar os elementos celulares.",
+        "g": "Citrato de sódio e dextrose, para preservar a glicose da amostra.",
+        "d": "Fluoreto de sódio e oxalato de potássio, porque o fluoreto de sódio inibe a glicólise, impedindo a diminuição da glicose pós-colheita.",
+        "f": "Cloreto de sódio, mantém a isotonicidade da amostra de forma estável.",
+        "b": "Citrato de sódio, pois é o mais versátil para a maioria das análises bioquímicas.",
+        "c": "Heparina de lítio, devido à sua acção rápida e por não interferir com a maioria dos ensaios."
+      },
+      "justificativa": "O fluoreto de sódio é o anticoagulante de eleição para a dosagem de glicose, pois actua como inibidor enzimático da glicólise, prevenindo a diminuição in vitro dos níveis de glicose na amostra.",
+      "tema": "VI. Bioquímica Clínica",
+      "numero": 95
+    },
+    {
+      "resposta_correcta": "b",
+      "enunciado": "Qual a principal limitação do método gravimétrico na análise laboratorial clínica moderna para a dosagem de analitos em pequenas concentrações?",
+      "alineas": {
+        "g": "A detecção do ponto final da reacção é subjectiva e depende da experiência do analista.",
+        "d": "Não pode ser automatizado em sistemas de alto rendimento.",
+        "f": "A preparação dos reagentes é complexa e exige pessoal altamente qualificado.",
+        "b": "Requer grandes volumes de amostra e é demorado, o que o torna impraticável para análises de rotina.",
+        "c": "A precisão é baixa, mesmo para analitos em alta concentração.",
+        "e": "Depende da formação de um precipitado estável, o que nem sempre é possível para todos os analitos.",
+        "a": "É excessivamente sensível a interferências de outras substâncias."
+      },
+      "justificativa": "Os métodos gravimétricos são demorados e requerem grandes volumes de amostra, tornando-os impraticáveis para a rotina de um laboratório clínico moderno, que exige rapidez e pequenas amostras.",
+      "tema": "VI. Bioquímica Clínica",
+      "numero": 96
+    },
+    {
+      "justificativa": "Glicose em jejum entre 6,1 e 6,9 mmol/L e glicose 2 horas pós-carga entre 7,8 e 11,0 mmol/L são critérios para Tolerância à Glicose Diminuída (pré-diabetes), de acordo com a OMS/ADA.",
+      "tema": "VI. Bioquímica Clínica",
+      "enunciado": "Um paciente submetido a um teste de tolerância à glicose oral (TTGO) apresenta os seguintes resultados: Glicose em jejum = 6,8 mmol/L; Glicose 2 horas pós-carga = 10,5 mmol/L. Qual o diagnóstico mais provável?",
+      "alineas": {
+        "a": "Glicemia de jejum alterada (pré-diabetes).",
+        "e": "Hipoglicemia reactiva.",
+        "f": "Síndrome metabólica.",
+        "b": "Tolerância à glicose diminuída (pré-diabetes).",
+        "c": "Diabetes mellitus.",
+        "g": "Diagnóstico inconclusivo, repetição necessária.",
+        "d": "Glicemia normal."
+      },
+      "resposta_correcta": "b",
+      "numero": 97
+    },
+    {
+      "justificativa": "A glicólise é a via metabólica central que cinde a molécula de glicose em duas moléculas de piruvato, gerando um saldo líquido de ATP e NADH, que serão utilizados para a produção de mais energia.",
+      "tema": "VI. Bioquímica Clínica",
+      "enunciado": "Qual é a principal função da glicólise no metabolismo celular?",
+      "alineas": {
+        "d": "Conversão de ácidos gordos em glicose para fornecer energia ao cérebro.",
+        "g": "Formação de corpos cetónicos em situações de jejum prolongado.",
+        "c": "Oxidação de uma molécula de glicose para produzir duas moléculas de piruvato, ATP e NADH.",
+        "f": "Cisão da glicose em unidades mais simples para excreção renal.",
+        "b": "Síntese de proteínas a partir de aminoácidos.",
+        "e": "Remoção de grupos fosfato de compostos orgânicos para gerar energia livre.",
+        "a": "Produção de glicogénio para armazenamento energético."
+      },
+      "resposta_correcta": "c",
+      "numero": 98
+    },
+    {
+      "justificativa": "O branco de reagente é crucial para zerar o espectrofotómetro, subtraindo a absorvância inerente aos reagentes e ao diluente, garantindo que a leitura da amostra reflicta apenas a cor desenvolvida pela reacção do analito.",
+      "tema": "VI. Bioquímica Clínica",
+      "enunciado": "Em ensaios colorimétricos de bioquímica clínica, como a dosagem de ureia pelo método da urease-Berthelot, qual o papel do branco de reagente?",
+      "alineas": {
+        "g": "Identificar a presença de impurezas no material de vidro do laboratório.",
+        "d": "Determinar a concentração de ureia presente nos reagentes antes da adição da amostra.",
+        "f": "Corrigir a turbidez inerente à amostra do paciente.",
+        "b": "Ajustar o espectrofotómetro para 100% de transmitância ou absorvância zero no comprimento de onda de trabalho, excluindo a cor dos reagentes.",
+        "c": "Compensar a interferência da hemoglobina livre em amostras hemolisadas.",
+        "e": "Avaliar a estabilidade da temperatura ambiente durante a reacção colorimétrica.",
+        "a": "Medir a absorvância da água destilada utilizada na diluição das amostras."
+      },
+      "resposta_correcta": "b",
+      "numero": 99
+    },
+    {
+      "enunciado": "O que são distratores e por que são importantes na elaboração de questões de múltipla escolha para concursos públicos, como para Técnico Médio de Diagnóstico e Terapêutica?",
+      "alineas": {
+        "e": "São perguntas adicionais que podem ser respondidas se o candidato tiver tempo.",
+        "a": "São sinónimos da resposta correcta, para aumentar a dificuldade da questão.",
+        "g": "São apenas formalidades para preencher o número mínimo de alíneas.",
+        "d": "São erros ortográficos ou gramaticais propositados para atenção à leitura.",
+        "f": "São opções totalmente absurdas que nunca seriam consideradas por um candidato.",
+        "b": "São alíneas incorrectas, mas que parecem plausíveis para quem não domina o assunto, testando a compreensão e o conhecimento aprofundado do candidato.",
+        "c": "São frases que servem para contextualizar o enunciado e torná-lo mais interessante."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Distratores bem elaborados são alíneas incorrectas mas verosímeis, que avaliam a capacidade do candidato de discernir a opção correcta, demonstrando o seu domínio aprofundado sobre o tema e não apenas um conhecimento superficial.",
+      "tema": "VI. Bioquímica Clínica",
+      "numero": 100
+    }
+  ]
+}

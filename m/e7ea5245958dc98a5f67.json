@@ -1,0 +1,2797 @@
+{
+  "categoria_id": "enfermagem",
+  "categoria": "Técnico Médio de Enfermagem — 3ª Classe",
+  "pais": "Angola",
+  "orgao": "Ministério da Saúde — MINSA",
+  "gerado_em": "2026-07-27T01:59:32Z",
+  "total_temas": 14,
+  "temas": [
+    {
+      "titulo": "Sinais Vitais: Temperatura, Pulso, Respiração, Tensão Arterial, Dor e Saturação de Oxigénio",
+      "introducao": "Os Sinais Vitais representam indicadores cruciais do estado fisiológico de um indivíduo, reflectindo as funções essenciais do corpo humano. A sua aferição e monitorização são actos fundamentais na prática da enfermagem, permitindo a avaliação rápida e objectiva da condição de saúde do paciente, a detecção precoce de alterações, a identificação de riscos e a avaliação da resposta a intervenções terapêuticas. No contexto angolano, onde os desafios de saúde persistem e a qualidade dos cuidados é uma prioridade, a compreensão aprofundada e a aplicação rigorosa da técnica de aferição dos Sinais Vitais são indispensáveis para o Técnico Médio de Enfermagem, garantindo uma assistência segura e eficaz, desde o atendimento primário em Mbanza Kongo até aos grandes hospitais de Luanda. Este módulo visa capacitar os futuros técnicos com o conhecimento teórico e prático necessário para dominar esta competência vital.",
+      "conceitos": [
+        {
+          "termo": "Sinais Vitais (SV)",
+          "definicao": "Indicadores fisiológicos básicos que reflectem a funcionalidade dos sistemas cardiovascular, respiratório, nervoso e termorregulador do corpo humano, sendo essenciais para a avaliação do estado de saúde e detecção de alterações."
+        },
+        {
+          "termo": "Temperatura Corporal (T)",
+          "definicao": "Medida do calor produzido e perdido pelo corpo, reflectindo o equilíbrio entre a termogénese e a termólise, mantido por mecanismos reguladores hipotalâmicos. É um indicador do estado metabólico e da presença de infecção ou inflamação."
+        },
+        {
+          "termo": "Pulso (P)",
+          "definicao": "Palpação da onda de sangue que é projectada contra as paredes arteriais a cada contracção ventricular do coração, avaliando a frequência, ritmo, amplitude e tensão da pulsação arterial periférica."
+        },
+        {
+          "termo": "Respiração (R)",
+          "definicao": "Processo de troca gasosa entre o organismo e o ambiente, envolvendo a inspiração (entrada de ar) e a expiração (saída de ar). Avalia-se a frequência, ritmo, profundidade e características dos movimentos respiratórios."
+        },
+        {
+          "termo": "Tensão Arterial (TA)",
+          "definicao": "Força exercida pelo sangue contra as paredes das artérias, resultante da contracção cardíaca (sistólica) e do relaxamento (diastólica), sendo um indicador da função cardíaca, do volume sanguíneo e da resistência vascular periférica."
+        },
+        {
+          "termo": "Dor (D)",
+          "definicao": "Experiência sensorial e emocional desagradável associada a dano tecidular real ou potencial, ou descrita em termos de tal dano. É um sinal vital subjectivo, avaliado através de escalas e observação comportamental."
+        },
+        {
+          "termo": "Saturação de Oxigénio (SpO2)",
+          "definicao": "Percentagem de hemoglobina que está ligada ao oxigénio no sangue arterial, medida de forma não invasiva por um oxímetro de pulso. Reflecte a eficácia da oxigenação pulmonar e o transporte de oxigénio aos tecidos."
+        },
+        {
+          "termo": "Homeostase",
+          "definicao": "Capacidade do corpo de manter as suas condições internas estáveis e relativamente constantes, apesar das alterações no ambiente externo. Os Sinais Vitais são indicadores chave da manutenção ou desequilíbrio da homeostase."
+        }
+      ],
+      "finalidades": [
+        "Avaliar o estado de saúde geral do paciente.",
+        "Monitorizar a eficácia de tratamentos e intervenções.",
+        "Detectar precocemente alterações fisiológicas que podem indicar agravamento ou melhoria da condição do paciente.",
+        "Identificar riscos potenciais para a saúde, como infecções, hipóxia ou hemorragias.",
+        "Servir como base para a tomada de decisões clínicas e planeamento de cuidados de enfermagem.",
+        "Contribuir para o registo clínico preciso e a comunicação efectiva entre a equipa de saúde."
+      ],
+      "vantagens": [
+        "Fornecem informações rápidas e objectivas sobre o estado fisiológico do paciente.",
+        "Permitem a detecção precoce de problemas de saúde, possibilitando intervenções atempadas.",
+        "São métodos não invasivos e geralmente bem tolerados pelos pacientes.",
+        "Facilitam a monitorização contínua do paciente e a avaliação da resposta ao tratamento.",
+        "Constituem uma base sólida para a construção do plano de cuidados de enfermagem."
+      ],
+      "desvantagens": [
+        "Podem ser influenciados por múltiplos factores (stress, medicamentos, ambiente), exigindo interpretação cuidadosa.",
+        "A aferição incorrecta pode levar a dados erróneos e a decisões clínicas inadequadas.",
+        "A dor é um sinal vital subjectivo, dificultando a sua quantificação padronizada.",
+        "Equipamentos podem ser caros ou indisponíveis em alguns contextos, especialmente em áreas rurais de Angola.",
+        "A dependência excessiva dos valores numéricos pode desviar a atenção da avaliação clínica global do paciente."
+      ],
+      "valores_referencia": [
+        {
+          "parametro": "Temperatura Corporal (T)",
+          "valor": "36.0°C - 37.5°C (axilar/oral)",
+          "observacao": "Fevereiro (febre) >37.5°C; Hipotermia <35.0°C. Variações diurnas são normais."
+        },
+        {
+          "parametro": "Pulso (P)",
+          "valor": "60-100 batimentos por minuto (bpm)",
+          "observacao": "Taquicardia >100 bpm; Bradicardia <60 bpm. Aferir ritmo, amplitude e tensão."
+        },
+        {
+          "parametro": "Respiração (R)",
+          "valor": "12-20 incursões respiratórias por minuto (irpm)",
+          "observacao": "Taquipneia >20 irpm; Bradipneia <12 irpm. Aferir ritmo, profundidade e esforço."
+        },
+        {
+          "parametro": "Tensão Arterial (TA) - Adulto",
+          "valor": "Sistólica: 90-120 mmHg; Diastólica: 60-80 mmHg",
+          "observacao": "Valores óptimos. Hipertensão >140/90 mmHg; Hipotensão <90/60 mmHg (sintomática)."
+        },
+        {
+          "parametro": "Dor (D)",
+          "valor": "Escala de 0-10 (0=sem dor, 10=pior dor possível)",
+          "observacao": "Avaliação subjectiva. Considerar escalas específicas para crianças (FLACC) ou pacientes inconscientes."
+        },
+        {
+          "parametro": "Saturação de Oxigénio (SpO2)",
+          "valor": "95%-100%",
+          "observacao": "Hipoxemia <90%. Pacientes com doença pulmonar obstrutiva crónica (DPOC) podem ter valores basais mais baixos (88-92%)."
+        }
+      ],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "Preparação: Lavar as mãos, reunir o material necessário (termómetro, relógio com ponteiro de segundos, esfigmomanómetro, estetoscópio, oxímetro de pulso, escala de dor, folha de registo, caneta), explicar o procedimento ao paciente e garantir a sua privacidade e conforto."
+        },
+        {
+          "passo": 2,
+          "descricao": "Temperatura Corporal: Seleccionar o local de aferição (axilar, oral, timpânica, rectal). No caso do axilar, secar a axila, posicionar o termómetro (digital ou de mercúrio) na axila, aguardar o tempo indicado (geralmente 3-5 minutos para mercúrio, até sinal sonoro para digital). Retirar e ler o valor. Limpar o termómetro."
+        },
+        {
+          "passo": 3,
+          "descricao": "Pulso: Escolher a artéria (radial é a mais comum). Posicionar os dedos indicador e médio sobre a artéria, pressionando suavemente. Contar o número de pulsações durante 60 segundos (ou 30 segundos e multiplicar por 2, se regular). Avaliar ritmo, amplitude e tensão. Em crianças, o pulso apical é preferível."
+        },
+        {
+          "passo": 4,
+          "descricao": "Respiração: Manter a mão no pulso do paciente ou simular a contagem do pulso para evitar que o paciente altere voluntariamente o seu padrão respiratório. Observar as incursões torácicas/abdominais (inspiração e expiração) durante 60 segundos. Avaliar frequência, ritmo, profundidade e presença de ruídos anormais."
+        },
+        {
+          "passo": 5,
+          "descricao": "Tensão Arterial: Assegurar que o paciente está relaxado, sentado ou deitado, com o braço apoiado ao nível do coração. Seleccionar o manguito de tamanho adequado. Colocar o manguito 2-3 cm acima da fossa cubital, com a artéria braquial alinhada. Palpar a artéria braquial, insuflar o manguito até 30 mmHg acima do desaparecimento do pulso radial. Colocar o estetoscópio sobre a artéria braquial. Desinsuflar lentamente (2-3 mmHg/segundo). O primeiro som de Korotkoff indica a TA sistólica; o desaparecimento dos sons indica a TA diastólica."
+        },
+        {
+          "passo": 6,
+          "descricao": "Dor: Perguntar ao paciente sobre a sua dor, utilizando escalas apropriadas (ex: Escala Visual Analógica - EVA, Escala Numérica - EN). Observar sinais não verbais de dor (expressão facial, postura, gemidos). Registar a intensidade, localização, características e factores agravantes/atenuantes."
+        },
+        {
+          "passo": 7,
+          "descricao": "Saturação de Oxigénio: Ligar o oxímetro de pulso. Colocar o sensor no dedo do paciente (assegurar que o dedo está limpo, sem verniz e bem perfundido). Aguardar a leitura estabilizar. Registar o valor de SpO2 e a frequência de pulso apresentada no aparelho."
+        },
+        {
+          "passo": 8,
+          "descricao": "Registo e Comunicação: Registar todos os valores aferidos na folha de registo ou sistema electrónico, juntamente com a data, hora, local de aferição e quaisquer observações relevantes. Comunicar alterações significativas à equipa de saúde."
+        },
+        {
+          "passo": 9,
+          "descricao": "Pós-procedimento: Higienizar o material utilizado, lavar as mãos e organizar o ambiente."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Um paciente, de 45 anos, residente em Viana, Luanda, chega ao posto de saúde com queixas de mal-estar geral e febre. Na avaliação inicial, o técnico de enfermagem verifica uma Temperatura Axilar de 38.8°C, Pulso de 110 bpm, Respiração de 22 irpm, e Tensão Arterial de 130/85 mmHg. O paciente refere dor de garganta, classificando-a como 7/10 na Escala Numérica. A SpO2 é de 96%.",
+          "resolucao": "O técnico de enfermagem identifica que a temperatura (38.8°C) está elevada (febre), o pulso (110 bpm) está taquicárdico, e a respiração (22 irpm) está taquipneica. A tensão arterial está dentro dos limites da normalidade para um adulto, e a saturação de oxigénio é adequada. A dor de garganta é significativa (7/10). Neste caso, as alterações nos sinais vitais (febre, taquicardia, taquipneia) são consistentes com um processo infeccioso (dor de garganta) e indicam uma resposta inflamatória do organismo. O técnico deverá registar todos os valores, comunicar imediatamente ao enfermeiro responsável ou médico, providenciar medidas de conforto (ex: compressas frias na testa, hidratação oral se tolerado) e preparar-se para administrar medicação antipirética e analgésica conforme prescrição médica, monitorizando a resposta do paciente."
+        },
+        {
+          "situacao": "Durante a ronda num hospital em Saurimo, Lunda Sul, o técnico de enfermagem encontra um paciente pós-operatório (apendicectomia há 24h) com palidez, sudorese, queixando-se de 'cansaço'. A aferição dos sinais vitais revela: T=36.2°C, P=125 bpm (filiforme), R=28 irpm (superficial), TA=85/50 mmHg, SpO2=93%. O paciente nega dor no local da incisão, mas parece agitado.",
+          "resolucao": "A análise dos sinais vitais revela uma situação de emergência: o pulso (125 bpm) está marcadamente taquicárdico e filiforme (sinal de hipovolemia), a respiração (28 irpm) está taquipneica e superficial, a tensão arterial (85/50 mmHg) está hipotensa, e a SpO2 (93%) está limítrofe, indicando uma possível hipoxemia. A temperatura está normal, e a negação de dor pode ser enganosa devido ao estado de choque. Estes achados são altamente sugestivos de choque hipovolémico, possivelmente devido a hemorragia interna pós-operatória. O técnico deve agir imediatamente: posicionar o paciente em decúbito dorsal com elevação dos membros inferiores, comunicar urgentemente ao médico e enfermeiro chefe, preparar material para acesso venoso periférico, colheita de análises (hemograma, tipagem sanguínea), e administração de fluídos intravenosos/sangue conforme prescrição. Monitorizar continuamente os sinais vitais."
+        },
+        {
+          "situacao": "Uma criança de 5 anos, residente em Ndalatando, Cuanza Norte, é trazida à urgência com tosse persistente e dificuldade respiratória. O técnico de enfermagem avalia os sinais vitais: T=37.9°C, P=130 bpm, R=40 irpm (com tiragem intercostal), SpO2=90%. A criança está chorosa e, ao tentar usar a escala de dor FLACC (Face, Legs, Activity, Cry, Consolability), o técnico atribui um 6/10.",
+          "resolucao": "As crianças possuem valores de referência de sinais vitais diferentes dos adultos. Neste caso, a temperatura (37.9°C) está ligeiramente elevada, o pulso (130 bpm) está taquicárdico para a idade e a respiração (40 irpm) está marquedamente taquipneica, com sinais de esforço respiratório (tiragem intercostal). A saturação de oxigénio (90%) é preocupante e indica hipoxemia. A dor/desconforto (FLACC 6/10) é significativa. Estes dados apontam para uma insuficiência respiratória aguda, provavelmente associada a uma infecção respiratória. O técnico deve posicionar a criança confortavelmente (muitas vezes sentada ou semi-sentada), comunicar urgentemente ao médico, preparar oxigenoterapia (máscara ou cânula nasal, conforme tolerância), e monitorizar de perto a SpO2 e o padrão respiratório. A avaliação contínua e a intervenção rápida são cruciais para prevenir o agravamento do quadro."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Não lavar as mãos antes e depois da aferição dos sinais vitais.",
+        "Utilizar equipamento não calibrado ou danificado, levando a leituras imprecisas.",
+        "Não explicar o procedimento ao paciente, gerando ansiedade e podendo alterar os resultados.",
+        "Aferir a TA com manguito de tamanho inadequado, resultando em leituras falsamente altas ou baixas.",
+        "Contar o pulso ou a respiração por menos de 60 segundos quando os valores são irregulares.",
+        "Aferir a temperatura oral após o paciente ter ingerido líquidos quentes/frios ou fumado.",
+        "Não considerar factores que podem influenciar os sinais vitais (exercício, stress, medicação, ambiente).",
+        "Não registar os valores de forma imediata e precisa, ou omitir observações relevantes.",
+        "Não comunicar alterações significativas à equipa de saúde de forma atempada.",
+        "Interpretar isoladamente os sinais vitais, sem considerar o contexto clínico global do paciente.",
+        "Ignorar a dor como um sinal vital, subestimando o sofrimento do paciente."
+      ],
+      "conclusao": "Os Sinais Vitais são pilares inabaláveis da avaliação clínica e da monitorização de saúde, representando a linguagem universal do corpo humano. Para o Técnico Médio de Enfermagem em Angola, dominar a sua aferição e interpretação não é apenas uma competência técnica, mas um acto de responsabilidade profissional e humanitária. A precisão na recolha destes dados, aliada à capacidade de identificar e comunicar desvios da normalidade, constitui a base para a prestação de cuidados de enfermagem seguros, eficazes e de qualidade. Num país com a dimensão e os desafios de Angola, desde as comunidades mais isoladas do Cunene aos centros urbanos de Benguela, a competência neste domínio é um diferencial que salva vidas e contribui significativamente para a melhoria dos indicadores de saúde pública, reforçando o papel crucial do técnico de enfermagem na linha da frente da assistência."
+    },
+    {
+      "titulo": "Cálculos de Medicamentos e Gotejamento Endovenoso",
+      "introducao": "A administração segura e eficaz de medicamentos é um pilar fundamental da prática de enfermagem, exigindo precisão e conhecimento aprofundado dos princípios farmacológicos e matemáticos. Em Angola, onde a escassez de recursos e a diversidade de apresentações farmacêuticas são desafios constantes, a capacidade de realizar cálculos de medicamentos e gotejamento endovenoso com exatidão torna-se ainda mais crítica. Este tema aborda as competências essenciais para o Técnico Médio de Enfermagem, garantindo que as doses prescritas sejam administradas correctamente, prevenindo erros de medicação que podem ter consequências graves para o paciente. Desde a conversão de unidades até ao ajuste do fluxo de infusão, a compreensão destes cálculos é indispensável para a segurança do paciente e a qualidade dos cuidados prestados em todas as unidades sanitárias do país, desde Luanda ao Cunene.",
+      "conceitos": [
+        {
+          "termo": "Dose",
+          "definicao": "Quantidade específica de um medicamento que deve ser administrada a um paciente para produzir um efeito terapêutico desejado. Pode ser expressa em unidades de massa (mg, g), volume (mL), ou outras unidades específicas (UI, mEq)."
+        },
+        {
+          "termo": "Concentração",
+          "definicao": "Relação entre a quantidade de substância activa e o volume ou massa total da solução ou formulação. Geralmente expressa em mg/mL, g/L, percentagem (%), ou unidades por volume (UI/mL)."
+        },
+        {
+          "termo": "Diluição",
+          "definicao": "Processo de diminuir a concentração de uma substância em uma solução, adicionando mais solvente. Essencial para ajustar a dose de medicamentos para administração segura, especialmente em pacientes pediátricos ou com necessidades específicas."
+        },
+        {
+          "termo": "Gotejamento Endovenoso (EV)",
+          "definicao": "Administração contínua de fluidos e/ou medicamentos directamente na corrente sanguínea do paciente através de uma veia, utilizando um sistema de infusão que permite controlar a taxa de gotejamento."
+        },
+        {
+          "termo": "Fator de Gotejamento",
+          "definicao": "Número de gotas necessárias para formar 1 mililitro (mL) de solução, que varia consoante o equipo de soro utilizado. Os mais comuns são o macrogotas (10, 15 ou 20 gotas/mL) e o microgotas (60 gotas/mL)."
+        },
+        {
+          "termo": "Bomba de Infusão",
+          "definicao": "Dispositivo médico eletrónico que administra fluidos, nutrientes ou medicamentos (como analgésicos, insulina ou outros hormonas) no corpo de um paciente de forma controlada e precisa, geralmente em mL/hora."
+        },
+        {
+          "termo": "Regra de Três Simples",
+          "definicao": "Método matemático utilizado para resolver problemas de proporção directa, amplamente empregado nos cálculos de medicamentos para determinar a quantidade de medicamento a ser administrada com base na dose prescrita e na concentração disponível."
+        },
+        {
+          "termo": "Unidades Internacionais (UI)",
+          "definicao": "Unidade de medida para a quantidade de uma substância, baseada na sua atividade biológica ou efeito, em vez da sua massa. Comum para vitaminas, hormonas e algumas vacinas."
+        }
+      ],
+      "finalidades": [
+        "Administrar a dose correta de medicamento ao paciente, prevenindo erros de dosagem.",
+        "Garantir a segurança do paciente durante a terapêutica medicamentosa.",
+        "Otimizar a eficácia do tratamento ao assegurar a concentração adequada do fármaco no organismo.",
+        "Controlar a velocidade de infusão de soluções endovenosas para evitar sobrecarga hídrica ou administração inadequada de medicamentos.",
+        "Adaptar as apresentações farmacêuticas disponíveis às necessidades individuais de cada paciente.",
+        "Promover a autonomia e a responsabilidade profissional do Técnico de Enfermagem na gestão da terapêutica."
+      ],
+      "vantagens": [
+        "Minimiza o risco de erros de medicação, aumentando a segurança do paciente.",
+        "Permite a administração precisa de doses complexas ou fracionadas.",
+        "Facilita a adaptação de medicamentos para diferentes faixas etárias (pediatria, geriatria).",
+        "Otimiza o uso de recursos hospitalares, evitando desperdício de medicamentos.",
+        "Assegura a padronização dos procedimentos de administração de medicamentos.",
+        "Contribui para a eficácia do tratamento e a recuperação do paciente."
+      ],
+      "desvantagens": [
+        "Exige atenção concentrada e pode ser propenso a erros humanos se não for executado com rigor.",
+        "Requer conhecimento matemático básico e constante prática para manter a proficiência.",
+        "A falta de padronização nas unidades de medida ou apresentações pode gerar confusão.",
+        "Pode ser demorado em situações de emergência se o profissional não tiver agilidade nos cálculos.",
+        "A dependência excessiva de calculadoras sem a compreensão dos princípios pode levar a erros graves."
+      ],
+      "valores_referencia": [],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "Identificar a prescrição médica: Verificar o nome do medicamento, a dose prescrita, a via de administração, a frequência e a duração do tratamento. Em Angola, a prescrição deve ser clara e legível, com carimbo e assinatura do médico."
+        },
+        {
+          "passo": 2,
+          "descricao": "Verificar a disponibilidade e concentração do medicamento: Consultar a embalagem do medicamento ou o prontuário da farmácia para identificar a apresentação disponível (ex: 500 mg/comprimido, 250 mg/5 mL, 1g/ampola). Confirmar a validade."
+        },
+        {
+          "passo": 3,
+          "descricao": "Converter unidades, se necessário: Assegurar que a dose prescrita e a concentração disponível estejam na mesma unidade de medida (ex: gramas para miligramas, litros para mililitros). Ex: 1g = 1000mg; 1L = 1000mL."
+        },
+        {
+          "passo": 4,
+          "descricao": "Realizar o cálculo da dose: Utilizar a fórmula apropriada, como a regra de três simples, para determinar a quantidade de medicamento a ser administrada. Fórmula básica: Dose Prescrita / Concentração Disponível = Volume/Número de Unidades a Administrar."
+        },
+        {
+          "passo": 5,
+          "descricao": "Para gotejamento endovenoso, calcular o volume total a ser infundido e o tempo de infusão. Determinar o fator de gotejamento do equipo utilizado (macrogotas ou microgotas)."
+        },
+        {
+          "passo": 6,
+          "descricao": "Calcular a taxa de gotejamento: Utilizar a fórmula: (Volume total (mL) x Fator de Gotejamento (gotas/mL)) / Tempo total (minutos) = Gotas/minuto. Para bombas de infusão, a unidade é mL/hora: Volume total (mL) / Tempo total (horas) = mL/hora."
+        },
+        {
+          "passo": 7,
+          "descricao": "Verificar e confirmar o cálculo: Refazer o cálculo ou pedir a outro colega para o verificar (dupla checagem), especialmente em medicamentos de alto risco. Esta etapa é crucial para a segurança do paciente."
+        },
+        {
+          "passo": 8,
+          "descricao": "Preparar e administrar o medicamento: Seguir os '5 Certos' da administração de medicação (paciente certo, medicamento certo, dose certa, via certa, hora certa). Monitorizar o paciente após a administração."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Um paciente na Maternidade Lucrécia Paim, em Luanda, necessita de 125 mg de Amoxicilina EV. Na farmácia, há ampolas de Amoxicilina em pó para reconstituição de 500 mg, que devem ser diluídas em 5 mL de água destilada. Quanto volume deve ser administrado?",
+          "resolucao": "1. Identificar a dose prescrita: 125 mg.\n2. Identificar a concentração disponível após reconstituição: 500 mg em 5 mL.\n3. Montar a regra de três:\n   500 mg -------- 5 mL\n   125 mg -------- X mL\n4. Resolver para X:\n   X = (125 mg * 5 mL) / 500 mg\n   X = 625 / 500\n   X = 1.25 mL\n   Resposta: Devem ser administrados 1.25 mL da solução reconstituída."
+        },
+        {
+          "situacao": "Um paciente no Hospital Geral de Benguela necessita de 1000 mL de Soro Fisiológico (SF 0.9%) para ser infundido em 8 horas. O equipo de macrogotas disponível tem um fator de gotejamento de 20 gotas/mL. Qual a taxa de gotejamento em gotas por minuto?",
+          "resolucao": "1. Identificar o volume total: 1000 mL.\n2. Identificar o tempo total: 8 horas. Converter para minutos: 8 horas * 60 minutos/hora = 480 minutos.\n3. Identificar o fator de gotejamento: 20 gotas/mL.\n4. Aplicar a fórmula de gotejamento:\n   Gotas/minuto = (Volume total (mL) * Fator de Gotejamento (gotas/mL)) / Tempo total (minutos)\n   Gotas/minuto = (1000 mL * 20 gotas/mL) / 480 minutos\n   Gotas/minuto = 20000 / 480\n   Gotas/minuto ≈ 41.66 gotas/minuto\n   Arredondar para o número inteiro mais próximo: 42 gotas/minuto.\n   Resposta: A taxa de gotejamento deve ser de aproximadamente 42 gotas por minuto."
+        },
+        {
+          "situacao": "Um lactente no Hospital Pediátrico David Bernardino, em Luanda, necessita de 5 mg de Dexametasona por via EV. A ampola de Dexametasona disponível contém 4 mg/mL. Quantos mililitros devem ser administrados?",
+          "resolucao": "1. Identificar a dose prescrita: 5 mg.\n2. Identificar a concentração disponível: 4 mg/mL.\n3. Montar a regra de três:\n   4 mg -------- 1 mL\n   5 mg -------- X mL\n4. Resolver para X:\n   X = (5 mg * 1 mL) / 4 mg\n   X = 5 / 4\n   X = 1.25 mL\n   Resposta: Devem ser administrados 1.25 mL de Dexametasona."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Não realizar a dupla checagem dos cálculos, especialmente em medicamentos de alto risco (ex: insulina, heparina, quimioterápicos).",
+        "Não converter correctamente as unidades de medida (ex: mg para g, L para mL).",
+        "Confundir o fator de gotejamento do equipo (macrogotas vs. microgotas).",
+        "Erro na leitura da prescrição médica, seja por letra ilegível ou abreviaturas desconhecidas.",
+        "Administrar o medicamento sem considerar a concentração real da solução após diluição.",
+        "Não verificar a validade do medicamento antes de preparar e administrar.",
+        "Não considerar o peso do paciente em cálculos pediátricos ou de medicamentos que dependem do peso corporal.",
+        "Arredondar os resultados dos cálculos de forma inadequada, o que pode levar a sub ou superdosagem.",
+        "Utilizar seringas ou equipamentos de medição inadequados para o volume a ser administrado (ex: usar seringa de 10 mL para medir 0.1 mL).",
+        "Desconsiderar a compatibilidade de medicamentos ao preparar soluções para infusão."
+      ],
+      "conclusao": "A proficiência nos cálculos de medicamentos e gotejamento endovenoso é uma competência não negociável para o Técnico Médio de Enfermagem em Angola. A capacidade de realizar estes cálculos com precisão e confiança salvaguarda a vida dos pacientes e fortalece a credibilidade dos serviços de saúde. A prática contínua, a atenção meticulosa aos detalhes e a adesão rigorosa aos protocolos de segurança são fundamentais para evitar erros de medicação, que podem ter consequências devastadoras. Ao dominar este tema, o profissional de enfermagem contribui activamente para a melhoria da qualidade dos cuidados, assegurando que cada cidadão angolano tenha acesso a uma terapêutica segura e eficaz, desde as clínicas municipais às grandes unidades hospitalares, impulsionando os indicadores de saúde do país, conforme as metas do IIMS 2023-2024."
+    },
+    {
+      "titulo": "Suporte Básico de Vida (SBV/BLS) em Adulto, Criança e Lactente",
+      "introducao": "O Suporte Básico de Vida (SBV), também conhecido como Basic Life Support (BLS), consiste num conjunto de procedimentos de emergência médica que podem ser realizados por qualquer pessoa, com ou sem formação médica formal, com o objectivo de manter a vida de uma vítima em situação de paragem cardiorrespiratória (PCR) até à chegada de socorro diferenciado. A sua importância reside na capacidade de reverter ou minimizar os danos cerebrais e outros órgãos vitais causados pela falta de oxigénio, aumentando significativamente as chances de sobrevivência e recuperação da vítima. Este módulo abordará as técnicas específicas de SBV para adultos, crianças e lactentes, considerando as particularidades anatómicas e fisiológicas de cada faixa etária, e preparando o candidato para actuar de forma eficaz e segura em cenários de emergência, um conhecimento crucial para o Técnico Médio de Enfermagem que actua em Angola, onde a resposta pré-hospitalar pode, por vezes, ser desafiante e a intervenção imediata do primeiro socorrista é vital.",
+      "conceitos": [
+        {
+          "termo": "Paragem Cardiorrespiratória (PCR)",
+          "definicao": "Cessação súbita e inesperada da função cardíaca e respiratória, resultando na interrupção do fluxo sanguíneo e da oxigenação dos tecidos, especialmente do cérebro. É uma emergência médica que exige intervenção imediata."
+        },
+        {
+          "termo": "Compressões Torácicas",
+          "definicao": "Manobras manuais rítmicas e profundas aplicadas sobre o esterno da vítima, com o objectivo de bombear o sangue para fora do coração e distribuí-lo pelos órgãos vitais, simulando a função cardíaca."
+        },
+        {
+          "termo": "Ventilações de Resgate",
+          "definicao": "Administração de ar nos pulmões da vítima, geralmente boca-a-boca ou com dispositivo de barreira, para fornecer oxigénio e remover dióxido de carbono, simulando a função respiratória."
+        },
+        {
+          "termo": "Cadeia de Sobrevivência",
+          "definicao": "Sequência de acções interdependentes que, quando realizadas de forma rápida e eficaz, aumentam as chances de sobrevivência de uma vítima de PCR. Inclui reconhecimento precoce e activação do sistema de emergência, SBV precoce, desfibrilhação precoce, Suporte Avançado de Vida (SAV) e cuidados pós-paragem."
+        },
+        {
+          "termo": "Desfibrilhação",
+          "definicao": "Aplicação de um choque eléctrico controlado no tórax da vítima para interromper arritmias cardíacas malignas (fibrilhação ventricular ou taquicardia ventricular sem pulso) e restaurar um ritmo cardíaco normal. Pode ser realizada com Desfibrilhador Externo Automático (DEA)."
+        },
+        {
+          "termo": "Obstrução da Via Aérea por Corpo Estranho (OVACE)",
+          "definicao": "Situação em que um objecto estranho bloqueia parcial ou totalmente a via aérea, impedindo a passagem do ar. Pode ser leve (com tosse eficaz) ou grave (com incapacidade de tossir, falar ou respirar)."
+        },
+        {
+          "termo": "Lactente",
+          "definicao": "Indivíduo desde o nascimento até completar 1 ano de idade, caracterizado por particularidades anatómicas e fisiológicas que exigem adaptação das técnicas de SBV."
+        },
+        {
+          "termo": "Criança",
+          "definicao": "Indivíduo com idade compreendida entre 1 ano e a puberdade (geralmente até 12-14 anos), cujas técnicas de SBV se adaptam entre as de lactente e adulto."
+        }
+      ],
+      "finalidades": [
+        "Reconhecer precocemente uma situação de paragem cardiorrespiratória.",
+        "Activar rapidamente o sistema de emergência médica (112 em Angola).",
+        "Manter a oxigenação e a perfusão cerebral e de outros órgãos vitais através de compressões e ventilações.",
+        "Aumentar as chances de sobrevivência e minimizar as sequelas neurológicas da vítima.",
+        "Proporcionar cuidados iniciais até à chegada de socorro diferenciado.",
+        "Prevenir a paragem cardiorrespiratória em situações de obstrução da via aérea."
+      ],
+      "vantagens": [
+        "Aumento significativo da taxa de sobrevivência em casos de PCR, especialmente se iniciado precocemente.",
+        "Redução do risco de dano cerebral e outras sequelas permanentes.",
+        "Pode ser realizado por qualquer pessoa treinada, em qualquer local.",
+        "É uma intervenção de baixo custo e alta eficácia.",
+        "Promove a confiança e a capacidade de resposta em situações de emergência."
+      ],
+      "desvantagens": [
+        "Pode causar lesões como fracturas de costelas ou esterno (embora o risco seja menor do que o benefício de salvar uma vida).",
+        "Necessidade de formação e actualização periódica das técnicas.",
+        "Risco de contaminação cruzada durante as ventilações (minimizável com dispositivos de barreira).",
+        "O sucesso do SBV é influenciado por factores como a causa da PCR e o tempo de resposta."
+      ],
+      "valores_referencia": [],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "Avaliação da Segurança do Local: Antes de qualquer intervenção, garantir que o local é seguro para o socorrista e para a vítima. Avaliar riscos como tráfego, electricidade, incêndio, etc."
+        },
+        {
+          "passo": 2,
+          "descricao": "Avaliação da Vítima (Responsividade e Respiração): Abordar a vítima, verificar se responde a estímulos verbais e dolorosos (Ex: 'Está tudo bem?', 'Acorde!'). Observar se há movimentos respiratórios normais (ver, ouvir e sentir a respiração por no máximo 10 segundos). Gasps (suspiros agónicos) não são considerados respiração normal."
+        },
+        {
+          "passo": 3,
+          "descricao": "Activação do Sistema de Emergência (112 em Angola): Se a vítima não responder e não respirar (ou respirar de forma anormal), activar imediatamente o serviço de emergência. Em Angola, o número é 112. Se houver mais de um socorrista, um inicia o SBV e o outro activa o 112 e procura um DEA, se disponível."
+        },
+        {
+          "passo": 4,
+          "descricao": "Abertura da Via Aérea: Manobra 'inclinação da cabeça, elevação do queixo'. Colocar uma mão na testa da vítima e inclinar a cabeça para trás, enquanto os dedos da outra mão elevam o queixo para abrir a via aérea. Em lactentes, apenas uma ligeira inclinação da cabeça é necessária (posição de 'cheirar')."
+        },
+        {
+          "passo": 5,
+          "descricao": "Verificação da Respiração (ainda sem pulso): Após abrir a via aérea, verificar novamente a respiração. Se a vítima não respirar ou respirar de forma anormal, e não houver pulso (ou se o socorrista não tiver certeza da presença de pulso), iniciar as compressões torácicas."
+        },
+        {
+          "passo": 6,
+          "descricao": "Compressões Torácicas (Adulto): Posicionar as mãos na metade inferior do esterno, entre os mamilos. Com os braços esticados e os ombros alinhados sobre as mãos, comprimir o tórax pelo menos 5 cm (máximo 6 cm) a uma frequência de 100 a 120 compressões por minuto. Permitir o retorno completo do tórax após cada compressão."
+        },
+        {
+          "passo": 7,
+          "descricao": "Compressões Torácicas (Criança): Usar uma ou duas mãos, na metade inferior do esterno, entre os mamilos. Comprimir o tórax cerca de 1/3 da profundidade do tórax (aproximadamente 5 cm) a uma frequência de 100 a 120 compressões por minuto. Permitir o retorno completo do tórax."
+        },
+        {
+          "passo": 8,
+          "descricao": "Compressões Torácicas (Lactente): Usar dois dedos (indicador e médio) na metade inferior do esterno, logo abaixo da linha dos mamilos. Comprimir o tórax cerca de 1/3 da profundidade do tórax (aproximadamente 4 cm) a uma frequência de 100 a 120 compressões por minuto. Permitir o retorno completo do tórax."
+        },
+        {
+          "passo": 9,
+          "descricao": "Ventilações de Resgate: Após 30 compressões, realizar 2 ventilações de resgate. Selar as narinas da vítima (adulto/criança) ou cobrir a boca e o nariz (lactente) com a sua boca, e insuflar ar durante cerca de 1 segundo, observando a elevação do tórax. Evitar insuflações fortes ou rápidas. A sequência é 30 compressões para 2 ventilações (30:2)."
+        },
+        {
+          "passo": 10,
+          "descricao": "Ciclos de RCP e Reavaliação: Continuar os ciclos de 30:2 sem interrupções até a chegada do socorro diferenciado, a vítima apresentar sinais de vida (movimento, tosse, respiração normal) ou o socorrista estiver exausto. Se um DEA estiver disponível, aplicá-lo assim que possível e seguir as suas instruções."
+        },
+        {
+          "passo": 11,
+          "descricao": "Obstrução da Via Aérea por Corpo Estranho (OVACE) – Adulto/Criança Consciente: Se a vítima conseguir tossir (obstrução leve), encorajá-la a tossir. Se não conseguir tossir, falar ou respirar (obstrução grave): Aplicar 5 pancadas nas costas entre as omoplatas e depois 5 compressões abdominais (Manobra de Heimlich). Repetir alternadamente até desobstrução ou inconsciência."
+        },
+        {
+          "passo": 12,
+          "descricao": "Obstrução da Via Aérea por Corpo Estranho (OVACE) – Lactente Consciente: Se não conseguir tossir, chorar ou respirar: Colocar o lactente de bruços sobre o antebraço, com a cabeça mais baixa que o tronco. Aplicar 5 pancadas nas costas entre as omoplatas. Virar o lactente de costas e aplicar 5 compressões torácicas (iguais às da RCP). Repetir alternadamente até desobstrução ou inconsciência."
+        },
+        {
+          "passo": 13,
+          "descricao": "OVACE – Inconsciente (qualquer idade): Iniciar RCP imediatamente, começando pelas compressões torácicas. Cada vez que a via aérea for aberta para ventilar, procurar o corpo estranho na boca e removê-lo se visível e acessível."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Um adulto de 45 anos colapsa subitamente no mercado do Kicolo, em Luanda. Não responde a estímulos e não respira normalmente.",
+          "resolucao": "1. Avaliar a segurança do local (afastar curiosos, verificar trânsito). 2. Confirmar a ausência de resposta e respiração. 3. Pedir a alguém que ligue para o 112 e procure um DEA, se disponível. 4. Iniciar compressões torácicas: 30 compressões (pelo menos 5 cm de profundidade, 100-120/minuto) na metade inferior do esterno, com as duas mãos. 5. Realizar 2 ventilações boca-a-boca (inclinação da cabeça, elevação do queixo, selar narinas, insuflar por 1 segundo). 6. Continuar ciclos de 30:2 até a chegada do INEMA ou outros socorristas, ou até a vítima apresentar sinais de vida."
+        },
+        {
+          "situacao": "Uma criança de 5 anos engasga-se com uma bala enquanto brincava no quintal em Viana. Está consciente, mas não consegue tossir nem falar, e começa a ficar cianótica.",
+          "resolucao": "1. Avaliar a segurança do local. 2. Confirmar a obstrução grave da via aérea (criança consciente, mas sem tosse eficaz/fala). 3. Posicionar-se atrás da criança e realizar 5 pancadas nas costas, entre as omoplatas. 4. Se a obstrução persistir, realizar 5 compressões abdominais (manobra de Heimlich), colocando os braços à volta da cintura da criança, com um punho fechado acima do umbigo e a outra mão sobre o punho, e puxar para dentro e para cima. 5. Alternar 5 pancadas nas costas com 5 compressões abdominais até a bala ser expelida ou a criança ficar inconsciente. Se ficar inconsciente, iniciar RCP e ligar para o 112."
+        },
+        {
+          "situacao": "Um lactente de 8 meses engasga-se com um pedaço de biscoito em sua casa no Lubango. Está consciente, mas não respira nem chora.",
+          "resolucao": "1. Avaliar a segurança do local. 2. Confirmar a obstrução grave da via aérea. 3. Colocar o lactente de bruços no antebraço, com a cabeça mais baixa que o tronco, apoiando a cabeça com a mão. 4. Aplicar 5 pancadas nas costas, entre as omoplatas, com a base da mão. 5. Virar o lactente de costas no outro antebraço, apoiando a cabeça. 6. Aplicar 5 compressões torácicas com dois dedos na metade inferior do esterno (iguais às da RCP). 7. Alternar 5 pancadas nas costas com 5 compressões torácicas até o biscoito ser expelido ou o lactente ficar inconsciente. Se ficar inconsciente, iniciar RCP e ligar para o 112."
+        },
+        {
+          "situacao": "Um pescador de 60 anos é encontrado inconsciente na praia da Ilha de Luanda. Respira com dificuldade (gasps) e não reage.",
+          "resolucao": "1. Avaliar a segurança do local (riscos da maré, etc.). 2. Confirmar a ausência de resposta e respiração normal (gasps não são respiração normal). 3. Pedir a alguém que ligue para o 112 e procure um DEA. 4. Iniciar compressões torácicas: 30 compressões (pelo menos 5 cm de profundidade, 100-120/minuto). 5. Realizar 2 ventilações boca-a-boca. 6. Continuar ciclos de 30:2. Se um DEA chegar, aplicá-lo e seguir as instruções. A persistência dos gasps é um sinal claro de PCR e não deve atrasar o início das compressões."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Não verificar a segurança do local antes de intervir.",
+        "Atrasar a activação do sistema de emergência (112).",
+        "Não realizar compressões torácicas com profundidade e frequência adequadas.",
+        "Não permitir o retorno completo do tórax após cada compressão.",
+        "Interromper as compressões torácicas por tempo prolongado.",
+        "Administrar ventilações excessivas ou muito rápidas, o que pode causar distensão gástrica.",
+        "Não abrir correctamente a via aérea, especialmente em lactentes (hiperextensão do pescoço).",
+        "Não adaptar as técnicas de SBV à faixa etária da vítima.",
+        "Tentar remover um corpo estranho da boca sem o ver claramente ou se estiver muito profundo (risco de empurrá-lo ainda mais).",
+        "Desistir cedo demais – continuar o SBV até a chegada de socorro diferenciado ou exaustão."
+      ],
+      "conclusao": "O Suporte Básico de Vida é uma competência essencial para qualquer profissional de saúde e, idealmente, para o público em geral. A capacidade de reconhecer uma paragem cardiorrespiratória e iniciar prontamente as manobras de reanimação cardiopulmonar (RCP) e desobstrução da via aérea pode ser a diferença entre a vida e a morte. As adaptações das técnicas para adultos, crianças e lactentes são cruciais, reflectindo as suas particularidades anatómicas e fisiológicas. Para o Técnico Médio de Enfermagem em Angola, este conhecimento é ainda mais relevante, dada a diversidade de contextos e a necessidade de uma resposta rápida e eficaz em cenários pré-hospitalares. A prática contínua e a actualização das directrizes são fundamentais para garantir a proficiência e a confiança necessárias para actuar em momentos críticos, salvando vidas e minimizando sequelas."
+    },
+    {
+      "titulo": "Banho no Leito e Higiene do Paciente Acamado",
+      "introducao": "A higiene pessoal é um direito fundamental e uma necessidade básica para todos os indivíduos, contribuindo significativamente para o bem-estar físico, mental e social. No contexto da prestação de cuidados de saúde, particularmente para pacientes acamados ou com mobilidade reduzida, o banho no leito e a higiene do paciente assumem uma importância crítica. Este procedimento, executado por técnicos de enfermagem, vai além da simples limpeza, sendo uma intervenção terapêutica que previne infecções, promove a integridade da pele, estimula a circulação sanguínea e melhora o conforto e a autoestima do paciente. A sua correcta execução requer conhecimento técnico, destreza e uma abordagem humanizada, garantindo a segurança e dignidade do paciente em todo o processo, em conformidade com as boas práticas de enfermagem vigentes em Angola.",
+      "conceitos": [
+        {
+          "termo": "Banho no Leito",
+          "definicao": "Procedimento de higiene corporal total ou parcial realizado em pacientes impossibilitados de se deslocar para um chuveiro ou banheira, geralmente confinados ao leito, utilizando água e sabão ou produtos específicos para a pele, com o objectivo de limpar, refrescar e promover o conforto."
+        },
+        {
+          "termo": "Higiene Pessoal",
+          "definicao": "Conjunto de hábitos e práticas relacionados com a limpeza e o cuidado do corpo, essenciais para a manutenção da saúde, prevenção de doenças e promoção do bem-estar físico e mental."
+        },
+        {
+          "termo": "Paciente Acamado",
+          "definicao": "Indivíduo que, devido a condições de saúde, lesões ou incapacidades físicas, permanece permanentemente ou por um longo período em repouso no leito, necessitando de assistência para a maioria das actividades de vida diária, incluindo a higiene."
+        },
+        {
+          "termo": "Integridade Cutânea",
+          "definicao": "Estado de saúde e funcionalidade da pele, caracterizado pela ausência de lesões, inflamações, infecções ou descontinuidades, que desempenha um papel crucial na protecção contra agentes externos e na regulação térmica."
+        },
+        {
+          "termo": "Úlcera de Pressão (Escara)",
+          "definicao": "Lesão localizada na pele e/ou no tecido subjacente, geralmente sobre uma proeminência óssea, resultante de pressão prolongada ou da combinação de pressão com cisalhamento e/ou fricção, comum em pacientes acamados ou com mobilidade reduzida."
+        },
+        {
+          "termo": "Mobilidade Reduzida",
+          "definicao": "Condição em que um indivíduo tem dificuldade ou incapacidade de se mover de forma independente, seja temporária ou permanente, necessitando de auxílio para deslocamento e realização de actividades diárias."
+        },
+        {
+          "termo": "Privacidade do Paciente",
+          "definicao": "Direito fundamental do paciente de controlar o acesso a informações sobre si e ao seu corpo, devendo ser respeitada durante todos os procedimentos de saúde, incluindo a higiene, através de biombos, cortinas e comunicação adequada."
+        },
+        {
+          "termo": "Infecção Associada aos Cuidados de Saúde (IACS)",
+          "definicao": "Infecção adquirida por um paciente durante o processo de prestação de cuidados de saúde em qualquer ambiente de saúde, não presente nem em incubação no momento da admissão, e que pode ser prevenida com práticas de higiene adequadas."
+        }
+      ],
+      "finalidades": [
+        "Promover a limpeza corporal do paciente.",
+        "Prevenir infecções cutâneas e sistémicas.",
+        "Estimular a circulação sanguínea e prevenir úlceras de pressão.",
+        "Observar a condição da pele e identificar precocemente alterações (erupções, lesões, áreas de pressão).",
+        "Promover o conforto, relaxamento e bem-estar do paciente.",
+        "Melhorar a autoestima e a imagem corporal do paciente.",
+        "Reduzir odores corporais desagradáveis.",
+        "Proporcionar um momento de interacção e avaliação da condição geral do paciente."
+      ],
+      "vantagens": [
+        "Contribui para a manutenção da integridade da pele e prevenção de lesões.",
+        "Reduz o risco de infecções hospitalares (IACS).",
+        "Melhora o conforto físico e psicológico do paciente.",
+        "Promove um ambiente limpo e digno para o paciente.",
+        "Permite a avaliação contínua da condição da pele e do estado geral do paciente.",
+        "Estimula a circulação periférica.",
+        "Favorece o vínculo e a confiança entre o paciente e o técnico de enfermagem."
+      ],
+      "desvantagens": [
+        "Pode ser um procedimento demorado, exigindo tempo e recursos humanos.",
+        "Risco de exposição excessiva do paciente ao frio se não for bem planeado e executado.",
+        "Risco de quedas ou lesões para o paciente e/ou técnico se não forem usadas técnicas de mobilização correctas.",
+        "Pode causar fadiga ou desconforto ao paciente se o procedimento for prolongado ou realizado de forma inadequada.",
+        "Requer grande atenção à privacidade e dignidade do paciente.",
+        "Consumo de água e materiais (luvas, compressas, sabão)."
+      ],
+      "valores_referencia": [],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "Preparação do Material: Reunir todo o material necessário antes de iniciar o procedimento (bacia com água morna, jarro com água morna, luvas de procedimento, sabão líquido ou em barra, toalhas limpas, compressas/esponja de banho, lençóis limpos, camisola/pijama limpo, creme hidratante, material para higiene oral e capilar se necessário, saco de lixo, biombo/cortina)."
+        },
+        {
+          "passo": 2,
+          "descricao": "Preparação do Ambiente e do Paciente: Lavar as mãos. Identificar-se e explicar o procedimento ao paciente, obtendo o seu consentimento. Oferecer o urinol/comadre. Fechar janelas e portas para evitar correntes de ar. Colocar o biombo ou fechar as cortinas para garantir a privacidade. Posicionar o paciente em decúbito dorsal (de costas), se possível, e elevar a cama a uma altura confortável para o técnico."
+        },
+        {
+          "passo": 3,
+          "descricao": "Higiene da Face e Pescoço: Calçar as luvas. Molhar uma compressa ou esponja macia com água morna (sem sabão, a menos que o paciente o solicite) e limpar os olhos do paciente, do canto interno para o externo, usando uma parte diferente da compressa para cada olho. Limpar o restante da face, orelhas e pescoço com sabão e enxaguar bem. Secar cuidadosamente."
+        },
+        {
+          "passo": 4,
+          "descricao": "Higiene dos Membros Superiores: Expor apenas um braço de cada vez. Colocar uma toalha sob o braço. Lavar o braço, axila e mão com sabão e água morna, com movimentos longos e suaves, do punho para o ombro. Enxaguar abundantemente e secar bem, prestando atenção às pregas cutâneas e entre os dedos. Repetir no outro braço. Cortar as unhas se necessário e se houver indicação."
+        },
+        {
+          "passo": 5,
+          "descricao": "Higiene do Tórax e Abdómen: Cobrir o paciente com uma toalha limpa, expondo o tórax e abdómen. Lavar com sabão e água morna, enxaguar e secar bem, prestando especial atenção às pregas mamárias (em mulheres) e umbigo. Observar a pele para detectar quaisquer alterações."
+        },
+        {
+          "passo": 6,
+          "descricao": "Higiene dos Membros Inferiores: Expor uma perna de cada vez. Colocar uma toalha sob a perna. Lavar a perna e o pé, com movimentos longos, do tornozelo para a coxa. Enxaguar e secar bem, incluindo entre os dedos dos pés. Repetir na outra perna. Cortar as unhas dos pés se necessário e se houver indicação."
+        },
+        {
+          "passo": 7,
+          "descricao": "Higiene das Costas e Nádegas: Virar o paciente para decúbito lateral (de lado), apoiando-o com almofadas se necessário. Lavar as costas e as nádegas com sabão e água morna. Enxaguar e secar bem, observando a pele para detectar vermelhidão ou lesões, especialmente nas proeminências ósseas (sacro, anca). Aplicar creme hidratante se indicado."
+        },
+        {
+          "passo": 8,
+          "descricao": "Higiene da Região Genital e Perineal: Virar o paciente novamente para decúbito dorsal. Trocar a água da bacia e as luvas. Expor a região genital. Para mulheres: lavar da frente para trás (da sínfise púbica para o ânus), utilizando compressas diferentes para cada movimento, para evitar a contaminação fecal. Para homens: retrair o prepúcio (se não for circuncidado), lavar a glande, o corpo do pénis e o escroto. Enxaguar e secar bem, sem esquecer as pregas inguinais. Se o paciente for capaz, pode ser encorajado a realizar esta parte da higiene."
+        },
+        {
+          "passo": 9,
+          "descricao": "Finalização do Procedimento: Remover as luvas e lavar as mãos. Vestir o paciente com roupa limpa. Trocar a roupa da cama, se necessário. Pentear o cabelo. Posicionar o paciente confortavelmente e com os dispositivos de segurança (grades da cama elevadas). Recolher e limpar todo o material utilizado. Descartar o lixo. Realizar a higiene das mãos novamente. Registrar o procedimento e as observações (condição da pele, reacções do paciente) no prontuário."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Um paciente de 75 anos, internado no Hospital Geral de Luanda devido a um Acidente Vascular Cerebral (AVC) que resultou em hemiparesia (paralisia parcial de um lado do corpo), encontra-se acamado há 5 dias. Durante a higiene matinal, a Técnica de Enfermagem, Sra. Ana, detecta uma área de hiperemia (vermelhidão) não branqueável no sacro do paciente.",
+          "resolucao": "A Sra. Ana deve documentar imediatamente a observação no prontuário do paciente, descrevendo a localização, tamanho e características da lesão. Em seguida, deve reposicionar o paciente para aliviar a pressão sobre a área afectada, utilizando almofadas ou colchão anti-escaras, se disponível. Notificar o enfermeiro responsável e o médico assistente para avaliação e implementação de um plano de cuidados preventivos e/ou tratamento para úlcera de pressão em estágio I. A Sra. Ana deve reforçar os cuidados com a pele, mantendo-a limpa e seca, e aplicar creme barreira se indicado, além de aumentar a frequência das mudanças de posição do paciente, que devem ser realizadas a cada 2 horas, mesmo durante a noite."
+        },
+        {
+          "situacao": "No Hospital Pediátrico David Bernardino, uma criança de 8 anos com fractura bilateral dos fémures, imobilizada em tracção, necessita de banho no leito. A mãe da criança está apreensiva com o procedimento e preocupada com a dor do filho.",
+          "resolucao": "O técnico de enfermagem deve, primeiramente, estabelecer um rapport com a criança e a mãe, explicando o procedimento de forma clara e tranquilizadora, adaptando a linguagem à idade da criança. Assegurar à mãe que a criança não sentirá dor e que todos os movimentos serão feitos com o máximo cuidado para não comprometer a tracção. Utilizar água morna e produtos de higiene hipoalergénicos. Durante o banho, a prioridade é a imobilização dos membros, lavando as áreas acessíveis com uma compressa humedecida, sem mover a tracção. Pode ser necessário dividir o banho em partes para evitar que a criança se canse. Encorajar a participação da mãe, se ela se sentir confortável, para que possa ajudar a segurar a criança ou a falar com ela, promovendo um ambiente mais seguro e familiar. A observação de sinais de dor ou desconforto é crucial, e o procedimento deve ser interrompido ou adaptado se a criança manifestar dor."
+        },
+        {
+          "situacao": "Numa unidade de cuidados intensivos em Benguela, um paciente ventilado e com sondas (nasogástrica e vesical) precisa de banho no leito. A equipa de enfermagem é reduzida (apenas um técnico e um enfermeiro para 5 pacientes graves).",
+          "resolucao": "Nesta situação, a prioridade é a segurança e a integridade do paciente. O técnico de enfermagem deve solicitar a ajuda do enfermeiro ou de outro colega para realizar o banho em dupla, garantindo a mobilização segura do paciente e a manutenção da estabilidade das sondas e da ventilação. Antes de iniciar, verificar a permeabilidade e fixação das sondas e dos acessos venosos. O banho deve ser rápido e eficiente, minimizando a exposição do paciente. A higiene oral é particularmente importante em pacientes ventilados para prevenir pneumonia associada à ventilação (PAV). A pele deve ser avaliada cuidadosamente, especialmente nas áreas de apoio e sob os dispositivos (tubos, cateteres), para prevenir lesões. O registo detalhado das condições da pele e das intercorrências é fundamental para a continuidade dos cuidados."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Não respeitar a privacidade e a dignidade do paciente (expor o corpo desnecessariamente, conversar alto sobre o paciente).",
+        "Utilizar água muito fria ou muito quente, causando desconforto ou queimaduras.",
+        "Não secar adequadamente as pregas cutâneas, favorecendo o crescimento de fungos e bactérias.",
+        "Não trocar a água da bacia ou as luvas antes da higiene perineal, aumentando o risco de infecção.",
+        "Realizar movimentos bruscos ou inadequados que possam causar dor ou lesões ao paciente.",
+        "Não observar a pele do paciente durante o banho, perdendo a oportunidade de identificar lesões precocemente.",
+        "Deixar o paciente com roupas de cama ou corpo molhadas/húmidas.",
+        "Não comunicar o procedimento ao paciente ou não obter o seu consentimento, mesmo que ele esteja com nível de consciência alterado (falar com o paciente é sempre importante).",
+        "Não elevar as grades da cama após o procedimento, aumentando o risco de queda.",
+        "Não ter todo o material preparado antes de iniciar, o que obriga a deixar o paciente exposto e desacompanhado."
+      ],
+      "conclusao": "O banho no leito e a higiene do paciente acamado são intervenções de enfermagem basilares, mas de extrema complexidade e importância. Não se limitam à mera limpeza física, mas estendem-se à prevenção de complicações, à promoção da saúde da pele, ao estímulo da circulação e, crucialmente, à manutenção da dignidade e do bem-estar psicossocial do paciente. A execução cuidadosa e humanizada deste procedimento por técnicos de enfermagem qualificados é um pilar da qualidade dos cuidados de saúde em Angola, contribuindo para a recuperação e conforto dos indivíduos mais vulneráveis. A atenção aos detalhes, a observação contínua e o respeito pela individualidade do paciente são aspectos que diferenciam uma prática de enfermagem meramente técnica de uma prática verdadeiramente centrada no ser humano."
+    },
+    {
+      "titulo": "Administração de Medicação: Vias e Regra dos Certos",
+      "introducao": "A administração de medicação é um dos pilares fundamentais da prática de enfermagem, exigindo precisão, conhecimento técnico e um elevado sentido de responsabilidade. Em Angola, onde os desafios de saúde pública são significativos e a adesão terapêutica é crucial para a recuperação dos pacientes, a correcta administração de fármacos assume uma importância ainda maior. Este tema abrange as diversas vias pelas quais os medicamentos podem ser introduzidos no organismo, bem como a imprescindível 'Regra dos Certos', um conjunto de princípios que visam garantir a segurança do paciente e a eficácia do tratamento farmacológico. Um Técnico Médio de Enfermagem deve dominar estes conceitos para prevenir erros de medicação, que podem ter consequências graves para a saúde do indivíduo e para a credibilidade dos serviços de saúde. Aprofundar este conhecimento é, portanto, essencial para a prestação de cuidados de enfermagem de qualidade e para a protecção da vida humana.",
+      "conceitos": [
+        {
+          "termo": "Administração de Medicação",
+          "definicao": "Processo pelo qual um fármaco é introduzido no organismo de um paciente, seguindo prescrição médica, com o objectivo de prevenir, diagnosticar, tratar ou aliviar sintomas de uma doença."
+        },
+        {
+          "termo": "Fármaco",
+          "definicao": "Qualquer substância química que, ao ser administrada, interage com sistemas biológicos, modificando funções fisiológicas e resultando em efeitos terapêuticos ou tóxicos. Sinónimo de medicamento ou droga, no contexto terapêutico."
+        },
+        {
+          "termo": "Vias de Administração",
+          "definicao": "Caminhos ou rotas pelos quais um medicamento é introduzido no organismo para que atinja o seu local de acção, podendo ser classificadas em entéricas (oral, sublingual, rectal) e parentéricas (injectáveis, tópicas, inalatórias)."
+        },
+        {
+          "termo": "Regra dos Certos",
+          "definicao": "Conjunto de princípios de segurança (geralmente 5, 6, 9 ou 10 'certos') que devem ser rigorosamente observados pelo profissional de enfermagem antes, durante e após a administração de qualquer medicamento, para minimizar o risco de erros e garantir a segurança do paciente."
+        },
+        {
+          "termo": "Biodisponibilidade",
+          "definicao": "A fracção de uma dose administrada de um fármaco que atinge a circulação sistémica de forma inalterada e a velocidade com que isso ocorre. É um factor crucial na determinação da via de administração e da dosagem."
+        },
+        {
+          "termo": "Efeito de Primeira Passagem",
+          "definicao": "Fenómeno em que um fármaco é metabolizado no fígado ou na parede intestinal antes de atingir a circulação sistémica, após a administração oral. Reduz a biodisponibilidade do fármaco."
+        },
+        {
+          "termo": "Idiosincrasia",
+          "definicao": "Resposta anormal e inesperada a um fármaco que não é uma reacção alérgica nem um efeito farmacológico conhecido, ocorrendo em uma pequena percentagem de indivíduos devido a factores genéticos ou metabólicos."
+        },
+        {
+          "termo": "Posologia",
+          "definicao": "A dose, frequência e duração da administração de um medicamento. É um componente essencial da prescrição médica."
+        }
+      ],
+      "finalidades": [
+        "Promover a recuperação da saúde e o bem-estar do paciente através da acção farmacológica.",
+        "Aliviar sintomas de doenças, como dor, febre ou inflamação.",
+        "Prevenir doenças (ex: vacinas) ou complicações (ex: antibióticos profilácticos).",
+        "Diagnosticar condições clínicas (ex: contrastes para exames de imagem).",
+        "Controlar doenças crónicas e melhorar a qualidade de vida (ex: anti-hipertensores, hipoglicemiantes).",
+        "Substituir substâncias que o organismo não consegue produzir (ex: insulina, hormonas)."
+      ],
+      "vantagens": [
+        "Eficácia terapêutica na gestão de diversas patologias.",
+        "Controlo de sintomas e melhoria da qualidade de vida.",
+        "Prevenção de doenças e complicações.",
+        "Disponibilidade de diversas vias para atender a diferentes necessidades clínicas.",
+        "Potencial para acção rápida em situações de emergência (vias parentéricas)."
+      ],
+      "desvantagens": [
+        "Risco de erros de medicação com potenciais consequências graves.",
+        "Possibilidade de reacções adversas e interacções medicamentosas.",
+        "Necessidade de conhecimento técnico e habilidade para administração segura.",
+        "Custo elevado de alguns medicamentos, limitando o acesso em certas regiões de Angola.",
+        "Adesão deficiente do paciente ao tratamento, comprometendo a eficácia.",
+        "Dor e desconforto associados a certas vias de administração (ex: injecções)."
+      ],
+      "valores_referencia": [],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "Verificar a prescrição médica: Confirmar o nome do paciente, nome do medicamento, dose, via, frequência e data de validade. Em Angola, a prescrição deve ser clara, legível e assinada pelo médico."
+        },
+        {
+          "passo": 2,
+          "descricao": "Reunir o material necessário: Preparar o medicamento, seringas, agulhas, luvas, algodão, álcool 70%, bandeja, recipiente para perfurocortantes e o prontuário do paciente."
+        },
+        {
+          "passo": 3,
+          "descricao": "Higienizar as mãos: Realizar a lavagem das mãos com água e sabão ou fricção com álcool gel, conforme as normas de controlo de infecção."
+        },
+        {
+          "passo": 4,
+          "descricao": "Identificar o paciente: Confirmar a identidade do paciente perguntando o seu nome completo e verificando a pulseira de identificação ou o prontuário. Em Angola, é comum perguntar o nome e o nome da mãe."
+        },
+        {
+          "passo": 5,
+          "descricao": "Informar o paciente: Explicar o procedimento, o nome do medicamento, a sua finalidade e possíveis efeitos secundários, obtendo o seu consentimento."
+        },
+        {
+          "passo": 6,
+          "descricao": "Preparar o medicamento: Calçar luvas. Preparar a dose exacta do medicamento na seringa ou recipiente adequado, verificando novamente o rótulo e a data de validade."
+        },
+        {
+          "passo": 7,
+          "descricao": "Administrar o medicamento pela via correcta: Escolher o local apropriado para a injecção (se aplicável), realizar a antissepsia e administrar o fármaco conforme a técnica específica da via (oral, intramuscular, intravenosa, etc.)."
+        },
+        {
+          "passo": 8,
+          "descricao": "Descartar o material: Descartar agulhas e seringas em recipiente para perfurocortantes e o restante material no lixo comum ou infectante, conforme as normas hospitalares."
+        },
+        {
+          "passo": 9,
+          "descricao": "Registrar a medicação: Anotar no prontuário do paciente o nome do medicamento, dose, via, data, hora, nome do profissional que administrou e quaisquer observações relevantes (ex: reacção adversa)."
+        },
+        {
+          "passo": 10,
+          "descricao": "Monitorizar o paciente: Observar o paciente para identificar qualquer reacção adversa ou a eficácia do medicamento."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Um paciente no Hospital Josina Machel, em Luanda, necessita de 0.5g de Ampicilina por via intramuscular. A ampola disponível contém 1g de Ampicilina em pó, que deve ser reconstituída com 5ml de água destilada.",
+          "resolucao": "1. Regra de três simples para diluição: Se 1g de pó está em 5ml de solução, então 0.5g de pó estará em 'X' ml de solução. (1g / 5ml) = (0.5g / X ml) => X = (0.5g * 5ml) / 1g = 2.5ml. O Técnico de Enfermagem deverá aspirar 2.5ml da solução reconstituída. \n2. Escolher o local de injecção: No adulto, o músculo deltóide (para volumes pequenos) ou o glúteo (quadrante superior externo) são opções comuns para injecção intramuscular. \n3. Técnica de injecção: Realizar antissepsia do local. Segurar a seringa firmemente, introduzir a agulha em ângulo de 90 graus. Aspirar para verificar se não atingiu um vaso sanguíneo. Injectar lentamente o medicamento. Retirar a agulha e fazer compressão leve no local."
+        },
+        {
+          "situacao": "Uma criança de 5 anos, pesando 20kg, no Centro de Saúde do Cazenga, precisa de Paracetamol oral para febre. A prescrição indica 15mg/kg/dose. O Paracetamol disponível é uma suspensão oral de 24mg/ml.",
+          "resolucao": "1. Calcular a dose total em mg: 15mg/kg * 20kg = 300mg. \n2. Calcular o volume a administrar: Se 24mg estão em 1ml, então 300mg estarão em 'X' ml. (24mg / 1ml) = (300mg / X ml) => X = (300mg * 1ml) / 24mg = 12.5ml. \n3. O Técnico de Enfermagem deverá administrar 12.5ml da suspensão oral de Paracetamol à criança, utilizando uma seringa oral graduada para precisão."
+        },
+        {
+          "situacao": "No Hospital Geral de Benguela, um paciente com diabetes necessita de 12 unidades de insulina subcutânea antes do pequeno-almoço. O frasco de insulina é de 100 UI/ml.",
+          "resolucao": "1. Calcular o volume em ml: Se 100 UI estão em 1ml, então 12 UI estarão em 'X' ml. (100 UI / 1ml) = (12 UI / X ml) => X = (12 UI * 1ml) / 100 UI = 0.12ml. \n2. Utilizar uma seringa de insulina (graduada em unidades) para aspirar as 12 unidades. Note que a maioria das seringas de insulina já é calibrada para 100 UI/ml, simplificando a medição directa das unidades. \n3. Escolher o local de injecção subcutânea (abdómen, coxas, braços). Realizar antissepsia. Fazer uma prega cutânea e introduzir a agulha em ângulo de 45 ou 90 graus (dependendo do comprimento da agulha e da espessura do tecido adiposo). Injectar lentamente. Não aspirar em injecções subcutâneas de insulina. Retirar a agulha."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Administração do medicamento errado: Sempre verificar o nome do medicamento três vezes (ao pegar o frasco, ao preparar e antes de administrar).",
+        "Administração da dose errada: Calcular e verificar a dose com outro profissional, se possível, especialmente em pediatria.",
+        "Administração pela via errada: Confirmar a via de administração prescrita e a técnica correcta para cada via.",
+        "Administração ao paciente errado: Realizar a identificação rigorosa do paciente (nome completo, data de nascimento/nº de processo, nome da mãe, conforme as práticas em Angola).",
+        "Administração na hora errada: Respeitar os horários prescritos para manter os níveis terapêuticos do fármaco no organismo.",
+        "Não registar a medicação: O registo é um documento legal e essencial para a continuidade do cuidado. Registe imediatamente após a administração.",
+        "Não observar o prazo de validade: Fármacos vencidos podem ser ineficazes ou tóxicos.",
+        "Não verificar alergias: Perguntar sempre ao paciente sobre alergias conhecidas antes da administração.",
+        "Não realizar a higienização das mãos: Fundamental para prevenir infecções cruzadas.",
+        "Não preparar o ambiente ou o material adequadamente: Impede a correcta e segura administração."
+      ],
+      "conclusao": "A administração de medicação é uma acção de enfermagem de alta responsabilidade, que exige um conhecimento profundo das vias de administração, dos fármacos e, sobretudo, a aplicação rigorosa da Regra dos Certos. Em Angola, a formação de Técnicos Médios de Enfermagem deve enfatizar estes princípios para garantir a segurança dos pacientes e a eficácia dos tratamentos. A prevenção de erros de medicação é um compromisso ético e legal, que contribui significativamente para a melhoria dos indicadores de saúde e para a confiança da população nos serviços de saúde. O domínio desta matéria não é apenas uma exigência profissional, mas um pilar para a construção de uma prática de enfermagem segura, humana e de excelência, alinhada com as necessidades e desafios do sistema de saúde angolano."
+    },
+    {
+      "titulo": "Cuidados ao Paciente Acamado: Prevenção de Úlceras por Pressão e Quedas",
+      "introducao": "Os cuidados ao paciente acamado constituem uma vertente fundamental da assistência de enfermagem, visando a manutenção da integridade física e o bem-estar de indivíduos com mobilidade reduzida ou ausente. A imobilidade prolongada é um factor de risco significativo para o desenvolvimento de complicações graves, com destaque para as úlceras por pressão (UPP) e as quedas. Em Angola, onde a prevalência de doenças crónicas e condições que limitam a mobilidade tende a aumentar, a compreensão e aplicação de técnicas preventivas eficazes são cruciais para a melhoria da qualidade de vida dos pacientes e a redução da morbidade e mortalidade associadas. Este módulo aborda de forma aprofundada as estratégias e procedimentos para a prevenção destas intercorrências, capacitando os futuros Técnicos Médios de Enfermagem a prestar cuidados seguros e humanizados.",
+      "conceitos": [
+        {
+          "termo": "Paciente Acamado",
+          "definicao": "Indivíduo que, devido a condições de saúde física ou mental, se encontra restrito à cama ou a um espaço limitado por um período prolongado, necessitando de assistência para as actividades da vida diária e susceptível a complicações decorrentes da imobilidade."
+        },
+        {
+          "termo": "Úlcera por Pressão (UPP)",
+          "definicao": "Lesão localizada na pele e/ou no tecido subjacente, geralmente sobre uma proeminência óssea, resultante de pressão ou de pressão em combinação com cisalhamento. Pode ser aguda ou crónica e varia em profundidade, desde a epiderme até músculos e ossos."
+        },
+        {
+          "termo": "Escala de Braden",
+          "definicao": "Instrumento de avaliação de risco para o desenvolvimento de úlceras por pressão, que avalia seis subescalas: percepção sensorial, humidade, actividade, mobilidade, nutrição e fricção/cisalhamento. A pontuação total indica o nível de risco do paciente."
+        },
+        {
+          "termo": "Cisalhamento",
+          "definicao": "Força paralela à pele que ocorre quando a pele e os tecidos subjacentes se movem em direcções opostas. É um factor importante na formação de úlceras por pressão, especialmente na região sacral e calcanhares."
+        },
+        {
+          "termo": "Quedas",
+          "definicao": "Evento não intencional que resulta na pessoa a ir para o chão ou outro nível mais baixo, independentemente de lesão. Em pacientes acamados, pode ocorrer durante transferências, mobilização ou em ambientes não seguros."
+        },
+        {
+          "termo": "Mobilização Precoce",
+          "definicao": "Início da movimentação e de actividades físicas adaptadas o mais cedo possível após uma doença ou cirurgia, com o objectivo de prevenir complicações da imobilidade, como úlceras por pressão, atrofia muscular e trombose venosa profunda."
+        },
+        {
+          "termo": "Superfícies de Alívio de Pressão",
+          "definicao": "Colchões e almofadas terapêuticas concebidos para redistribuir a pressão sobre as proeminências ósseas, diminuindo o risco de formação de úlceras por pressão em pacientes acamados ou com mobilidade reduzida."
+        },
+        {
+          "termo": "Integridade Cutânea",
+          "definicao": "Estado em que a pele se encontra intacta, sem lesões, feridas, sinais de infecção ou outras alterações que comprometam a sua função de barreira protectora do organismo."
+        }
+      ],
+      "finalidades": [
+        "Prevenir o desenvolvimento de úlceras por pressão em pacientes com mobilidade reduzida.",
+        "Reduzir a incidência de quedas e suas consequências em ambientes de saúde e domiciliares.",
+        "Manter a integridade da pele e dos tecidos subjacentes do paciente acamado.",
+        "Promover o conforto e a dignidade do paciente.",
+        "Minimizar a dor e o sofrimento associados a lesões por pressão e quedas.",
+        "Reduzir os custos de tratamento de complicações e o tempo de internamento.",
+        "Melhorar a qualidade de vida do paciente e da sua família."
+      ],
+      "vantagens": [
+        "Diminuição significativa da dor e desconforto do paciente.",
+        "Redução da necessidade de tratamentos complexos e dispendiosos de úlceras.",
+        "Prevenção de infecções secundárias e complicações graves.",
+        "Melhora da auto-estima e bem-estar psicológico do paciente.",
+        "Redução do tempo de internamento hospitalar.",
+        "Aumento da segurança do paciente e da confiança na equipa de saúde.",
+        "Optimização dos recursos de saúde, permitindo focar em outras necessidades."
+      ],
+      "desvantagens": [
+        "Requer dedicação e formação contínua da equipa de enfermagem.",
+        "Pode exigir investimento em equipamentos específicos (colchões, almofadas anti-escara).",
+        "Demanda tempo e recursos humanos para a implementação de protocolos.",
+        "Necessidade de colaboração activa da família e/ou cuidadores.",
+        "Pode ser desafiador em contextos com recursos limitados.",
+        "A adesão do paciente e/ou família às orientações pode ser inconsistente."
+      ],
+      "valores_referencia": [
+        {
+          "parametro": "Escala de Braden (Risco de UPP)",
+          "valor": "19-23: Sem risco; 15-18: Risco leve; 13-14: Risco moderado; 10-12: Risco elevado; ≤9: Risco muito elevado",
+          "observacao": "Pontuações mais baixas indicam maior risco de desenvolvimento de úlceras por pressão. A avaliação deve ser feita na admissão e periodicamente."
+        },
+        {
+          "parametro": "Frequência de Mudança de Posição",
+          "valor": "A cada 2 horas (mínimo)",
+          "observacao": "Em pacientes de alto risco ou com pele sensível, pode ser necessário mudar a posição com maior frequência, ou usar superfícies de alívio de pressão avançadas."
+        },
+        {
+          "parametro": "Humidade da Pele",
+          "valor": "Seca e hidratada",
+          "observacao": "Evitar humidade excessiva (incontinência, suor) e secura extrema, que fragilizam a pele. Usar cremes hidratantes sem álcool."
+        }
+      ],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "Avaliação Inicial do Risco: Na admissão do paciente, utilizar a Escala de Braden para identificar o risco de desenvolvimento de úlceras por pressão. Realizar também uma avaliação do risco de quedas (ex: Escala de Morse, ou avaliação de factores como histórico de quedas, uso de medicação, défices sensoriais e cognitivos, ambiente). Documentar os resultados."
+        },
+        {
+          "passo": 2,
+          "descricao": "Inspecção Diária da Pele: Examinar diariamente a pele do paciente, com atenção especial às proeminências ósseas (sacro, calcanhares, trocanteres, cotovelos, ombros, occipital). Procurar por sinais de vermelhidão, calor, edema, endurecimento ou descoloração, que podem indicar o início de uma úlcera por pressão. Avaliar a integridade da pele, hidratação e presença de humidade."
+        },
+        {
+          "passo": 3,
+          "descricao": "Mudança de Posição Programada: Estabelecer um plano de mudança de posição, geralmente a cada 2 horas (ou mais frequentemente, conforme o risco do paciente e a tolerância), mesmo durante a noite. Utilizar um relógio de controlo ou um quadro de registo para garantir a adesão. Posicionar o paciente de forma a aliviar a pressão sobre as áreas de risco, utilizando almofadas ou rolos para suportar as proeminências ósseas e evitar o contacto pele a pele."
+        },
+        {
+          "passo": 4,
+          "descricao": "Utilização de Superfícies de Alívio de Pressão: Em pacientes de alto risco, considerar o uso de colchões e almofadas terapêuticas (ex: colchões de ar alternado, colchões de espuma viscoelástica) que distribuem a pressão de forma mais eficaz. Garantir que o equipamento está a funcionar correctamente e é adequado ao peso do paciente."
+        },
+        {
+          "passo": 5,
+          "descricao": "Cuidados com a Higiene e Hidratação da Pele: Manter a pele limpa e seca, especialmente em áreas sujeitas a humidade (ex: incontinência urinária/fecal, suor). Utilizar produtos de higiene com pH neutro e evitar fricção excessiva durante a limpeza. Aplicar cremes hidratantes sem álcool para manter a elasticidade e barreira cutânea. Proteger a pele da humidade com barreiras cutâneas quando necessário."
+        },
+        {
+          "passo": 6,
+          "descricao": "Mobilização e Exercícios Passivos/Activos: Incentivar a mobilização precoce e a deambulação assistida, se possível. Em pacientes incapazes de se moverem, realizar exercícios passivos de amplitude de movimento para prevenir a rigidez articular e melhorar a circulação. Orientar o paciente a movimentar-se na cama, se for capaz."
+        },
+        {
+          "passo": 7,
+          "descricao": "Nutrição e Hidratação Adequadas: Assegurar uma dieta equilibrada e rica em proteínas, vitaminas (especialmente C) e minerais (Zinco) para promover a reparação tecidular e a integridade da pele. Garantir uma hidratação adequada para manter a turgidez da pele. Em pacientes com dificuldades de alimentação, considerar suplementos nutricionais ou suporte nutricional enteral/parental, conforme indicação médica."
+        },
+        {
+          "passo": 8,
+          "descricao": "Prevenção de Quedas: Manter o ambiente seguro: cama na posição mais baixa, grades laterais elevadas (conforme plano de cuidados e avaliação de risco), iluminação adequada, chão livre de obstáculos e seco. Assegurar que o material necessário está ao alcance do paciente. Utilizar calçado antiderrapante. Educar o paciente e a família sobre o risco de quedas e como preveni-las. Monitorizar o uso de medicação que possa afectar o equilíbrio ou causar sonolência."
+        },
+        {
+          "passo": 9,
+          "descricao": "Documentação e Reavaliação: Registar todas as intervenções realizadas, as observações da pele, as mudanças de posição, a ingestão nutricional e hídrica, e quaisquer alterações no estado do paciente. Reavaliar periodicamente o risco de UPP e quedas e ajustar o plano de cuidados conforme necessário."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Um paciente de 78 anos, internado no Hospital Geral de Luanda, com diagnóstico de AVC isquémico, apresenta hemiparesia direita e incontinência urinária e fecal. Na avaliação inicial, a pontuação na Escala de Braden é de 12. A família refere que o paciente raramente se move na cama.",
+          "resolucao": "1. Identificação do Risco: Pontuação 12 na Escala de Braden indica risco elevado de UPP. Incontinência e imobilidade são factores agravantes. 2. Plano de Cuidados: Implementar mudança de decúbito a cada 2 horas, com registo rigoroso. Utilizar colchão de ar alternado. Realizar higiene íntima imediata após episódios de incontinência, usando produtos com pH neutro e aplicando creme barreira na região perineal. Inspecionar a pele ao mudar de decúbito, com foco no sacro e calcanhares. Realizar exercícios passivos de membros, orientar a família sobre a importância da mobilização e hidratação. Garantir ingestão de líquidos e dieta rica em proteínas. Manter grades laterais elevadas da cama e campainha ao alcance para prevenção de quedas."
+        },
+        {
+          "situacao": "Uma paciente de 65 anos, residente em Viana, com fractura de fémur e imobilização prolongada, queixa-se de dor na região sacral e apresenta uma área de eritema não branqueável de 3 cm de diâmetro nessa região, sem perda de continuidade da pele. Na avaliação de risco de quedas, apresenta história de queda anterior e toma medicação sedativa.",
+          "resolucao": "1. Identificação do Risco: O eritema não branqueável indica uma Úlcera por Pressão Grau I. A história de queda e medicação sedativa aumentam o risco de novas quedas. 2. Plano de Cuidados: De imediato, aliviar a pressão sobre a área lesada, posicionando a paciente de lado ou com almofadas. Intensificar as mudanças de decúbito para cada 1-2 horas. Garantir que a paciente está num colchão de alívio de pressão. Manter a pele da área limpa e seca, aplicando um creme hidratante suave. Para prevenção de quedas, colocar a cama na posição mais baixa, assegurar iluminação adequada (especialmente à noite), fornecer calçado antiderrapante, e orientar a paciente a chamar a enfermeira antes de se levantar. Reavaliar a necessidade de medicação sedativa com o médico."
+        },
+        {
+          "situacao": "Um paciente de 50 anos, diabético, internado no Hospital Municipal da Matala (Huíla) com úlcera no pé esquerdo, apresenta mobilidade reduzida devido à dor e à condição subjacente. A pele dos calcanhares está seca e com fissuras. O paciente refere dificuldade em manter a hidratação oral.",
+          "resolucao": "1. Identificação do Risco: Diabetes e mobilidade reduzida aumentam o risco de UPP. Pele seca e fissurada nos calcanhares são sinais de risco iminente. Dificuldade de hidratação oral compromete a integridade da pele. 2. Plano de Cuidados: Inspecção diária dos calcanhares e outras proeminências ósseas. Aplicar creme hidratante específico para pés diabéticos, com massagem suave, evitando a fricção. Utilizar protectores de calcanhar (botas anti-escara) para aliviar a pressão. Estimular a ingestão de líquidos, oferecendo pequenas quantidades frequentemente e monitorizando o balanço hídrico. Orientar o paciente e família sobre a importância da hidratação e dos cuidados com a pele. Promover mobilização assistida dos membros inferiores, se tolerável, para melhorar a circulação e prevenir a atrofia muscular."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Não realizar a avaliação de risco de UPP e quedas na admissão e periodicamente.",
+        "Não aderir ao plano de mudança de decúbito (ex: esquecer mudanças à noite, ou não registar).",
+        "Posicionar o paciente directamente sobre proeminências ósseas ou sobre úlceras já existentes.",
+        "Utilizar anéis ou almofadas em forma de donut, que podem agravar a isquemia em vez de preveni-la.",
+        "Friccionar ou massajar áreas eritematosas, o que pode aumentar a lesão tecidular.",
+        "Não manter a pele limpa e seca, especialmente em pacientes incontinentes.",
+        "Não garantir uma nutrição e hidratação adequadas.",
+        "Não educar o paciente e a família sobre a prevenção e os sinais de alerta.",
+        "Deixar objectos no chão ou fios eléctricos desprotegidos que possam causar quedas.",
+        "Não elevar as grades da cama em pacientes com risco de queda, ou elevá-las em pacientes que se conseguem levantar sem apoio, causando mais risco de queda ao tentar passar por cima."
+      ],
+      "conclusao": "A prevenção de úlceras por pressão e quedas em pacientes acamados é um pilar essencial dos cuidados de enfermagem, exigindo uma abordagem sistemática, contínua e multiprofissional. A aplicação rigorosa das escalas de avaliação de risco, a implementação de planos de mudança de posição, a manutenção da higiene e hidratação da pele, a nutrição adequada e a criação de um ambiente seguro são medidas comprovadamente eficazes. Em Angola, onde os desafios de saúde persistem, a capacitação dos Técnicos Médios de Enfermagem nestas competências é vital para assegurar a dignidade, o conforto e a segurança dos pacientes, contribuindo significativamente para a redução da morbidade e a melhoria dos resultados clínicos. A vigilância constante e a educação do paciente e da família são fundamentais para o sucesso destas intervenções preventivas."
+    },
+    {
+      "titulo": "Feridas: Tipos, Cicatrização e Tratamento (Curativos)",
+      "introducao": "As feridas representam uma interrupção na continuidade da pele ou de outros tecidos do corpo, podendo resultar de diversos factores, desde traumas mecânicos a condições patológicas. A sua compreensão é fundamental para o Técnico Médio de Enfermagem, pois envolve não apenas a identificação correcta do tipo de lesão, mas também a aplicação de cuidados adequados para promover a cicatrização e prevenir complicações. Em Angola, onde as condições ambientais e socioeconómicas podem influenciar a prevalência e a evolução das feridas, o domínio destas técnicas é crucial para a saúde pública. Este módulo aborda os principais tipos de feridas, os mecanismos fisiológicos da cicatrização e as abordagens terapêuticas, com foco nos curativos, essenciais para uma intervenção eficaz e humanizada.",
+      "conceitos": [
+        {
+          "termo": "Ferida",
+          "definicao": "Qualquer interrupção na integridade anatómica e funcional da pele ou de outros tecidos, causada por factores externos (trauma) ou internos (doença)."
+        },
+        {
+          "termo": "Cicatrização",
+          "definicao": "Processo biológico complexo e dinâmico de reparação tecidual que visa restaurar a integridade e a função dos tecidos danificados, envolvendo fases inflamatória, proliferativa e de remodelação."
+        },
+        {
+          "termo": "Curativo",
+          "definicao": "Aplicação de um material adequado sobre uma ferida com o objectivo de protegê-la, absorver exsudados, promover um ambiente húmido para a cicatrização, controlar infecções e reduzir a dor."
+        },
+        {
+          "termo": "Exsudado",
+          "definicao": "Líquido produzido pela ferida, composto por plasma, células inflamatórias, proteínas e resíduos celulares. A sua quantidade e características (seroso, serossanguinolento, purulento) são indicadores do estado da ferida."
+        },
+        {
+          "termo": "Debridamento",
+          "definicao": "Remoção de tecido desvitalizado (necrótico ou esfacelado) e corpos estranhos de uma ferida, fundamental para promover a cicatrização e prevenir infecções. Pode ser cirúrgico, mecânico, enzimático, autolítico ou biológico."
+        },
+        {
+          "termo": "Granulação",
+          "definicao": "Fase da cicatrização caracterizada pela formação de novo tecido conjuntivo vascularizado, com aspecto granular, vermelho-vivo e húmido, indicando proliferação celular e angiogénese."
+        },
+        {
+          "termo": "Epitelioma",
+          "definicao": "Processo de migração e proliferação de células epiteliais da periferia da ferida para o centro, culminando no fechamento da lesão e na formação de nova pele."
+        },
+        {
+          "termo": "Infecção da Ferida",
+          "definicao": "Invasão e proliferação de microrganismos patogénicos nos tecidos da ferida, levando a sinais inflamatórios sistémicos ou locais como rubor, calor, dor, edema e presença de exsudado purulento."
+        }
+      ],
+      "finalidades": [
+        "Proteger a ferida de contaminação externa e trauma mecânico.",
+        "Absorver o exsudado para manter um ambiente húmido ideal e prevenir a maceração da pele peri-ferida.",
+        "Promover a cicatrização através da criação de um ambiente favorável (temperatura, humidade, pH).",
+        "Prevenir e controlar infecções, minimizando o risco de complicações.",
+        "Reduzir a dor e o desconforto do paciente.",
+        "Remover tecidos desvitalizados (debridamento).",
+        "Isolar a ferida, quando necessário, para evitar a disseminação de microrganismos."
+      ],
+      "vantagens": [
+        "Acelera o processo de cicatrização.",
+        "Reduz a dor e o desconforto do paciente.",
+        "Diminui o risco de infecção e outras complicações.",
+        "Melhora a qualidade de vida do paciente.",
+        "Permite a monitorização contínua da ferida.",
+        "Minimiza a formação de cicatrizes inestéticas."
+      ],
+      "desvantagens": [
+        "Custo elevado de alguns tipos de curativos avançados.",
+        "Necessidade de conhecimento técnico especializado para a escolha e aplicação correctas.",
+        "Risco de reacções alérgicas a materiais dos curativos.",
+        "Potencial para trauma durante a remoção do curativo, se não for feito correctamente.",
+        "Tempo e recursos humanos necessários para a realização dos curativos.",
+        "Disponibilidade limitada de certos materiais em algumas regiões de Angola."
+      ],
+      "valores_referencia": [],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "Avaliação inicial da ferida: Observar o tipo de ferida (traumática, cirúrgica, úlcera por pressão, queimadura), localização, tamanho (comprimento, largura, profundidade), presença de exsudado (quantidade, cor, odor), sinais de infecção (rubor, calor, dor, edema, pus), presença de tecido desvitalizado (necrose, esfacelo), condição da pele peri-ferida e dor do paciente. Avaliar também o estado geral de saúde do paciente e factores que podem afectar a cicatrização (nutrição, doenças crónicas)."
+        },
+        {
+          "passo": 2,
+          "descricao": "Preparação do material: Reunir todo o material necessário para o curativo (luvas estéreis e de procedimento, soro fisiológico a 0,9%, compressas, gazes, ligaduras, adesivos, pinças, tesouras, soluções antissépticas se indicadas, pomadas/cremes específicos, sacos de lixo). Assegurar que o material está estéril e dentro do prazo de validade."
+        },
+        {
+          "passo": 3,
+          "descricao": "Preparação do paciente e do ambiente: Explicar o procedimento ao paciente, assegurar a sua privacidade e conforto. Posicionar o paciente de forma adequada. Higienizar as mãos e colocar luvas de procedimento. Preparar um campo limpo e organizado perto da ferida."
+        },
+        {
+          "passo": 4,
+          "descricao": "Remoção do curativo anterior: Remover cuidadosamente o curativo antigo, observando a quantidade e tipo de exsudado nele presente. Descartar o curativo em saco de lixo apropriado. Retirar as luvas de procedimento e higienizar as mãos."
+        },
+        {
+          "passo": 5,
+          "descricao": "Limpeza da ferida: Calçar luvas estéreis. Limpar a ferida com soro fisiológico a 0,9% (aquecido à temperatura corporal, se possível) utilizando compressas estéreis, em movimentos suaves do centro para a periferia, uma única vez por compressa. Remover qualquer resíduo ou tecido solto. Se houver sujidade grosseira, pode-se usar uma solução antisséptica diluída, conforme protocolo institucional, mas o soro fisiológico é geralmente preferível para feridas limpas."
+        },
+        {
+          "passo": 6,
+          "descricao": "Debridamento (se necessário): Se houver tecido desvitalizado, realizar o debridamento conforme a técnica indicada (mecânico com pinça e tesoura, autolítico com curativos específicos). Este passo deve ser realizado por profissional habilitado."
+        },
+        {
+          "passo": 7,
+          "descricao": "Aplicação de produtos tópicos e curativo primário: Aplicar pomadas, cremes ou géis específicos, se prescritos ou indicados para o tipo de ferida. Aplicar o curativo primário (ex: hidrogel, alginato, espuma, gaze com vaselina) directamente sobre a ferida, de acordo com as características do exsudado e o estágio da cicatrização."
+        },
+        {
+          "passo": 8,
+          "descricao": "Aplicação do curativo secundário e fixação: Cobrir o curativo primário com um curativo secundário (ex: gaze estéril, compressa absorvente) se necessário, para absorver exsudado adicional e proteger a ferida. Fixar o curativo com adesivo hipoalergénico, ligadura ou rede tubular, garantindo que esteja seguro, mas sem apertar excessivamente."
+        },
+        {
+          "passo": 9,
+          "descricao": "Finalização e registo: Descartar todo o material utilizado em lixo hospitalar. Retirar as luvas e higienizar as mãos. Orientar o paciente sobre os cuidados a ter com o curativo e os sinais de alerta. Registar no prontuário a data, hora, tipo de ferida, aspecto da ferida, materiais utilizados, intercorrências e nome do profissional que realizou o curativo."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Um paciente, de 45 anos, residente no bairro Mabor, Luanda, apresenta uma úlcera por pressão de grau II na região sacral, com exsudado serossanguinolento moderado e tecido de granulação presente. O paciente está acamado devido a um acidente de viação ocorrido há 3 semanas.",
+          "resolucao": "1. Avaliação: Úlcera por pressão grau II, exsudado moderado, tecido de granulação. Ausência de sinais de infecção. 2. Objectivo: Promover a cicatrização e proteger a pele peri-ferida. 3. Material: Soro fisiológico 0,9%, compressas estéreis, luvas estéreis, espuma de poliuretano (curativo de espuma), adesivo hipoalergénico. 4. Procedimento: Limpar a ferida com soro fisiológico. Aplicar a espuma de poliuretano, que absorverá o exsudado e manterá um ambiente húmido. Fixar com adesivo. Trocar o curativo a cada 2-3 dias, ou conforme a saturação da espuma. Orientar o reposicionamento do paciente a cada 2 horas para aliviar a pressão."
+        },
+        {
+          "situacao": "Uma criança de 8 anos, da província do Huambo, sofreu uma queimadura de 2º grau superficial no braço direito, após derramar água quente. A ferida apresenta bolhas intactas e eritema.",
+          "resolucao": "1. Avaliação: Queimadura 2º grau superficial, bolhas intactas, eritema. 2. Objectivo: Proteger a ferida, aliviar a dor e prevenir infecção. 3. Material: Soro fisiológico 0,9%, compressas estéreis, luvas estéreis, hidrogel (ou pomada com sulfadiazina de prata, se houver risco de infecção secundária), gaze não aderente, ligadura. 4. Procedimento: Limpar suavemente a área com soro fisiológico. NÃO romper as bolhas (elas servem como barreira natural). Aplicar uma camada fina de hidrogel para manter a humidade e aliviar a dor (se não houver infecção). Cobrir com gaze não aderente e fixar com ligadura. Trocar o curativo diariamente ou a cada 2 dias, avaliando a evolução da queimadura. Monitorizar sinais de infecção e dor."
+        },
+        {
+          "situacao": "Um pescador, de 60 anos, da província do Namibe, apresenta uma ferida crónica no pé, com tecido necrótico (esfacelo) e sinais de infecção (odor fétido, exsudado purulento, rubor e calor). O paciente é diabético e não tem feito um controlo adequado da glicemia.",
+          "resolucao": "1. Avaliação: Ferida crónica infectada, com esfacelo, em paciente diabético descompensado. 2. Objectivo: Debridar o tecido necrótico, controlar a infecção e promover a cicatrização. 3. Material: Soro fisiológico 0,9%, compressas estéreis, luvas estéreis, pinça e tesoura estéreis (para debridamento mecânico), alginato de cálcio com prata (se disponível), gaze secundária, adesivo. 4. Procedimento: Realizar o debridamento mecânico do esfacelo com pinça e tesoura, com muito cuidado, por profissional habilitado. Limpar a ferida com soro fisiológico. Aplicar o alginato de cálcio com prata para controlar a infecção e absorver o exsudado. Cobrir com gaze secundária e fixar. Trocar o curativo diariamente. É crucial encaminhar o paciente para controlo glicémico e, se necessário, iniciar antibioticoterapia sistémica, conforme prescrição médica. Acompanhamento rigoroso para evitar amputação."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Não realizar a lavagem das mãos antes e depois do procedimento.",
+        "Utilizar material não estéril ou fora do prazo de validade.",
+        "Não avaliar correctamente a ferida antes de iniciar o curativo.",
+        "Limpar a ferida com movimentos da periferia para o centro, contaminando-a.",
+        "Utilizar soluções antissépticas de forma indiscriminada, pois podem ser citotóxicas para os tecidos saudáveis.",
+        "Romper bolhas em queimaduras, aumentando o risco de infecção.",
+        "Não trocar o curativo com a frequência necessária, permitindo a saturação excessiva e maceração da pele.",
+        "Fixar o curativo de forma inadequada, permitindo que se solte ou aperte excessivamente.",
+        "Não registar adequadamente as características da ferida e os procedimentos realizados.",
+        "Subestimar a dor do paciente durante o curativo.",
+        "Não considerar os factores sistémicos do paciente que influenciam a cicatrização (nutrição, doenças crónicas)."
+      ],
+      "conclusao": "A abordagem correcta das feridas, desde a sua classificação até à aplicação de curativos adequados, é uma competência essencial para o Técnico Médio de Enfermagem. A compreensão dos diferentes tipos de feridas e das fases da cicatrização permite uma intervenção mais eficaz e personalizada. Os curativos, correctamente seleccionados e aplicados, desempenham um papel crucial na promoção da reparação tecidual, prevenção de infecções e melhoria da qualidade de vida dos pacientes. Em Angola, onde a diversidade de contextos clínicos e a prevalência de certas patologias desafiam os profissionais de saúde, o domínio destas técnicas é fundamental para garantir cuidados de enfermagem de excelência e contribuir para a redução da morbidade e mortalidade associadas às lesões cutâneas."
+    },
+    {
+      "titulo": "Infecções Intra-Hospitalares (IIH / IACS)",
+      "introducao": "As Infecções Intra-Hospitalares — hoje designadas internacionalmente como Infecções Associadas aos Cuidados de Saúde (IACS) — são infecções adquiridas pelo paciente durante o internamento ou como consequência de procedimentos assistenciais, não estando presentes nem em incubação no momento da admissão. Convencionalmente, considera-se IACS a infecção que se manifesta a partir das 48–72 horas após a admissão, ou até 30 dias após a alta (90 dias em cirurgias com prótese). Em Angola, o controlo destas infecções é responsabilidade partilhada entre a Comissão de Controlo de Infecção Hospitalar (CCIH) e toda a equipa assistencial, e o Técnico Médio de Enfermagem tem papel central na sua prevenção, sobretudo através da higienização das mãos, precauções padrão e assepsia em procedimentos invasivos.",
+      "conceitos": [
+        {
+          "termo": "IACS / IIH",
+          "definicao": "Infecção adquirida no hospital ou em qualquer serviço de saúde, não presente nem em incubação à admissão; surge geralmente após 48–72 h de internamento."
+        },
+        {
+          "termo": "Infecção comunitária",
+          "definicao": "Infecção já presente ou em incubação no momento da admissão hospitalar."
+        },
+        {
+          "termo": "Colonização",
+          "definicao": "Presença e multiplicação de microrganismos num hospedeiro sem provocar resposta clínica ou imunológica; não é infecção."
+        },
+        {
+          "termo": "Contaminação",
+          "definicao": "Presença transitória de microrganismos numa superfície, material ou tecido, sem multiplicação."
+        },
+        {
+          "termo": "Infecção cruzada",
+          "definicao": "Transmissão de microrganismos de um doente a outro, geralmente pelas mãos dos profissionais ou por material mal descontaminado."
+        },
+        {
+          "termo": "Reservatório",
+          "definicao": "Local onde o microrganismo vive e se multiplica (humanos, animais, água, superfícies, equipamentos)."
+        },
+        {
+          "termo": "Porta de saída / entrada",
+          "definicao": "Vias pelas quais o agente deixa o reservatório e penetra num novo hospedeiro (respiratória, digestiva, cutânea, urinária, sanguínea)."
+        },
+        {
+          "termo": "Cadeia epidemiológica",
+          "definicao": "Sequência: agente → reservatório → porta de saída → via de transmissão → porta de entrada → hospedeiro susceptível."
+        },
+        {
+          "termo": "Precauções-padrão",
+          "definicao": "Conjunto de medidas aplicadas a TODOS os doentes, independentemente do diagnóstico, para prevenir a exposição a sangue e fluidos corporais."
+        },
+        {
+          "termo": "Precauções baseadas na transmissão",
+          "definicao": "Medidas adicionais aplicadas conforme a via de transmissão do agente: contacto, gotículas e aérea."
+        },
+        {
+          "termo": "Multirresistência (MDR)",
+          "definicao": "Resistência de um microrganismo a três ou mais classes de antimicrobianos; ex.: MRSA, Klebsiella produtora de ESBL, Acinetobacter MDR."
+        },
+        {
+          "termo": "Bundle",
+          "definicao": "Conjunto pequeno de medidas baseadas em evidência que, aplicadas em conjunto, reduzem drasticamente uma infecção específica (ex.: bundle da PAV, bundle do CVC)."
+        },
+        {
+          "termo": "Infecção do sítio cirúrgico (ISC)",
+          "definicao": "Infecção que ocorre até 30 dias após a cirurgia (ou até 90 dias se houver implante), classificada em superficial (pele/tecido subcutâneo), profunda (fáscia e músculo) e de órgão/espaço."
+        },
+        {
+          "termo": "Pneumonia associada à ventilação (PAV)",
+          "definicao": "Pneumonia que surge ≥48 h após entubação endotraqueal; prevenida com cabeceira a 30–45°, higiene oral com clorhexidina, aspiração subglótica e avaliação diária da extubação."
+        },
+        {
+          "termo": "Infecção urinária associada a cateter (ITU-AC)",
+          "definicao": "Infecção urinária em doente com algália ≥48 h; principal factor de risco é a duração da algaliação — reavaliar diariamente a necessidade."
+        },
+        {
+          "termo": "Infecção da corrente sanguínea associada a cateter (ICS-AC)",
+          "definicao": "Bacteriemia em doente com cateter vascular sem outro foco; prevenida pelo bundle de inserção e manutenção (assepsia máxima, clorhexidina 2 %, penso íntegro, desinfecção das conexões)."
+        },
+        {
+          "termo": "CCIH / PPCIRA",
+          "definicao": "Comissão de Controlo de Infecção Hospitalar / Programa de Prevenção e Controlo de Infecções e Resistência aos Antimicrobianos — estrutura responsável pela vigilância, normas, formação e investigação de surtos."
+        },
+        {
+          "termo": "Vigilância epidemiológica",
+          "definicao": "Recolha sistemática, análise e divulgação de dados de infecção para orientar medidas de prevenção; pode ser activa (busca de casos) ou passiva (notificação)."
+        },
+        {
+          "termo": "Surto",
+          "definicao": "Ocorrência de casos de uma infecção acima do esperado num serviço, num dado período, geralmente com fonte comum."
+        },
+        {
+          "termo": "Taxa de incidência de IACS",
+          "definicao": "N.º de novas infecções ÷ n.º de doentes (ou dias de dispositivo) × 1000; indicador que permite comparação entre serviços."
+        },
+        {
+          "termo": "Antissepsia cirúrgica das mãos",
+          "definicao": "Fricção ou lavagem prolongada (2–5 min) com antisséptico, até aos cotovelos, antes de qualquer acto cirúrgico."
+        },
+        {
+          "termo": "EPI",
+          "definicao": "Equipamento de protecção individual: luvas, bata/avental, máscara, óculos/viseira e touca; a ordem de colocação é bata → máscara → óculos → luvas e a de remoção luvas → óculos → bata → máscara."
+        },
+        {
+          "termo": "Higiene respiratória / etiqueta da tosse",
+          "definicao": "Cobrir boca e nariz com o antebraço ou lenço descartável, colocar máscara ao doente sintomático e higienizar as mãos após."
+        },
+        {
+          "termo": "Resíduos hospitalares (Grupos I–IV)",
+          "definicao": "I e II: equiparados a urbanos; III: risco biológico (saco branco); IV: incineração obrigatória (perfurocortantes, citostáticos, peças anatómicas)."
+        },
+        {
+          "termo": "Stewardship antimicrobiano",
+          "definicao": "Uso racional de antibióticos: colher culturas antes de iniciar, escolher espectro adequado, ajustar após antibiograma (descalonamento) e limitar a duração."
+        },
+        {
+          "termo": "ESBL / MRSA / VRE / CRE",
+          "definicao": "Principais microrganismos multirresistentes: enterobactérias produtoras de betalactamases de espectro alargado, S. aureus resistente à meticilina, Enterococcus resistente à vancomicina e enterobactérias resistentes aos carbapenemos."
+        }
+      ],
+      "finalidades": [
+        "Interromper a cadeia epidemiológica das infecções nos serviços de saúde.",
+        "Proteger o doente, os profissionais e a comunidade.",
+        "Reduzir a mortalidade, o tempo de internamento e os custos hospitalares.",
+        "Prevenir surtos de microrganismos multirresistentes.",
+        "Garantir cumprimento das normas do MINSA e das recomendações da OMS.",
+        "Assegurar a vigilância epidemiológica e a notificação obrigatória das IACS.",
+        "Promover o uso racional de antimicrobianos e travar a resistência bacteriana.",
+        "Garantir a gestão correcta dos resíduos hospitalares e da roupa contaminada.",
+        "Proteger o profissional através da imunização e da profilaxia pós-exposição."
+      ],
+      "vantagens": [],
+      "desvantagens": [],
+      "valores_referencia": [
+        {
+          "parametro": "Higiene das mãos — 5 momentos (OMS)",
+          "valor": "Antes do contacto; antes de procedimento asséptico; após risco de exposição a fluidos; após contacto com o doente; após contacto com o ambiente do doente.",
+          "observacao": ""
+        },
+        {
+          "parametro": "Fricção alcoólica",
+          "valor": "20–30 segundos",
+          "observacao": "Preferencial quando as mãos não estão visivelmente sujas."
+        },
+        {
+          "parametro": "Lavagem com água e sabão",
+          "valor": "40–60 segundos",
+          "observacao": "Obrigatória quando há sujidade visível ou após contacto com esporos (ex.: C. difficile)."
+        },
+        {
+          "parametro": "Isolamento de contacto",
+          "valor": "Luvas + avental",
+          "observacao": "MRSA, ESBL, C. difficile, escabiose."
+        },
+        {
+          "parametro": "Isolamento de gotículas",
+          "valor": "Máscara cirúrgica a ≤1 m",
+          "observacao": "Meningite meningocócica, gripe, tosse convulsa."
+        },
+        {
+          "parametro": "Isolamento aéreo",
+          "valor": "Máscara N95/FFP2 + quarto com pressão negativa se possível",
+          "observacao": "Tuberculose pulmonar, sarampo, varicela."
+        },
+        {
+          "parametro": "Definição temporal de IACS",
+          "valor": "≥48 h após a admissão",
+          "observacao": "Ou até 30 dias após alta/cirurgia (90 dias com implante)."
+        },
+        {
+          "parametro": "PAV — cabeceira",
+          "valor": "30–45°",
+          "observacao": "Elemento do bundle de prevenção."
+        },
+        {
+          "parametro": "Troca de penso de CVC",
+          "valor": "Gaze: 48 h; película transparente: 7 dias",
+          "observacao": "Ou sempre que sujo, húmido ou descolado."
+        },
+        {
+          "parametro": "Duração da antissepsia cirúrgica das mãos",
+          "valor": "2–5 minutos",
+          "observacao": "Até acima dos cotovelos."
+        },
+        {
+          "parametro": "Conduta após picada com agulha",
+          "valor": "Lavar com água e sabão, não espremer, notificar em <2 h",
+          "observacao": "Serologia da fonte e do profissional; PPE anti-VIH até 72 h (ideal <2 h)."
+        },
+        {
+          "parametro": "Contentor de perfurocortantes",
+          "valor": "Substituir aos 2/3 da capacidade",
+          "observacao": "Nunca forçar nem reencapar."
+        }
+      ],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "Aplicar as precauções-padrão a todos os doentes: higiene das mãos, uso adequado de EPI, manuseamento seguro de perfurocortantes."
+        },
+        {
+          "passo": 2,
+          "descricao": "Higienizar as mãos nos 5 momentos da OMS."
+        },
+        {
+          "passo": 3,
+          "descricao": "Avaliar o risco de transmissão à admissão e instituir precauções adicionais quando indicadas."
+        },
+        {
+          "passo": 4,
+          "descricao": "Sinalizar o quarto/leito com o tipo de precaução em vigor."
+        },
+        {
+          "passo": 5,
+          "descricao": "Usar material individualizado (estetoscópio, termómetro) para doentes em isolamento sempre que possível."
+        },
+        {
+          "passo": 6,
+          "descricao": "Descartar perfurocortantes imediatamente no contentor rígido, sem reencapar agulhas."
+        },
+        {
+          "passo": 7,
+          "descricao": "Notificar à CCIH suspeita de infecção associada aos cuidados e de microrganismos multirresistentes."
+        },
+        {
+          "passo": 8,
+          "descricao": "Educar o doente, a família e os visitantes sobre higiene das mãos e uso de EPI."
+        },
+        {
+          "passo": 9,
+          "descricao": "Aplicar os bundles de prevenção (CVC, algália, ventilação e sítio cirúrgico) e auditar o seu cumprimento com checklist."
+        },
+        {
+          "passo": 10,
+          "descricao": "Reavaliar diariamente a necessidade de cada dispositivo invasivo e retirar o mais precocemente possível."
+        },
+        {
+          "passo": 11,
+          "descricao": "Colher culturas (hemoculturas, urocultura, exsudado) ANTES de iniciar antibioticoterapia."
+        },
+        {
+          "passo": 12,
+          "descricao": "Separar os resíduos na origem por grupo/cor e transportar a roupa contaminada em saco fechado, sem sacudir."
+        },
+        {
+          "passo": 13,
+          "descricao": "Manter o esquema vacinal do profissional actualizado (hepatite B, tétano) e cumprir o protocolo de exposição a fluidos."
+        },
+        {
+          "passo": 14,
+          "descricao": "Registar e comunicar imediatamente à CCIH o agrupamento de casos suspeito de surto."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Doente com cateter venoso central há 6 dias apresenta febre e calafrios sem outro foco aparente.",
+          "resolucao": "Suspeitar de infecção da corrente sanguínea associada a cateter. Colher hemoculturas periféricas e do cateter, comunicar ao médico e considerar remoção do dispositivo. Reforçar bundle do CVC: higiene das mãos, assepsia máxima na manipulação, curativo íntegro e datado."
+        },
+        {
+          "situacao": "Após contacto com doente com Clostridioides difficile o técnico vai atender outro paciente.",
+          "resolucao": "Lavar as mãos com água e sabão (não usar apenas álcool — não elimina esporos), retirar EPI dentro do quarto e só então prestar cuidados ao próximo doente."
+        },
+        {
+          "situacao": "Três doentes da mesma enfermaria apresentam diarreia com isolamento de Klebsiella produtora de ESBL em 5 dias.",
+          "resolucao": "Suspeitar de surto: notificar a CCIH, instituir precauções de contacto, coortar doentes e profissionais, reforçar higiene das mãos, desinfectar o ambiente e rever a técnica de manipulação de dispositivos."
+        },
+        {
+          "situacao": "Técnico sofre picada com agulha usada em doente com serologia desconhecida.",
+          "resolucao": "Lavar com água e sabão sem espremer, notificar imediatamente, colher serologias da fonte e do profissional, iniciar profilaxia pós-exposição anti-VIH nas primeiras 2 h (até 72 h) e manter seguimento serológico."
+        },
+        {
+          "situacao": "Doente algaliado há 9 dias sem indicação clínica registada.",
+          "resolucao": "Reavaliar a necessidade da algália, propor remoção ou alternativa (colector externo, esvaziamento intermitente) e registar — a duração é o principal factor de risco de ITU-AC."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Não reencapar agulhas — principal causa de acidente com perfurocortante.",
+        "Não circular com luvas entre doentes nem tocar em superfícies limpas com luvas contaminadas.",
+        "Álcool gel NÃO substitui a lavagem em C. difficile, escabiose ou mãos visivelmente sujas.",
+        "Uso prolongado da mesma máscara N95 reduz a protecção — respeitar tempo/uso definido.",
+        "Antibioticoterapia empírica sem colheita de culturas favorece resistência bacteriana.",
+        "Nunca desconectar o sistema de drenagem urinária nem elevar o saco acima do nível da bexiga.",
+        "Não colher urina do saco colector para cultura — colher pelo local de punção próprio, após desinfecção.",
+        "Não sacudir roupa de cama contaminada: dispersa microrganismos no ar.",
+        "Trocar de luvas entre procedimentos no MESMO doente (por exemplo, após cuidados perineais antes de manipular cateter).",
+        "Máscara cirúrgica não protege contra tuberculose ou sarampo — exige N95/FFP2.",
+        "Não iniciar antibiótico sem colher culturas nem manter esquema empírico após antibiograma disponível."
+      ],
+      "conclusao": "A prevenção das IACS depende menos de tecnologia sofisticada e mais de disciplina técnica: higienização correcta das mãos, precauções-padrão e adesão aos bundles são as intervenções de maior impacto na segurança do doente."
+    },
+    {
+      "titulo": "Cuidados de Enfermagem em Patologias Cirúrgicas (Pré, Intra e Pós-Operatório)",
+      "introducao": "O acto cirúrgico é um dos momentos de maior vulnerabilidade do doente, envolvendo agressão tecidular, anestesia e risco aumentado de complicações infecciosas, hemorrágicas e cardiorrespiratórias. Os cuidados de enfermagem organizam-se em três períodos — pré-operatório, intra-operatório e pós-operatório — que juntos constituem o período perioperatório. O Técnico Médio de Enfermagem participa activamente em todos, executando preparação física e emocional do doente, colaborando no acto cirúrgico e assegurando vigilância pós-anestésica e recuperação segura.",
+      "conceitos": [
+        {
+          "termo": "Período perioperatório",
+          "definicao": "Conjunto dos períodos pré, intra e pós-operatório."
+        },
+        {
+          "termo": "Pré-operatório",
+          "definicao": "Compreende desde a decisão cirúrgica até à entrada no bloco operatório; divide-se em mediato (>24 h antes) e imediato (<24 h)."
+        },
+        {
+          "termo": "Intra-operatório",
+          "definicao": "Inicia com a entrada no bloco e termina com a admissão na sala de recuperação pós-anestésica (RPA)."
+        },
+        {
+          "termo": "Pós-operatório",
+          "definicao": "Imediato (primeiras 24 h), mediato (2.º–7.º dia) e tardio (após 7 dias, até à cicatrização completa)."
+        },
+        {
+          "termo": "Cirurgia electiva / urgente / emergente",
+          "definicao": "Electiva: programada; urgente: dentro de 24–48 h; emergente: risco de vida imediato."
+        },
+        {
+          "termo": "Consentimento informado",
+          "definicao": "Autorização escrita e voluntária do doente após informação clara sobre procedimento, riscos e alternativas."
+        },
+        {
+          "termo": "Jejum pré-operatório",
+          "definicao": "Sólidos ≥6–8 h; líquidos claros ≥2 h antes da anestesia (protocolos ERAS)."
+        },
+        {
+          "termo": "Tricotomia",
+          "definicao": "Remoção de pêlos do campo operatório — só quando indicada e imediatamente antes da cirurgia, com máquina eléctrica (nunca lâmina de barbear)."
+        },
+        {
+          "termo": "Classificação das feridas cirúrgicas",
+          "definicao": "Limpa (I), limpa-contaminada (II), contaminada (III) e suja/infectada (IV) — determina o risco de ISC e a profilaxia antibiótica."
+        },
+        {
+          "termo": "Profilaxia antibiótica cirúrgica",
+          "definicao": "Dose única EV 30–60 min antes da incisão (cefazolina na maioria); repetir se cirurgia >4 h ou perda hemática >1500 mL; suspender em ≤24 h."
+        },
+        {
+          "termo": "Checklist de Segurança Cirúrgica (OMS)",
+          "definicao": "Três momentos: sign in (antes da anestesia), time out (antes da incisão) e sign out (antes de sair da sala), incluindo contagem de compressas e instrumentos."
+        },
+        {
+          "termo": "Tipos de anestesia",
+          "definicao": "Geral (inconsciência), loco-regional (raquianestesia, epidural, bloqueio de plexo) e local (infiltração); cada uma com vigilância específica."
+        },
+        {
+          "termo": "Recuperação pós-anestésica (RPA/UCPA)",
+          "definicao": "Unidade de vigilância imediata; alta segundo escala de Aldrete (≥9) — actividade, respiração, circulação, consciência e coloração."
+        },
+        {
+          "termo": "Deiscência e evisceração",
+          "definicao": "Abertura parcial (deiscência) ou total com exteriorização de vísceras (evisceração): cobrir com compressas estéreis embebidas em soro, posição de Fowler com joelhos flectidos, jejum e chamar o cirurgião."
+        },
+        {
+          "termo": "Íleo paralítico",
+          "definicao": "Ausência de peristaltismo pós-operatória com distensão, ausência de flatos e ruídos hidroaéreos ausentes; tratar com jejum, SNG e mobilização precoce."
+        },
+        {
+          "termo": "Trombose venosa profunda (TVP) e TEP",
+          "definicao": "Complicação tromboembólica do pós-operatório; prevenção com meias de compressão, mobilização precoce e heparina de baixo peso molecular."
+        },
+        {
+          "termo": "Atelectasia",
+          "definicao": "Colapso alveolar por hipoventilação e dor; prevenida com espirometria de incentivo, tosse assistida e mobilização."
+        },
+        {
+          "termo": "Drenos cirúrgicos",
+          "definicao": "Penrose (passivo), Redivac/Jackson-Pratt (aspirativo) e drenagem torácica selada sob água; registar débito, aspecto e permeabilidade em cada turno."
+        },
+        {
+          "termo": "Hipotermia perioperatória",
+          "definicao": "Temperatura central <36 °C — aumenta infecção, hemorragia e tempo de recuperação; prevenir com mantas térmicas e fluidos aquecidos."
+        },
+        {
+          "termo": "ERAS",
+          "definicao": "Enhanced Recovery After Surgery: jejum curto, carga de hidratos de carbono, analgesia multimodal, mobilização e alimentação precoces."
+        }
+      ],
+      "finalidades": [
+        "Reduzir a ansiedade e preparar o doente física e psicologicamente.",
+        "Prevenir complicações infecciosas, hemorrágicas e tromboembólicas.",
+        "Garantir a segurança do doente no bloco operatório.",
+        "Detectar precocemente complicações pós-operatórias.",
+        "Promover recuperação funcional rápida e cicatrização adequada.",
+        "Assegurar a correcta identificação do doente, do procedimento e do lado a operar.",
+        "Garantir controlo eficaz da dor com analgesia multimodal.",
+        "Manter a normotermia, a normovolémia e a integridade cutânea durante o acto cirúrgico."
+      ],
+      "vantagens": [],
+      "desvantagens": [],
+      "valores_referencia": [
+        {
+          "parametro": "Jejum sólidos",
+          "valor": "6–8 h",
+          "observacao": "Adultos, cirurgia electiva."
+        },
+        {
+          "parametro": "Jejum líquidos claros",
+          "valor": "2 h",
+          "observacao": "Água, chá claro, sumos sem polpa."
+        },
+        {
+          "parametro": "Diurese pós-op mínima",
+          "valor": "≥0,5 mL/kg/h",
+          "observacao": "Sinal de perfusão renal adequada."
+        },
+        {
+          "parametro": "Frequência de SV no PO imediato",
+          "valor": "15/15 min na 1.ª h; 30/30 min na 2.ª h; horário depois",
+          "observacao": "Ou conforme protocolo."
+        },
+        {
+          "parametro": "Profilaxia antibiótica",
+          "valor": "30–60 min antes da incisão",
+          "observacao": "Dose única na maioria das cirurgias."
+        },
+        {
+          "parametro": "Escala de Aldrete para alta da RPA",
+          "valor": "≥9 em 10",
+          "observacao": "Avalia actividade, respiração, circulação, consciência e SpO2."
+        },
+        {
+          "parametro": "Temperatura central perioperatória",
+          "valor": "≥36 °C",
+          "observacao": "Hipotermia aumenta risco de ISC e hemorragia."
+        },
+        {
+          "parametro": "Débito de dreno a comunicar",
+          "valor": "> 100 mL/h de sangue vivo",
+          "observacao": "Sinal de hemorragia activa."
+        },
+        {
+          "parametro": "Escala de dor (EVA/numérica)",
+          "valor": "Alvo ≤3/10",
+          "observacao": "Reavaliar 30 min após analgesia."
+        },
+        {
+          "parametro": "Retirada de pontos",
+          "valor": "Face 4–5 dias; abdómen 7–10; membros 10–14",
+          "observacao": "Conforme tensão e cicatrização."
+        }
+      ],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "PRÉ-OP MEDIATO: colher história de enfermagem, avaliar sinais vitais e exames pré-operatórios, ensinar exercícios respiratórios e de mobilização precoce."
+        },
+        {
+          "passo": 2,
+          "descricao": "PRÉ-OP IMEDIATO: confirmar jejum, higiene corporal com clorhexidina se prescrito, tricotomia quando indicada, retirar próteses/jóias/verniz, esvaziar bexiga, administrar pré-medicação."
+        },
+        {
+          "passo": 3,
+          "descricao": "Verificar consentimento assinado e lista de verificação cirúrgica (checklist da OMS) — identificação, procedimento e lado correcto."
+        },
+        {
+          "passo": 4,
+          "descricao": "INTRA-OP: posicionar o doente evitando pontos de pressão e lesão de nervos, garantir assepsia do campo, contar compressas e instrumentos com a instrumentista."
+        },
+        {
+          "passo": 5,
+          "descricao": "PÓS-OP IMEDIATO: monitorizar A-B-C-D-E, sinais vitais de 15/15 min na 1.ª hora, avaliar penso operatório, drenos, diurese e nível de consciência."
+        },
+        {
+          "passo": 6,
+          "descricao": "PÓS-OP MEDIATO: avaliar dor com escala numérica, controlar náuseas/vómitos, estimular tosse, respiração profunda e mobilização precoce."
+        },
+        {
+          "passo": 7,
+          "descricao": "Vigiar sinais de complicações: hemorragia, infecção da ferida, deiscência, íleo paralítico, trombose venosa profunda, retenção urinária."
+        },
+        {
+          "passo": 8,
+          "descricao": "Confirmar a marcação do local cirúrgico e a lateralidade com o doente acordado, antes da pré-medicação."
+        },
+        {
+          "passo": 9,
+          "descricao": "Rever alergias, anticoagulantes, antidiabéticos e anti-hipertensores — suspender ou ajustar conforme prescrição."
+        },
+        {
+          "passo": 10,
+          "descricao": "Retirar próteses dentárias, lentes, adornos e verniz; vestir bata e touca; algaliar apenas se indicado."
+        },
+        {
+          "passo": 11,
+          "descricao": "PÓS-OP: aplicar a regra dos 5 controlos — sinais vitais, penso/drenos, dor, diurese e nível de consciência."
+        },
+        {
+          "passo": 12,
+          "descricao": "Registar balanço hídrico rigoroso e comunicar diurese <0,5 mL/kg/h."
+        },
+        {
+          "passo": 13,
+          "descricao": "Iniciar dieta progressiva após retorno do peristaltismo (ruídos presentes, eliminação de gases)."
+        },
+        {
+          "passo": 14,
+          "descricao": "Ensinar contenção da incisão com almofada durante a tosse e exercícios de espirometria de incentivo horários."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Doente vem para colecistectomia electiva amanhã às 08:00.",
+          "resolucao": "Jejum absoluto de sólidos a partir das 00:00; líquidos claros permitidos até às 06:00 se protocolo o permitir. Banho pré-operatório com clorhexidina na noite anterior e na manhã, tricotomia só se necessária, remoção de esmalte e adornos, confirmar consentimento."
+        },
+        {
+          "situacao": "Doente 6 h pós-apendicectomia: FC 118, TA 90/55, penso com mancha vermelha crescente.",
+          "resolucao": "Suspeita de hemorragia pós-operatória. Elevar membros inferiores, manter em decúbito, garantir acesso venoso permeável, colher SV, comunicar imediatamente ao cirurgião e preparar para eventual reintervenção."
+        },
+        {
+          "situacao": "Doente no 5.º dia após laparotomia refere 'algo cedeu' e apresenta saída de conteúdo serossanguíneo e ansas visíveis.",
+          "resolucao": "Evisceração: manter em decúbito dorsal com joelhos flectidos, cobrir com compressas estéreis humedecidas em soro fisiológico, não tentar reintroduzir vísceras, jejum, acesso venoso e chamar o cirurgião com urgência."
+        },
+        {
+          "situacao": "Duas horas após gastrectomia, TA 85/50 mmHg, FC 128 bpm, penso repassado e dreno com 250 mL de sangue vivo.",
+          "resolucao": "Suspeitar hemorragia: posição de Trendelenburg modificada, O2, dois acessos venosos calibrosos, fluidos, colher hemograma e tipagem, comunicar imediatamente ao cirurgião e preparar reintervenção."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Nunca administrar pré-medicação sem confirmar identidade do doente e jejum.",
+        "Tricotomia com lâmina aumenta risco de infecção do sítio cirúrgico — proibida.",
+        "Retirar verniz e adornos: interferem com oximetria e podem causar queimaduras com electrocautério.",
+        "Não subestimar hipotensão ligeira no pós-op — pode ser primeira manifestação de hemorragia oculta.",
+        "Mobilização e respiração profunda precoces previnem TVP e atelectasias.",
+        "Nunca omitir o time out — a cirurgia em local ou doente errado é evento sentinela evitável.",
+        "Não pinçar nem elevar o frasco de drenagem torácica acima do tórax; vigiar oscilação e borbulhamento.",
+        "Não administrar analgesia 'em SOS' apenas — a dor deve ser prevenida com esquema fixo.",
+        "Não reforçar o penso indefinidamente: marcar a mancha com hora para avaliar a progressão da hemorragia.",
+        "Evitar hipotermia — a manta térmica não é conforto, é prevenção de complicações.",
+        "Confirmar sempre a contagem de compressas e instrumentos antes do encerramento."
+      ],
+      "conclusao": "A qualidade dos cuidados perioperatórios é directamente proporcional à segurança do doente cirúrgico: check-list, jejum correcto, assepsia rigorosa e vigilância pós-operatória sistemática salvam vidas."
+    },
+    {
+      "titulo": "Hemodiálise: Tipos, Cuidados com Cateter/Fístula e Doente com IRC",
+      "introducao": "A hemodiálise é uma terapia de substituição renal indicada para doentes com Insuficiência Renal Crónica (IRC) em estádio terminal ou Insuficiência Renal Aguda (IRA) grave, permitindo remover produtos de excreção nitrogenada, corrigir distúrbios hidroelectrolíticos e ácido-base através da circulação extracorpórea do sangue por um filtro (dialisador). Em Angola, o número de doentes em programa regular de hemodiálise tem crescido; o Técnico Médio de Enfermagem participa no atendimento em centros de hemodiálise, unidades de nefrologia e enfermarias, sendo responsável por vigilância do acesso vascular, prevenção de infecções e apoio ao doente crónico.",
+      "conceitos": [
+        {
+          "termo": "Insuficiência Renal Crónica (IRC)",
+          "definicao": "Perda progressiva e irreversível da função renal com TFG <60 mL/min/1,73 m² por ≥3 meses."
+        },
+        {
+          "termo": "Hemodiálise (HD)",
+          "definicao": "Depuração extracorpórea do sangue através de um dialisador semipermeável."
+        },
+        {
+          "termo": "Diálise Peritoneal (DP)",
+          "definicao": "Uso do peritoneu como membrana dialisante; solução dialítica é infundida na cavidade abdominal."
+        },
+        {
+          "termo": "Fístula arteriovenosa (FAV)",
+          "definicao": "Anastomose cirúrgica entre uma artéria e uma veia (habitualmente radial-cefálica), acesso vascular de eleição para HD crónica."
+        },
+        {
+          "termo": "Cateter venoso central de HD",
+          "definicao": "Cateter de duplo lúmen inserido em veia central (jugular, femoral) para HD temporária ou até maturação da FAV."
+        },
+        {
+          "termo": "Sessão de HD",
+          "definicao": "Habitualmente 3×/semana, com duração de 3,5 a 4 horas."
+        },
+        {
+          "termo": "Doente renal crónico — estádios (KDIGO)",
+          "definicao": "G1 a G5 segundo a TFG: G3a 45–59, G3b 30–44, G4 15–29 e G5 <15 mL/min/1,73 m² (falência renal, indicação de terapêutica de substituição)."
+        },
+        {
+          "termo": "Peso seco",
+          "definicao": "Peso ideal do doente sem excesso de líquidos, no qual está normotenso e sem edemas; base do cálculo da ultrafiltração."
+        },
+        {
+          "termo": "Ultrafiltração (UF)",
+          "definicao": "Remoção de água plasmática por gradiente de pressão através da membrana do dialisador."
+        },
+        {
+          "termo": "Difusão e convecção",
+          "definicao": "Difusão: passagem de solutos por gradiente de concentração (base da HD). Convecção: arrastamento de solutos com a água (base da hemofiltração/HDF)."
+        },
+        {
+          "termo": "Dialisador",
+          "definicao": "Filtro com milhares de capilares semipermeáveis onde o sangue e o dialisante circulam em contracorrente."
+        },
+        {
+          "termo": "Anticoagulação do circuito",
+          "definicao": "Habitualmente heparina não fraccionada ou HBPM; em risco hemorrágico usa-se HD sem heparina com lavagens periódicas de soro."
+        },
+        {
+          "termo": "Síndrome de desequilíbrio de diálise",
+          "definicao": "Cefaleia, náuseas, confusão e convulsões por remoção rápida de ureia nas primeiras sessões; prevenida com sessões curtas e fluxos baixos no início."
+        },
+        {
+          "termo": "Enxerto arteriovenoso (prótese)",
+          "definicao": "Alternativa à FAV quando os vasos são inadequados; maior risco de trombose e infecção."
+        },
+        {
+          "termo": "Maturação da FAV",
+          "definicao": "4–6 semanas (idealmente 2–3 meses) antes da primeira punção; exercícios com bola favorecem o desenvolvimento."
+        },
+        {
+          "termo": "Punção em escada / botoeira",
+          "definicao": "Técnicas de rotação dos locais de punção da FAV para evitar aneurismas e estenoses."
+        },
+        {
+          "termo": "Síndrome do roubo",
+          "definicao": "Isquemia distal da mão por desvio de fluxo pela FAV: dor, palidez, frio e parestesias — comunicar de imediato."
+        },
+        {
+          "termo": "Kt/V e URR",
+          "definicao": "Índices de adequação da diálise: Kt/V ≥1,2 por sessão e URR (redução da ureia) ≥65 %."
+        },
+        {
+          "termo": "Complicações da IRC",
+          "definicao": "Anemia (défice de eritropoietina), doença mineral e óssea (hiperfosfatemia, hiperparatiroidismo), acidose metabólica, HTA e pericardite urémica."
+        }
+      ],
+      "finalidades": [
+        "Substituir a função excretora renal.",
+        "Remover excesso de líquidos (ultrafiltração).",
+        "Corrigir distúrbios hidroelectrolíticos (K⁺, Na⁺, Ca²⁺, fósforo).",
+        "Corrigir acidose metabólica.",
+        "Prolongar e melhorar a qualidade de vida do doente com IRC.",
+        "Preservar e prolongar a vida útil do acesso vascular.",
+        "Prevenir infecções associadas ao acesso e ao circuito extracorporal.",
+        "Educar o doente para a adesão à dieta, à restrição hídrica e ao esquema de sessões."
+      ],
+      "vantagens": [
+        "Alta eficiência depurativa em curto período (3–4 h).",
+        "Realizada em centro, com supervisão profissional contínua.",
+        "Permite controlo apertado de peso e electrólitos."
+      ],
+      "desvantagens": [
+        "Requer acesso vascular permanente e centro especializado.",
+        "Sessões frequentes com impacto social e laboral.",
+        "Risco de hipotensão intradialítica, cãibras, infecção do acesso e desequilíbrios rápidos."
+      ],
+      "valores_referencia": [
+        {
+          "parametro": "Frequência HD crónica",
+          "valor": "3×/semana, 3,5–4 h/sessão",
+          "observacao": ""
+        },
+        {
+          "parametro": "Ganho de peso interdialítico ideal",
+          "valor": "<3–4 % do peso seco",
+          "observacao": "Excessos ↑ risco de hipertensão e sobrecarga cardíaca."
+        },
+        {
+          "parametro": "Fluxo sanguíneo alvo em HD",
+          "valor": "300–400 mL/min",
+          "observacao": "Depende do acesso vascular."
+        },
+        {
+          "parametro": "K⁺ pré-diálise seguro",
+          "valor": "<6,0 mEq/L",
+          "observacao": "Valores >6,5 = emergência dialítica."
+        },
+        {
+          "parametro": "TA pré e pós-sessão",
+          "valor": "Registar sempre",
+          "observacao": "Detectar hipotensão intradialítica."
+        },
+        {
+          "parametro": "TFG que define falência renal",
+          "valor": "<15 mL/min/1,73 m²",
+          "observacao": "Estádio G5 — indicação de diálise ou transplante."
+        },
+        {
+          "parametro": "Kt/V mínimo por sessão",
+          "valor": "≥1,2",
+          "observacao": "Índice de adequação da diálise."
+        },
+        {
+          "parametro": "URR (redução da ureia)",
+          "valor": "≥65 %",
+          "observacao": "Alternativa ao Kt/V."
+        },
+        {
+          "parametro": "Hemoglobina alvo na IRC",
+          "valor": "10–12 g/dL",
+          "observacao": "Sob eritropoietina e ferro."
+        },
+        {
+          "parametro": "Fósforo sérico alvo",
+          "valor": "3,5–5,5 mg/dL",
+          "observacao": "Uso de quelantes às refeições."
+        },
+        {
+          "parametro": "Ingestão hídrica diária",
+          "valor": "Diurese residual + 500–800 mL",
+          "observacao": "Individualizar."
+        },
+        {
+          "parametro": "Potássio na dieta",
+          "valor": "Restringir alimentos ricos",
+          "observacao": "Banana, laranja, coco, feijão, batata (demolhar e ferver)."
+        },
+        {
+          "parametro": "Indicações urgentes de diálise (AEIOU)",
+          "valor": "Acidose, Electrólitos (K⁺), Intoxicações, Overload (sobrecarga hídrica), Urémia",
+          "observacao": "Mnemónica clássica."
+        }
+      ],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "Pesar o doente antes e depois da sessão para calcular ultrafiltração."
+        },
+        {
+          "passo": 2,
+          "descricao": "Avaliar SV e temperatura antes, durante (30/30 min) e após a sessão."
+        },
+        {
+          "passo": 3,
+          "descricao": "Inspeccionar e palpar o acesso vascular antes de puncionar: frémito e sopro presentes na FAV."
+        },
+        {
+          "passo": 4,
+          "descricao": "Preparar campo estéril, desinfectar amplamente com clorhexidina alcoólica e puncionar com técnica asséptica."
+        },
+        {
+          "passo": 5,
+          "descricao": "Vigiar sinais de hipotensão, cãibras, náuseas, cefaleia e reacções ao dialisador durante a sessão."
+        },
+        {
+          "passo": 6,
+          "descricao": "No fim: fazer compressão hemostática no local da punção 5–10 min sem ocluir o vaso; observar penso."
+        },
+        {
+          "passo": 7,
+          "descricao": "Nos cateteres: manipular sempre com máscara e luvas estéreis, desinfectar as conexões e verificar permeabilidade."
+        },
+        {
+          "passo": 8,
+          "descricao": "Confirmar prescrição da sessão: tempo, tipo de dialisador, dialisante, UF a retirar e anticoagulação."
+        },
+        {
+          "passo": 9,
+          "descricao": "Calcular a UF: peso actual − peso seco (+ volume a infundir), respeitando taxa ≤10–13 mL/kg/h."
+        },
+        {
+          "passo": 10,
+          "descricao": "Perante hipotensão intradialítica: reduzir/parar a UF, Trendelenburg, soro fisiológico 100–250 mL e reavaliar SV."
+        },
+        {
+          "passo": 11,
+          "descricao": "Perante cãibras: reduzir UF e administrar soro fisiológico ou hipertónico conforme protocolo."
+        },
+        {
+          "passo": 12,
+          "descricao": "Vigiar sinais de embolia gasosa (dispneia súbita, dor torácica, agitação): parar a bomba, clampar linha, decúbito lateral esquerdo com Trendelenburg, O2 e chamar o médico."
+        },
+        {
+          "passo": 13,
+          "descricao": "Colher análises de controlo pré-sessão (ureia, creatinina, K⁺, Hb, fósforo, PTH) conforme protocolo mensal."
+        },
+        {
+          "passo": 14,
+          "descricao": "Registar peso pré/pós, TA, débito, intercorrências e volume efectivamente ultrafiltrado."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Doente chega à sessão com edema acentuado dos MMII e dispneia; ganhou 5 kg desde a última HD.",
+          "resolucao": "Sobrecarga hídrica por não cumprimento da restrição hídrica. Comunicar ao nefrologista para ajuste da ultrafiltração, orientar restrição hídrica (≈500 mL + volume urinário/24 h) e vigilância de sinais de edema agudo do pulmão."
+        },
+        {
+          "situacao": "FAV com ausência de frémito e sopro à palpação/auscultação.",
+          "resolucao": "Suspeita de trombose da fístula. NÃO puncionar. Comunicar imediatamente ao nefrologista e cirurgião vascular — situação urgente que pode exigir trombectomia."
+        },
+        {
+          "situacao": "A meio da sessão o doente refere tonturas, náuseas e a TA cai de 140/80 para 80/45 mmHg.",
+          "resolucao": "Hipotensão intradialítica: parar a ultrafiltração, colocar em Trendelenburg, administrar bólus de soro fisiológico, oxigénio se necessário, reavaliar TA de 5/5 min e rever o peso seco com o médico."
+        },
+        {
+          "situacao": "Doente com FAV apresenta edema e circulação colateral no braço, com frémito muito intenso.",
+          "resolucao": "Suspeita de estenose/hipertensão venosa: não puncionar sem avaliação, elevar o membro, comunicar ao médico e encaminhar para ecodoppler do acesso."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Nunca medir TA, puncionar veia periférica ou colher sangue no braço da FAV.",
+        "Não usar o cateter de HD para infusões de rotina — é exclusivo para diálise.",
+        "Orientar restrição hídrica, de sódio, potássio (banana, laranja, coco) e fósforo.",
+        "Detectar precocemente sinais de infecção do acesso: dor, rubor, calor, exsudato purulento, febre.",
+        "Educar o doente para não dormir sobre o braço da FAV e para vigiar frémito diariamente.",
+        "Não puncionar a FAV nas primeiras semanas de maturação nem sempre no mesmo ponto.",
+        "Comprimir o local de punção sem ocluir totalmente o vaso — a ausência de frémito após compressão indica trombose.",
+        "Nunca usar torniquete apertado nem roupa/relógio no membro da FAV.",
+        "Vigiar a hiperkalemia: fraqueza, parestesias, arritmias e ondas T apiculadas no ECG.",
+        "Não interromper quelantes de fósforo — devem ser tomados durante as refeições, não em jejum.",
+        "Nunca reutilizar linhas ou dialisadores fora de protocolo validado de reprocessamento."
+      ],
+      "conclusao": "A hemodiálise mantém a vida do doente com IRC terminal, mas depende de um acesso vascular funcionante e sem infecção — proteger a FAV é uma prioridade absoluta do Técnico de Enfermagem."
+    },
+    {
+      "titulo": "Enfermagem e Cuidados Obstétricos: Puerpério, Infecção Puerperal e Recém-Nascido",
+      "introducao": "O período obstétrico envolve gravidez, parto e puerpério, e o cuidado à mulher e ao recém-nascido é uma das áreas prioritárias da saúde pública em Angola, pelo impacto directo na mortalidade materna e neonatal. O Técnico Médio de Enfermagem participa no acompanhamento do puerpério imediato e mediato, na prevenção e detecção precoce da infecção puerperal e nos cuidados essenciais ao recém-nascido nas primeiras horas e dias de vida.",
+      "conceitos": [
+        {
+          "termo": "Puerpério",
+          "definicao": "Período após o parto até à recuperação anatómica e fisiológica pré-gravídica; dura cerca de 6–8 semanas."
+        },
+        {
+          "termo": "Puerpério imediato",
+          "definicao": "Primeiras 24 horas após o parto — período de maior risco de hemorragia."
+        },
+        {
+          "termo": "Puerpério mediato",
+          "definicao": "Do 2.º ao 10.º dia após o parto."
+        },
+        {
+          "termo": "Puerpério tardio",
+          "definicao": "Do 11.º dia até ao final do 42.º dia."
+        },
+        {
+          "termo": "Lóquios",
+          "definicao": "Secreção vaginal do pós-parto: rubra (1–3 dias), serosa (4–10 dias), alba (após 10 dias)."
+        },
+        {
+          "termo": "Involução uterina",
+          "definicao": "Regresso do útero ao tamanho pré-gravídico; útero contraído, duro e a nível do umbigo logo após o parto, descendo ≈1 cm/dia."
+        },
+        {
+          "termo": "Infecção puerperal",
+          "definicao": "Infecção do tracto genital após o parto, caracterizada por febre ≥38 °C em 2 dias entre o 2.º e o 10.º dia pós-parto."
+        },
+        {
+          "termo": "Recém-Nascido (RN)",
+          "definicao": "Criança desde o nascimento até aos 28 dias de vida."
+        },
+        {
+          "termo": "APGAR",
+          "definicao": "Escala de avaliação do RN ao 1.º e 5.º minutos: FC, esforço respiratório, tónus, reactividade e cor."
+        },
+        {
+          "termo": "Hemorragia pós-parto (HPP)",
+          "definicao": "Perda ≥500 mL no parto vaginal ou ≥1000 mL na cesariana, ou qualquer perda com repercussão hemodinâmica."
+        },
+        {
+          "termo": "Causas de HPP (4 T)",
+          "definicao": "Tónus (atonia uterina — a mais frequente), Trauma (lacerações), Tecido (retenção placentar) e Trombina (coagulopatia)."
+        },
+        {
+          "termo": "Globo de segurança de Pinard",
+          "definicao": "Útero contraído, duro e globoso ao nível ou abaixo do umbigo após a dequitadura — sinal de hemostasia eficaz."
+        },
+        {
+          "termo": "Lóquios rubros / serosos / albos",
+          "definicao": "Rubros (1.º–3.º dia), serosos (4.º–10.º dia) e albos (após o 10.º dia); cheiro fétido ou retorno a vermelho vivo é sinal de alarme."
+        },
+        {
+          "termo": "Ingurgitamento mamário e mastite",
+          "definicao": "Ingurgitamento: mamas tensas e dolorosas, sem febre alta — esvaziar e amamentar. Mastite: dor localizada, rubor, febre ≥38 °C — manter amamentação, calor, antibiótico."
+        },
+        {
+          "termo": "Pré-eclâmpsia e eclâmpsia",
+          "definicao": "HTA ≥140/90 mmHg após as 20 semanas com proteinúria/lesão de órgão; eclâmpsia quando surgem convulsões — tratar com sulfato de magnésio."
+        },
+        {
+          "termo": "Contacto pele a pele e hora de ouro",
+          "definicao": "Colocar o RN sobre o tórax materno na primeira hora: regula temperatura, favorece vínculo e o início do aleitamento."
+        },
+        {
+          "termo": "Aleitamento materno exclusivo",
+          "definicao": "Só leite materno até aos 6 meses, sem água ou chás, com introdução alimentar complementar depois e amamentação até aos 2 anos."
+        },
+        {
+          "termo": "Colostro",
+          "definicao": "Primeiro leite, amarelado, rico em imunoglobulina A, proteínas e vitamina A — primeira imunização do RN."
+        },
+        {
+          "termo": "Sinais de pega correcta",
+          "definicao": "Boca bem aberta, lábio inferior evertido, queixo tocando a mama, mais aréola visível acima do que abaixo e sucção lenta e profunda."
+        },
+        {
+          "termo": "Icterícia fisiológica vs patológica",
+          "definicao": "Fisiológica: após 24 h, pico ao 3.º–5.º dia, sem repercussão. Patológica: nas primeiras 24 h, muito intensa, prolongada ou com sinais neurológicos."
+        },
+        {
+          "termo": "Cuidados ao coto umbilical",
+          "definicao": "Manter limpo e seco, sem faixas nem substâncias tradicionais; clorhexidina 4 % se protocolo; queda entre o 5.º e o 15.º dia."
+        },
+        {
+          "termo": "Reanimação neonatal — passos iniciais",
+          "definicao": "Aquecer, posicionar, aspirar se necessário, secar e estimular em 30 s; se FC <100 bpm ou apneia, iniciar ventilação com pressão positiva."
+        },
+        {
+          "termo": "Triagem neonatal",
+          "definicao": "Teste do pezinho, avaliação auditiva e do reflexo vermelho ocular para detecção precoce de doenças."
+        }
+      ],
+      "finalidades": [
+        "Prevenir e detectar precocemente hemorragia pós-parto e infecção puerperal.",
+        "Promover o aleitamento materno exclusivo até aos 6 meses.",
+        "Assegurar adaptação do RN à vida extra-uterina (respiração, temperatura, alimentação).",
+        "Educar a puérpera em auto-cuidado, higiene íntima e sinais de alarme.",
+        "Reconhecer e actuar precocemente nas emergências obstétricas (HPP, eclâmpsia, sépsis puerperal).",
+        "Assegurar a vigilância do RN de risco e a prevenção da hipotermia e hipoglicemia neonatais.",
+        "Promover o planeamento familiar e o seguimento pós-parto na consulta de revisão."
+      ],
+      "vantagens": [],
+      "desvantagens": [],
+      "valores_referencia": [
+        {
+          "parametro": "APGAR 7–10",
+          "valor": "Boa vitalidade",
+          "observacao": ""
+        },
+        {
+          "parametro": "APGAR 4–6",
+          "valor": "Depressão moderada — necessita reanimação leve",
+          "observacao": ""
+        },
+        {
+          "parametro": "APGAR 0–3",
+          "valor": "Depressão grave — reanimação imediata",
+          "observacao": ""
+        },
+        {
+          "parametro": "Temperatura axilar do RN",
+          "valor": "36,5–37,5 °C",
+          "observacao": ""
+        },
+        {
+          "parametro": "FC do RN",
+          "valor": "120–160 bpm",
+          "observacao": ""
+        },
+        {
+          "parametro": "FR do RN",
+          "valor": "30–60 cpm",
+          "observacao": ""
+        },
+        {
+          "parametro": "Peso ao nascer normal",
+          "valor": "2500–4000 g",
+          "observacao": ""
+        },
+        {
+          "parametro": "Perda fisiológica de peso",
+          "valor": "Até 10 % nos primeiros 7–10 dias",
+          "observacao": "Recuperado até ao 14.º dia."
+        },
+        {
+          "parametro": "Sinais de infecção puerperal",
+          "valor": "Febre ≥38 °C entre 2.º–10.º dia + útero doloroso + lóquios fétidos",
+          "observacao": ""
+        },
+        {
+          "parametro": "Perda hemática que define HPP",
+          "valor": "≥500 mL (vaginal) / ≥1000 mL (cesariana)",
+          "observacao": "Ou repercussão hemodinâmica."
+        },
+        {
+          "parametro": "Involução uterina",
+          "valor": "≈1 cm/dia; útero intrapélvico ao 10.º–12.º dia",
+          "observacao": "Palpação diária do fundo."
+        },
+        {
+          "parametro": "Glicemia mínima do RN",
+          "valor": "≥45 mg/dL",
+          "observacao": "Abaixo disso: alimentar/observar segundo protocolo."
+        },
+        {
+          "parametro": "Sulfato de magnésio na eclâmpsia",
+          "valor": "Dose de ataque 4 g EV lento",
+          "observacao": "Vigiar reflexo rotuliano, FR ≥16 cpm e diurese ≥30 mL/h; antídoto: gluconato de cálcio."
+        },
+        {
+          "parametro": "Consulta de revisão do puerpério",
+          "valor": "Entre o 7.º e o 10.º dia e às 6 semanas",
+          "observacao": "Avaliar involução, mamas, humor e contracepção."
+        },
+        {
+          "parametro": "Vacinas ao nascer (PAV Angola)",
+          "valor": "BCG e Hepatite B (HB0)",
+          "observacao": "Mais vitamina K IM e profilaxia ocular."
+        },
+        {
+          "parametro": "Frequência de mamadas",
+          "valor": "8–12 vezes/24 h, em livre demanda",
+          "observacao": "Sem horários rígidos."
+        }
+      ],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "PUERPÉRIO IMEDIATO: avaliar SV de 15/15 min na 1.ª hora, palpar fundo uterino (globo de segurança de Pinard), observar sangramento vaginal e integridade perineal."
+        },
+        {
+          "passo": 2,
+          "descricao": "Estimular o aleitamento materno na primeira hora de vida — 'hora de ouro'."
+        },
+        {
+          "passo": 3,
+          "descricao": "Vigiar diurese espontânea nas primeiras 6 horas."
+        },
+        {
+          "passo": 4,
+          "descricao": "PUERPÉRIO MEDIATO: avaliar involução uterina, lóquios (quantidade, cor, cheiro), mamas (ingurgitamento, fissuras), períneo/incisão de cesariana."
+        },
+        {
+          "passo": 5,
+          "descricao": "Orientar higiene íntima com água e sabão neutro, do períneo para o ânus."
+        },
+        {
+          "passo": 6,
+          "descricao": "CUIDADOS AO RN: aspirar vias aéreas se necessário, secar, prevenir hipotermia (contacto pele-a-pele), clampar cordão, avaliar APGAR ao 1.º e 5.º min."
+        },
+        {
+          "passo": 7,
+          "descricao": "Administrar vitamina K IM, profilaxia ocular e vacinas conforme PAV (BCG e HB0)."
+        },
+        {
+          "passo": 8,
+          "descricao": "Ensinar posicionamento correcto e pega adequada na amamentação."
+        },
+        {
+          "passo": 9,
+          "descricao": "Perante atonia uterina: massagem uterina bimanual, esvaziar a bexiga, ocitocina EV, dois acessos calibrosos, oxigénio, monitorização e chamar o médico."
+        },
+        {
+          "passo": 10,
+          "descricao": "Estimar a perda hemática por pesagem de compressas e vigiar sinais precoces de choque (taquicardia antes da hipotensão)."
+        },
+        {
+          "passo": 11,
+          "descricao": "Avaliar diariamente os 'BUBBLE-HE': mamas, útero, bexiga, intestino, lóquios, episiotomia/incisão, MMII (Homans) e estado emocional."
+        },
+        {
+          "passo": 12,
+          "descricao": "Rastrear depressão pós-parto e sinais de tristeza materna persistente, encaminhando quando necessário."
+        },
+        {
+          "passo": 13,
+          "descricao": "Manter o RN em normotermia: sala aquecida, secar, touca e contacto pele a pele; medir temperatura axilar."
+        },
+        {
+          "passo": 14,
+          "descricao": "Vigiar a diurese e a eliminação de mecónio do RN nas primeiras 24–48 h."
+        },
+        {
+          "passo": 15,
+          "descricao": "Orientar contracepção pós-parto compatível com a amamentação (progestativo isolado, DIU)."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Puérpera 4.º dia pós-parto vaginal com febre 38,5 °C, útero doloroso e lóquios fétidos.",
+          "resolucao": "Suspeita de endometrite (infecção puerperal). Comunicar ao médico, colher hemocultura e cultura de lóquios se possível, iniciar antibioticoterapia prescrita e reforçar higiene íntima. Manter amamentação salvo contra-indicação."
+        },
+        {
+          "situacao": "RN com 6 horas de vida, FR 70 cpm, gemido expiratório e retracções costais.",
+          "resolucao": "Sinais de desconforto respiratório neonatal. Manter aquecido, monitorizar SpO2, comunicar imediatamente ao médico/neonatologista para avaliação urgente."
+        },
+        {
+          "situacao": "Puérpera com 30 min de pós-parto, útero mole acima do umbigo e perda hemática abundante.",
+          "resolucao": "Atonia uterina: massagem do fundo uterino, esvaziar a bexiga, ocitocina conforme prescrição, acessos venosos, oxigénio, monitorizar SV de 5/5 min, colher tipagem e comunicar de imediato ao médico."
+        },
+        {
+          "situacao": "RN com 20 horas de vida, ictérico até ao tórax, alimentando-se mal.",
+          "resolucao": "Avaliar bilirrubina transcutânea/sérica e zona de Kramer, garantir amamentação frequente, expor a fototerapia se indicado e vigiar sinais neurológicos — icterícia nas primeiras 24 h é sempre patológica."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Nunca esquecer de palpar o fundo uterino no PO imediato — atonia é a principal causa de hemorragia.",
+        "Não banhar o RN imediatamente após o nascimento — favorece hipotermia.",
+        "Não introduzir sondas nasogástricas ou aspirar rotineiramente o RN vigoroso.",
+        "Educar sobre sinais de alarme: hemorragia abundante, febre, lóquios fétidos, dor mamária intensa, dor/rubor em MI (TVP).",
+        "Não tracionar o cordão sem sinais de descolamento placentar — risco de inversão uterina.",
+        "Não aplicar substâncias tradicionais no coto umbilical (risco de tétano neonatal).",
+        "Não oferecer água, chás ou leite artificial ao RN sem indicação médica.",
+        "Não confundir dor perineal normal com hematoma expansivo — inspeccionar sempre a região.",
+        "Vigiar retenção urinária pós-parto: bexiga cheia impede a contracção uterina.",
+        "Não desvalorizar febre no puerpério — pode ser sépsis puerperal de evolução rápida."
+      ],
+      "conclusao": "A vigilância activa do puerpério e do recém-nascido, associada ao aleitamento precoce e à identificação atempada da infecção puerperal, é a intervenção com maior impacto na redução da mortalidade materna e neonatal em Angola."
+    },
+    {
+      "titulo": "Esterilização, Assepsia e Antissepsia",
+      "introducao": "A esterilização, assepsia e antissepsia constituem os pilares do controlo de infecção nos serviços de saúde. A escolha correcta do processo de descontaminação a aplicar a cada material — em função do risco de contacto com tecidos — é determinante para a segurança do doente e do profissional, sobretudo em procedimentos invasivos.",
+      "conceitos": [
+        {
+          "termo": "Assepsia",
+          "definicao": "Conjunto de medidas destinadas a impedir a introdução de microrganismos num local que deles está livre."
+        },
+        {
+          "termo": "Antissepsia",
+          "definicao": "Uso de agentes químicos (antissépticos) em tecidos vivos para eliminar ou inibir microrganismos (ex.: clorhexidina, iodopovidona, álcool 70 %)."
+        },
+        {
+          "termo": "Desinfecção",
+          "definicao": "Destruição de microrganismos patogénicos em superfícies inanimadas ou material clínico, excepto esporos."
+        },
+        {
+          "termo": "Esterilização",
+          "definicao": "Destruição de TODAS as formas de vida microbiana, incluindo esporos."
+        },
+        {
+          "termo": "Descontaminação",
+          "definicao": "Redução da carga microbiana a níveis seguros para manipulação."
+        },
+        {
+          "termo": "Classificação de Spaulding",
+          "definicao": "Materiais críticos (contacto com tecidos estéreis) → esterilização; semi-críticos (mucosas) → desinfecção de alto nível; não-críticos (pele íntegra) → desinfecção de baixo/médio nível."
+        },
+        {
+          "termo": "Artigos críticos",
+          "definicao": "Penetram tecidos estéreis ou sistema vascular (instrumental cirúrgico, agulhas) — exigem esterilização."
+        },
+        {
+          "termo": "Artigos semicríticos",
+          "definicao": "Contactam mucosas ou pele não íntegra (endoscópios, laringoscópios) — exigem desinfecção de alto nível no mínimo."
+        },
+        {
+          "termo": "Artigos não críticos",
+          "definicao": "Contactam apenas pele íntegra (estetoscópio, esfigmomanómetro, marquesa) — desinfecção de nível intermédio ou baixo."
+        },
+        {
+          "termo": "Central de Esterilização (CE)",
+          "definicao": "Serviço com fluxo unidireccional sujo → limpo → estéril, com áreas fisicamente separadas de recepção/limpeza, preparação/embalagem, esterilização e armazenamento."
+        },
+        {
+          "termo": "Detergente enzimático",
+          "definicao": "Remove matéria orgânica (sangue, proteínas) por acção de enzimas; a limpeza prévia é indispensável — sem limpeza não há esterilização."
+        },
+        {
+          "termo": "Indicador químico",
+          "definicao": "Classe 1 (externo, fita adesiva): confirma exposição. Classe 5/6 (interno, integrador): aproxima-se dos parâmetros do ciclo."
+        },
+        {
+          "termo": "Indicador biológico",
+          "definicao": "Esporos de Geobacillus stearothermophilus (autoclave) ou Bacillus atrophaeus (calor seco/óxido de etileno) — único que confirma a morte microbiana."
+        },
+        {
+          "termo": "Teste de Bowie-Dick",
+          "definicao": "Teste diário de remoção de ar e penetração de vapor em autoclaves de pré-vácuo, antes da primeira carga."
+        },
+        {
+          "termo": "Desinfecção de alto nível (DAN)",
+          "definicao": "Elimina todas as formas vegetativas e micobactérias, mas não necessariamente todos os esporos (glutaraldeído 2 %, ácido peracético, OPA)."
+        },
+        {
+          "termo": "Esterilização por plasma de peróxido de hidrogénio",
+          "definicao": "Método a baixa temperatura (≈50 °C) para materiais termossensíveis; ciclo curto e sem resíduos tóxicos."
+        },
+        {
+          "termo": "Validade da esterilização",
+          "definicao": "Depende do invólucro e das condições de armazenamento; qualquer pacote rasgado, molhado, caído no chão ou aberto é considerado contaminado."
+        },
+        {
+          "termo": "Antisséptico vs desinfectante",
+          "definicao": "Antisséptico aplica-se em tecido vivo; desinfectante em superfícies e objectos inanimados."
+        },
+        {
+          "termo": "Barreira estéril / campo estéril",
+          "definicao": "Área delimitada por material estéril; considera-se contaminada a zona abaixo do nível da cintura, as bordas de 2,5 cm e tudo o que sai do campo visual."
+        }
+      ],
+      "finalidades": [
+        "Eliminar o risco de transmissão de infecções por material clínico.",
+        "Garantir a segurança de procedimentos invasivos.",
+        "Prolongar a vida útil dos materiais reprocessáveis.",
+        "Assegurar a rastreabilidade dos materiais processados (lote, ciclo, data, operador).",
+        "Cumprir os requisitos legais e as normas do MINSA para reprocessamento de dispositivos médicos.",
+        "Proteger o profissional durante o manuseio de material contaminado e de agentes químicos."
+      ],
+      "vantagens": [],
+      "desvantagens": [],
+      "valores_referencia": [
+        {
+          "parametro": "Autoclave (vapor saturado sob pressão)",
+          "valor": "121 °C / 15–20 min / 1 atm  OU  134 °C / 3–7 min / 2 atm",
+          "observacao": "Método de eleição para material termorresistente."
+        },
+        {
+          "parametro": "Estufa (calor seco)",
+          "valor": "160 °C / 2 h  ou  170 °C / 1 h",
+          "observacao": "Para material metálico e vidro, não penetra em tecidos."
+        },
+        {
+          "parametro": "Óxido de etileno",
+          "valor": "Gás",
+          "observacao": "Material termossensível (plásticos, cateteres); ciclos longos, requer aeração."
+        },
+        {
+          "parametro": "Glutaraldeído 2 %",
+          "valor": "Imersão 10 h para esterilização; 30 min para DAN",
+          "observacao": "Endoscópios."
+        },
+        {
+          "parametro": "Álcool 70 %",
+          "valor": "Antisséptico da pele e desinfecção de superfícies pequenas",
+          "observacao": ""
+        },
+        {
+          "parametro": "Clorhexidina alcoólica 2 %",
+          "valor": "Antisséptico de eleição para pele antes de punções e cirurgia",
+          "observacao": ""
+        },
+        {
+          "parametro": "Iodopovidona 10 %",
+          "valor": "Antisséptico de mucosas e pele",
+          "observacao": ""
+        },
+        {
+          "parametro": "Bowie-Dick",
+          "valor": "1×/dia, antes da 1.ª carga",
+          "observacao": "Autoclaves de pré-vácuo."
+        },
+        {
+          "parametro": "Indicador biológico",
+          "valor": "Semanalmente e em toda a carga com implantes",
+          "observacao": "Único que valida a esterilização."
+        },
+        {
+          "parametro": "Ácido peracético 0,2–0,35 %",
+          "valor": "DAN em 5–10 min",
+          "observacao": "Muito usado em endoscópios."
+        },
+        {
+          "parametro": "Hipoclorito de sódio 0,1 % (1000 ppm)",
+          "valor": "Desinfecção de superfícies",
+          "observacao": "0,5 % (5000 ppm) para derrames de sangue."
+        },
+        {
+          "parametro": "Peróxido de hidrogénio (plasma)",
+          "valor": "≈45–55 °C",
+          "observacao": "Materiais termossensíveis."
+        },
+        {
+          "parametro": "Temperatura/humidade do armazém estéril",
+          "valor": "18–22 °C e 35–60 % HR",
+          "observacao": "Prateleiras a ≥20 cm do chão e ≥45 cm do tecto."
+        },
+        {
+          "parametro": "Água e sabão vs álcool",
+          "valor": "Esporos de C. difficile só removidos mecanicamente",
+          "observacao": "Álcool não é esporicida."
+        }
+      ],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "Limpeza mecânica prévia: remover matéria orgânica com água e detergente enzimático — sem esta etapa NADA é esterilizado."
+        },
+        {
+          "passo": 2,
+          "descricao": "Enxaguar, secar e inspeccionar o material."
+        },
+        {
+          "passo": 3,
+          "descricao": "Embalar em invólucro adequado (papel grau cirúrgico, tecido, contentor rígido) com indicador químico interno."
+        },
+        {
+          "passo": 4,
+          "descricao": "Carregar o autoclave sem sobrecarregar, permitindo circulação do vapor."
+        },
+        {
+          "passo": 5,
+          "descricao": "Executar o ciclo com controlo biológico (Bacillus stearothermophilus) periódico."
+        },
+        {
+          "passo": 6,
+          "descricao": "Retirar apenas quando o pacote estiver seco; se molhado, considerar não estéril."
+        },
+        {
+          "passo": 7,
+          "descricao": "Armazenar em local limpo, seco e fechado; controlar prazo de validade da esterilização."
+        },
+        {
+          "passo": 8,
+          "descricao": "Respeitar o fluxo unidireccional da central: material nunca regressa da área limpa à área suja."
+        },
+        {
+          "passo": 9,
+          "descricao": "Usar EPI completo na área suja: avental impermeável, luvas de borracha, máscara e óculos de protecção."
+        },
+        {
+          "passo": 10,
+          "descricao": "Abrir pinças e desmontar materiais articulados antes da limpeza e da esterilização."
+        },
+        {
+          "passo": 11,
+          "descricao": "Identificar cada pacote com conteúdo, data de esterilização, validade, n.º de ciclo e operador."
+        },
+        {
+          "passo": 12,
+          "descricao": "Registar todos os ciclos em livro/sistema com os parâmetros de temperatura, pressão e tempo."
+        },
+        {
+          "passo": 13,
+          "descricao": "Repetir todo o lote e bloquear o material se o indicador biológico for positivo, notificando o serviço."
+        },
+        {
+          "passo": 14,
+          "descricao": "Abrir o pacote estéril pelas abas externas, tocando apenas na face externa, e apresentar o conteúdo sem passar sobre o campo."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Pinça cirúrgica cai no chão durante procedimento estéril.",
+          "resolucao": "Retirar imediatamente do campo, substituir por outra estéril; a pinça caída deve voltar a passar por todo o ciclo: limpeza, embalagem e esterilização — nunca reutilizar mesmo que 'pareça limpa'."
+        },
+        {
+          "situacao": "Pacote de gaze estéril com embalagem molhada retirado do autoclave.",
+          "resolucao": "Considerar contaminado — humidade permite migração microbiana. Reprocessar."
+        },
+        {
+          "situacao": "Indicador biológico do ciclo da manhã resulta positivo.",
+          "resolucao": "Considerar toda a carga não estéril: recolher e bloquear o material já distribuído, reprocessar tudo, retirar o autoclave de serviço para manutenção/validação e registar a ocorrência."
+        },
+        {
+          "situacao": "Kit cirúrgico com data de esterilização válida mas embalagem com pequeno rasgão.",
+          "resolucao": "Considerar contaminado independentemente da validade: não utilizar, devolver à central para nova limpeza, embalagem e esterilização."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Álcool NÃO é esporicida — não esteriliza.",
+        "Autoclave sobrecarregado não esteriliza uniformemente.",
+        "Antisséptico em ferida aberta contaminada não substitui limpeza mecânica.",
+        "Indicadores químicos externos só confirmam exposição, não esterilidade — usar sempre indicador biológico periódico.",
+        "Nunca reutilizar material de uso único (agulhas, seringas, luvas).",
+        "Não misturar material metálico com borracha/plástico no mesmo ciclo sem verificar compatibilidade.",
+        "Não usar estufa (calor seco) para tecidos, borrachas ou líquidos.",
+        "Não guardar pacotes estéreis em locais húmidos, junto ao chão ou em armários abertos.",
+        "Glutaraldeído exige sala ventilada e EPI — é irritante e tóxico para as vias respiratórias.",
+        "Não secar instrumentos com panos que libertem fibras nem deixá-los húmidos antes de embalar.",
+        "Contar sempre o instrumental na montagem e na devolução das caixas."
+      ],
+      "conclusao": ""
+    },
+    {
+      "titulo": "Cuidados de Enfermagem em Patologias: DM, AVC, Cardiopatia, Intoxicação, Urologia e Insuficiência Respiratória",
+      "introducao": "O Técnico Médio de Enfermagem intervém no atendimento a doentes com patologias crónicas e agudas de grande prevalência. O reconhecimento precoce de sinais de descompensação e a prestação de cuidados baseados em prioridades ABCDE são decisivos para o prognóstico.",
+      "conceitos": [
+        {
+          "termo": "Diabetes Mellitus (DM)",
+          "definicao": "Distúrbio metabólico crónico caracterizado por hiperglicemia por deficiência absoluta (tipo 1) ou relativa (tipo 2) de insulina."
+        },
+        {
+          "termo": "AVC",
+          "definicao": "Défice neurológico focal de origem vascular, com duração >24 h; pode ser isquémico (80 %) ou hemorrágico (20 %)."
+        },
+        {
+          "termo": "Cardiopatia isquémica",
+          "definicao": "Doença coronária por aterosclerose; manifestações: angina estável, angina instável e enfarte agudo do miocárdio (EAM)."
+        },
+        {
+          "termo": "Intoxicação",
+          "definicao": "Efeitos nocivos resultantes da exposição a substâncias químicas, medicamentos, plantas ou animais peçonhentos."
+        },
+        {
+          "termo": "Retenção urinária aguda",
+          "definicao": "Incapacidade súbita de esvaziar a bexiga apesar de estar cheia; emergência urológica frequente."
+        },
+        {
+          "termo": "Insuficiência respiratória",
+          "definicao": "Falha do sistema respiratório em manter troca gasosa adequada — PaO2 <60 mmHg (tipo I) e/ou PaCO2 >50 mmHg (tipo II)."
+        },
+        {
+          "termo": "Cetoacidose diabética (CAD)",
+          "definicao": "Complicação aguda da DM tipo 1: hiperglicemia >250 mg/dL, cetonúria, acidose metabólica, respiração de Kussmaul, hálito cetónico e desidratação."
+        },
+        {
+          "termo": "Estado hiperosmolar hiperglicémico",
+          "definicao": "Típico da DM tipo 2: glicemia frequentemente >600 mg/dL, desidratação grave e alteração da consciência, sem cetose marcada."
+        },
+        {
+          "termo": "Complicações crónicas da DM",
+          "definicao": "Microvasculares (retinopatia, nefropatia, neuropatia) e macrovasculares (EAM, AVC, doença arterial periférica); pé diabético como complicação major."
+        },
+        {
+          "termo": "Pé diabético",
+          "definicao": "Neuropatia + isquemia + infecção; inspecção diária dos pés, calçado adequado, corte recto das unhas e nunca andar descalço ou usar bolsa de água quente."
+        },
+        {
+          "termo": "AVC isquémico vs hemorrágico",
+          "definicao": "Isquémico (≈80 %): oclusão arterial, elegível para trombólise até 4,5 h. Hemorrágico: rotura vascular, cefaleia intensa súbita e vómitos, contraindicação absoluta de trombólise."
+        },
+        {
+          "termo": "AIT",
+          "definicao": "Défice neurológico focal transitório com resolução completa em <24 h — sinal de alarme de AVC iminente."
+        },
+        {
+          "termo": "Disfagia pós-AVC",
+          "definicao": "Presente em até 50 % dos casos: manter jejum até rastreio de deglutição, cabeceira elevada e alimentação espessada ou SNG."
+        },
+        {
+          "termo": "Síndrome coronária aguda",
+          "definicao": "Angina instável, EAM sem supra-ST e EAM com supra-ST; dor retroesternal opressiva, irradiada, com sudorese, náuseas e sensação de morte iminente."
+        },
+        {
+          "termo": "Apresentação atípica do EAM",
+          "definicao": "Mulheres, idosos e diabéticos podem ter apenas dispneia, fadiga, epigastralgia ou síncope — sem dor típica."
+        },
+        {
+          "termo": "Insuficiência cardíaca",
+          "definicao": "Esquerda: dispneia, ortopneia, dispneia paroxística nocturna, fervores. Direita: edema dos MMII, ingurgitamento jugular, hepatomegalia."
+        },
+        {
+          "termo": "Descontaminação em intoxicações",
+          "definicao": "Carvão activado (1 g/kg) até 1–2 h após ingestão; lavagem gástrica raramente indicada; contraindicados em cáusticos, hidrocarbonetos e doente sem via aérea protegida."
+        },
+        {
+          "termo": "Antídotos essenciais",
+          "definicao": "Naloxona (opióides), N-acetilcisteína (paracetamol), atropina + pralidoxima (organofosforados), flumazenil (benzodiazepinas), oxigénio a 100 % (monóxido de carbono)."
+        },
+        {
+          "termo": "Retenção urinária vs anúria",
+          "definicao": "Retenção: bexiga cheia e globo vesical palpável. Anúria: ausência de produção de urina (<100 mL/24 h), bexiga vazia — causa renal."
+        },
+        {
+          "termo": "Cólica renal",
+          "definicao": "Dor lombar intensa em cólica com irradiação para a região inguinal/genital, agitação, náuseas e hematúria; alívio com analgesia e hidratação."
+        },
+        {
+          "termo": "Insuficiência respiratória tipo I e II",
+          "definicao": "Tipo I: hipoxémia (PaO2 <60 mmHg) com CO2 normal/baixo. Tipo II: hipoxémia com hipercapnia (PaCO2 >45 mmHg) — risco de narcose por CO2."
+        },
+        {
+          "termo": "Dispositivos de oxigenoterapia",
+          "definicao": "Cânula nasal 1–6 L/min (24–44 %); máscara simples 5–10 L/min (40–60 %); Venturi (FiO2 exacta 24–50 %); máscara com reservatório 10–15 L/min (até 90 %)."
+        }
+      ],
+      "finalidades": [
+        "Identificar precocemente sinais de descompensação clínica.",
+        "Iniciar cuidados imediatos conforme prioridade ABCDE.",
+        "Prevenir complicações e sequelas.",
+        "Educar o doente crónico para o auto-cuidado.",
+        "Reconhecer precocemente sinais de agravamento e activar a cadeia de emergência.",
+        "Executar a monitorização e os cuidados específicos de cada patologia com segurança.",
+        "Educar o doente e a família para a adesão terapêutica e para o auto-cuidado."
+      ],
+      "vantagens": [],
+      "desvantagens": [],
+      "valores_referencia": [
+        {
+          "parametro": "Glicemia normal em jejum",
+          "valor": "70–99 mg/dL",
+          "observacao": ""
+        },
+        {
+          "parametro": "Hipoglicemia",
+          "valor": "<70 mg/dL",
+          "observacao": "Emergência — repor glicose imediatamente."
+        },
+        {
+          "parametro": "Hiperglicemia grave",
+          "valor": ">250 mg/dL com sintomas",
+          "observacao": "Risco de cetoacidose."
+        },
+        {
+          "parametro": "TA no AVC isquémico",
+          "valor": "Habitualmente NÃO baixar se <220/120 mmHg",
+          "observacao": "Hipotensão agrava a lesão."
+        },
+        {
+          "parametro": "SpO2 alvo em insuf. respiratória",
+          "valor": "94–98 % (88–92 % se DPOC retentor de CO₂)",
+          "observacao": ""
+        },
+        {
+          "parametro": "Escala FAST (AVC)",
+          "valor": "Face, Arm, Speech, Time — reconhecimento rápido",
+          "observacao": ""
+        },
+        {
+          "parametro": "HbA1c alvo",
+          "valor": "<7 %",
+          "observacao": "Controlo glicémico dos últimos 2–3 meses."
+        },
+        {
+          "parametro": "Diagnóstico de DM",
+          "valor": "Jejum ≥126 mg/dL; casual ≥200 mg/dL com sintomas; HbA1c ≥6,5 %",
+          "observacao": "Confirmar em segunda ocasião."
+        },
+        {
+          "parametro": "Janela de trombólise no AVC isquémico",
+          "valor": "≤4,5 h do início dos sintomas",
+          "observacao": "Registar sempre a hora exacta de início."
+        },
+        {
+          "parametro": "Escala de Glasgow",
+          "valor": "3 (pior) a 15 (normal)",
+          "observacao": "≤8 indica necessidade de protecção da via aérea."
+        },
+        {
+          "parametro": "Débito urinário normal do adulto",
+          "valor": "0,5–1 mL/kg/h (≈1200–1500 mL/24 h)",
+          "observacao": "Oligúria <400 mL/24 h; anúria <100 mL/24 h."
+        },
+        {
+          "parametro": "Volume máximo por esvaziamento vesical",
+          "valor": "≈400–500 mL de cada vez",
+          "observacao": "Clampar depois brevemente para evitar hematúria ex-vacuo."
+        },
+        {
+          "parametro": "Frequência respiratória normal",
+          "valor": "12–20 cpm",
+          "observacao": "Bradipneia <12; taquipneia >20."
+        },
+        {
+          "parametro": "Centro de informação antivenenos",
+          "valor": "Contactar precocemente",
+          "observacao": "Levar embalagem/rótulo do produto."
+        }
+      ],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "DM — hipoglicemia consciente: administrar 15 g de HC de absorção rápida (sumo, açúcar), reavaliar em 15 min."
+        },
+        {
+          "passo": 2,
+          "descricao": "DM — hipoglicemia inconsciente: glicose hipertónica 30 % EV OU glucagon IM/SC; nunca dar líquidos por boca."
+        },
+        {
+          "passo": 3,
+          "descricao": "AVC: reconhecer com escala FAST, registar hora exacta de início dos sintomas (janela terapêutica), monitorizar SV, decúbito com cabeceira a 30°, manter via aérea, jejum até avaliação da deglutição."
+        },
+        {
+          "passo": 4,
+          "descricao": "EAM: repouso absoluto, MONA — Morfina, Oxigénio (se SpO2 <94 %), Nitratos, AAS 300 mg mastigado, monitorização ECG contínua, acesso venoso, activar transferência para unidade coronária."
+        },
+        {
+          "passo": 5,
+          "descricao": "Intoxicação: identificar agente/dose/via/tempo, retirar da fonte, ABCDE, contactar centro de intoxicações; carvão activado se via oral <1 h e doente consciente."
+        },
+        {
+          "passo": 6,
+          "descricao": "Retenção urinária: avaliar globo vesical, algaliar com técnica asséptica, esvaziar de forma fraccionada (≤400 mL a cada 10 min) para evitar hemorragia ex-vacuo."
+        },
+        {
+          "passo": 7,
+          "descricao": "Insuf. respiratória: posição semi-sentada, O₂ pela menor concentração eficaz, monitorizar SpO₂ e FR, aspirar secreções, preparar via aérea avançada se necessário."
+        },
+        {
+          "passo": 8,
+          "descricao": "Aplicar a abordagem ABCDE em toda a emergência: via aérea, ventilação, circulação, disfunção neurológica e exposição."
+        },
+        {
+          "passo": 9,
+          "descricao": "CAD: hidratação com soro fisiológico, insulina rápida EV em perfusão conforme prescrição, reposição de potássio e monitorização horária de glicemia e diurese."
+        },
+        {
+          "passo": 10,
+          "descricao": "AVC: manter cabeceira a 30°, jejum até rastreio de deglutição, glicemia capilar, SpO2, avaliação neurológica seriada e prevenção de aspiração e úlceras de pressão."
+        },
+        {
+          "passo": 11,
+          "descricao": "EAM: ECG de 12 derivações nos primeiros 10 minutos, acesso venoso, monitorização contínua e preparação para trombólise/angioplastia."
+        },
+        {
+          "passo": 12,
+          "descricao": "Intoxicação: garantir via aérea, descontaminação cutânea/ocular com água abundante quando aplicável, não induzir vómito e administrar antídoto se disponível."
+        },
+        {
+          "passo": 13,
+          "descricao": "Algaliação por retenção: técnica estéril, esvaziamento gradual, registo do volume drenado e vigilância de hematúria."
+        },
+        {
+          "passo": 14,
+          "descricao": "Insuficiência respiratória: posição de Fowler, oxigenoterapia titulada ao alvo de SpO2, aspiração de secreções e preparação de material de entubação."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Doente diabético tipo 2 encontrado sudorético, trémulo, confuso; glicemia capilar 45 mg/dL.",
+          "resolucao": "Hipoglicemia sintomática. Se colaborante: 15 g de HC oral (150 mL de sumo ou 3 pacotes de açúcar). Reavaliar em 15 min; repetir se persistir. Após recuperação, dar refeição com HC complexos + proteína."
+        },
+        {
+          "situacao": "Doente 65 anos, hemiparesia direita e afasia iniciadas há 40 min.",
+          "resolucao": "AVC agudo — janela terapêutica útil. Registar hora exacta, ABCDE, SpO₂, glicemia capilar, acesso venoso, jejum, transporte urgente para hospital com TAC e possibilidade de trombólise."
+        },
+        {
+          "situacao": "Doente diabético tipo 1 com vómitos, respiração profunda e rápida, hálito a acetona e glicemia de 480 mg/dL.",
+          "resolucao": "Cetoacidose diabética: ABCDE, acesso venoso, soro fisiológico conforme prescrição, insulina rápida EV, monitorizar glicemia horária, potássio e diurese, e comunicar de imediato ao médico."
+        },
+        {
+          "situacao": "Homem de 68 anos com hemiparesia direita e afasia iniciadas há 1 h.",
+          "resolucao": "Suspeita de AVC: aplicar FAST, registar a hora exacta de início, glicemia capilar, SpO2, cabeceira a 30°, jejum absoluto e activação urgente da via verde do AVC — está dentro da janela de trombólise."
+        },
+        {
+          "situacao": "Doente com DPOC em agudização, SpO2 84 %, sonolento após oxigénio a 10 L/min por máscara.",
+          "resolucao": "Provável narcose por CO2: reduzir o oxigénio para alvo de SpO2 88–92 % com máscara de Venturi, estimular, monitorizar gasometria e comunicar ao médico."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Nunca administrar insulina rápida sem confirmar glicemia capilar.",
+        "Nunca baixar rapidamente a TA no AVC isquémico — pode agravar a isquemia.",
+        "Não induzir vómito em intoxicações por cáusticos, hidrocarbonetos ou doente inconsciente.",
+        "Não esvaziar bexiga distendida de uma só vez — risco de hemorragia vesical.",
+        "Cuidado com O₂ em alto fluxo no doente com DPOC retentor de CO₂ — pode agravar hipercapnia.",
+        "Nunca administrar nada por via oral a doente com alteração da consciência ou disfagia.",
+        "Não baixar agressivamente a TA no AVC isquémico — pode agravar a isquemia da penumbra.",
+        "Não administrar oxigénio em alto fluxo indiscriminadamente ao doente com DPOC retentor.",
+        "Não induzir vómito nem dar leite em intoxicação por cáusticos ou hidrocarbonetos.",
+        "Não esvaziar a bexiga de uma só vez em retenção volumosa — risco de hematúria ex-vacuo e hipotensão.",
+        "Não aplicar calor nos pés do diabético nem cortar calosidades — risco de queimadura e infecção.",
+        "Nunca desvalorizar dor torácica atípica em diabéticos, idosos e mulheres."
+      ],
+      "conclusao": ""
+    },
+    {
+      "titulo": "Ética e Deontologia Profissional em Enfermagem",
+      "introducao": "A prática de enfermagem exige, além de competência técnica, um forte compromisso ético e deontológico. Em Angola, o exercício da profissão é regulado pela Ordem dos Enfermeiros de Angola (OEA) e pelo respectivo Código Deontológico, que estabelecem os deveres do enfermeiro perante o doente, a família, a equipa e a sociedade. O Técnico Médio de Enfermagem deve conhecer os princípios éticos e aplicá-los especialmente em situações complexas, como decisões em fim de vida.",
+      "conceitos": [
+        {
+          "termo": "Ética",
+          "definicao": "Reflexão filosófica sobre o comportamento humano e os valores morais que orientam as escolhas."
+        },
+        {
+          "termo": "Moral",
+          "definicao": "Conjunto de normas, valores e costumes de uma sociedade num dado momento histórico."
+        },
+        {
+          "termo": "Deontologia",
+          "definicao": "Conjunto de deveres profissionais estabelecidos por um código, no caso da enfermagem, o Código Deontológico."
+        },
+        {
+          "termo": "Princípio da autonomia",
+          "definicao": "Direito do doente de decidir sobre si próprio, após informação clara e compreensível."
+        },
+        {
+          "termo": "Princípio da beneficência",
+          "definicao": "Dever de fazer o bem ao doente."
+        },
+        {
+          "termo": "Princípio da não maleficência",
+          "definicao": "Dever de não causar dano — primum non nocere."
+        },
+        {
+          "termo": "Princípio da justiça",
+          "definicao": "Distribuição equitativa dos cuidados de saúde."
+        },
+        {
+          "termo": "Sigilo profissional",
+          "definicao": "Dever de guardar segredo sobre tudo o que o profissional toma conhecimento no exercício da profissão."
+        },
+        {
+          "termo": "Dilema ético",
+          "definicao": "Situação em que dois ou mais princípios éticos entram em conflito e a decisão exige ponderação cuidada."
+        },
+        {
+          "termo": "Doente terminal",
+          "definicao": "Doente com patologia avançada, progressiva e incurável, sem resposta a tratamento curativo, com prognóstico de vida limitado."
+        },
+        {
+          "termo": "Bioética",
+          "definicao": "Reflexão ética aplicada às ciências da vida e da saúde, orientada pelos princípios de autonomia, beneficência, não maleficência e justiça."
+        },
+        {
+          "termo": "Responsabilidade profissional",
+          "definicao": "Dever de responder pelos actos praticados; pode ser disciplinar, civil, penal e ética, mesmo quando o acto foi executado por indicação de terceiros."
+        },
+        {
+          "termo": "Negligência, imperícia e imprudência",
+          "definicao": "Negligência: omissão de cuidado devido. Imperícia: falta de conhecimento ou técnica. Imprudência: acção precipitada sem as devidas precauções."
+        },
+        {
+          "termo": "Consentimento informado",
+          "definicao": "Deve ser livre, esclarecido, prévio, específico e revogável; em menores ou incapazes é dado pelo representante legal, ouvido o doente sempre que possível."
+        },
+        {
+          "termo": "Recusa informada",
+          "definicao": "Direito do doente competente de recusar tratamento após informação adequada; deve ser registada e não implica abandono do doente."
+        },
+        {
+          "termo": "Confidencialidade e excepções ao sigilo",
+          "definicao": "O sigilo cede perante consentimento do doente, dever legal de notificação de doenças transmissíveis, ordem judicial ou risco grave para terceiros."
+        },
+        {
+          "termo": "Veracidade",
+          "definicao": "Dever de dizer a verdade ao doente de forma progressiva e compassiva, respeitando o seu direito a saber e também a não querer saber."
+        },
+        {
+          "termo": "Objecção de consciência",
+          "definicao": "Direito do profissional de recusar participação em acto contrário às suas convicções, desde que não haja risco imediato para o doente e assegure encaminhamento."
+        },
+        {
+          "termo": "Erro e cultura de segurança",
+          "definicao": "O erro deve ser comunicado, registado e analisado sem procura de culpados, para prevenção da recorrência (notificação não punitiva)."
+        },
+        {
+          "termo": "Cuidados paliativos",
+          "definicao": "Abordagem que melhora a qualidade de vida do doente e da família perante doença incurável, com controlo de sintomas e apoio psicossocial e espiritual."
+        },
+        {
+          "termo": "Distanásia, eutanásia e ortotanásia",
+          "definicao": "Distanásia: prolongar o sofrimento com meios fúteis. Eutanásia: provocar a morte. Ortotanásia: permitir o processo natural de morte com conforto — é a posição eticamente defendida."
+        },
+        {
+          "termo": "Direitos do doente",
+          "definicao": "Ser informado, consentir ou recusar, ter privacidade, sigilo, acesso ao processo clínico, escolha de acompanhante, tratamento sem discriminação e apresentação de reclamação."
+        },
+        {
+          "termo": "Deveres do profissional de enfermagem",
+          "definicao": "Competência técnica, actualização permanente, respeito pela dignidade, sigilo, registo fiel, cooperação com a equipa e não abandono do doente."
+        },
+        {
+          "termo": "ORDENFA",
+          "definicao": "Ordem dos Enfermeiros de Angola — regula o exercício, define o código deontológico e exerce poder disciplinar sobre os profissionais inscritos."
+        },
+        {
+          "termo": "Registo de enfermagem",
+          "definicao": "Documento legal: deve ser completo, legível, datado, assinado, sem rasuras nem espaços em branco; o que não está registado presume-se não feito."
+        },
+        {
+          "termo": "Humanização do cuidado",
+          "definicao": "Reconhecer o doente como pessoa: chamar pelo nome, explicar cada procedimento, preservar a privacidade e respeitar crenças e cultura."
+        }
+      ],
+      "finalidades": [
+        "Garantir cuidados humanizados, seguros e respeitosos.",
+        "Proteger a dignidade, autonomia e privacidade do doente.",
+        "Orientar a conduta profissional em situações complexas.",
+        "Salvaguardar o prestígio e a credibilidade da profissão de enfermagem.",
+        "Fundamentar a tomada de decisão em situações de conflito de valores.",
+        "Prevenir a responsabilidade disciplinar, civil e penal decorrente da má prática.",
+        "Assegurar o respeito pelos direitos do doente consagrados na lei angolana e no código deontológico.",
+        "Promover a cultura de segurança e a notificação não punitiva do erro."
+      ],
+      "vantagens": [],
+      "desvantagens": [],
+      "valores_referencia": [
+        {
+          "parametro": "Princípios bioéticos",
+          "valor": "Autonomia, beneficência, não maleficência e justiça",
+          "observacao": "Base de toda a decisão clínica."
+        },
+        {
+          "parametro": "Regra do registo",
+          "valor": "O que não está registado considera-se não realizado",
+          "observacao": "Registo é acto legal."
+        },
+        {
+          "parametro": "Correcção de registo",
+          "valor": "Traçar um risco simples, escrever 'erro', rubricar e datar",
+          "observacao": "Nunca apagar, rasurar ou usar corrector."
+        },
+        {
+          "parametro": "Sigilo profissional",
+          "valor": "Mantém-se após a alta e após a morte do doente",
+          "observacao": "Excepções apenas as previstas na lei."
+        },
+        {
+          "parametro": "Consentimento em menores/incapazes",
+          "valor": "Dado pelo representante legal",
+          "observacao": "Ouvir o menor conforme a maturidade."
+        }
+      ],
+      "procedimentos": [
+        {
+          "passo": 1,
+          "descricao": "Aplicar os quatro princípios (autonomia, beneficência, não maleficência, justiça) em cada decisão."
+        },
+        {
+          "passo": 2,
+          "descricao": "Obter consentimento informado antes de procedimentos."
+        },
+        {
+          "passo": 3,
+          "descricao": "Manter sigilo profissional — não comentar casos em locais públicos, redes sociais ou com terceiros não envolvidos."
+        },
+        {
+          "passo": 4,
+          "descricao": "Registar tudo o que é feito e observado — o registo é acto ético e legal."
+        },
+        {
+          "passo": 5,
+          "descricao": "Perante dilema, discutir em equipa, consultar comissão de ética e envolver o doente/família na decisão."
+        },
+        {
+          "passo": 6,
+          "descricao": "Perante doente terminal: privilegiar controlo sintomático, conforto, presença e comunicação empática; respeitar directivas antecipadas de vontade quando existam."
+        },
+        {
+          "passo": 7,
+          "descricao": "Identificar-se ao doente, explicar o procedimento e pedir autorização antes de qualquer intervenção."
+        },
+        {
+          "passo": 8,
+          "descricao": "Garantir a privacidade física (biombo, cortina, exposição mínima) e a confidencialidade da informação."
+        },
+        {
+          "passo": 9,
+          "descricao": "Recusar-se a executar prescrição manifestamente errada ou ilegível, esclarecendo com quem prescreveu e registando."
+        },
+        {
+          "passo": 10,
+          "descricao": "Comunicar más notícias em local reservado, com linguagem simples, tempo para perguntas e apoio disponível."
+        },
+        {
+          "passo": 11,
+          "descricao": "Notificar incidentes e quase-eventos no sistema próprio, sem ocultação."
+        },
+        {
+          "passo": 12,
+          "descricao": "Respeitar as crenças religiosas e culturais do doente e da família, incluindo nos cuidados post mortem."
+        }
+      ],
+      "exemplos_praticos": [
+        {
+          "situacao": "Doente terminal recusa continuar tratamento invasivo; família insiste em manter todos os esforços.",
+          "resolucao": "O princípio da autonomia prevalece: se o doente é competente e devidamente informado, a sua decisão deve ser respeitada. A equipa deve documentar, apoiar a família e transitar para cuidados paliativos, garantindo conforto e dignidade."
+        },
+        {
+          "situacao": "Colega comenta caso clínico de doente conhecido num grupo de WhatsApp.",
+          "resolucao": "Violação directa do sigilo profissional. Alertar o colega, não partilhar/reencaminhar a informação e comunicar formalmente à chefia se persistir — trata-se de infracção deontológica."
+        },
+        {
+          "situacao": "Familiar pede informação clínica detalhada por telefone sobre um doente internado.",
+          "resolucao": "Não fornecer informação clínica por telefone sem confirmação de identidade e sem autorização prévia do doente: explicar a norma, sugerir presença no horário de informações e registar o pedido."
+        },
+        {
+          "situacao": "Doente competente recusa transfusão sanguínea por motivos religiosos.",
+          "resolucao": "Confirmar competência, informar detalhadamente os riscos, respeitar a decisão, procurar alternativas terapêuticas com a equipa, registar a recusa informada assinada e não abandonar o doente."
+        },
+        {
+          "situacao": "Colega comete erro de medicação e pede para não comunicar.",
+          "resolucao": "Comunicar sempre: avaliar e vigiar o doente, informar o médico e o superior hierárquico, registar o ocorrido e notificar como incidente — omitir agrava a responsabilidade e põe o doente em risco."
+        }
+      ],
+      "cuidados_erros_comuns": [
+        "Não divulgar informação clínica em redes sociais nem em ambientes públicos.",
+        "Não impor tratamentos contra a vontade expressa do doente competente.",
+        "Não abandonar o doente terminal — ausência de cura não significa ausência de cuidado.",
+        "Não aceitar 'presentes' ou vantagens que comprometam a isenção profissional.",
+        "Registar sempre o consentimento e a recusa informada.",
+        "Nunca fotografar doentes, feridas ou processos clínicos com o telemóvel pessoal.",
+        "Não usar corrector nem rasurar registos clínicos — configura falsificação de documento.",
+        "Não discutir casos clínicos em elevadores, corredores, transportes ou grupos de mensagens.",
+        "Não executar actos fora do âmbito das próprias competências técnicas e legais.",
+        "Não discriminar doentes por diagnóstico (VIH, tuberculose), etnia, religião ou condição social.",
+        "Não assinar registos de cuidados que não foram executados pelo próprio."
+      ],
+      "conclusao": "A ética e a deontologia não são acessórios da prática de enfermagem — são a sua espinha dorsal. Cuidar com competência técnica sem respeitar a pessoa, a sua autonomia e a sua dignidade não é enfermagem."
+    }
+  ]
+}

@@ -1,0 +1,1308 @@
+{
+  "serie": "C",
+  "categoria": "CULTURA GERAL",
+  "pais": "Angola",
+  "total": 100,
+  "perguntas": [
+    {
+      "numero": 1,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "Nos termos da Constituição, o Presidente da República de Angola é também:",
+      "alineas": {
+        "a": "Comandante-em-Chefe das Forças Armadas Angolanas",
+        "b": "Procurador-Geral da República",
+        "c": "Presidente do Tribunal Constitucional",
+        "d": "Presidente da Assembleia Nacional"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A Constituição de 2010 atribui ao Presidente da República as funções de Chefe de Estado, Titular do Poder Executivo e Comandante-em-Chefe das FAA."
+    },
+    {
+      "numero": 2,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "Quem é o Presidente da República de Angola e Titular do Poder Executivo?",
+      "alineas": {
+        "a": "Bornito de Sousa Baltazar Diogo",
+        "b": "João Manuel Gonçalves Lourenço",
+        "c": "Adalberto Costa Júnior",
+        "d": "José Eduardo dos Santos"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "João Lourenço é Presidente da República desde 2017, reeleito em 2022; acumula as funções de Chefe de Estado, Chefe do Executivo e Comandante-em-Chefe."
+    },
+    {
+      "numero": 3,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "Quem exerce, actualmente, o cargo de Ministra da Saúde da República de Angola?",
+      "alineas": {
+        "a": "Teresa Dias de Carvalho",
+        "b": "Ana Paula do Sacramento Neto",
+        "c": "Sílvia Paula Valentim Lutucuta",
+        "d": "Maria Arlete Kiaku Sarmento"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Sílvia Lutucuta é a titular do Ministério da Saúde (MINSA), pasta que dirige o Serviço Nacional de Saúde e os concursos públicos do sector."
+    },
+    {
+      "numero": 4,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "O sistema de governo consagrado na Constituição angolana de 2010 é habitualmente classificado como:",
+      "alineas": {
+        "a": "Sistema parlamentar puro",
+        "b": "Monarquia constitucional",
+        "c": "Semipresidencialismo com eleição directa do Presidente",
+        "d": "Presidencialismo de matriz parlamentar (Presidente eleito em lista de partido)"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O Presidente é o cabeça de lista do partido mais votado nas legislativas, não havendo eleição presidencial separada — daí a designação de presidencialismo de matriz parlamentar."
+    },
+    {
+      "numero": 5,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "A Ministra da Saúde de Angola, Sílvia Lutucuta, é médica com especialidade principal em:",
+      "alineas": {
+        "a": "Cardiologia",
+        "b": "Pediatria",
+        "c": "Cirurgia geral",
+        "d": "Psiquiatria"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Sílvia Lutucuta é médica cardiologista, tendo exercido clínica e docência antes de assumir a titularidade do MINSA."
+    },
+    {
+      "numero": 6,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "O Tribunal que aprecia a constitucionalidade das leis e valida os resultados eleitorais em Angola é o:",
+      "alineas": {
+        "a": "Tribunal de Contas",
+        "b": "Tribunal Constitucional",
+        "c": "Tribunal de Relação",
+        "d": "Tribunal Supremo"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Compete ao Tribunal Constitucional a fiscalização da constitucionalidade e a validação e proclamação dos resultados eleitorais."
+    },
+    {
+      "numero": 7,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "O órgão que fiscaliza a legalidade das despesas públicas e julga as contas do Estado angolano é o:",
+      "alineas": {
+        "a": "Provedoria de Justiça",
+        "b": "Banco Nacional de Angola",
+        "c": "Tribunal de Contas",
+        "d": "Inspecção-Geral da Administração do Estado"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Tribunal de Contas é o órgão supremo de fiscalização da legalidade das finanças públicas e de julgamento das contas do Estado."
+    },
+    {
+      "numero": 8,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "A instituição responsável pela emissão da moeda e pela política monetária em Angola é:",
+      "alineas": {
+        "a": "O Banco de Poupança e Crédito",
+        "b": "A Bolsa de Dívida e Valores de Angola",
+        "c": "O Ministério das Finanças",
+        "d": "O Banco Nacional de Angola (BNA)"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O BNA é o banco central: emite o Kwanza, gere as reservas internacionais e supervisiona o sistema financeiro."
+    },
+    {
+      "numero": 9,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "Uma das medidas de maior custo-eficácia na prevenção da malária, promovida pelo MINSA, é:",
+      "alineas": {
+        "a": "O uso de redes mosquiteiras tratadas com insecticida de longa duração",
+        "b": "A vacinação anual contra a gripe",
+        "c": "O consumo de água fervida",
+        "d": "A toma diária de antibióticos"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "As redes mosquiteiras tratadas, associadas à pulverização intradomiciliária e ao tratamento rápido, reduzem substancialmente a transmissão."
+    },
+    {
+      "numero": 10,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O 25 de Abril é assinalado internacionalmente como:",
+      "alineas": {
+        "a": "Dia Mundial da Tuberculose",
+        "b": "Dia Mundial de Luta contra a Malária",
+        "c": "Dia Mundial do Doador de Sangue",
+        "d": "Dia Mundial da Água"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Dia Mundial de Luta contra a Malária celebra-se a 25 de Abril; o da Tuberculose a 24 de Março."
+    },
+    {
+      "numero": 11,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O Dia Mundial da Saúde é assinalado a:",
+      "alineas": {
+        "a": "1 de Maio",
+        "b": "1 de Dezembro",
+        "c": "7 de Abril",
+        "d": "12 de Maio"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Dia Mundial da Saúde celebra-se a 7 de Abril, data de fundação da OMS em 1948."
+    },
+    {
+      "numero": 12,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A pandemia de COVID-19 é causada por:",
+      "alineas": {
+        "a": "Uma bactéria",
+        "b": "Um protozoário",
+        "c": "Um fungo",
+        "d": "Um vírus (SARS-CoV-2)"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A COVID-19 é provocada pelo coronavírus SARS-CoV-2, com transmissão sobretudo por gotículas e aerossóis respiratórios."
+    },
+    {
+      "numero": 13,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O Programa Alargado de Vacinação (PAV) em Angola destina-se sobretudo a:",
+      "alineas": {
+        "a": "Imunizar crianças e grupos prioritários contra doenças evitáveis pela vacinação",
+        "b": "Realizar rastreios de cancro",
+        "c": "Fornecer suplementos alimentares a adultos",
+        "d": "Distribuir medicamentos antirretrovirais"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O PAV assegura a vacinação de rotina (BCG, pólio, penta, sarampo, entre outras) e campanhas de seguimento em todo o país."
+    },
+    {
+      "numero": 14,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "Em Angola, a venda de medicamentos sujeitos a receita médica sem apresentação de receita é:",
+      "alineas": {
+        "a": "Permitida nos mercados informais",
+        "b": "Proibida por lei e constitui infracção sanitária",
+        "c": "Permitida se o utente for profissional de saúde",
+        "d": "Permitida em farmácias de serviço"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A dispensa de medicamentos sujeitos a receita exige prescrição válida; a venda informal é ilegal e perigosa para a saúde pública."
+    },
+    {
+      "numero": 15,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A Central de Compras de medicamentos e meios do Serviço Nacional de Saúde angolano é conhecida como:",
+      "alineas": {
+        "a": "INIS",
+        "b": "ANGOMED",
+        "c": "CECOMA",
+        "d": "ARMED"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A CECOMA (Central de Compras e Aprovisionamento de Medicamentos e Meios Médicos) assegura a aquisição e distribuição para a rede pública."
+    },
+    {
+      "numero": 16,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "Em resposta a surtos de cólera registados em Angola nos últimos anos, o MINSA reforçou principalmente:",
+      "alineas": {
+        "a": "A suspensão das consultas de rotina",
+        "b": "O encerramento definitivo das escolas",
+        "c": "A proibição de deslocações entre províncias",
+        "d": "A vigilância epidemiológica, o tratamento com reidratação e a vacinação oral em zonas de risco"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A resposta assenta em vigilância, centros de tratamento com reidratação, água segura, saneamento e campanhas de vacinação oral dirigidas."
+    },
+    {
+      "numero": 17,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O Dia Mundial do Dador de Sangue celebra-se a:",
+      "alineas": {
+        "a": "14 de Junho",
+        "b": "8 de Março",
+        "c": "20 de Novembro",
+        "d": "16 de Outubro"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A data assinala o nascimento de Karl Landsteiner, descobridor do sistema de grupos sanguíneos ABO."
+    },
+    {
+      "numero": 18,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A poliomielite e o sarampo são doenças que se previnem por:",
+      "alineas": {
+        "a": "Isolamento prolongado apenas",
+        "b": "Vacinação",
+        "c": "Antibioterapia",
+        "d": "Quimioprofilaxia com antimaláricos"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Ambas são doenças virais imunopreveníveis, integradas no calendário do Programa Alargado de Vacinação."
+    },
+    {
+      "numero": 19,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A principal medida individual para prevenir infecções associadas aos cuidados de saúde é:",
+      "alineas": {
+        "a": "O uso permanente de luvas sem as trocar",
+        "b": "A administração profiláctica de antibióticos",
+        "c": "A higienização correcta das mãos",
+        "d": "O uso de bata esterilizada em todos os contactos"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A higiene das mãos, nos cinco momentos definidos pela OMS, é a intervenção mais simples e eficaz contra as infecções hospitalares."
+    },
+    {
+      "numero": 20,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "Durante a COVID-19, a medida de saúde pública designada por 'etiqueta respiratória' consiste em:",
+      "alineas": {
+        "a": "Utilizar duas máscaras em simultâneo",
+        "b": "Tomar antibióticos preventivamente",
+        "c": "Manter as janelas fechadas",
+        "d": "Cobrir a boca e o nariz com o antebraço ou lenço ao tossir ou espirrar"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A etiqueta respiratória reduz a dispersão de gotículas; complementa a higiene das mãos, o uso de máscara e a ventilação."
+    },
+    {
+      "numero": 21,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "Qual é a principal função da ORDENFA?",
+      "alineas": {
+        "a": "Regular e disciplinar o exercício da profissão de enfermagem, garantindo a deontologia e a qualidade dos cuidados",
+        "b": "Substituir o MINSA na gestão das unidades sanitárias",
+        "c": "Nomear os directores dos hospitais provinciais",
+        "d": "Fixar os salários de todos os enfermeiros do país"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Como ordem profissional, a ORDENFA inscreve os profissionais, define a deontologia, promove a formação contínua e exerce poder disciplinar."
+    },
+    {
+      "numero": 22,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A carteira/cédula profissional emitida pela ORDENFA é exigida para:",
+      "alineas": {
+        "a": "Apenas para enfermeiros estrangeiros",
+        "b": "O exercício legal da enfermagem em território angolano",
+        "c": "Somente para enfermeiros com grau de licenciatura",
+        "d": "Apenas a prática em clínicas privadas"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A inscrição na Ordem e a respectiva cédula são condição de exercício legal da profissão, no sector público e privado."
+    },
+    {
+      "numero": 23,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O Estatuto Orgânico da Ordem dos Enfermeiros de Angola foi aprovado pelo:",
+      "alineas": {
+        "a": "Decreto Executivo n.º 15/16",
+        "b": "Decreto-Lei n.º 21-B/92",
+        "c": "Decreto Presidencial n.º 179/10, de 18 de Agosto",
+        "d": "Decreto Presidencial n.º 54/20"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Decreto Presidencial n.º 179/10, de 18 de Agosto, publicado no Diário da República I Série n.º 156, aprovou o Estatuto Orgânico da ORDENFA."
+    },
+    {
+      "numero": 24,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "No Serviço Nacional de Saúde angolano, o primeiro nível de atenção (porta de entrada) é assegurado sobretudo por:",
+      "alineas": {
+        "a": "Hospitais centrais de referência",
+        "b": "Clínicas privadas de especialidade",
+        "c": "Hospitais militares",
+        "d": "Centros e postos de saúde (cuidados primários)"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Os cuidados primários — postos e centros de saúde e hospitais municipais — constituem o primeiro nível de contacto da população com o sistema."
+    },
+    {
+      "numero": 25,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O Dia Mundial de Luta contra a SIDA é assinalado a:",
+      "alineas": {
+        "a": "1 de Dezembro",
+        "b": "1 de Junho",
+        "c": "25 de Abril",
+        "d": "7 de Abril"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O 1 de Dezembro é dedicado à sensibilização, prevenção e combate ao estigma associado ao VIH/SIDA."
+    },
+    {
+      "numero": 26,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A cólera está associada sobretudo a:",
+      "alineas": {
+        "a": "Contacto com animais domésticos",
+        "b": "Consumo de água e alimentos contaminados por fezes (más condições de saneamento)",
+        "c": "Picada de mosquito Anopheles",
+        "d": "Transmissão sexual"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A cólera é causada pelo Vibrio cholerae, transmitido por via feco-oral; o saneamento e a água potável são a base da prevenção."
+    },
+    {
+      "numero": 27,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "Que tipo de informação recolhe o IIMS 2023–2024?",
+      "alineas": {
+        "a": "Apenas dados sobre a produção agrícola",
+        "b": "Somente registos financeiros dos hospitais",
+        "c": "Indicadores de saúde materno-infantil, nutrição, mortalidade, malária, VIH e acesso a serviços",
+        "d": "Exclusivamente dados sobre acidentes de viação"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O IIMS é um inquérito por amostragem que mede indicadores demográficos e de saúde, essenciais para planear políticas públicas."
+    },
+    {
+      "numero": 28,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A sigla ORDENFA corresponde a:",
+      "alineas": {
+        "a": "Ordem dos Enfermeiros e Farmacêuticos",
+        "b": "Órgão de Regulação da Enfermagem Nacional",
+        "c": "Organização de Enfermagem de África",
+        "d": "Ordem dos Enfermeiros de Angola"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A ORDENFA é a associação pública profissional que representa e disciplina o exercício da enfermagem em Angola."
+    },
+    {
+      "numero": 29,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A instituição angolana responsável pela regulação e supervisão do sector do medicamento é:",
+      "alineas": {
+        "a": "A ARMED — Agência Reguladora de Medicamentos e Tecnologias de Saúde",
+        "b": "O IGAPE",
+        "c": "O INE",
+        "d": "A ORDENFA"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A ARMED regula o registo, a qualidade, a importação e a farmacovigilância dos medicamentos e dispositivos médicos."
+    },
+    {
+      "numero": 30,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A malária, em Angola, continua a ser:",
+      "alineas": {
+        "a": "Uma doença restrita à província do Namibe",
+        "b": "Uma das principais causas de morbilidade e mortalidade, sobretudo em crianças menores de 5 anos e grávidas",
+        "c": "Uma doença exclusivamente hospitalar",
+        "d": "Uma doença já erradicada no país"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A malária mantém-se endémica em quase todo o território, com maior impacto em crianças pequenas e mulheres grávidas."
+    },
+    {
+      "numero": 31,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "A capital da província de Icolo e Bengo é:",
+      "alineas": {
+        "a": "Viana",
+        "b": "Ndalatando",
+        "c": "Catete",
+        "d": "Caxito"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Catete é a sede da província de Icolo e Bengo; Caxito é a capital do Bengo."
+    },
+    {
+      "numero": 32,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "Segundo o Censo 2024, a província mais populosa de Angola continua a ser:",
+      "alineas": {
+        "a": "Huíla",
+        "b": "Huambo",
+        "c": "Benguela",
+        "d": "Luanda"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Luanda mantém-se a mais populosa, com cerca de 10,1 milhões de habitantes."
+    },
+    {
+      "numero": 33,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "O Censo 2024 foi o segundo censo realizado em Angola após a independência; o anterior ocorreu em:",
+      "alineas": {
+        "a": "2014",
+        "b": "1970",
+        "c": "2000",
+        "d": "2008"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O primeiro censo do período pós-independência realizou-se em 2014; o de 2024 é o segundo."
+    },
+    {
+      "numero": 34,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "Segundo os resultados definitivos do Censo 2024 (RGPH), divulgados em Novembro de 2025, a população residente em Angola é de aproximadamente:",
+      "alineas": {
+        "a": "25,8 milhões de habitantes",
+        "b": "36,6 milhões de habitantes",
+        "c": "30,2 milhões de habitantes",
+        "d": "42,1 milhões de habitantes"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O INE divulgou os resultados definitivos do RGPH 2024, apontando cerca de 36,6 milhões de residentes, mais 42% do que em 2014."
+    },
+    {
+      "numero": 35,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "A província do Moxico Leste tem como capital:",
+      "alineas": {
+        "a": "Luena",
+        "b": "Menongue",
+        "c": "Cazombo",
+        "d": "Saurimo"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A nova província do Moxico Leste tem sede no Cazombo; Luena continua a ser capital do Moxico."
+    },
+    {
+      "numero": 36,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "Com a nova Divisão Político-Administrativa, a província do Cuando Cubango deu origem a:",
+      "alineas": {
+        "a": "Cuando Cubango e Cunene",
+        "b": "Cuando Cubango e Moxico Leste",
+        "c": "Cuando Cubango e Icolo e Bengo",
+        "d": "Cuando Cubango e Cuando"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O desdobramento do Cuando Cubango originou a nova província do Cuando, com sede em Mavinga."
+    },
+    {
+      "numero": 37,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "A província de Icolo e Bengo resultou do desdobramento de qual província?",
+      "alineas": {
+        "a": "Luanda",
+        "b": "Bengo",
+        "c": "Cuanza Norte",
+        "d": "Malanje"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Icolo e Bengo foi criada a partir de municípios da província de Luanda, com sede na Catete."
+    },
+    {
+      "numero": 38,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "A sigla RGPH, associada ao Censo 2024, significa:",
+      "alineas": {
+        "a": "Recenseamento Global da Produção Habitacional",
+        "b": "Recenseamento Geral da População e Habitação",
+        "c": "Relatório Geral de População e Higiene",
+        "d": "Registo Geral de Pessoas e Habitantes"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O RGPH recolhe dados sobre população, agregados familiares e condições habitacionais em todo o território."
+    },
+    {
+      "numero": 39,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "A Lei n.º 14/24, de 5 de Setembro, revogou a anterior lei da Divisão Político-Administrativa, que era a:",
+      "alineas": {
+        "a": "Lei n.º 21-B/92",
+        "b": "Lei n.º 8/15, de 15 de Junho",
+        "c": "Lei n.º 18/16, de 17 de Outubro",
+        "d": "Lei n.º 15/16, de 17 de Agosto"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A nova Lei da DPA (14/24) revogou expressamente a Lei n.º 18/16, de 17 de Outubro."
+    },
+    {
+      "numero": 40,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "De acordo com o Censo 2024, a distribuição da população angolana por sexo é aproximadamente:",
+      "alineas": {
+        "a": "60% mulheres e 40% homens",
+        "b": "50% mulheres e 50% homens",
+        "c": "45% mulheres e 55% homens",
+        "d": "51% mulheres e 49% homens"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Os resultados definitivos indicam 18,67 milhões de mulheres (51%) e 17,93 milhões de homens (49%)."
+    },
+    {
+      "numero": 41,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "A capital da nova província do Cuando é:",
+      "alineas": {
+        "a": "Mavinga",
+        "b": "Menongue",
+        "c": "Ondjiva",
+        "d": "Cuito Cuanavale"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Mavinga é a sede da província do Cuando; Menongue mantém-se como capital do Cuando Cubango."
+    },
+    {
+      "numero": 42,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "Quais são as três novas províncias criadas pela Lei n.º 14/24, de 5 de Setembro?",
+      "alineas": {
+        "a": "Cuanza Norte, Cuanza Sul e Bengo",
+        "b": "Icolo e Bengo, Cuando e Moxico Leste",
+        "c": "Cabinda, Zaire e Uíge",
+        "d": "Lunda Norte, Lunda Sul e Malanje"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "As províncias de Icolo e Bengo, Cuando e Moxico Leste resultaram do desdobramento de Luanda, Cuando Cubango e Moxico."
+    },
+    {
+      "numero": 43,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "A instituição responsável pela realização do Censo 2024 em Angola é:",
+      "alineas": {
+        "a": "O Banco Nacional de Angola",
+        "b": "A Comissão Nacional Eleitoral",
+        "c": "O Instituto Nacional de Estatística (INE)",
+        "d": "O Ministério do Interior"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O INE, órgão central do Sistema Estatístico Nacional, executou o RGPH 2024 sob coordenação de uma comissão multissectorial."
+    },
+    {
+      "numero": 44,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "A estrutura etária revelada pelo Censo 2024 confirma que Angola é um país:",
+      "alineas": {
+        "a": "Com população maioritariamente rural e idosa",
+        "b": "Com igual número de crianças e idosos",
+        "c": "Envelhecido, com maioria acima dos 65 anos",
+        "d": "Muito jovem, com elevada proporção de população com menos de 25 anos"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A pirâmide etária angolana mantém base larga, com a maioria da população abaixo dos 25 anos — um desafio para saúde, educação e emprego."
+    },
+    {
+      "numero": 45,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "Após a Lei n.º 14/24, de 5 de Setembro, Angola passou a ter quantas províncias?",
+      "alineas": {
+        "a": "21",
+        "b": "22",
+        "c": "19",
+        "d": "18"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A Lei n.º 14/24 aprovou a nova Divisão Político-Administrativa, elevando de 18 para 21 o número de províncias."
+    },
+    {
+      "numero": 46,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "A CPLP é a organização que reúne:",
+      "alineas": {
+        "a": "Os países da África Austral",
+        "b": "Os países de língua oficial portuguesa",
+        "c": "Os países produtores de petróleo",
+        "d": "Os países da bacia do Congo"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A CPLP integra Angola, Brasil, Cabo Verde, Guiné-Bissau, Guiné Equatorial, Moçambique, Portugal, São Tomé e Príncipe e Timor-Leste."
+    },
+    {
+      "numero": 47,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "Angola tem desempenhado um papel de mediação em conflitos na região dos Grandes Lagos, sobretudo entre:",
+      "alineas": {
+        "a": "A Nigéria e os Camarões",
+        "b": "O Quénia e a Somália",
+        "c": "A República Democrática do Congo e o Ruanda",
+        "d": "O Egipto e o Sudão"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Angola liderou o Processo de Luanda, mediando o diferendo entre a RDC e o Ruanda no quadro da UA."
+    },
+    {
+      "numero": 48,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "Em 2025, João Lourenço exerceu a presidência rotativa de que organização continental?",
+      "alineas": {
+        "a": "CPLP",
+        "b": "SADC",
+        "c": "OPEP",
+        "d": "União Africana (UA)"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "João Lourenço assumiu a presidência rotativa da União Africana em Fevereiro de 2025, por um mandato de um ano."
+    },
+    {
+      "numero": 49,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "O principal projecto económico associado à visita de Joe Biden a Angola foi:",
+      "alineas": {
+        "a": "O Corredor do Lobito",
+        "b": "O Aeroporto Internacional Dr. António Agostinho Neto",
+        "c": "A barragem de Laúca",
+        "d": "A refinaria do Soyo"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A visita centrou-se no Corredor do Lobito, infra-estrutura ferroviária apoiada pelos EUA e pela União Europeia."
+    },
+    {
+      "numero": 50,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "A cimeira dos chefes de Estado da União Africana realiza-se habitualmente em que cidade, sede da organização?",
+      "alineas": {
+        "a": "Nairobi, Quénia",
+        "b": "Adis Abeba, Etiópia",
+        "c": "Pretória, África do Sul",
+        "d": "Acra, Gana"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A sede da União Africana situa-se em Adis Abeba, capital da Etiópia."
+    },
+    {
+      "numero": 51,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "Em 2025, Luanda acolheu a primeira Cimeira União Africana–União Europeia realizada em Angola, cujo objectivo central foi:",
+      "alineas": {
+        "a": "Criar uma moeda única africana",
+        "b": "Dissolver a União Africana",
+        "c": "Reforçar a parceria política, económica e de investimento entre os dois continentes",
+        "d": "Aprovar a adesão de Angola à União Europeia"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A cimeira UA–UE, acolhida por Luanda, centrou-se em investimento, infra-estruturas, comércio, paz e segurança."
+    },
+    {
+      "numero": 52,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "Durante a visita a Angola, em Dezembro de 2024, Joe Biden proferiu um discurso histórico em Luanda no:",
+      "alineas": {
+        "a": "Estádio 11 de Novembro",
+        "b": "Memorial António Agostinho Neto",
+        "c": "Palácio de Ferro",
+        "d": "Museu Nacional da Escravatura"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O discurso decorreu no Museu Nacional da Escravatura, evocando a memória do tráfico transatlântico e as relações EUA-África."
+    },
+    {
+      "numero": 53,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "A sigla SADC designa:",
+      "alineas": {
+        "a": "A Comunidade de Desenvolvimento da África Austral",
+        "b": "A Comunidade Económica dos Estados da África Ocidental",
+        "c": "A União Aduaneira da África Central",
+        "d": "A Comunidade dos Países de Língua Portuguesa"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A SADC (Southern African Development Community) integra Angola e outros Estados da África Austral, promovendo integração regional."
+    },
+    {
+      "numero": 54,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "O porto do Corredor do Lobito situa-se em que província?",
+      "alineas": {
+        "a": "Cabinda",
+        "b": "Benguela",
+        "c": "Namibe",
+        "d": "Luanda"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Lobito é um município e porto da província de Benguela, ponto de saída atlântica do corredor."
+    },
+    {
+      "numero": 55,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "A diversificação da economia angolana procura reduzir a dependência do petróleo, apostando em sectores como:",
+      "alineas": {
+        "a": "Somente construção de estádios",
+        "b": "Exclusivamente serviços financeiros",
+        "c": "Agricultura, pescas, indústria transformadora e minerais não petrolíferos",
+        "d": "Apenas importação de bens de consumo"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O PDN e o programa PRODESI apontam a agricultura, pescas, indústria e mineração como pilares da diversificação."
+    },
+    {
+      "numero": 56,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "Os principais parceiros internacionais que apoiam o Corredor do Lobito incluem:",
+      "alineas": {
+        "a": "Apenas a Índia",
+        "b": "Apenas a Federação Russa",
+        "c": "Apenas o Japão",
+        "d": "Os Estados Unidos da América e a União Europeia"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O corredor é apoiado por financiamento e garantias dos EUA (DFC) e da UE (Global Gateway), além de operadores privados."
+    },
+    {
+      "numero": 57,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "A maior barragem hidroeléctrica de Angola, no rio Kwanza, é:",
+      "alineas": {
+        "a": "Laúca",
+        "b": "Cambambe",
+        "c": "Capanda",
+        "d": "Matala"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A barragem de Laúca é a maior central hidroeléctrica do país, situada no rio Kwanza."
+    },
+    {
+      "numero": 58,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "A infra-estrutura ferroviária que serve de espinha dorsal ao Corredor do Lobito é:",
+      "alineas": {
+        "a": "O Caminho de Ferro de Moçâmedes (CFM)",
+        "b": "O Caminho de Ferro de Benguela (CFB)",
+        "c": "O Caminho de Ferro de Luanda (CFL)",
+        "d": "O metro de superfície de Luanda"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O CFB liga o Lobito ao Luau, na fronteira com a RDC, sendo prolongado até à Zâmbia no âmbito do corredor."
+    },
+    {
+      "numero": 59,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "A moeda oficial de Angola é:",
+      "alineas": {
+        "a": "O Rand",
+        "b": "O Escudo angolano",
+        "c": "O Kwanza (AOA)",
+        "d": "O Franco CFA"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Kwanza é a moeda nacional, emitida pelo Banco Nacional de Angola."
+    },
+    {
+      "numero": 60,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "O novo aeroporto internacional de Luanda, inaugurado em Novembro de 2023, chama-se:",
+      "alineas": {
+        "a": "Aeroporto 4 de Fevereiro",
+        "b": "Aeroporto Internacional 11 de Novembro",
+        "c": "Aeroporto da Catumbela",
+        "d": "Aeroporto Internacional Dr. António Agostinho Neto"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Localizado em Icolo e Bengo, o Aeroporto Internacional Dr. António Agostinho Neto substituiu progressivamente o 4 de Fevereiro nos voos internacionais."
+    },
+    {
+      "numero": 61,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "O Corredor do Lobito é essencialmente:",
+      "alineas": {
+        "a": "Um corredor logístico ferroviário e portuário que liga o porto do Lobito à RDC e à Zâmbia",
+        "b": "Uma auto-estrada entre Luanda e Benguela",
+        "c": "Uma linha aérea regional",
+        "d": "Um gasoduto entre Angola e a Namíbia"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O corredor assenta no Caminho de Ferro de Benguela e no porto do Lobito, escoando minérios da RDC e da Zâmbia para o Atlântico."
+    },
+    {
+      "numero": 62,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "As línguas nacionais mais faladas em Angola, além do português, incluem:",
+      "alineas": {
+        "a": "Suaíli, Zulu e Xhosa",
+        "b": "Umbundu, Kimbundu e Kikongo",
+        "c": "Amárico, Tigrínia e Oromo",
+        "d": "Hausa, Iorubá e Fula"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O umbundu, o kimbundu, o kikongo, o cokwe e o nganguela contam-se entre as principais línguas nacionais bantu."
+    },
+    {
+      "numero": 63,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O hino nacional de Angola intitula-se:",
+      "alineas": {
+        "a": "Avante Angola",
+        "b": "A Portuguesa",
+        "c": "Angola Avante",
+        "d": "Nkosi Sikelel' iAfrika"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "'Angola Avante' é o hino nacional, adoptado com a independência em 1975."
+    },
+    {
+      "numero": 64,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O 4 de Abril é celebrado em Angola como:",
+      "alineas": {
+        "a": "Dia da Independência",
+        "b": "Dia da Juventude",
+        "c": "Dia dos Heróis Nacionais",
+        "d": "Dia da Paz e Reconciliação Nacional"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A 4 de Abril de 2002 foi assinado o Memorando do Luena, que pôs fim ao conflito armado."
+    },
+    {
+      "numero": 65,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "A Rainha Nzinga Mbandi é uma figura histórica associada à resistência:",
+      "alineas": {
+        "a": "Contra a ocupação portuguesa nos reinos do Ndongo e Matamba",
+        "b": "Contra a colonização britânica no Sul de África",
+        "c": "Contra o Império do Mali",
+        "d": "Contra o comércio árabe no Índico"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Nzinga Mbandi (séc. XVII) liderou a resistência do Ndongo e Matamba à expansão colonial portuguesa."
+    },
+    {
+      "numero": 66,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O maior parque nacional de Angola, situado no deserto do sudoeste, é:",
+      "alineas": {
+        "a": "O Parque Nacional da Quiçama",
+        "b": "O Parque Nacional do Iona",
+        "c": "O Parque Nacional da Cangandala",
+        "d": "O Parque Nacional do Bicuar"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Iona, na província do Namibe, é o maior parque nacional do país."
+    },
+    {
+      "numero": 67,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O 17 de Setembro é assinalado em Angola como:",
+      "alineas": {
+        "a": "Dia do Estudante",
+        "b": "Dia da Independência",
+        "c": "Dia do Fundador da Nação e dos Heróis Nacionais",
+        "d": "Dia da Família"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A data corresponde ao nascimento de Agostinho Neto, considerado o Fundador da Nação Angolana."
+    },
+    {
+      "numero": 68,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "Angola faz fronteira terrestre com:",
+      "alineas": {
+        "a": "Moçambique, Zâmbia e Tanzânia",
+        "b": "Gabão, Camarões e Chade",
+        "c": "Zimbabué, Botswana e Namíbia",
+        "d": "Namíbia, Zâmbia e República Democrática do Congo (e República do Congo, por Cabinda)"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Angola confina a sul com a Namíbia, a leste com a Zâmbia e a norte/nordeste com a RDC; Cabinda faz também fronteira com a República do Congo."
+    },
+    {
+      "numero": 69,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O 4 de Fevereiro assinala em Angola:",
+      "alineas": {
+        "a": "O Dia do Início da Luta Armada de Libertação Nacional",
+        "b": "O Dia da Independência",
+        "c": "O Dia do Trabalhador",
+        "d": "O Dia da Paz e Reconciliação Nacional"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A 4 de Fevereiro de 1961 ocorreram os assaltos às cadeias de Luanda, marco inicial da luta armada."
+    },
+    {
+      "numero": 70,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O maior rio inteiramente angolano é:",
+      "alineas": {
+        "a": "O rio Cunene",
+        "b": "O rio Kwanza",
+        "c": "O rio Zaire (Congo)",
+        "d": "O rio Cubango"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Kwanza nasce e desagua em território angolano, sendo o maior rio inteiramente nacional."
+    },
+    {
+      "numero": 71,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "A província angolana separada geograficamente do restante território é:",
+      "alineas": {
+        "a": "Namibe",
+        "b": "Moxico",
+        "c": "Cabinda",
+        "d": "Zaire"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Cabinda é um enclave separado pelo território da RDC e pela foz do rio Congo."
+    },
+    {
+      "numero": 72,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "A Fenda da Tundavala e a Serra da Leba são atracções naturais da província de:",
+      "alineas": {
+        "a": "Cuanza Sul",
+        "b": "Benguela",
+        "c": "Namibe",
+        "d": "Huíla"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Ambas se situam na Huíla, junto ao Lubango, no rebordo da escarpa que desce para o Namibe."
+    },
+    {
+      "numero": 73,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "A palanca-negra-gigante, símbolo nacional angolano, encontra-se sobretudo:",
+      "alineas": {
+        "a": "Na Reserva Natural Integral do Luando e no Parque Nacional da Cangandala (Malanje/Bié)",
+        "b": "Na Reserva do Namibe",
+        "c": "No Parque Nacional da Quiçama, junto a Luanda",
+        "d": "No Parque Nacional do Iona"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A palanca-negra-gigante é endémica de Angola, ocorrendo na Cangandala e no Luando."
+    },
+    {
+      "numero": 74,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O acordo que selou o fim da guerra civil angolana, em 2002, é conhecido como:",
+      "alineas": {
+        "a": "Acordo de Alvor",
+        "b": "Memorando de Entendimento do Luena",
+        "c": "Acordos de Bicesse",
+        "d": "Protocolo de Lusaka"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Memorando do Luena (Moxico), de 4 de Abril de 2002, consagrou o cessar-fogo definitivo."
+    },
+    {
+      "numero": 75,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "Na bandeira nacional de Angola, o emblema central integra:",
+      "alineas": {
+        "a": "Um sol e uma águia",
+        "b": "Um leão e uma palmeira",
+        "c": "Uma roda dentada, uma catana e uma estrela",
+        "d": "Uma cruz e uma coroa"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A roda dentada simboliza os operários, a catana os camponeses e a estrela o progresso e a solidariedade internacional."
+    },
+    {
+      "numero": 76,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "Na Administração Pública angolana, o dever de sigilo do funcionário implica:",
+      "alineas": {
+        "a": "Recusar-se a colaborar com outros serviços",
+        "b": "Ocultar irregularidades detectadas",
+        "c": "Nunca prestar informação ao superior hierárquico",
+        "d": "Não divulgar informações a que tenha acesso no exercício de funções, salvo quando legalmente autorizado"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O dever de sigilo protege dados pessoais e informação de serviço, mas não legitima o encobrimento de ilegalidades."
+    },
+    {
+      "numero": 77,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "A Lei n.º 13/25, de 1 de Dezembro, incidiu sobre:",
+      "alineas": {
+        "a": "A alteração da Lei do Registo Eleitoral Oficioso",
+        "b": "A criação de novas províncias",
+        "c": "O Estatuto da Ordem dos Enfermeiros",
+        "d": "O Código do Trabalho"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A Lei n.º 13/25 alterou vários artigos da Lei do Registo Eleitoral Oficioso, no quadro da preparação das eleições gerais."
+    },
+    {
+      "numero": 78,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "O sigilo profissional em saúde significa que o profissional:",
+      "alineas": {
+        "a": "Pode partilhar dados com familiares sempre que quiser",
+        "b": "Não pode revelar informação clínica do utente sem consentimento ou base legal",
+        "c": "Deve divulgar os diagnósticos à comunidade",
+        "d": "Só guarda segredo de doentes privados"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A confidencialidade é um dever deontológico e legal; a partilha só é lícita com consentimento ou nos casos previstos na lei."
+    },
+    {
+      "numero": 79,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "As eleições gerais em Angola realizam-se, em regra, de:",
+      "alineas": {
+        "a": "Quatro em quatro anos",
+        "b": "Três em três anos",
+        "c": "Cinco em cinco anos",
+        "d": "Sete em sete anos"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "As últimas eleições gerais ocorreram em 2022 e as seguintes estão previstas para 2027, num ciclo de cinco anos."
+    },
+    {
+      "numero": 80,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "Em Angola, a idade mínima para votar é:",
+      "alineas": {
+        "a": "16 anos",
+        "b": "21 anos",
+        "c": "25 anos",
+        "d": "18 anos"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "São eleitores os cidadãos angolanos maiores de 18 anos, no pleno gozo dos seus direitos civis e políticos."
+    },
+    {
+      "numero": 81,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "Nas eleições gerais angolanas, o cidadão vota:",
+      "alineas": {
+        "a": "Numa lista de partido ou coligação, sendo o Presidente o cabeça de lista mais votado",
+        "b": "Em dois turnos presidenciais",
+        "c": "Separadamente no Presidente e nos deputados",
+        "d": "Apenas em candidatos independentes"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Não existe boletim presidencial autónomo: o cabeça de lista do partido mais votado é eleito Presidente da República."
+    },
+    {
+      "numero": 82,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "O direito à saúde, em Angola, está consagrado:",
+      "alineas": {
+        "a": "Somente em convenções internacionais não aplicáveis",
+        "b": "Na Constituição da República, como direito fundamental do cidadão",
+        "c": "Apenas em regulamentos internos dos hospitais",
+        "d": "Apenas no Código Penal"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Constituição consagra o direito à saúde e à assistência médica e sanitária, cabendo ao Estado promover o Serviço Nacional de Saúde."
+    },
+    {
+      "numero": 83,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "A Constituição da República de Angola actualmente em vigor foi aprovada em:",
+      "alineas": {
+        "a": "1992",
+        "b": "1975",
+        "c": "2010",
+        "d": "2002"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A Constituição de 2010 substituiu a Lei Constitucional de 1992 e instituiu o actual sistema de governo."
+    },
+    {
+      "numero": 84,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "O documento de identificação civil dos cidadãos angolanos é:",
+      "alineas": {
+        "a": "O cartão de eleitor emitido pela CNE",
+        "b": "O passaporte diplomático",
+        "c": "A cédula profissional",
+        "d": "O Bilhete de Identidade emitido pelos Serviços de Identificação Civil"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O BI, emitido pelos Serviços de Identificação Civil e Criminal, é o documento base de identificação e suporte do registo eleitoral oficioso."
+    },
+    {
+      "numero": 85,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "A actualização do registo eleitoral oficioso serve sobretudo para:",
+      "alineas": {
+        "a": "Corrigir dados pessoais e a morada/local de votação dos eleitores",
+        "b": "Escolher o partido em que se vai votar",
+        "c": "Pagar a taxa de participação eleitoral",
+        "d": "Substituir o bilhete de identidade"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A actualização garante que o eleitor consta do caderno eleitoral correcto, com dados fiáveis e local de votação adequado."
+    },
+    {
+      "numero": 86,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "O regime de registo eleitoral vigente em Angola é o:",
+      "alineas": {
+        "a": "Registo eleitoral voluntário presencial obrigatório",
+        "b": "Registo Eleitoral Oficioso",
+        "c": "Registo censitário por rendimento",
+        "d": "Registo apenas para funcionários públicos"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Lei do Registo Eleitoral Oficioso (Lei n.º 8/15, com alterações posteriores) prevê a inscrição automática a partir dos dados do registo civil/BI."
+    },
+    {
+      "numero": 87,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A sigla IA, muito referida na modernização da saúde, significa:",
+      "alineas": {
+        "a": "Informação Administrativa",
+        "b": "Instrumento de Auditoria",
+        "c": "Inteligência Artificial",
+        "d": "Índice Analítico"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A Inteligência Artificial designa sistemas informáticos capazes de executar tarefas que exigiriam inteligência humana, como apoio ao diagnóstico."
+    },
+    {
+      "numero": 88,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "Um risco ético associado ao uso de Inteligência Artificial na saúde é:",
+      "alineas": {
+        "a": "A redução do preço dos medicamentos",
+        "b": "O aumento automático do número de camas hospitalares",
+        "c": "A eliminação das filas de espera sem custos",
+        "d": "A violação da privacidade e a discriminação por enviesamento dos dados"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Modelos treinados com dados enviesados podem gerar decisões injustas; a protecção de dados pessoais é uma exigência central."
+    },
+    {
+      "numero": 89,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "Uma aplicação já real da Inteligência Artificial na saúde é:",
+      "alineas": {
+        "a": "O apoio à interpretação de exames imagiológicos e à triagem de doentes",
+        "b": "A substituição integral do juízo clínico do médico",
+        "c": "A eliminação da necessidade de registos clínicos",
+        "d": "A cura automática de doenças crónicas"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A IA apoia diagnóstico, triagem e gestão de dados, mas não substitui a responsabilidade e o juízo clínico dos profissionais."
+    },
+    {
+      "numero": 90,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "As alterações climáticas têm agravado, no sul de Angola, sobretudo:",
+      "alineas": {
+        "a": "O aumento das florestas tropicais no Namibe",
+        "b": "A seca prolongada, com impacto na segurança alimentar e nutricional",
+        "c": "A eliminação da malária",
+        "d": "A queda de neve nas províncias do Cunene e Namibe"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "As secas recorrentes no Cunene, Huíla e Namibe provocam perdas de gado e culturas, aumentando a desnutrição infantil."
+    },
+    {
+      "numero": 91,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "Perante um utente insatisfeito, o comportamento profissional adequado é:",
+      "alineas": {
+        "a": "Ignorar a reclamação",
+        "b": "Solicitar pagamento adicional para resolver",
+        "c": "Ouvir com respeito, esclarecer e encaminhar a reclamação pelos canais próprios",
+        "d": "Responder no mesmo tom e interromper o atendimento"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A ética profissional exige escuta activa, cortesia e encaminhamento formal das reclamações, preservando a dignidade do utente."
+    },
+    {
+      "numero": 92,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A transmissão vertical do VIH significa:",
+      "alineas": {
+        "a": "Transmissão entre adultos por via sexual",
+        "b": "Transmissão por partilha de utensílios de cozinha",
+        "c": "Transmissão por picada de mosquito",
+        "d": "Transmissão da mãe para o filho durante a gravidez, parto ou amamentação"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A prevenção da transmissão vertical (PTV) assenta no diagnóstico precoce, terapêutica antirretroviral e acompanhamento do parto e amamentação."
+    },
+    {
+      "numero": 93,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A tuberculose transmite-se principalmente por:",
+      "alineas": {
+        "a": "Via aérea, através de gotículas expelidas pelo doente bacilífero",
+        "b": "Água contaminada",
+        "c": "Picada de insecto",
+        "d": "Contacto com sangue contaminado"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O Mycobacterium tuberculosis dissemina-se por aerossóis; a detecção precoce e o tratamento completo interrompem a cadeia de transmissão."
+    },
+    {
+      "numero": 94,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A literacia em saúde consiste na:",
+      "alineas": {
+        "a": "Capacidade de ler exames laboratoriais como técnico",
+        "b": "Capacidade do cidadão de compreender e usar informação para decidir sobre a sua saúde",
+        "c": "Obrigação de frequentar cursos de medicina",
+        "d": "Aptidão exclusiva dos profissionais de saúde"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A literacia em saúde melhora a adesão terapêutica, a prevenção e a utilização adequada dos serviços."
+    },
+    {
+      "numero": 95,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O Dia Mundial do Ambiente é assinalado a:",
+      "alineas": {
+        "a": "16 de Setembro",
+        "b": "22 de Abril",
+        "c": "5 de Junho",
+        "d": "11 de Novembro"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Dia Mundial do Ambiente celebra-se a 5 de Junho; a 22 de Abril assinala-se o Dia da Terra."
+    },
+    {
+      "numero": 96,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A desnutrição crónica infantil manifesta-se principalmente por:",
+      "alineas": {
+        "a": "Excesso de peso para a altura",
+        "b": "Aumento do perímetro cefálico",
+        "c": "Febre persistente",
+        "d": "Baixa estatura para a idade (nanismo nutricional)"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A desnutrição crónica traduz-se em atraso do crescimento (baixa estatura para a idade), com efeitos no desenvolvimento cognitivo."
+    },
+    {
+      "numero": 97,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O saneamento básico e o acesso a água potável são determinantes da saúde porque:",
+      "alineas": {
+        "a": "Reduzem doenças de transmissão feco-oral, como cólera, febre tifóide e diarreias",
+        "b": "Substituem a necessidade de vacinação",
+        "c": "Eliminam as doenças genéticas",
+        "d": "Aumentam a imunidade contra a malária"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Água segura, saneamento e higiene (WASH) constituem a base da prevenção das doenças diarreicas."
+    },
+    {
+      "numero": 98,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A violência baseada no género, em Angola, é combatida sobretudo através:",
+      "alineas": {
+        "a": "Da limitação da liberdade de imprensa",
+        "b": "Da Lei contra a Violência Doméstica e de serviços de apoio à vítima",
+        "c": "Da proibição do casamento civil",
+        "d": "Da criação de novos impostos"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Lei n.º 25/11 (Violência Doméstica) e as redes de apoio, incluindo unidades sanitárias, sustentam a prevenção e o atendimento às vítimas."
+    },
+    {
+      "numero": 99,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "Os resíduos hospitalares cortantes e perfurantes devem ser colocados:",
+      "alineas": {
+        "a": "No mesmo contentor dos resíduos alimentares",
+        "b": "Directamente no ecoponto de papel",
+        "c": "Em contentores rígidos, imperfuráveis e identificados",
+        "d": "Em sacos plásticos comuns"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O acondicionamento em contentores rígidos previne acidentes por picada e a transmissão de agentes por via sanguínea."
+    },
+    {
+      "numero": 100,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A Agenda 2063 é o plano estratégico de longo prazo:",
+      "alineas": {
+        "a": "Da CPLP",
+        "b": "Da Organização Mundial da Saúde",
+        "c": "Do Banco Mundial",
+        "d": "Da União Africana"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A Agenda 2063 — 'A África que Queremos' — é o quadro estratégico de desenvolvimento da União Africana."
+    }
+  ]
+}

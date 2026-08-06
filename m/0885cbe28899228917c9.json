@@ -1,0 +1,1394 @@
+{
+  "serie": "E",
+  "categoria": "Técnico Médio de Diagnóstico e Terapêutica de 2ª Classe",
+  "pais": "Angola",
+  "total": 100,
+  "perguntas": [
+    {
+      "numero": 1,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Num rastreio coproparasitológico em amostras fecais de uma localidade rural angolana, foi observado um ovo de helminto com espícula polar proeminente, formato ovóide e dimensões aproximadas de 70x40 μm. Qual o parasita cuja espécie é mais provável que corresponda a esta descrição?",
+      "alineas": {
+        "a": "Schistosoma mansoni",
+        "b": "Schistosoma haematobium",
+        "c": "Schistosoma japonicum",
+        "d": "Fasciola hepatica",
+        "e": "Paragonimus westermani"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O ovo de Schistosoma haematobium é caracterizado por possuir uma espícula terminal proeminente e ter dimensões médias de 112-170 μm por 40-70 μm, sendo o Schistosoma mansoni com espícula lateral e o S. japonicum com espícula rudimentar e mais esférico. As outras opções são tremátodes com ovos operculados."
+    },
+    {
+      "numero": 2,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Durante a análise microscópica de uma amostra fecal processada pelo método de Ritchie, observaram-se estruturas císticas arredondadas a ovóides, de 10-20 μm, com 4 núcleos evidentes e corpos cromatoidais em forma de bastonete. Qual o diagnóstico parasitológico mais provável?",
+      "alineas": {
+        "a": "Entamoeba histolytica",
+        "b": "Giardia lamblia",
+        "c": "Balantidium coli",
+        "d": "Endolimax nana",
+        "e": "Blastocystis hominis"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Os cistos de Entamoeba histolytica são tipicamente arredondados a ovóides, medindo 10 a 20 μm, e contêm 1 a 4 núcleos e corpos cromatoides em forma de bastonete (com extremidades arredondadas)."
+    },
+    {
+      "numero": 3,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Um paciente pediátrico residente em Luanda apresenta diarreia aquosa persistente, associada a dor abdominal e malabsorção. A coloração de Ziehl-Neelsen modificada de uma amostra fecal revelou a presença de oocistos pequenos, esféricos, medindo 4-6 μm. Que parasita é o causador mais provável?",
+      "alineas": {
+        "a": "Cryptosporidium parvum",
+        "b": "Cystoisospora belli",
+        "c": "Cyclospora cayetanensis",
+        "d": "Giardia lamblia",
+        "e": "Entamoeba coli"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O Cryptosporidium parvum é um protozoário com oocistos pequenos (4-6 μm), esféricos e que coram positivamente pelo método de Ziehl-Neelsen modificado, sendo causa comum de diarreia em crianças e imunocomprometidos."
+    },
+    {
+      "numero": 4,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Na pesquisa de Strongyloides stercoralis em fezes, qual dos seguintes métodos é considerado o mais sensível para a deteção das larvas rabditóides?",
+      "alineas": {
+        "a": "Método de Baermann-Moraes",
+        "b": "Método de Willis-Mollay",
+        "c": "Método de Hoffman, Pons & Janer",
+        "d": "Método de Faust et al.",
+        "e": "Exame direto a fresco"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O método de Baermann-Moraes é amplamente reconhecido como o mais sensível para a deteção de larvas de Strongyloides stercoralis, aproveitando o termotropismo e hidrotropismo positivo das larvas para migrarem para o sedimento."
+    },
+    {
+      "numero": 5,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Qual a principal limitação do exame direto a fresco de fezes na rotina coproparasitológica?",
+      "alineas": {
+        "a": "Baixa sensibilidade para parasitas em baixa carga",
+        "b": "Impossibilidade de identificar trofozoítos",
+        "c": "Necessidade de equipamento laboratorial complexo",
+        "d": "Tempo de execução prolongado",
+        "e": "Requer amostras fecais de 24 horas"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O exame direto a fresco de fezes, embora rápido e simples, possui baixa sensibilidade para detetar parasitas quando presentes em pequenas quantidades, resultando em muitos falsos negativos."
+    },
+    {
+      "numero": 6,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Um coprocultura para larvas de helmintos revelou a presença de larvas filariformes com cauda pontiaguda e esôfago longo, atingindo cerca de um terço do comprimento total do corpo, além de bainha cuticular presente. Esta morfologia sugere qual parasita?",
+      "alineas": {
+        "a": "Ancylostoma duodenale",
+        "b": "Necator americanus",
+        "c": "Strongyloides stercoralis",
+        "d": "Ascaris lumbricoides",
+        "e": "Trichuris trichiura"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "As larvas filariformes de Ancylostoma duodenale e Necator americanus são morfologicamente semelhantes, ambas com cauda pontiaguda e esôfago longo (cerca de 1/3 do corpo). No entanto, a presença de bainha cuticular é uma característica distintiva das larvas filariformes de ancilostomídeos, que as diferencia das larvas filariformes de Strongyloides stercoralis (que geralmente não possuem bainha)."
+    },
+    {
+      "numero": 7,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Na identificação de ovos de Taenia spp. em amostras fecais, qual característica é crucial para diferenciá-los de outros cestódeos, embora não permita a distinção entre T. saginata e T. solium?",
+      "alineas": {
+        "a": "Embrião hexacanto com oncosfera radiada",
+        "b": "Presença de opérculo na casca",
+        "c": "Formato esférico com parede fina",
+        "d": "Ausência de embrião no interior",
+        "e": "Coloração amarela acastanhada"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Os ovos de Taenia spp. são caracterizados por um embrião hexacanto (oncosfera) envolto por uma casca espessa e radiada. Esta característica é distintiva da Taenia, mas não permite a diferenciação morfológica entre T. saginata e T. solium."
+    },
+    {
+      "numero": 8,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Qual protozoário intestinal é tipicamente associado à ingestão de água contaminada com cistos, causando diarreia gordurosa e flatulência, e pode ser diagnosticado pela pesquisa de trofozoítos ou cistos nas fezes?",
+      "alineas": {
+        "a": "Giardia lamblia",
+        "b": "Entamoeba histolytica",
+        "c": "Balantidium coli",
+        "d": "Toxoplasma gondii",
+        "e": "Isospora belli"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A Giardia lamblia é o protozoário causador da giardíase, uma doença intestinal frequentemente associada à ingestão de água contaminada, manifestando-se com diarreia gordurosa e flatulência, e diagnosticada pela deteção de cistos ou trofozoítos nas fezes."
+    },
+    {
+      "numero": 9,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "A observação de trofozoítos de Entamoeba histolytica com eritrócitos fagocitados nas fezes é um achado clinicamente relevante, indicando qual condição?",
+      "alineas": {
+        "a": "Amebíase intestinal invasiva (disenteria amebiana)",
+        "b": "Amebíase assintomática",
+        "c": "Giardíase aguda",
+        "d": "Balantidíase crônica",
+        "e": "Tricomoníase intestinal"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A fagocitose de eritrócitos por trofozoítos de Entamoeba histolytica é um marcador patognomónico de amebíase intestinal invasiva, especificamente disenteria amebiana, indicando que o parasita está a invadir a mucosa intestinal."
+    },
+    {
+      "numero": 10,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Qual dos seguintes métodos de concentração de fezes é mais adequado para a pesquisa de cistos de protozoários e ovos de helmintos de parede fina, como os de Ancylostoma spp.?",
+      "alineas": {
+        "a": "Método de Faust et al. (flutuação por sulfato de zinco)",
+        "b": "Método de Ritchie (sedimentação por formol-éter)",
+        "c": "Método de Willis-Mollay (flutuação por solução saturada de NaCl)",
+        "d": "Método de Kato-Katz (contagem de ovos)",
+        "e": "Método de Graham (fita adesiva perianal)"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O método de Ritchie (sedimentação por formol-éter) é um método de concentração eficaz para a maioria dos ovos de helmintos (incluindo os de parede fina) e cistos de protozoários, por concentrar os parasitas no sedimento, minimizando a deformação e preservando a morfologia."
+    },
+    {
+      "numero": 11,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "No diagnóstico laboratorial de Hymenolepis nana, qual das seguintes características dos ovos é distintiva e facilita a sua identificação microscópica?",
+      "alineas": {
+        "a": "Presença de filamentos polares entre as membranas do ovo",
+        "b": "Grande tamanho e coloração escura",
+        "c": "Casca espessa e estriada",
+        "d": "Formato triangular com opérculo",
+        "e": "Larva miracídeo ciliada no interior"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Os ovos de Hymenolepis nana são ovóides ou arredondados, de paredes finas, com um embrião hexacanto e caracteristicamente possuem filamentos polares (4-8) que se estendem dos polos do embrióforo até a casca interna."
+    },
+    {
+      "numero": 12,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Um paciente com história de viagem recente a áreas endêmicas de esquistossomose, apresenta ovos com espícula lateral e formato ovóide em amostra fecal. Qual o parasita mais provável?",
+      "alineas": {
+        "a": "Schistosoma mansoni",
+        "b": "Schistosoma haematobium",
+        "c": "Schistosoma japonicum",
+        "d": "Clonorchis sinensis",
+        "e": "Diphyllobothrium latum"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Os ovos de Schistosoma mansoni são tipicamente ovóides, medindo cerca de 114-180 μm por 45-70 μm, e apresentam uma espícula lateral proeminente, o que é distintivo desta espécie."
+    },
+    {
+      "numero": 13,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Qual a principal razão para a importância da colheita de várias amostras fecais em dias alternados para o diagnóstico de parasitoses intestinais?",
+      "alineas": {
+        "a": "Variação na eliminação de formas parasitárias",
+        "b": "Aumento da viabilidade dos parasitas",
+        "c": "Redução da contaminação bacteriana",
+        "d": "Necessidade de diferentes métodos de coloração",
+        "e": "Avaliar a resposta ao tratamento"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A eliminação de ovos, cistos e larvas por parasitas intestinais é frequentemente intermitente. A colheita de múltiplas amostras em dias alternados aumenta a probabilidade de detetar o parasita, melhorando a sensibilidade do diagnóstico."
+    },
+    {
+      "numero": 14,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "No microscópio, um técnico de laboratório observa ovos fusiformes, com tampões mucosos polares, e medindo aproximadamente 50-55 μm de comprimento. Qual o agente etiológico mais provável?",
+      "alineas": {
+        "a": "Trichuris trichiura",
+        "b": "Ascaris lumbricoides",
+        "c": "Enterobius vermicularis",
+        "d": "Strongyloides stercoralis",
+        "e": "Ancylostoma duodenale"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Os ovos de Trichuris trichiura (tricuríase) são caracteristicamente fusiformes (em forma de barril ou limão), com dois tampões mucosos polares e medem aproximadamente 50-55 μm de comprimento por 20-25 μm de largura."
+    },
+    {
+      "numero": 15,
+      "tema": "I. Coproparasitologia",
+      "enunciado": "Para a pesquisa de ovos de Enterobius vermicularis, qual método de colheita e processamento é considerado o padrão ouro pela sua eficácia?",
+      "alineas": {
+        "a": "Teste da fita adesiva perianal (método de Graham)",
+        "b": "Exame direto a fresco de amostra fecal",
+        "c": "Método de concentração de Ritchie",
+        "d": "Coprocultura para larvas",
+        "e": "Coloração de Ziehl-Neelsen modificada"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O método de Graham (teste da fita adesiva perianal) é o padrão ouro para a deteção de ovos de Enterobius vermicularis, pois as fêmeas migram para a região perianal para depositar os ovos, que não são frequentemente encontrados nas fezes."
+    },
+    {
+      "numero": 16,
+      "tema": "II. Imunologia",
+      "enunciado": "Um paciente pediátrico é diagnosticado com uma deficiência primária de imunoglobulina A (IgA). Qual das seguintes manifestações clínicas seria a mais provável de observar neste indivíduo, considerando a função principal da IgA?",
+      "alineas": {
+        "a": "Artrite reumatóide juvenil severa",
+        "b": "Infecções recorrentes do trato respiratório e gastrointestinal",
+        "c": "Doença autoimune sistémica grave com vasculite",
+        "d": "Diminuição acentuada da resposta inflamatória aguda",
+        "e": "Aumento da susceptibilidade a infecções virais intracelulares"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A IgA é a principal imunoglobulina encontrada nas secreções mucosas, protegendo as superfícies epiteliais contra patógenos. A sua deficiência acarreta maior susceptibilidade a infecções nestes locais."
+    },
+    {
+      "numero": 17,
+      "tema": "II. Imunologia",
+      "enunciado": "Durante a resposta imunitária contra um patógeno intracelular viral, qual das seguintes classes de moléculas do Complexo Principal de Histocompatibilidade (MHC) seria primariamente responsável pela apresentação de antigénios aos linfócitos T citotóxicos (CD8+)?",
+      "alineas": {
+        "a": "MHC de Classe II",
+        "b": "MHC de Classe I",
+        "c": "CD1d",
+        "d": "Moléculas co-estimuladoras B7",
+        "e": "Moléculas de adesão CAM"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "As moléculas de MHC de Classe I apresentam péptidos antigénicos derivados de proteínas citosólicas (como as virais) aos linfócitos T CD8+, desencadeando a resposta citotóxica."
+    },
+    {
+      "numero": 18,
+      "tema": "II. Imunologia",
+      "enunciado": "Um esfregaço sanguíneo de um paciente com infecção parasitária revelou um aumento significativo na contagem de eosinófilos. Qual citocina é fundamental para o desenvolvimento e activação destas células na resposta antiparasitária?",
+      "alineas": {
+        "a": "Interleucina-1 (IL-1)",
+        "b": "Interleucina-6 (IL-6)",
+        "c": "Interleucina-5 (IL-5)",
+        "d": "Factor de Necrose Tumoral alfa (TNF-α)",
+        "e": "Interferão gama (IFN-γ)"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A IL-5 é uma citocina primária para o crescimento, diferenciação e activação de eosinófilos, células cruciais na defesa contra parasitas e em reacções alérgicas."
+    },
+    {
+      "numero": 19,
+      "tema": "II. Imunologia",
+      "enunciado": "Na transplantação de órgãos, a rejeição hiperaguda é mediada principalmente por qual dos seguintes mecanismos imunológicos?",
+      "alineas": {
+        "a": "Activação de linfócitos T citotóxicos específicos para o aloenxerto.",
+        "b": "Presença de anticorpos pré-formados no receptor contra antigénios do dador.",
+        "c": "Reacção de hipersensibilidade tardia mediada por células.",
+        "d": "Deposição de complexos imunes no tecido transplantado.",
+        "e": "Incompatibilidade de MHC de Classe II."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A rejeição hiperaguda ocorre minutos após o revascularização do enxerto e é causada por anticorpos pré-existentes no receptor que se ligam aos antigénios endoteliais do dador, levando à trombose e isquemia."
+    },
+    {
+      "numero": 20,
+      "tema": "II. Imunologia",
+      "enunciado": "Qual das seguintes células é considerada uma Célula Apresentadora de Antigénio (APC) profissional, capaz de activar linfócitos T naïve de forma eficiente?",
+      "alineas": {
+        "a": "Neutrófilo",
+        "b": "Fibroblasto",
+        "c": "Macrófago",
+        "d": "Eritrócito",
+        "e": "Linfócito B de memória"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Macrófagos, células dendríticas e linfócitos B são APCs profissionais, expressando MHC de Classe II e moléculas co-estimuladoras essenciais para a activação de linfócitos T naïve."
+    },
+    {
+      "numero": 21,
+      "tema": "II. Imunologia",
+      "enunciado": "Um paciente apresenta um quadro de erupção cutânea pruriginosa, hipotensão e broncoespasmo após a administração de um fármaco. Este quadro é compatível com qual tipo de hipersensibilidade imunológica?",
+      "alineas": {
+        "a": "Hipersensibilidade Tipo II (Citotóxica)",
+        "b": "Hipersensibilidade Tipo III (por Complexos Imunes)",
+        "c": "Hipersensibilidade Tipo IV (Tardia)",
+        "d": "Hipersensibilidade Tipo I (Imediata)",
+        "e": "Autoimunidade mediada por células T CD8+"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Os sintomas descritos são clássicos de uma reacção de hipersensibilidade Tipo I (anafilaxia), mediada por IgE e libertação de mediadores de mastócitos/basófilos."
+    },
+    {
+      "numero": 22,
+      "tema": "II. Imunologia",
+      "enunciado": "Qual a principal função do complemento na imunidade inata, em relação à eliminação de microrganismos?",
+      "alineas": {
+        "a": "Activação de linfócitos B para produção de anticorpos.",
+        "b": "Opsonização de patógenos para fagocitose e lise directa.",
+        "c": "Neutralização de toxinas bacterianas.",
+        "d": "Indução de apoptose em células infectadas por vírus.",
+        "e": "Regulação da transcrição de genes de citocinas pró-inflamatórias."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O sistema complemento opsoniza patógenos (marcando-os para fagocitose) e forma o Complexo de Ataque à Membrana (MAC) que induz a lise directa de microrganismos."
+    },
+    {
+      "numero": 23,
+      "tema": "II. Imunologia",
+      "enunciado": "As células Natural Killer (NK) desempenham um papel crucial na imunidade inata. Qual a sua principal estratégia para eliminar células tumorais ou infectadas por vírus?",
+      "alineas": {
+        "a": "Apresentação de antigénios via MHC de Classe II.",
+        "b": "Produção de anticorpos específicos.",
+        "c": "Reconhecimento da ausência de MHC de Classe I e indução de apoptose.",
+        "d": "Fagocitose de detritos celulares e patógenos.",
+        "e": "Activação de linfócitos T CD4+ auxiliares."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "As células NK reconhecem e matam células alteradas (tumorais ou infectadas) que diminuem a expressão de MHC de Classe I, activando seus receptores de 'kill' e induzindo apoptose."
+    },
+    {
+      "numero": 24,
+      "tema": "II. Imunologia",
+      "enunciado": "No contexto da maturação dos linfócitos T no timo, qual o significado do termo 'selecção negativa'?",
+      "alineas": {
+        "a": "Eliminação de linfócitos T que não reconhecem MHC próprio.",
+        "b": "Proliferação clonal de linfócitos T com alta afinidade para antigénios próprios.",
+        "c": "Eliminação de linfócitos T com receptores de alta afinidade para antigénios próprios.",
+        "d": "Diferenciação de linfócitos T citotóxicos em linfócitos T reguladores.",
+        "e": "Indução de anergia em linfócitos T autorreativos."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A selecção negativa elimina linfócitos T que se ligam com alta afinidade a antigénios próprios apresentados pelas células epiteliais do timo, prevenindo a autoimunidade."
+    },
+    {
+      "numero": 25,
+      "tema": "II. Imunologia",
+      "enunciado": "Qual a molécula co-estimuladora essencial expressa pelas células apresentadoras de antigénio (APCs) profissionais que interage com CD28 nos linfócitos T para uma activação completa?",
+      "alineas": {
+        "a": "CD3",
+        "b": "B7 (CD80/CD86)",
+        "c": "CTLA-4",
+        "d": "PD-1",
+        "e": "LFA-1"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A interacção de B7 (CD80/CD86) nas APCs com CD28 nos linfócitos T fornece o segundo sinal co-estimulatório, crucial para a activação eficaz dos linfócitos T naïve."
+    },
+    {
+      "numero": 26,
+      "tema": "II. Imunologia",
+      "enunciado": "A vacinação confere imunidade através de qual dos seguintes mecanismos principais?",
+      "alineas": {
+        "a": "Indução de uma resposta imunitária inata robusta e prolongada.",
+        "b": "Formação de anticorpos e células de memória específicas contra o patógeno.",
+        "c": "Modulação da microbiota intestinal para resistir a infecções.",
+        "d": "Estimulação da produção de citocinas pró-inflamatórias gerais.",
+        "e": "Alteração da expressão de receptores Toll-like no hospedeiro."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A vacinação estimula o sistema imunitário adaptativo a gerar anticorpos e linfócitos de memória específicos para o patógeno, permitindo uma resposta rápida e eficaz em caso de exposição futura."
+    },
+    {
+      "numero": 27,
+      "tema": "II. Imunologia",
+      "enunciado": "Em pacientes com Síndrome de Sjogren, uma doença autoimune, é comum a presença de anticorpos anti-Ro/SSA e anti-La/SSB. Qual a natureza da reacção imunitária subjacente a esta condição?",
+      "alineas": {
+        "a": "Hipersensibilidade Tipo I, mediada por IgE.",
+        "b": "Hipersensibilidade Tipo II, com destruição celular directa por anticorpos.",
+        "c": "Hipersensibilidade Tipo III, por deposição de complexos imunes.",
+        "d": "Autoimunidade sistémica, com ataque a constituintes nucleares e ribonucleoproteínas.",
+        "e": "Hipersensibilidade Tipo IV, mediada por linfócitos T citotóxicos."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A Síndrome de Sjogren é uma doença autoimune caracterizada pela produção de anticorpos contra antigénios nucleares e citoplasmáticos, como Ro/SSA e La/SSB, que levam à destruição de glândulas exócrinas."
+    },
+    {
+      "numero": 28,
+      "tema": "II. Imunologia",
+      "enunciado": "Qual das seguintes opções descreve a função principal dos receptores Toll-like (TLRs) na imunidade inata?",
+      "alineas": {
+        "a": "Apresentação de antigénios peptídicos aos linfócitos T CD4+.",
+        "b": "Reconhecimento de padrões moleculares associados a patógenos (PAMPs).",
+        "c": "Produção de anticorpos específicos contra antígenios virais.",
+        "d": "Mediação da citotoxicidade dependente de anticorpos (ADCC).",
+        "e": "Regulação da homeostase linfocitária nos órgãos linfóides secundários."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "TLRs são receptores de reconhecimento de padrões (PRRs) que detectam PAMPs (Padrões Moleculares Associados a Patógenos) e DAMPs (Padrões Moleculares Associados a Danos), iniciando respostas imunitárias inatas."
+    },
+    {
+      "numero": 29,
+      "tema": "II. Imunologia",
+      "enunciado": "A deficiência de C3, um componente crucial do sistema complemento, levaria a qual das seguintes consequências imunológicas?",
+      "alineas": {
+        "a": "Aumento da produção de imunoglobulina E (IgE).",
+        "b": "Diminuição da expressão de moléculas MHC de Classe I.",
+        "c": "Aumento da susceptibilidade a infecções bacterianas piogénicas e doenças por complexos imunes.",
+        "d": "Proliferação descontrolada de linfócitos T reguladores.",
+        "e": "Comprometimento selectivo da resposta antiviral mediada por IFN-α."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "C3 é central em todas as vias de activação do complemento, sendo essencial para a opsonização e lise de bactérias, bem como para a depuração de complexos imunes. A sua deficiência resulta em infecções recorrentes e autoimunidade."
+    },
+    {
+      "numero": 30,
+      "tema": "II. Imunologia",
+      "enunciado": "Qual a principal função dos linfócitos T reguladores (Treg) na resposta imunitária?",
+      "alineas": {
+        "a": "Produção de anticorpos de alta afinidade.",
+        "b": "Destruição de células infectadas por vírus.",
+        "c": "Supressão da activação e proliferação de outras células imunitárias.",
+        "d": "Apresentação de antigénios aos linfócitos B.",
+        "e": "Mediação da resposta inflamatória aguda."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Os linfócitos T reguladores (Treg), caracterizados pela expressão de FoxP3, são cruciais para manter a auto-tolerância e suprimir respostas imunitárias excessivas ou autoimunes."
+    },
+    {
+      "numero": 31,
+      "tema": "II. Imunologia",
+      "enunciado": "A Imunodeficiência Combinada Grave (SCID) é uma condição caracterizada por um defeito em qual das seguintes populações celulares principais?",
+      "alineas": {
+        "a": "Macrófagos e neutrófilos.",
+        "b": "Linfócitos T e B.",
+        "c": "Células Natural Killer (NK) e eosinófilos.",
+        "d": "Células dendríticas e mastócitos.",
+        "e": "Eritrócitos e plaquetas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A SCID é um grupo de doenças genéticas que resultam em defeitos graves na função e/ou desenvolvimento de linfócitos T e B, levando a uma imunodeficiência profunda e susceptibilidade a infecções."
+    },
+    {
+      "numero": 32,
+      "tema": "II. Imunologia",
+      "enunciado": "Um paciente com lúpus eritematoso sistémico (LES) apresenta níveis elevados de anticorpos anti-DNA de dupla hélice. Esta autoimunidade é classicamente associada a qual mecanismo de hipersensibilidade?",
+      "alineas": {
+        "a": "Tipo I (Imediata)",
+        "b": "Tipo II (Citotóxica)",
+        "c": "Tipo III (por Complexos Imunes)",
+        "d": "Tipo IV (Tardia)",
+        "e": "Citotoxicidade mediada por células dependente de anticorpos (ADCC)"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "No LES, os anticorpos anti-DNA formam complexos imunes que se depositam em vários tecidos (especialmente rins e vasos), activando o complemento e causando inflamação e lesão tecidular, característico da hipersensibilidade Tipo III."
+    },
+    {
+      "numero": 33,
+      "tema": "II. Imunologia",
+      "enunciado": "Num contexto de infecção viral persistente, a exaustão de linfócitos T CD8+ é um mecanismo imunopatológico complexo. Qual das seguintes citocinas está mais directamente implicada na indução e manutenção do estado de exaustão, inibindo a sua função efectora e proliferativa?",
+      "alineas": {
+        "a": "IL-2",
+        "b": "IFN-γ",
+        "c": "TNF-α",
+        "d": "IL-10",
+        "e": "IL-12"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A IL-10 é uma citocina imunossupressora que desempenha um papel crucial na indução e manutenção da exaustão de linfócitos T CD8+, limitando a sua função antiviral em infecções crónicas."
+    },
+    {
+      "numero": 34,
+      "tema": "II. Imunologia",
+      "enunciado": "A ativação de macrófagos por diferentes padrões moleculares tem implicações distintas na resposta imune. A polarização para um fenótipo M2 (alternativamente ativado) está associada primariamente a qual das seguintes funções?",
+      "alineas": {
+        "a": "Produção de óxido nítrico e citocinas pró-inflamatórias (TNF-α, IL-1β)",
+        "b": "Fagocitose de microrganismos e apresentação antigénica potente",
+        "c": "Reparação tecidual, angiogénese e supressão imune",
+        "d": "Secreção de IFN-γ e ativação de linfócitos T helper 1",
+        "e": "Destruição de células tumorais através de mecanismos citotóxicos"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Macrófagos M2 estão envolvidos na resolução da inflamação, reparação tecidual, angiogénese e supressão da resposta imune, em contraste com os M1 pró-inflamatórios."
+    },
+    {
+      "numero": 35,
+      "tema": "II. Imunologia",
+      "enunciado": "A via do complemento é um componente essencial da imunidade inata e adaptativa. Qual das seguintes proteínas do complemento é um potente anafilatoxina, contribuindo para a degranulação de mastócitos e aumento da permeabilidade vascular?",
+      "alineas": {
+        "a": "C1q",
+        "b": "C3b",
+        "c": "C5a",
+        "d": "Fator H",
+        "e": "C9"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "C5a e C3a são anafilatoxinas que induzem a degranulação de mastócitos e basófilos, resultando na libertação de mediadores vasoactivos que aumentam a permeabilidade vascular e promovem a inflamação."
+    },
+    {
+      "numero": 36,
+      "tema": "II. Imunologia",
+      "enunciado": "A tolerância imunológica é crucial para prevenir a autoimunidade. Qual dos seguintes mecanismos de tolerância central envolve primariamente a eliminação de linfócitos T autorreativos no timo através de apoptose?",
+      "alineas": {
+        "a": "Anergia",
+        "b": "Supressão por células T reguladoras",
+        "c": "Seleção negativa",
+        "d": "Apresentação antigénica sem coestimulação",
+        "e": "Edição de recetores"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A seleção negativa é o processo de eliminação (por apoptose) de linfócitos T no timo que reconhecem com alta afinidade autoantigénios apresentados pelo MHC próprio, prevenindo a autoimunidade."
+    },
+    {
+      "numero": 37,
+      "tema": "II. Imunologia",
+      "enunciado": "As células dendríticas plasmocitóides (pDCs) são reconhecidas pela sua capacidade de produzir grandes quantidades de uma citocina específica em resposta a infecções virais. Qual é essa citocina-chave?",
+      "alineas": {
+        "a": "IL-4",
+        "b": "IL-17",
+        "c": "IFN tipo I (IFN-α/β)",
+        "d": "IL-6",
+        "e": "TGF-β"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "As pDCs são as principais produtoras de IFN tipo I (IFN-α/β) durante infecções virais, desempenhando um papel crucial na defesa antiviral inata."
+    },
+    {
+      "numero": 38,
+      "tema": "II. Imunologia",
+      "enunciado": "A citotoxicidade mediada por células dependente de anticorpos (ADCC) é um mecanismo efector importante. Qual tipo de célula efectora é predominantemente responsável por iniciar a ADCC, reconhecendo a porção Fc de anticorpos ligados a células-alvo via o recetor CD16 (FcγRIIIA)?",
+      "alineas": {
+        "a": "Linfócitos T citotóxicos (CTLs)",
+        "b": "Macrófagos",
+        "c": "Células Natural Killer (NK)",
+        "d": "Neutrófilos",
+        "e": "Células B"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "As células NK são as principais mediadoras da ADCC, reconhecendo anticorpos IgG ligados a células-alvo através do seu recetor CD16 (FcγRIIIA), levando à lise da célula-alvo."
+    },
+    {
+      "numero": 39,
+      "tema": "II. Imunologia",
+      "enunciado": "A regulação negativa da resposta imune é vital para evitar danos teciduais excessivos. Qual das seguintes moléculas de superfície celular, expressa em linfócitos T ativados, atua como um 'checkpoint' imunitário, inibindo a proliferação e função dos linfócitos T ao ligar-se aos seus ligandos B7.1/B7.2 nas células apresentadoras de antigénio?",
+      "alineas": {
+        "a": "CD28",
+        "b": "ICOS",
+        "c": "CTLA-4",
+        "d": "PD-1",
+        "e": "OX40"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "CTLA-4 (CD152) é um recetor inibitório que compete com o CD28 pela ligação aos ligandos B7.1/B7.2, suprimindo a ativação e proliferação de linfócitos T e promovendo a tolerância."
+    },
+    {
+      "numero": 40,
+      "tema": "II. Imunologia",
+      "enunciado": "Na resposta imune contra helmintas e em reações alérgicas, uma subpopulação específica de linfócitos T helper desempenha um papel central, produzindo IL-4, IL-5 e IL-13. Qual é essa subpopulação?",
+      "alineas": {
+        "a": "Th1",
+        "b": "Th17",
+        "c": "Treg",
+        "d": "Th2",
+        "e": "Tfh"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Os linfócitos Th2 são caracterizados pela produção de IL-4, IL-5 e IL-13, citocinas essenciais para a resposta imune contra helmintas e para o desenvolvimento de reações alérgicas mediadas por IgE."
+    },
+    {
+      "numero": 41,
+      "tema": "II. Imunologia",
+      "enunciado": "Qual o principal mecanismo pelo qual os superantigénios bacterianos ativam os linfócitos T, levando a uma libertação maciça de citocinas e uma síndrome de choque tóxico?",
+      "alineas": {
+        "a": "Ligação a recetores TCR específicos do antigénio processado pelo MHC.",
+        "b": "Ligação direta e não específica ao TCR e ao MHC classe II, fora do sulco de ligação peptídica.",
+        "c": "Ativação de vias de sinalização intracelulares sem envolvimento do TCR.",
+        "d": "Indução da expressão de moléculas de coestimulação nas células apresentadoras de antigénio.",
+        "e": "Mimetismo molecular de autoantigénios."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Superantigénios ligam-se simultaneamente e de forma não específica às cadeias β do TCR e à região não polimórfica do MHC classe II, ativando um grande número de linfócitos T independentemente da especificidade antigénica."
+    },
+    {
+      "numero": 42,
+      "tema": "II. Imunologia",
+      "enunciado": "Os corpos de Hassall, estruturas epiteliais no timo, são conhecidos por desempenhar um papel na indução de tolerância. Qual é a principal função atribuída aos corpos de Hassall neste contexto?",
+      "alineas": {
+        "a": "Produção de linfócitos B maduros.",
+        "b": "Secreção de hormonas que promovem a diferenciação de células NK.",
+        "c": "Apresentação de autoantigénios para a seleção negativa e indução de Tregs.",
+        "d": "Actuar como um local de armazenamento para linfócitos T de memória.",
+        "e": "Fagocitose de células apoptóticas na medula tímica."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Os corpos de Hassall contribuem para a indução da tolerância central ao apresentar autoantigénios e promover a diferenciação de células T reguladoras (Tregs) no timo, essenciais para prevenir a autoimunidade."
+    },
+    {
+      "numero": 43,
+      "tema": "II. Imunologia",
+      "enunciado": "A translocação de Ig da membrana para a forma secretada, como na diferenciação de linfócitos B em plasmócitos, envolve um processo de processamento de RNA. Qual é o principal mecanismo molecular que permite essa mudança da forma transmembranar para a forma secretada da imunoglobulina?",
+      "alineas": {
+        "a": "Recombinação V(D)J",
+        "b": "Mutação somática",
+        "c": "Splicing alternativo do mRNA",
+        "d": "Edição de recetores",
+        "e": "Troca de classe de isotipo"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O splicing alternativo do mRNA é o mecanismo molecular que determina se a imunoglobulina será expressa como uma proteína transmembranar (recetor BCR) ou secretada (anticorpo solúvel), dependendo da inclusão ou exclusão de exões que codificam o domínio transmembranar."
+    },
+    {
+      "numero": 44,
+      "tema": "II. Imunologia",
+      "enunciado": "A síndroma de DiGeorge é caracterizada por uma aplasia ou hipoplasia do timo, resultando em deficiência de linfócitos T. Qual das seguintes é a principal complicação imunológica esperada nestes pacientes?",
+      "alineas": {
+        "a": "Aumento da suscetibilidade a infecções bacterianas encapsuladas.",
+        "b": "Deficiência primária na produção de anticorpos IgE.",
+        "c": "Imunodeficiência celular grave e suscetibilidade a infecções oportunistas.",
+        "d": "Aumento da prevalência de doenças autoimunes.",
+        "e": "Disfunção dos macrófagos e da fagocitose."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A ausência ou hipoplasia do timo na Síndrome de DiGeorge resulta na falta de desenvolvimento e maturação de linfócitos T, levando a uma imunodeficiência celular grave e maior suscetibilidade a infecções oportunistas e virais."
+    },
+    {
+      "numero": 45,
+      "tema": "II. Imunologia",
+      "enunciado": "A modulação da resposta imune é importante em diversas imunoterapias. Qual classe de anticorpos monoclonais é frequentemente utilizada para bloquear os 'checkpoints' imunitários como PD-1 ou CTLA-4, visando reativar a resposta antitumoral dos linfócitos T?",
+      "alineas": {
+        "a": "Anticorpos agonistas",
+        "b": "Anticorpos citotóxicos",
+        "c": "Anticorpos neutralizantes",
+        "d": "Anticorpos bloqueadores (inibidores)",
+        "e": "Anticorpos conjugados com toxinas"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Anticorpos bloqueadores (inibidores) são usados para impedir a interação de 'checkpoints' imunitários como PD-1 ou CTLA-4 com os seus ligandos, 'libertando' os linfócitos T da inibição e permitindo-lhes atacar células tumorais."
+    },
+    {
+      "numero": 46,
+      "tema": "II. Imunologia",
+      "enunciado": "Durante o desenvolvimento de linfócitos B, a recombinação V(D)J é um processo fundamental. Em que fase do desenvolvimento de linfócitos B, na medula óssea, ocorre a recombinação dos segmentos D-J e V-DJ da cadeia pesada das imunoglobulinas?",
+      "alineas": {
+        "a": "Célula Pro-B",
+        "b": "Célula Pre-B",
+        "c": "Célula B imatura",
+        "d": "Célula B madura",
+        "e": "Plasmócito"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A recombinação dos segmentos D-J e V-DJ da cadeia pesada ocorre na fase de célula Pro-B, resultando na expressão da cadeia pesada µ e na formação do recetor pré-B."
+    },
+    {
+      "numero": 47,
+      "tema": "II. Imunologia",
+      "enunciado": "Qual das seguintes citocinas é essencial para a proliferação e diferenciação de linfócitos T CD8+ em células T citotóxicas maduras, além de ser um factor de crescimento para outras células linfóides?",
+      "alineas": {
+        "a": "IL-1β",
+        "b": "IL-6",
+        "c": "IL-2",
+        "d": "TNF-α",
+        "e": "IL-10"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A IL-2 é uma citocina crucial para a proliferação, diferenciação e sobrevivência de linfócitos T, especialmente CD8+, atuando como um fator de crescimento autócrino e parácrino."
+    },
+    {
+      "numero": 48,
+      "tema": "II. Imunologia",
+      "enunciado": "A apresentação cruzada (cross-presentation) é um mecanismo especializado de apresentação de antigénios. Qual das seguintes células apresentadoras de antigénio é mais eficientemente capaz de realizar a apresentação cruzada de antigénios exógenos a linfócitos T CD8+?",
+      "alineas": {
+        "a": "Macrófagos",
+        "b": "Linfócitos B",
+        "c": "Células dendríticas convencionais (cDCs)",
+        "d": "Células epiteliais tímicas",
+        "e": "Neutrófilos"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "As células dendríticas convencionais (cDCs), e em particular algumas subpopulações, são as principais células capazes de realizar a apresentação cruzada, internalizando antigénios exógenos e apresentando-os via MHC classe I a linfócitos T CD8+."
+    },
+    {
+      "numero": 49,
+      "tema": "II. Imunologia",
+      "enunciado": "A apoptose é um processo crucial na regulação da resposta imune. Qual das seguintes moléculas de superfície celular é um recetor de morte que, ao ligar-se ao seu ligando correspondente (FasL), induz a via extrínseca de apoptose em linfócitos, contribuindo para a contração da resposta imune após a eliminação da infeção?",
+      "alineas": {
+        "a": "CD2",
+        "b": "CD4",
+        "c": "Fas (CD95)",
+        "d": "CD28",
+        "e": "MHC classe I"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Fas (CD95) é um recetor de morte que, ao ser ativado pelo seu ligando FasL, inicia a via extrínseca de apoptose, fundamental para a eliminação de linfócitos ativados e autorreativos, regulando a duração e magnitude da resposta imune."
+    },
+    {
+      "numero": 50,
+      "tema": "III. Hematologia",
+      "enunciado": "Um paciente pediátrico de 3 anos apresenta palidez mucocutânea severa, esplenomegalia e icterícia. O hemograma revela anemia microcítica hipocrómica, com valores de hemoglobina de 6.5 g/dL, VCM de 62 fL e HCM de 20 pg. A eletroforese de hemoglobina mostra um aumento significativo de HbF e HbA2, com ausência de HbA. Qual o diagnóstico mais provável?",
+      "alineas": {
+        "a": "Anemia ferropénica severa",
+        "b": "Anemia de doença crónica",
+        "c": "Alfa-talassemia maior (doença de Bart)",
+        "d": "Beta-talassemia maior (anemia de Cooley)",
+        "e": "Esferocitose hereditária"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A anemia microcítica hipocrómica severa, esplenomegalia, icterícia e os achados na eletroforese de hemoglobina (aumento de HbF e HbA2, ausência de HbA) são característicos da beta-talassemia maior."
+    },
+    {
+      "numero": 51,
+      "tema": "III. Hematologia",
+      "enunciado": "Num esfregaço de sangue periférico de um paciente com suspeita de leucemia mieloide aguda (LMA), a presença de Corpúsculos de Auer é patognomónica. Estas estruturas são:",
+      "alineas": {
+        "a": "Agregados de ribossomas incompletos",
+        "b": "Inclusões citoplasmáticas de DNA viral",
+        "c": "Cristais formados por mieloperoxidase e outras enzimas lisossomais",
+        "d": "Depósitos de ferro não-heme em macrófagos",
+        "e": "Vacúolos lipidicos aberrantes"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Os Corpúsculos de Auer são inclusões citoplasmáticas em forma de bastonete, compostas por grânulos primários (lisossomas) e mieloperoxidase, sendo patognomónicas de células mieloides blásticas na LMA."
+    },
+    {
+      "numero": 52,
+      "tema": "III. Hematologia",
+      "enunciado": "Qual das seguintes alterações é tipicamente observada no hemograma completo de um paciente com policitemia vera?",
+      "alineas": {
+        "a": "Leucopenia, trombocitopenia e macrocitose",
+        "b": "Eritrocitose, leucocitose e trombocitose",
+        "c": "Anemia, neutrofilia e eosinofilia",
+        "d": "Pancitopenia com dacriócitos",
+        "e": "Hemoglobina normal, VCM elevado e reticulocitose"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A policitemia vera é uma neoplasia mieloproliferativa crónica caracterizada pelo aumento da produção de todas as linhagens celulares, resultando em eritrocitose, leucocitose e trombocitose."
+    },
+    {
+      "numero": 53,
+      "tema": "III. Hematologia",
+      "enunciado": "Um paciente é diagnosticado com Púrpura Trombocitopénica Imune (PTI). Qual é o mecanismo fisiopatológico primário desta condição?",
+      "alineas": {
+        "a": "Produção inadequada de plaquetas pela medula óssea",
+        "b": "Destruição acelerada de plaquetas mediada por autoanticorpos",
+        "c": "Sequestro esplénico excessivo de plaquetas",
+        "d": "Consumo de plaquetas devido a microangiopatia trombótica",
+        "e": "Deficiência congénita de glicoproteínas plaquetárias"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A PTI é caracterizada pela destruição acelerada de plaquetas mediada por autoanticorpos dirigidos contra glicoproteínas da membrana plaquetária, resultando em trombocitopenia."
+    },
+    {
+      "numero": 54,
+      "tema": "III. Hematologia",
+      "enunciado": "Qual dos seguintes parâmetros laboratoriais é o indicador mais sensível e específico de deficiência de ferro nos estágios iniciais, antes do desenvolvimento de anemia manifesta?",
+      "alineas": {
+        "a": "Hemoglobina",
+        "b": "Volume Corpuscular Médio (VCM)",
+        "c": "Ferritina sérica",
+        "d": "Saturação da transferrina",
+        "e": "Contagem de reticulócitos"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A ferritina sérica reflete os depósitos de ferro do organismo. Níveis baixos de ferritina são o primeiro sinal de deficiência de ferro, mesmo antes da anemia se manifestar."
+    },
+    {
+      "numero": 55,
+      "tema": "III. Hematologia",
+      "enunciado": "Num paciente com suspeita de anemia hemolítica autoimune quente, qual teste laboratorial seria o mais apropriado para confirmar a etiologia autoimune?",
+      "alineas": {
+        "a": "Teste de Coombs indireto",
+        "b": "Eletroforese de hemoglobina",
+        "c": "Teste de Coombs direto (TCD)",
+        "d": "Osmolaridade sérica",
+        "e": "Cariótipo"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Teste de Coombs direto (TCD) deteta anticorpos ou complemento fixados na superfície dos eritrócitos, sendo o teste confirmatório para anemias hemolíticas autoimunes."
+    },
+    {
+      "numero": 56,
+      "tema": "III. Hematologia",
+      "enunciado": "Qual a principal função da eritropoietina?",
+      "alineas": {
+        "a": "Estimular a produção de plaquetas",
+        "b": "Promover a diferenciação de linfócitos B",
+        "c": "Induzir a proliferação e diferenciação de precursores eritroides na medula óssea",
+        "d": "Regular a hemostasia primária",
+        "e": "Aumentar a fagocitose de microrganismos"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A eritropoietina é uma hormona produzida principalmente pelos rins que estimula a medula óssea a produzir glóbulos vermelhos, regulando assim a eritropoiese."
+    },
+    {
+      "numero": 57,
+      "tema": "III. Hematologia",
+      "enunciado": "Um esfregaço de sangue periférico mostra a presença de 'rouleaux'. Este achado é frequentemente associado a qual das seguintes condições?",
+      "alineas": {
+        "a": "Anemia falciforme",
+        "b": "Esferocitose hereditária",
+        "c": "Mieloma múltiplo",
+        "d": "Deficiência de G6PD",
+        "e": "Anemia aplástica"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A formação de 'rouleaux' (pilhas de eritrócitos) é comum em condições com altos níveis de proteínas plasmáticas, como imunoglobulinas no mieloma múltiplo, que alteram as cargas de superfície dos eritrócitos."
+    },
+    {
+      "numero": 58,
+      "tema": "III. Hematologia",
+      "enunciado": "Qual dos seguintes fatores de coagulação é dependente da vitamina K?",
+      "alineas": {
+        "a": "Fator VIII",
+        "b": "Fator V",
+        "c": "Fator VII",
+        "d": "Fator XIII",
+        "e": "Fator XI"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Os fatores de coagulação II (protrombina), VII, IX e X, bem como as proteínas C e S, são sintetizados no fígado e requerem vitamina K para a sua ativação."
+    },
+    {
+      "numero": 59,
+      "tema": "III. Hematologia",
+      "enunciado": "A doença de Von Willebrand é o distúrbio de coagulação hereditário mais comum. Qual é a sua principal característica?",
+      "alineas": {
+        "a": "Deficiência do Fator VIII",
+        "b": "Anomalia qualitativa ou quantitativa do fator de Von Willebrand",
+        "c": "Deficiência do Fator IX",
+        "d": "Deficiência de plaquetas",
+        "e": "Excesso de antitrombina III"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A doença de Von Willebrand é causada por uma deficiência ou disfunção do fator de Von Willebrand, que é essencial para a adesão plaquetária e para proteger o fator VIII da degradação."
+    },
+    {
+      "numero": 60,
+      "tema": "III. Hematologia",
+      "enunciado": "Um paciente apresenta hepatoesplenomegalia maciça, linfadenopatia generalizada, leucocitose significativa com linfócitos maduros anormais ('smudge cells') no esfregaço sanguíneo. Qual o diagnóstico mais provável?",
+      "alineas": {
+        "a": "Leucemia mieloide crónica (LMC)",
+        "b": "Leucemia linfoide aguda (LLA)",
+        "c": "Leucemia linfoide crónica (LLC)",
+        "d": "Linfoma de Hodgkin",
+        "e": "Mononucleose infeciosa"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "As 'smudge cells' (células esmagadas) num contexto de linfocitose madura, linfadenopatia e hepatoesplenomegalia são características da Leucemia Linfoide Crónica (LLC)."
+    },
+    {
+      "numero": 61,
+      "tema": "III. Hematologia",
+      "enunciado": "Qual das seguintes condições clínicas é um fator de risco significativo para o desenvolvimento de trombose venosa profunda (TVP)?",
+      "alineas": {
+        "a": "Anemia ferropénica",
+        "b": "Hemofilia A",
+        "c": "Deficiência de Proteína C",
+        "d": "Trombocitopenia imune",
+        "e": "Anemia aplástica"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A deficiência de Proteína C é uma trombofilia hereditária que leva a um estado de hipercoagulabilidade, aumentando significativamente o risco de trombose venosa."
+    },
+    {
+      "numero": 62,
+      "tema": "III. Hematologia",
+      "enunciado": "Num paciente com deficiência de vitamina B12, qual o tipo de anemia mais comumente observado?",
+      "alineas": {
+        "a": "Anemia microcítica hipocrómica",
+        "b": "Anemia normocítica normocrómica",
+        "c": "Anemia macrocítica megaloblástica",
+        "d": "Anemia hemolítica",
+        "e": "Anemia sideroblástica"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A deficiência de vitamina B12 (e folato) interfere na síntese de DNA, resultando na produção de eritrócitos grandes e imaturos, caracterizando a anemia macrocítica megaloblástica."
+    },
+    {
+      "numero": 63,
+      "tema": "III. Hematologia",
+      "enunciado": "A heparina não fracionada exerce o seu efeito anticoagulante primariamente através da potencialização da ação de qual inibidor natural da coagulação?",
+      "alineas": {
+        "a": "Proteína S",
+        "b": "Proteína C",
+        "c": "Trombomodulina",
+        "d": "Antitrombina III",
+        "e": "Inibidor do Fator Tecidual (TFPI)"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A heparina não fracionada liga-se à antitrombina III, alterando a sua conformação e aumentando significativamente a sua capacidade de inativar a trombina e o fator Xa."
+    },
+    {
+      "numero": 64,
+      "tema": "III. Hematologia",
+      "enunciado": "Qual dos seguintes achados morfológicos nos eritrócitos é mais característico de uma hemopatia grave com comprometimento da medula óssea, como mielofibrose ou infiltração medular?",
+      "alineas": {
+        "a": "Esferócitos",
+        "b": "Dacriócitos ('tear-drop cells')",
+        "c": "Eliptócitos",
+        "d": "Células-alvo",
+        "e": "Corpos de Heinz"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Os dacriócitos, ou células em lágrima, são frequentemente observados em esfregaços de sangue periférico em pacientes com mielofibrose e outras condições de infiltração medular, refletindo a tentativa da medula de produzir eritrócitos sob stress."
+    },
+    {
+      "numero": 65,
+      "tema": "III. Hematologia",
+      "enunciado": "Um paciente oncológico em quimioterapia intensiva desenvolve neutropenia febril. Qual o principal risco associado a esta condição?",
+      "alineas": {
+        "a": "Hemorragia grave",
+        "b": "Trombose",
+        "c": "Choque séptico e infeções fatais",
+        "d": "Anemia hemolítica",
+        "e": "Doença enxerto-contra-hospedeiro"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A neutropenia febril é uma emergência oncológica, pois a ausência de neutrófilos funcionais deixa o paciente extremamente vulnerável a infeções bacterianas e fúngicas com rápido desenvolvimento de sépsis e choque."
+    },
+    {
+      "numero": 66,
+      "tema": "III. Hematologia",
+      "enunciado": "Qual a principal função dos eosinófilos?",
+      "alineas": {
+        "a": "Fagocitose de bactérias",
+        "b": "Produção de anticorpos",
+        "c": "Modulação de reações alérgicas e defesa contra parasitas",
+        "d": "Transporte de oxigénio",
+        "e": "Coagulação sanguínea"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Os eosinófilos são leucócitos granulócitos com um papel crucial na defesa contra infeções parasitárias e na modulação de reações alérgicas e inflamatórias."
+    },
+    {
+      "numero": 67,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Um paciente em Luanda apresenta um quadro de febre tifoide, e o laboratório realiza um teste de aglutinação de Widal. Qual é a principal limitação deste teste no diagnóstico precoce da doença?",
+      "alineas": {
+        "a": "Alta especificidade, mas baixa sensibilidade na fase aguda.",
+        "b": "Detecção tardia de anticorpos, podendo resultar em falsos negativos no início da infecção.",
+        "c": "Interferência com vacinas prévias contra febre tifoide, causando falsos positivos.",
+        "d": "Necessidade de amostras de medula óssea para resultados conclusivos.",
+        "e": "Resultados imprecisos devido à presença de anticorpos de reatividade cruzada com outras enterobactérias."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O teste de Widal detecta anticorpos que só se elevam significativamente na segunda semana da doença, resultando em falsos negativos no início da infecção."
+    },
+    {
+      "numero": 68,
+      "tema": "IV. Microbiologia",
+      "enunciado": "No contexto da coloração de Gram, qual o efeito da omissão do iodo de Gram na visualização de bactérias Gram-positivas?",
+      "alineas": {
+        "a": "As bactérias Gram-positivas aparecerão vermelhas/rosadas, semelhante às Gram-negativas.",
+        "b": "As bactérias Gram-positivas não serão coradas, permanecendo incolores.",
+        "c": "A parede celular das bactérias Gram-positivas será danificada, impedindo a adesão do corante.",
+        "d": "O cristal violeta não conseguirá penetrar na parede celular, resultando em células incolores.",
+        "e": "A diferenciação entre Gram-positivas e Gram-negativas será mais acentuada."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O iodo de Gram forma um complexo insolúvel com o cristal violeta dentro da célula Gram-positiva. Sem ele, o cristal violeta é facilmente lavado pelo álcool-acetona, e as células coram-se de vermelho/rosado com a safranina."
+    },
+    {
+      "numero": 69,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Um surto de toxi-infecção alimentar em Viana é associado ao consumo de carne de porco mal cozida. Qual dos seguintes agentes é o mais provável causador, dada essa epidemiologia e o facto de ser uma bactéria termotolerante?",
+      "alineas": {
+        "a": "Escherichia coli O157:H7",
+        "b": "Salmonella Typhi",
+        "c": "Clostridium perfringens",
+        "d": "Yersinia enterocolitica",
+        "e": "Listeria monocytogenes"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Yersinia enterocolitica é frequentemente associada a produtos suínos e pode causar gastroenterite. É uma bactéria psicrófila, mas consegue resistir a temperaturas mais elevadas."
+    },
+    {
+      "numero": 70,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Na identificação de Mycobacterium tuberculosis por microscopia, após a coloração de Ziehl-Neelsen, qual a característica morfológica distintiva observada?",
+      "alineas": {
+        "a": "Bacilos Gram-positivos agrupados em cachos.",
+        "b": "Bacilos ácido-álcool resistentes, corados de vermelho, dispostos isoladamente ou em pequenos grupos.",
+        "c": "Cocos Gram-negativos em cadeias longas.",
+        "d": "Espiroquetas finas e altamente móveis.",
+        "e": "Filamentos miceliares azulados com esporos."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A coloração de Ziehl-Neelsen revela os bacilos ácido-álcool resistentes (BAAR) de M. tuberculosis, que retêm a fucsina e aparecem vermelhos, contrastando com o azul de metileno do fundo."
+    },
+    {
+      "numero": 71,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Qual dos seguintes métodos de esterilização é o mais adequado para materiais termossensíveis, como plásticos e dispositivos médicos complexos, que não podem ser submetidos a altas temperaturas ou vapor?",
+      "alineas": {
+        "a": "Autoclavagem.",
+        "b": "Forno de Pasteu (calor seco).",
+        "c": "Radiação gama.",
+        "d": "Filtração de membranas.",
+        "e": "Flamejamento."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A radiação gama é eficaz para esterilizar materiais termossensíveis, pois penetra profundamente sem elevar significativamente a temperatura do material."
+    },
+    {
+      "numero": 72,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Um hemocultivo de um paciente com septicemia em Luanda revela a presença de cocos Gram-positivos em cachos, catalase-positivos e coagulase-positivos. Qual o agente etiológico mais provável?",
+      "alineas": {
+        "a": "Streptococcus pyogenes",
+        "b": "Staphylococcus epidermidis",
+        "c": "Staphylococcus aureus",
+        "d": "Enterococcus faecalis",
+        "e": "Streptococcus pneumoniae"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Staphylococcus aureus é o único entre as opções que é um coco Gram-positivo em cachos, catalase-positivo e coagulase-positivo, características chave para a sua identificação."
+    },
+    {
+      "numero": 73,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Qual a função primária do ágar MacConkey na bacteriologia clínica?",
+      "alineas": {
+        "a": "Isolamento primário de cocos Gram-positivos.",
+        "b": "Crescimento de microrganismos anaeróbios estritos.",
+        "c": "Meio seletivo e diferencial para bacilos Gram-negativos entéricos, diferenciando-os pela fermentação da lactose.",
+        "d": "Crescimento de fungos e leveduras.",
+        "e": "Isolamento de bactérias nutricionalmente exigentes."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O ágar MacConkey é um meio seletivo para Gram-negativos e diferencial pela lactose, indicando fermentadores (colónias rosadas) e não fermentadores (colónias incolores)."
+    },
+    {
+      "numero": 74,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Um paciente pediátrico em Benguela apresenta adenopatia cervical e uma cultura de garganta revela a presença de bacilos Gram-negativos pleomórficos. Qual dos seguintes agentes é um causador comum de epiglotite e meningite em crianças não vacinadas?",
+      "alineas": {
+        "a": "Bordetella pertussis",
+        "b": "Haemophilus influenzae tipo b",
+        "c": "Moraxella catarrhalis",
+        "d": "Neisseria meningitidis",
+        "e": "Streptococcus pneumoniae"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Haemophilus influenzae tipo b (Hib) é um bacilo Gram-negativo pleomórfico, conhecido por causar epiglotite e meningite em crianças, especialmente em populações não vacinadas."
+    },
+    {
+      "numero": 75,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Na análise de uma amostra de urina, a presença de mais de 10^5 unidades formadoras de colónias (UFC) por mL de um único tipo de bactéria é geralmente considerada indicativa de infecção urinária. Qual o método de cultura mais apropriado para quantificar UFC numa amostra de urina?",
+      "alineas": {
+        "a": "Cultura em caldo de enriquecimento.",
+        "b": "Semeadura em estria em ágar sangue, sem quantificação.",
+        "c": "Semeadura quantitativa utilizando ansa calibrada.",
+        "d": "Teste de sensibilidade aos antibióticos (antibiograma).",
+        "e": "Utilização de ágar seletivo para anaeróbios."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A semeadura quantitativa com ansa calibrada (ex: 0,001 mL) permite o cálculo direto das UFC/mL, essencial para o diagnóstico de infecção urinária."
+    },
+    {
+      "numero": 76,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Qual dos seguintes é o método mais eficaz para inactivar esporos bacterianos, garantindo a esterilidade de instrumentos cirúrgicos metálicos resistentes ao calor?",
+      "alineas": {
+        "a": "Fervura por 10 minutos.",
+        "b": "Desinfecção com álcool 70%.",
+        "c": "Autoclavagem a 121°C e 15 psi por 15-20 minutos.",
+        "d": "Exposição a luz ultravioleta.",
+        "e": "Utilização de detergentes enzimáticos."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A autoclavagem é o método de escolha para esterilização de materiais termorresistentes, pois a combinação de calor húmido e pressão é eficaz na eliminação de esporos bacterianos."
+    },
+    {
+      "numero": 77,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Um técnico de laboratório em Cacuaco observa ao microscópio, numa amostra de líquor, a presença de leveduras encapsuladas com brotamento em forma de gema de ovo. Qual o agente etiológico mais provável de meningite fúngica, especialmente em pacientes imunocomprometidos?",
+      "alineas": {
+        "a": "Candida albicans",
+        "b": "Aspergillus fumigatus",
+        "c": "Cryptococcus neoformans",
+        "d": "Histoplasma capsulatum",
+        "e": "Pneumocystis jirovecii"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Cryptococcus neoformans é uma levedura encapsulada que se reproduz por brotamento e é uma causa comum de meningite fúngica, particularmente em indivíduos imunocomprometidos."
+    },
+    {
+      "numero": 78,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Um paciente é diagnosticado com difteria. Qual o principal fator de virulência de Corynebacterium diphtheriae responsável pela toxicidade sistémica da doença?",
+      "alineas": {
+        "a": "Endotoxina.",
+        "b": "Cápsula polissacarídica.",
+        "c": "Exotoxina diftérica.",
+        "d": "Enzimas coagulase.",
+        "e": "Proteína M."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A exotoxina diftérica é a principal responsável pelas manifestações sistémicas e graves da difteria, atuando na inibição da síntese proteica celular."
+    },
+    {
+      "numero": 79,
+      "tema": "IV. Microbiologia",
+      "enunciado": "No diagnóstico laboratorial da sífilis, qual teste é utilizado para monitorizar a eficácia do tratamento e detetar recidivas, devido à sua natureza quantitativa e correlação com a atividade da doença?",
+      "alineas": {
+        "a": "FTA-Abs (Fluorescent Treponemal Antibody Absorption).",
+        "b": "TPPA (Treponema Pallidum Particle Agglutination).",
+        "c": "VDRL (Venereal Disease Research Laboratory).",
+        "d": "ELISA (Enzyme-Linked Immunosorbent Assay) treponémico.",
+        "e": "Microscopia de campo escuro."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O VDRL é um teste não treponémico que mede anticorpos reaginicos e seus títulos diminuem com o tratamento, sendo útil para monitorização e detecção de recidivas."
+    },
+    {
+      "numero": 80,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Qual dos seguintes vírus é conhecido por causar hepatite fulminante em gestantes e está associado a surtos epidémicos em regiões com saneamento deficiente, como por vezes observado em Angola?",
+      "alineas": {
+        "a": "Vírus da Hepatite A (VHA).",
+        "b": "Vírus da Hepatite B (VHB).",
+        "c": "Vírus da Hepatite C (VHC).",
+        "d": "Vírus da Hepatite D (VHD).",
+        "e": "Vírus da Hepatite E (VHE)."
+      },
+      "resposta_correcta": "e",
+      "justificativa": "O Vírus da Hepatite E (VHE) é transmitido por via fecal-oral, causa surtos em áreas com saneamento deficiente e pode levar a hepatite fulminante, especialmente em gestantes."
+    },
+    {
+      "numero": 81,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Amostras clínicas destinadas à cultura para microrganismos anaeróbios exigem um manuseamento especial. Qual a condição crítica a ser mantida durante a colheita e transporte para garantir a viabilidade destes microrganismos?",
+      "alineas": {
+        "a": "Refrigeração imediata da amostra.",
+        "b": "Exposição prolongada ao ar ambiente para inibir contaminantes.",
+        "c": "Utilização de meios de transporte anaeróbios e minimização da exposição ao oxigénio.",
+        "d": "Adição de formaldeído para preservação.",
+        "e": "Armazenamento em estufa a 37°C durante o transporte."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Microrganismos anaeróbios estritos são inibidos ou mortos pelo oxigénio, tornando crucial a utilização de meios de transporte anaeróbios e a minimização da exposição ao ar."
+    },
+    {
+      "numero": 82,
+      "tema": "IV. Microbiologia",
+      "enunciado": "No diagnóstico laboratorial da malária, um técnico em Malanje observa ao microscópio parasitas intracelulares em anel, trofozoítos e esquizontes na forma de roseta, com macrogametócitos em forma de \"banana\" ou \"crescente\". Qual a espécie de Plasmodium identificada?",
+      "alineas": {
+        "a": "Plasmodium vivax.",
+        "b": "Plasmodium ovale.",
+        "c": "Plasmodium malariae.",
+        "d": "Plasmodium falciparum.",
+        "e": "Plasmodium knowlesi."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A presença de gametócitos em forma de banana ou crescente é patognomónica de Plasmodium falciparum, a espécie mais virulenta e comum de malária em Angola."
+    },
+    {
+      "numero": 83,
+      "tema": "IV. Microbiologia",
+      "enunciado": "Um paciente em Luanda apresenta diarreia aquosa profusa ('água de arroz') sem febre, após consumir marisco. A cultura de fezes em TCBS (Thiosulfate Citrate Bile Salts Sucrose) revela colónias amarelas. Qual o agente etiológico mais provável?",
+      "alineas": {
+        "a": "Escherichia coli enterotoxigénica (ETEC).",
+        "b": "Shigella dysenteriae.",
+        "c": "Campylobacter jejuni.",
+        "d": "Vibrio cholerae.",
+        "e": "Salmonella enteritidis."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Vibrio cholerae causa diarreia aquosa grave e cresce em colónias amarelas no ágar TCBS, sendo frequentemente associado ao consumo de marisco contaminado."
+    },
+    {
+      "numero": 84,
+      "tema": "V. Urinologia",
+      "enunciado": "Numa amostra de urina, a presença de cristais de cistina é clinicamente significativa porque indica um erro inato do metabolismo. Qual das seguintes afirmações melhor descreve a sua morfologia característica e a condição patológica associada?",
+      "alineas": {
+        "a": "Cristais em forma de agulha, associados a insuficiência renal aguda.",
+        "b": "Cristais hexagonais incolores, sugestivos de cistinúria.",
+        "c": "Cristais em forma de 'caixão' (envelope), frequentemente vistos em casos de hiperoxalúria.",
+        "d": "Cristais de estruvita (fosfato amónio-magnesiano), indicativos de infeção do trato urinário por bactérias produtoras de urease.",
+        "e": "Cristais de ácido úrico pleomórficos, observados em gota ou quimioterapia."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Os cristais de cistina são caracteristicamente hexagonais e incolores, e a sua presença na urina é patognomónica de cistinúria, uma doença genética que impede a reabsorção tubular de cistina."
+    },
+    {
+      "numero": 85,
+      "tema": "V. Urinologia",
+      "enunciado": "Um paciente queixa-se de disúria e dor suprapúbica. A análise sumária de urina revela pH de 8.5, nitritos positivos e grande quantidade de leucócitos. Qual é o agente etiológico mais provável, e qual a sua implicação no pH urinário?",
+      "alineas": {
+        "a": "Escherichia coli, que acidifica a urina.",
+        "b": "Pseudomonas aeruginosa, que alcaliniza a urina.",
+        "c": "Staphylococcus saprophyticus, que não afeta o pH significativamente.",
+        "d": "Proteus mirabilis, que alcaliniza a urina devido à produção de urease.",
+        "e": "Candida albicans, que mantém o pH neutro."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Proteus mirabilis é um agente comum de infeções urinárias que produz urease, enzima que hidrolisa a ureia em amónia, alcalinizando a urina e elevando o pH para valores como 8.5, o que favorece a formação de cálculos de estruvite."
+    },
+    {
+      "numero": 86,
+      "tema": "V. Urinologia",
+      "enunciado": "A microalbuminúria é um marcador precoce de neuropatia diabética. Qual o método de recolha de urina mais adequado para a sua deteção e qual o limite considerado para o diagnóstico?",
+      "alineas": {
+        "a": "Urina de primeira micção matinal, com valores entre 20 e 200 µg/min.",
+        "b": "Urina de 24 horas, com excreção de albumina entre 30 e 300 mg/24h.",
+        "c": "Urina isolada ao acaso, com uma relação albumina/creatinina superior a 30 mg/g.",
+        "d": "Urina de uma amostra de meio-jato, com concentração de albumina acima de 150 mg/dL.",
+        "e": "Urina pós-exercício, com valores de albumina inferiores a 10 mg/dL."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A urina de 24 horas é o padrão-ouro para a quantificação da microalbuminúria, sendo valores entre 30 e 300 mg/24h indicativos de neuropatia incipiente. Embora a relação albumina/creatinina em amostra isolada seja conveniente, a recolha de 24 horas é mais precisa para a taxa de excreção."
+    },
+    {
+      "numero": 87,
+      "tema": "V. Urinologia",
+      "enunciado": "Na avaliação laboratorial da função renal, a depuração de creatinina endógena é um teste amplamente utilizado. Que fator, para além da função renal, pode influenciar os resultados e requer atenção na interpretação?",
+      "alineas": {
+        "a": "Ingestão excessiva de líquidos, que dilui a urina.",
+        "b": "Uso de certos medicamentos como cimetidina ou trimetoprim, que competem pela secreção tubular.",
+        "c": "Dietas ricas em carboidratos, que alteram o metabolismo proteico.",
+        "d": "Variações circadianas na filtração glomerular.",
+        "e": "Presença de bilirrubina na urina, que interfere na leitura colorimétrica."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Medicamentos como cimetidina e trimetoprim podem inibir a secreção tubular de creatinina, elevando os seus níveis séricos e diminuindo falsamente a depuração de creatinina, sem necessariamente refletir uma redução real na taxa de filtração glomerular."
+    },
+    {
+      "numero": 88,
+      "tema": "V. Urinologia",
+      "enunciado": "A hematúria microscópica é um achado comum na análise de urina. Qual das seguintes características dos eritrócitos na urina sugere uma origem glomerular da hematúria?",
+      "alineas": {
+        "a": "Presença de eritrócitos dismórficos e cilindros hemáticos.",
+        "b": "Eritrócitos normais e bem preservados, sem cilindros.",
+        "c": "Coágulos de sangue visíveis macroscopicamente.",
+        "d": "Eritrócitos agrupados e leucócitos abundantes.",
+        "e": "Urina com coloração avermelhada após ingestão de beterraba."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A presença de eritrócitos dismórficos (com alterações morfológicas devido à passagem através do glomérulo danificado) e cilindros hemáticos (eritrócitos incluídos numa matriz proteica tubular) são marcadores distintivos de hematúria de origem glomerular."
+    },
+    {
+      "numero": 89,
+      "tema": "V. Urinologia",
+      "enunciado": "Os cilindros urinários são formados nos túbulos renais e podem fornecer informações importantes sobre a patologia renal. Qual o significado clínico da presença de cilindros céreos?",
+      "alineas": {
+        "a": "Indica uma infeção aguda do trato urinário superior.",
+        "b": "Sugere insuficiência renal crónica avançada ou fluxo urinário estagnado.",
+        "c": "É um achado normal em pessoas desidratadas.",
+        "d": "Sinaliza necrose tubular aguda.",
+        "e": "Está associado a glomeruloesclerose focal e segmentar."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Os cilindros céreos são largos, homogéneos, com aparências quebradiças e são frequentemente designados como 'cilindros da falha renal', indicando um prognóstico grave, como doença renal crónica avançada ou estase urinária prolongada."
+    },
+    {
+      "numero": 90,
+      "tema": "V. Urinologia",
+      "enunciado": "Qual dos seguintes parâmetros da análise de urina é mais sensível e específico para detetar uma infeção do trato urinário (ITU) em adultos assintomáticos, sem a necessidade de urocultura inicial?",
+      "alineas": {
+        "a": "Apenas a presença de nitritos positivos.",
+        "b": "Apenas a presença de leucocitúria (>10 leucócitos/campo).",
+        "c": "A presença combinada de nitritos e esterase leucocitária positivos.",
+        "d": "Um pH urinário elevado (pH > 7.5).",
+        "e": "A presença de proteínas na urina (>100 mg/dL)."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A combinação de nitritos positivos (indicando bactérias que convertem nitratos em nitritos) e esterase leucocitária positiva (indicando a presença de leucócitos) tem uma elevada sensibilidade e especificidade para o diagnóstico de ITU em rastreio, reduzindo a necessidade de urocultura em casos selecionados."
+    },
+    {
+      "numero": 91,
+      "tema": "V. Urinologia",
+      "enunciado": "A gravidade específica da urina é um indicador da capacidade de concentração e diluição dos rins. Qual dos seguintes fatores pode causar uma diminuição da gravidade específica?",
+      "alineas": {
+        "a": "Desidratação severa.",
+        "b": "Diabetes mellitus não controlada (glicosúria).",
+        "c": "Administração de diuréticos.",
+        "d": "Síndrome de secreção inadequada de hormona antidiurética (SIADH).",
+        "e": "Contraste radiológico iodado."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Os diuréticos aumentam a excreção de água pelos rins, resultando em urina mais diluída e, consequentemente, numa diminuição da gravidade específica. A desidratação e a SIADH levariam a um aumento, a glicosúria aumentaria e o contraste radiológico causaria uma leitura falsamente elevada."
+    },
+    {
+      "numero": 92,
+      "tema": "V. Urinologia",
+      "enunciado": "A cetonúria é a presença de corpos cetónicos na urina. Quais as principais condições clínicas que justificam o aparecimento de cetonas na urina?",
+      "alineas": {
+        "a": "Insuficiência cardíaca congestiva e doença hepática crónica.",
+        "b": "Diabetes mellitus descompensada e jejum prolongado.",
+        "c": "Hipertensão arterial e glomerulonefrite aguda.",
+        "d": "Pielonefrite e litíase renal.",
+        "e": "Hipotiroidismo e sobrecarga hídrica."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A cetonúria ocorre quando o corpo, na ausência de glicose suficiente para energia, começa a metabolizar gorduras, produzindo corpos cetónicos. Isto é comum na diabetes mellitus descompensada (cetoacidose diabética) e em estados de jejum prolongado, onde as reservas de glicogénio se esgotam."
+    },
+    {
+      "numero": 93,
+      "tema": "V. Urinologia",
+      "enunciado": "Um bebé de 4 meses apresenta urina com odor 'a rato mofado'. Que condição metabólica deve ser imediatamente investigada através da análise urinária?",
+      "alineas": {
+        "a": "Galactosemia.",
+        "b": "Tirossinemia hereditária.",
+        "c": "Fenilcetonúria (PKU).",
+        "d": "Doença da urina do xarope de ácer.",
+        "e": "Homocistinúria."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O odor 'a rato mofado' na urina de um bebé é um sinal clássico e distintivo da Fenilcetonúria (PKU), uma doença metabólica hereditária causada pela deficiência da enzima fenilalanina hidroxilase. A deteção precoce é crucial para evitar danos neurológicos."
+    },
+    {
+      "numero": 95,
+      "tema": "V. Urinologia",
+      "enunciado": "Um paciente com insuficiência renal crónica avançada pode apresentar qual dos seguintes achados na análise de urina, que reflete a perda significativa da função tubular?",
+      "alineas": {
+        "a": "Presença de cilindros hemáticos e eritrócitos dismórficos.",
+        "b": "Gravidade específica fixa em torno de 1.010 (isostenúria).",
+        "c": "Glicosúria com normoglicemia.",
+        "d": "pH urinário consistentemente ácido (pH < 5.0).",
+        "e": "Nitritos e esterase leucocitária positivos sem sintomas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A isostenúria (gravidade específica fixa em cerca de 1.010, que é a do filtrado glomerular, indicando que os túbulos não conseguem concentrar nem diluir a urina) é um achado clássico de dano tubular extenso e insuficiência renal crónica avançada."
+    },
+    {
+      "numero": 96,
+      "tema": "V. Urinologia",
+      "enunciado": "Qual dos seguintes pigmentos urinários é responsável pela cor amarela normal da urina e qual a sua origem metabólica?",
+      "alineas": {
+        "a": "Urobilinogénio, derivado da bilirrubina.",
+        "b": "Uroeritrina, um pigmento de origem desconhecida.",
+        "c": "Urocromo, um pigmento de degradação da hemoglobina.",
+        "d": "Porfirinas, produtos intermédios da síntese do heme.",
+        "e": "Creatinina, um produto do metabolismo muscular."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O urocromo é o principal pigmento responsável pela cor amarela normal da urina. É um produto de degradação da hemoglobina, mais especificamente do metabolismo do urobilinogénio e da urobilina, que é excretado pelos rins."
+    },
+    {
+      "numero": 97,
+      "tema": "V. Urinologia",
+      "enunciado": "A presença de cilindros leucocitários na urina é um indicador chave de inflamação renal. Em que condição clínica é mais comum encontrá-los?",
+      "alineas": {
+        "a": "Urolitíase sem infeção.",
+        "b": "Cistite bacteriana.",
+        "c": "Necrose tubular aguda.",
+        "d": "Pielonefrite aguda.",
+        "e": "Síndrome nefrótica."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Os cilindros leucocitários, formados por leucócitos aglutinados numa matriz proteica, são um achado patognomónico de inflamação no interstício renal e nos túbulos, sendo tipicamente observados na pielonefrite aguda."
+    },
+    {
+      "numero": 98,
+      "tema": "V. Urinologia",
+      "enunciado": "Na recolha de urina para urocultura, é crucial minimizar a contaminação. Qual a técnica de recolha considerada padrão-ouro para a obtenção de uma amostra não contaminada?",
+      "alineas": {
+        "a": "Urina de primeira micção matinal.",
+        "b": "Urina de meio-jato após assepsia da região genital.",
+        "c": "Cateterismo vesical intermitente.",
+        "d": "Colheita por punção suprapúbica.",
+        "e": "Colheita de urina de saco coletor em lactentes."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A punção suprapúbica da bexiga é considerada o método padrão-ouro para a obtenção de uma amostra de urina estéril e não contaminada, especialmente em situações onde outros métodos são questionáveis ou impossíveis (ex: lactentes)."
+    },
+    {
+      "numero": 99,
+      "tema": "V. Urinologia",
+      "enunciado": "A bilirrubinúria patológica, que confere uma cor amarela-escura à urina e espuma amarela quando agitada, ocorre primariamente devido a um problema em que parte do sistema biliar ou hepático?",
+      "alineas": {
+        "a": "Hiperprodução de bilirrubina indireta (não conjugada).",
+        "b": "Obstrução pós-hepática do fluxo biliar.",
+        "c": "Doença hepática que afeta a conjugação da bilirrubina.",
+        "d": "Síndrome de Gilbert, uma condição benigna.",
+        "e": "Anemia hemolítica."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A bilirrubinúria patológica ocorre quando há um aumento significativo de bilirrubina conjugada (direta) no sangue, que é hidrossolúvel e excretada na urina. Isso é comum em obstruções pós-hepáticas do fluxo biliar ou em doenças hepáticas que prejudicam a excreção biliar da bilirrubina conjugada."
+    },
+    {
+      "numero": 100,
+      "tema": "V. Urinologia",
+      "enunciado": "Qual dos seguintes cristais urinários é mais provável de ser encontrado em urina de pH alcalino e está associado à formação de cálculos renais infecciosos?",
+      "alineas": {
+        "a": "Cristais de oxalato de cálcio (monohidratado ou di-hidratado).",
+        "b": "Cristais de ácido úrico.",
+        "c": "Cristais de cistina.",
+        "d": "Cristais de fosfato amónio-magnesiano (estruvita).",
+        "e": "Cristais de sulfato de cálcio."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Os cristais de estruvita (fosfato amónio-magnesiano) são caracteristicamente encontrados em urina alcalina e estão fortemente associados a infeções do trato urinário por bactérias produtoras de urease (como Proteus spp.), que alcalinizam a urina, promovendo a sua formação e a de cálculos 'coraliformes'."
+    }
+  ]
+}
