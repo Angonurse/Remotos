@@ -1,1 +1,7 @@
-
+{
+  "version": "1.0.1",
+  "min_supported": "1.0.0",
+  "force": false,
+  "changelog": "Melhorias e correções.",
+  "apk_url": "https://github.com/Angonurse/Remotos/releases/download/v1.0.1/angonurse-plus.apk"
+}
