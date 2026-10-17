@@ -1,7 +1,16 @@
 {
-  "version": "1.0.1",
-  "min_supported": "1.0.0",
-  "force": false,
-  "changelog": "Melhorias e correções.",
-  "apk_url": "https://github.com/Angonurse/Remotos/releases/download/v1.0.1/angonurse-plus.apk"
+  "version": "1",
+  "games": [
+    {
+      "id": "memoria",
+      "nome": "Jogo da Memória",
+      "descricao": "Encontra os pares de termos de saúde",
+      "icon": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/games/memoria.png",
+      "zip": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/games/memoria.zip",
+      "version": 1,
+      "sha256": "<sha256 do memoria.zip>",
+      "size": 0,
+      "entry": "index.html"
+    }
+  ]
 }
