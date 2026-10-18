@@ -6,7 +6,7 @@
       "nome": "Palavras Cruzadas Médicas",
       "descricao": "Encontra os pares de termos de saúde",
       "icon": "https://angonurse.github.io/Remotos/angonurse-plus/corrida-do-diagn%C3%B3stico.webp",
-      "zip": "",
+      "zip": "https://github.com/Angonurse/Remotos/releases/download/v1.0.0/palavras-cruzadas-medicas.zip",
       "version": 1,
       "sha256": "<sha256:2813bba5af22630a5136f4ef477baba43b81f2f15d506a44054907712c9e175c>",
       "size": 87.6,
