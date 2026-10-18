@@ -5,12 +5,45 @@
       "id": "palavras-cruzadas-medicas",
       "nome": "Palavras Cruzadas Médicas",
       "descricao": "Encontra os pares de termos de saúde",
-      "icon": "https://private-user-images.githubusercontent.com/243407522/676642045-411a0f7b-4499-4cac-b3e0-fcc287e7558d.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTIyMzY4NTEsIm5iZiI6MTc5MjIzNjU1MSwicGF0aCI6Ii8yNDM0MDc1MjIvNjc2NjQyMDQ1LTQxMWEwZjdiLTQ0OTktNGNhYy1iM2UwLWZjYzI4N2U3NTU4ZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAxNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMTdUMTEyOTExWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MzM5OTI2ZWI1YWZjZWYyZGEwYmZmODBkMTgwYTlkZTQwZmM2MmY5NmMxODY5N2RmNGQ2YzM4MDUwYzM4NTBjNSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.OIZIB4a5wIMjclNAAT_6u85_0ql9euipdEYvkWIg07Q",
-      "zip": "https://github.com/Angonurse/Remotos/releases/download/v1.0.0/palavras-cruzadas-medicas.html.zip",
+      "icon": "https://angonurse.github.io/Remotos/angonurse-plus/corrida-do-diagn%C3%B3stico.webp",
+      "zip": "",
       "version": 1,
-      "sha256": "<sha256:e2d9a80b257e16afe61a2f01cce6b2e14f8756f5c75a60618cbae8601b83e263>",
-      "size": 8.62,
-      "entry": "palavras-cruzadas-medicas.html"
+      "sha256": "<sha256:2813bba5af22630a5136f4ef477baba43b81f2f15d506a44054907712c9e175c>",
+      "size": 87.6,
+      "entry": "index.html"
+    },
+    {
+      "id": "memoria-medica",
+      "nome": "Memória Médica",
+      "descricao": "Encontra os pares de cartas",
+      "icon": "https://angonurse.github.io/Remotos/angonurse-plus/corrida-do-diagn%C3%B3stico.webp",
+      "zip": "https://github.com/Angonurse/Remotos/releases/download/v1.0.0/memoria-medica.zip",
+      "version": 1,
+      "sha256": "<sha256:a0a2b872ffa73062397c84d932aaf47bdecebc565903b49ab449ad55f794e411>",
+      "size": 233,
+      "entry": "index.html"
+    },
+    {
+      "id": "desafio-dos-medicamentos",
+      "nome": "Desafio dos Medicamentos",
+      "descricao": "Encontra as correspondências",
+      "icon": "https://angonurse.github.io/Remotos/angonurse-plus/corrida-do-diagn%C3%B3stico.webp",
+      "zip": "https://github.com/Angonurse/Remotos/releases/download/v1.0.0/desafio-dos-medicamentos.zip",
+      "version": 1,
+      "sha256": "<sha256:18b7641e04edcade851b5220d119cec2381497593ac2a625d1c7530713454cdb>",
+      "size": 132,
+      "entry": "index.html"
+    },
+    {
+      "id": "corrida-do-diagnostico",
+      "nome": "Corrida do Diagnóstico",
+      "descricao": "Tome a melhor decisão",
+      "icon": "https://angonurse.github.io/Remotos/angonurse-plus/corrida-do-diagn%C3%B3stico.webp",
+      "zip": "https://github.com/Angonurse/Remotos/releases/download/v1.0.0/corrida-do-diagnostico.zip",
+      "version": 1,
+      "sha256": "<sha256:98cddefd04d39f042062795ee13848d759cd21c266156b48c6d73e6965a52d63>",
+      "size": 84.5,
+      "entry": "index.html"
     }
   ]
 }
