@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
+  "version": "2.0.1",
   "changelog": "Nova versão com provas limitadas a 50 perguntas.\n\nSistema de cotação: alterado da Escala Percentual para a Escala Vigesimal (0–20 valores).\n\nConteúdos revistos: removidos temas extras não aplicáveis à área da saúde, anteriormente incluídos como material de apoio ao Concurso Público.\n\nProgresso de leitura: um tema só é marcado como lido após a leitura completa do seu conteúdo.\n\nSistema de Níveis e Conquistas: nova implementação que permite desbloquear conquistas e subir de nível através da acumulação de XP.\n\nMini-Jogos: nova funcionalidade que permite descarregar mini-jogos e jogar offline.\n\nInterface renovada: tela principal atualizada e novas cores no modo claro, aplicadas a todas as telas.\n\nAtualizações mais seguras: implementação da eliminação automática do APK descarregado após a atualização, evitando o acúmulo de ficheiros e poupando espaço de armazenamento.",
   "force": false,
-  "min_supported": "2.0.0",
-  "apk_url": "https://angonurse.vercel.app/downloads/angonurse-mindgames.apk"
+  "min_supported": "2.0.1",
+  "apk_url": "https://github.com/Angonurse/Angonurse-PLUS-Estudar-Saude/releases/download/v2.0.1/Angonurse-PLUS_-_V2.0.1.apk"
 }
