@@ -1,0 +1,658 @@
+{
+  "serie": "D",
+  "categoria": "CULTURA GERAL",
+  "pais": "Angola",
+  "total": 100,
+  "perguntas": [
+    {
+      "numero": 1,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "Segundo a Constituição de Angola, a administração local do Estado organiza-se em órgãos que asseguram a presença estatal a nível provincial e municipal, denominados:",
+      "alineas": {
+        "a": "Governos Provinciais e Administrações Municipais",
+        "b": "Assembleias Legislativas Provinciais",
+        "c": "Câmaras Municipais eleitas",
+        "d": "Conselhos de Auscultação Popular"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A administração local do Estado é assegurada por Governos Provinciais e Administrações Municipais e Comunais, subordinados ao Executivo central."
+    },
+    {
+      "numero": 2,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "As autarquias locais em Angola, instaladas progressivamente a partir de 2024, têm como órgãos principais:",
+      "alineas": {
+        "a": "Administrador Municipal e Conselho de Auscultação",
+        "b": "Assembleia de Autarquia e Presidente da Autarquia",
+        "c": "Ministro de Estado e Secretário-Geral",
+        "d": "Governador e Vice-Governador"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Cada autarquia local possui uma Assembleia de Autarquia (órgão deliberativo eleito) e um Presidente da Autarquia (órgão executivo)."
+    },
+    {
+      "numero": 3,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "O primeiro pleito autárquico em Angola, que elegeu os titulares dos órgãos das primeiras autarquias, realizou-se em:",
+      "alineas": {
+        "a": "2017",
+        "b": "2022",
+        "c": "2024",
+        "d": "2020"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "As primeiras eleições autárquicas em Angola realizaram-se em Outubro de 2024, num processo faseado de descentralização."
+    },
+    {
+      "numero": 4,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "A descentralização administrativa em Angola tem como objectivo principal:",
+      "alineas": {
+        "a": "Extinguir os Governos Provinciais",
+        "b": "Eliminar as comunas",
+        "c": "Substituir o Presidente da República por governadores eleitos",
+        "d": "Aproximar a gestão pública das comunidades e reforçar o poder local"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A descentralização visa transferir competências e recursos para o poder local, aproximando a decisão pública das populações."
+    },
+    {
+      "numero": 5,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "O órgão que assegura a administração do Estado ao nível da comuna denomina-se:",
+      "alineas": {
+        "a": "Delegação Provincial",
+        "b": "Conselho de Bairro",
+        "c": "Administração Comunal",
+        "d": "Secretaria de Estado"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A comuna constitui uma unidade administrativa dirigida por uma Administração Comunal, subordinada à Administração Municipal."
+    },
+    {
+      "numero": 6,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "A instalação faseada das autarquias em Angola iniciou-se, em 2024, ao nível de que unidade administrativa?",
+      "alineas": {
+        "a": "Bairros",
+        "b": "Comunas rurais",
+        "c": "Distritos urbanos",
+        "d": "Municípios"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O processo de autarquização iniciou-se pelos municípios, prevendo-se o alargamento progressivo a outros níveis."
+    },
+    {
+      "numero": 7,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "Compete à tutela administrativa do Estado sobre as autarquias locais, entre outros aspectos:",
+      "alineas": {
+        "a": "Verificar a legalidade dos actos autárquicos",
+        "b": "Fixar os impostos nacionais",
+        "c": "Nomear directamente os administradores municipais autárquicos",
+        "d": "Substituir a Assembleia de Autarquia em qualquer momento"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A tutela administrativa limita-se, essencialmente, à fiscalização da legalidade dos actos praticados pelos órgãos autárquicos."
+    },
+    {
+      "numero": 8,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "O órgão executivo colegial que apoia o Presidente da Autarquia na gestão autárquica denomina-se:",
+      "alineas": {
+        "a": "Conselho de Ministros",
+        "b": "Câmara Autárquica",
+        "c": "Governo da Autarquia",
+        "d": "Junta Autárquica"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Câmara Autárquica é o órgão executivo colegial de apoio ao Presidente da Autarquia na gestão quotidiana da autarquia."
+    },
+    {
+      "numero": 9,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O MINSA define como uma das principais causas evitáveis de mortalidade materna em Angola:",
+      "alineas": {
+        "a": "Excesso de exercício físico",
+        "b": "Uso de contraceptivos orais",
+        "c": "Vacinação excessiva",
+        "d": "Hemorragias pós-parto e falta de assistência qualificada ao parto"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "As hemorragias pós-parto, associadas à insuficiente assistência qualificada, figuram entre as principais causas de morte materna no país."
+    },
+    {
+      "numero": 10,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A amamentação exclusiva recomendada pelo MINSA e pela OMS deve manter-se, sem outros alimentos ou líquidos, até aos:",
+      "alineas": {
+        "a": "18 meses de idade",
+        "b": "3 meses de idade",
+        "c": "12 meses de idade",
+        "d": "6 meses de idade"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A OMS e o MINSA recomendam aleitamento materno exclusivo até aos seis meses de idade, para a saúde e nutrição do bebé."
+    },
+    {
+      "numero": 11,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "As consultas pré-natais promovidas pelas unidades sanitárias do MINSA visam sobretudo:",
+      "alineas": {
+        "a": "Detectar precocemente riscos na gravidez e preparar o parto seguro",
+        "b": "Emitir o bilhete de identidade da mãe",
+        "c": "Substituir o parto hospitalar",
+        "d": "Registar apenas o sexo do bebé"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "As consultas pré-natais permitem identificar factores de risco, vacinar a grávida e preparar um parto seguro e assistido."
+    },
+    {
+      "numero": 12,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A anemia por deficiência de ferro em crianças e grávidas é combatida pelo MINSA principalmente através de:",
+      "alineas": {
+        "a": "Aumento do consumo de sal",
+        "b": "Suplementação com ferro e ácido fólico e educação nutricional",
+        "c": "Vacina específica contra a anemia",
+        "d": "Redução do consumo de água"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A suplementação com ferro e ácido fólico, aliada a uma alimentação equilibrada, é a principal medida contra a anemia."
+    },
+    {
+      "numero": 13,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A mortalidade infantil (crianças menores de 5 anos) em Angola tem vindo a ser reduzida, nas últimas décadas, sobretudo devido a:",
+      "alineas": {
+        "a": "Redução da população",
+        "b": "Melhoria da vacinação, nutrição e acesso a cuidados de saúde",
+        "c": "Fecho de maternidades",
+        "d": "Aumento do turismo"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A queda da mortalidade infantil resulta de investimentos em vacinação, nutrição, água potável e assistência ao parto."
+    },
+    {
+      "numero": 14,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O rastreio nutricional comunitário utiliza a fita de Perímetro Braquial (PB) para detectar precocemente:",
+      "alineas": {
+        "a": "Cegueira nocturna",
+        "b": "Hipertensão arterial em adultos",
+        "c": "Desnutrição aguda em crianças menores de 5 anos",
+        "d": "Diabetes no idoso"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A medição do Perímetro Braquial é um método simples e rápido de rastreio de desnutrição aguda em crianças pequenas."
+    },
+    {
+      "numero": 15,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A Semana Nacional de Vacinação, promovida periodicamente pelo MINSA, tem como principal finalidade:",
+      "alineas": {
+        "a": "Testar a rede eléctrica",
+        "b": "Recensear eleitores",
+        "c": "Distribuir alimentos",
+        "d": "Actualizar o esquema vacinal de crianças e grupos de risco"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A Semana Nacional de Vacinação procura recuperar crianças em atraso vacinal e reforçar a cobertura vacinal nacional."
+    },
+    {
+      "numero": 16,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A suplementação com Vitamina A em crianças, promovida pelo MINSA, visa principalmente prevenir:",
+      "alineas": {
+        "a": "Alergias alimentares",
+        "b": "Obesidade infantil",
+        "c": "Cegueira e reduzir a mortalidade infantil por infecções",
+        "d": "Cáries dentárias"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A Vitamina A fortalece o sistema imunitário e previne a xeroftalmia, reduzindo a mortalidade infantil associada a infecções."
+    },
+    {
+      "numero": 17,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O parto assistido por pessoal de saúde qualificado é indicador crucial para reduzir:",
+      "alineas": {
+        "a": "A taxa de alfabetização",
+        "b": "O número de casamentos",
+        "c": "O consumo de energia eléctrica",
+        "d": "A mortalidade materna e neonatal"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A assistência qualificada ao parto permite gerir complicações obstétricas atempadamente, reduzindo mortes maternas e neonatais."
+    },
+    {
+      "numero": 18,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A actual Ministra da Saúde de Angola, Sílvia Lutucuta, tem defendido como prioridade estratégica do sector:",
+      "alineas": {
+        "a": "O reforço da atenção primária e da saúde materno-infantil",
+        "b": "A privatização total da saúde",
+        "c": "A redução da vacinação infantil",
+        "d": "O fecho de hospitais rurais"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A titular do MINSA tem reiterado o reforço dos cuidados primários e da saúde materno-infantil como eixos prioritários do sector."
+    },
+    {
+      "numero": 19,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A desidratação por diarreia em crianças pequenas é tratada, em primeira linha, pelo MINSA através de:",
+      "alineas": {
+        "a": "Transfusão de sangue obrigatória",
+        "b": "Sais de Reidratação Oral (SRO) e zinco",
+        "c": "Jejum prolongado",
+        "d": "Antibióticos sem prescrição"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Os Sais de Reidratação Oral, associados a zinco, constituem o tratamento padrão de primeira linha para a diarreia infantil."
+    },
+    {
+      "numero": 20,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "A reorganização político-administrativa de 2024 justificou-se oficialmente, entre outros motivos, por:",
+      "alineas": {
+        "a": "Reduzir o território nacional",
+        "b": "Aproximar a administração do Estado das populações mais distantes",
+        "c": "Fundir Angola com países vizinhos",
+        "d": "Eliminar a língua portuguesa como língua oficial"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A criação de novas províncias visou reduzir distâncias entre a administração central e comunidades anteriormente periféricas."
+    },
+    {
+      "numero": 21,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "A organização regional africana de que Angola é membro, com sede em Gaborone, denominada SADC, corresponde a:",
+      "alineas": {
+        "a": "Sistema de Aliança e Defesa Continental",
+        "b": "Sociedade Africana de Desenvolvimento Comercial",
+        "c": "Comunidade para o Desenvolvimento da África Austral",
+        "d": "Serviço de Apoio ao Desenvolvimento e Cooperação"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "SADC significa Comunidade para o Desenvolvimento da África Austral, bloco regional de que Angola faz parte."
+    },
+    {
+      "numero": 22,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "A CICA (Conferência Internacional sobre a Região dos Grandes Lagos) tem contado com Angola como actor relevante, sobretudo em matéria de:",
+      "alineas": {
+        "a": "Paz e segurança na região dos Grandes Lagos",
+        "b": "Turismo cultural",
+        "c": "Comércio de tecnologia",
+        "d": "Educação superior"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Angola tem desempenhado papel activo na promoção da paz e segurança na região dos Grandes Lagos, através da CIRGL."
+    },
+    {
+      "numero": 23,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "A Barragem de Laúca, uma das maiores de África, tem como principal objectivo:",
+      "alineas": {
+        "a": "Abastecimento de água potável a Luanda apenas",
+        "b": "Irrigação exclusiva de arrozais",
+        "c": "Produção de energia hidroeléctrica para o Sistema Eléctrico Nacional",
+        "d": "Navegação fluvial internacional"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Laúca foi concebida para gerar energia hidroeléctrica em larga escala, reforçando o Sistema Eléctrico Nacional angolano."
+    },
+    {
+      "numero": 24,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "O Plano Nacional de Electrificação de Angola visa, até à próxima década, aumentar significativamente a taxa de acesso à electricidade, apostando sobretudo em:",
+      "alineas": {
+        "a": "Importação de energia nuclear",
+        "b": "Geradores a gasóleo domésticos",
+        "c": "Redução do número de consumidores",
+        "d": "Fontes hídricas, solares e mini-redes rurais"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O plano combina grandes centrais hidroeléctricas com energia solar e mini-redes para levar electricidade às zonas rurais."
+    },
+    {
+      "numero": 25,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "O sector petrolífero continua a ser gerido, em termos de concessões e regulação, pela entidade nacional denominada:",
+      "alineas": {
+        "a": "Ministério da Agricultura",
+        "b": "Agência Nacional de Petróleo, Gás e Biocombustíveis (ANPG)",
+        "c": "Sonangol E.P. exclusivamente",
+        "d": "Banco Nacional de Angola"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A ANPG é a concessionária nacional responsável pela gestão dos direitos mineiros de petróleo, gás e biocombustíveis."
+    },
+    {
+      "numero": 26,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "Um dos principais projectos de diversificação económica de Angola aposta no desenvolvimento do sector:",
+      "alineas": {
+        "a": "Exclusivamente petrolífero",
+        "b": "Apenas turismo de neve",
+        "c": "Agro-industrial e mineiro não petrolífero",
+        "d": "Pesca em águas internacionais distantes"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A diversificação económica angolana aposta fortemente na agricultura, agro-indústria e mineração não petrolífera."
+    },
+    {
+      "numero": 27,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "A independência de Angola de Portugal foi proclamada em:",
+      "alineas": {
+        "a": "10 de Fevereiro de 2010",
+        "b": "11 de Novembro de 1975",
+        "c": "27 de Maio de 1977",
+        "d": "4 de Fevereiro de 1961"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Angola tornou-se independente de Portugal em 11 de Novembro de 1975, data celebrada como Dia da Independência Nacional."
+    },
+    {
+      "numero": 28,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O clima predominante na faixa litoral de Angola, do Namibe até Luanda, é influenciado pela corrente fria de Benguela e caracteriza-se por ser:",
+      "alineas": {
+        "a": "Árido e semiárido",
+        "b": "Equatorial húmido",
+        "c": "Polar",
+        "d": "Mediterrânico"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A corrente fria de Benguela reduz a pluviosidade no litoral, originando climas árido e semiárido, como no deserto do Namibe."
+    },
+    {
+      "numero": 29,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "Angola encontra-se, na sua totalidade, no fuso horário correspondente a:",
+      "alineas": {
+        "a": "UTC-1",
+        "b": "UTC+1",
+        "c": "UTC+0",
+        "d": "UTC+2"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Angola situa-se no fuso horário UTC+1 (Hora da África Ocidental), sem alteração sazonal."
+    },
+    {
+      "numero": 30,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O rio Cubango, que nasce no planalto central angolano, desagua, mais a sul, formando o importante ecossistema conhecido por:",
+      "alineas": {
+        "a": "Cataratas Vitória",
+        "b": "Lago Vitória",
+        "c": "Delta do Okavango",
+        "d": "Deserto do Kalahari Central"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O rio Cubango, ao atravessar a Namíbia e o Botswana, forma o célebre Delta do Okavango, património natural relevante."
+    },
+    {
+      "numero": 31,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "A composição musical adoptada em 1975 como hino oficial da República de Angola tem por título:",
+      "alineas": {
+        "a": "Marcha da Vitória",
+        "b": "Angola Avante",
+        "c": "Pátria Amada",
+        "d": "Angola é Nossa"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "\"Angola Avante\" é o Hino Nacional angolano, adoptado em 1975, com letra de Manuel Rui e música de Rui Mingas."
+    },
+    {
+      "numero": 32,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "A Batalha de Cuito Cuanavale, ocorrida entre 1987 e 1988, é considerada historicamente relevante por:",
+      "alineas": {
+        "a": "Ter marcado o fim da Guerra Civil angolana",
+        "b": "Ter sido travada em Cabinda",
+        "c": "Ter contribuído para o processo que levou à independência da Namíbia",
+        "d": "Ter sido o primeiro combate da luta armada anticolonial"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Cuito Cuanavale é vista como decisiva no enfraquecimento do regime do apartheid, favorecendo a independência da Namíbia."
+    },
+    {
+      "numero": 33,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O planalto central angolano, principal divisor de águas do país, atinge altitudes médias entre:",
+      "alineas": {
+        "a": "1200 e 1800 metros",
+        "b": "3500 e 4500 metros",
+        "c": "0 e 200 metros",
+        "d": "abaixo do nível do mar"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O planalto central angolano apresenta altitudes médias entre 1200 e 1800 metros, sendo o principal divisor de águas do país."
+    },
+    {
+      "numero": 34,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "O sistema de protecção de dados pessoais em Angola é assegurado, ao nível de fiscalização, pela:",
+      "alineas": {
+        "a": "Interpol",
+        "b": "Agência de Protecção de Dados de Angola (APD)",
+        "c": "Assembleia Nacional directamente",
+        "d": "Sonangol"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A APD é a autoridade administrativa independente responsável por fiscalizar o cumprimento da Lei de Protecção de Dados Pessoais."
+    },
+    {
+      "numero": 35,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "A Lei da Probidade Pública em Angola tem como principal objectivo:",
+      "alineas": {
+        "a": "Organizar o sistema eleitoral",
+        "b": "Regular o comércio externo",
+        "c": "Definir salários mínimos",
+        "d": "Prevenir e combater a corrupção e promover a transparência na função pública"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A Lei da Probidade Pública estabelece deveres de transparência, declaração de bens e combate a conflitos de interesse na função pública."
+    },
+    {
+      "numero": 36,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "O recenseamento eleitoral em Angola constitui condição prévia para o exercício do direito de voto e é actualizado, entre outros meios, através de:",
+      "alineas": {
+        "a": "Brigadas móveis e postos fixos de recenseamento",
+        "b": "Apenas redes sociais",
+        "c": "Inscrição automática ao nascer",
+        "d": "Sorteio nacional"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O recenseamento eleitoral é actualizado através de postos fixos e brigadas móveis, garantindo maior cobertura da população."
+    },
+    {
+      "numero": 37,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "A Constituição da República de Angola consagra, entre os direitos fundamentais dos cidadãos, o direito de:",
+      "alineas": {
+        "a": "Impunidade judicial",
+        "b": "Petição e de acção popular",
+        "c": "Confisco de bens alheios",
+        "d": "Voto múltiplo"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O direito de petição e de acção popular permite aos cidadãos reclamar perante autoridades e defender interesses colectivos."
+    },
+    {
+      "numero": 38,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "A Provedoria de Justiça em Angola tem como principal função:",
+      "alineas": {
+        "a": "Gerir o orçamento do Estado",
+        "b": "Organizar eleições",
+        "c": "Defender os direitos, liberdades e garantias dos cidadãos perante a Administração Pública",
+        "d": "Julgar crimes económicos"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A Provedoria de Justiça actua como órgão independente de defesa dos cidadãos face a ilegalidades ou injustiças da Administração."
+    },
+    {
+      "numero": 39,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "A transparência orçamental em Angola tem sido reforçada com a publicação periódica de:",
+      "alineas": {
+        "a": "Apenas dados desportivos",
+        "b": "Estatísticas de trânsito",
+        "c": "Relatórios meteorológicos",
+        "d": "Relatórios de execução orçamental do Estado"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A divulgação regular de relatórios de execução orçamental visa reforçar a transparência na gestão das finanças públicas."
+    },
+    {
+      "numero": 40,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "O acesso à informação pública em Angola é um direito constitucionalmente protegido que visa, sobretudo:",
+      "alineas": {
+        "a": "Permitir o controlo social sobre a actuação do Estado",
+        "b": "Substituir o Provedor de Justiça",
+        "c": "Restringir o jornalismo",
+        "d": "Impedir eleições"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O direito de acesso à informação pública fortalece a cidadania activa e o controlo social sobre a actuação das instituições estatais."
+    },
+    {
+      "numero": 41,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A literacia digital em Angola tem sido promovida, entre outras iniciativas, pela expansão de:",
+      "alineas": {
+        "a": "Bibliotecas físicas exclusivamente",
+        "b": "Infra-estruturas de fibra óptica e centros de inclusão digital",
+        "c": "Feiras agrícolas",
+        "d": "Cinemas rurais"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A expansão da fibra óptica e a criação de centros de inclusão digital reforçam a literacia digital em várias províncias."
+    },
+    {
+      "numero": 42,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A energia solar fotovoltaica tem crescido em Angola como alternativa energética, sendo particularmente relevante para:",
+      "alineas": {
+        "a": "Zonas rurais sem acesso à rede eléctrica nacional",
+        "b": "Substituir toda a produção hidroeléctrica",
+        "c": "Uso exclusivo industrial em Luanda",
+        "d": "Aquecimento urbano no inverno"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A energia solar é uma solução eficaz para levar electricidade a comunidades rurais afastadas da rede eléctrica nacional."
+    },
+    {
+      "numero": 43,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A gestão de resíduos sólidos urbanos em Angola tem sido reforçada, nos últimos anos, com investimento em:",
+      "alineas": {
+        "a": "Exportação de lixo para outros países",
+        "b": "Descarga directa nos rios",
+        "c": "Aterros sanitários e reciclagem",
+        "d": "Incineração a céu aberto generalizada"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A construção de aterros sanitários e o incentivo à reciclagem visam melhorar a gestão ambiental dos resíduos urbanos."
+    },
+    {
+      "numero": 44,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A investigação científica em Angola tem sido incentivada pela criação de instituições como o:",
+      "alineas": {
+        "a": "Fundo de Garantia de Crédito",
+        "b": "Fundo Rodoviário",
+        "c": "Fundo de Apoio Social",
+        "d": "Fundo de Ciência, Tecnologia e Inovação"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O Fundo de Ciência, Tecnologia e Inovação apoia projectos de investigação científica e desenvolvimento tecnológico em Angola."
+    },
+    {
+      "numero": 45,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O acesso à internet móvel em Angola tem crescido significativamente com a implementação de redes de:",
+      "alineas": {
+        "a": "3G exclusivamente",
+        "b": "4G e expansão progressiva do 5G",
+        "c": "Rádio analógica",
+        "d": "Apenas telefonia fixa"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "As operadoras angolanas têm expandido a cobertura 4G e iniciado testes e implementação progressiva de redes 5G."
+    },
+    {
+      "numero": 46,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A poluição das águas costeiras angolanas, associada a derrames de hidrocarbonetos, é fiscalizada principalmente pelo:",
+      "alineas": {
+        "a": "Ministério da Justiça",
+        "b": "Ministério das Finanças",
+        "c": "Ministério do Ambiente",
+        "d": "Ministério da Educação"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Ministério do Ambiente é a entidade responsável pela fiscalização e resposta a incidentes de poluição costeira e marinha."
+    },
+    {
+      "numero": 47,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A desertificação no sul de Angola, sobretudo na província do Cunene, está associada principalmente a:",
+      "alineas": {
+        "a": "Excesso de floresta tropical",
+        "b": "Erupções vulcânicas",
+        "c": "Excesso de chuvas permanentes",
+        "d": "Secas recorrentes e sobre-exploração dos solos"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A combinação de secas cíclicas com práticas agrícolas e pastoris intensivas contribui para a desertificação no Cunene."
+    },
+    {
+      "numero": 48,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O ensino técnico-profissional tem sido reforçado em Angola como estratégia para:",
+      "alineas": {
+        "a": "Qualificar mão-de-obra para os sectores produtivos e a diversificação económica",
+        "b": "Reduzir o número de universidades",
+        "c": "Substituir o ensino primário",
+        "d": "Eliminar exames nacionais"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O investimento no ensino técnico-profissional visa preparar mão-de-obra qualificada para apoiar a diversificação da economia."
+    },
+    {
+      "numero": 49,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A protecção das florestas de miombo, predominantes no planalto central de Angola, é relevante sobretudo para:",
+      "alineas": {
+        "a": "O aumento do turismo de neve",
+        "b": "A pesca marítima",
+        "c": "A conservação da biodiversidade e regulação do ciclo hídrico",
+        "d": "A produção de petróleo"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "As florestas de miombo desempenham papel crucial na conservação da biodiversidade e na regulação de bacias hidrográficas."
+    },
+    {
+      "numero": 50,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A promoção da igualdade de género no acesso à ciência e tecnologia em Angola tem sido incentivada através de:",
+      "alineas": {
+        "a": "Proibição de mulheres em universidades",
+        "b": "Eliminação de disciplinas de ciências",
+        "c": "Redução de vagas para mulheres",
+        "d": "Bolsas e programas de incentivo a raparigas em áreas de ciência, tecnologia, engenharia e matemática (STEM)"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Diversos programas têm incentivado a participação feminina em áreas STEM, promovendo maior equidade de género na ciência angolana."
+    }
+  ]
+}

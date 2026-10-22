@@ -1,0 +1,698 @@
+{
+  "serie": "E",
+  "categoria": "Técnico de Farmácia",
+  "pais": "Angola",
+  "total": 100,
+  "perguntas": [
+    {
+      "numero": 1,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "Num contexto de armazenamento farmacêutico, a termolabilidade de um medicamento exige um controlo rigoroso da temperatura. Qual das seguintes medidas é a mais crítica para assegurar a integridade de um produto que deve ser conservado entre 2°C e 8°C?",
+      "alineas": {
+        "a": "O registo diário da temperatura máxima e mínima do ambiente de armazenamento.",
+        "b": "A utilização exclusiva de termómetros digitais calibrados com alarmes de desvio.",
+        "c": "A existência de um plano de contingência para falhas de energia com geradores de reserva.",
+        "d": "A validação periódica do sistema de refrigeração, incluindo mapeamento térmico regular.",
+        "e": "A rotação de stock pelo método FIFO, independentemente da data de validade."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A validação periódica e o mapeamento térmico garantem que todo o espaço de armazenamento mantém as condições térmicas exigidas, identificando pontos quentes/frios que podem comprometer a estabilidade do medicamento."
+    },
+    {
+      "numero": 2,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "A dispensação de medicamentos controlados em Angola requer a observância de legislação específica. Em caso de discrepância entre a quantidade prescrita e a quantidade a dispensar de um psicotrópico do Grupo II da Tabela II (Lista de Psicotrópicos) da Lei n.º 3/06, de 28 de Abril, qual a acção mais apropriada e legalmente conforme para o técnico de farmácia?",
+      "alineas": {
+        "a": "Dispensar a quantidade disponível em stock e registar a diferença para posterior acerto.",
+        "b": "Contactar o médico prescritor para clarificação e, se necessário, rectificação da prescrição.",
+        "c": "Dispensar a quantidade prescrita, ignorando discrepâncias menores para não reter o paciente.",
+        "d": "Recusar a dispensação e encaminhar o paciente para outra farmácia com stock adequado.",
+        "e": "Ajustar unilateralmente a quantidade dispensada para corresponder ao stock, documentando a alteração."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Para medicamentos controlados, qualquer discrepância deve ser clarificada com o prescritor para garantir a segurança do paciente e a conformidade legal, evitando dispensações incorrectas ou incompletas."
+    },
+    {
+      "numero": 3,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "Para garantir a qualidade na dispensação, é fundamental a validação da prescrição. Qual dos seguintes elementos, se ausente ou ilegível numa prescrição médica em Angola, representa um impedimento ABOSLUTO à dispensação do medicamento, exigindo contacto com o prescritor?",
+      "alineas": {
+        "a": "O carimbo e assinatura do médico.",
+        "b": "O número de telefone do paciente.",
+        "c": "A dosagem e via de administração do medicamento.",
+        "d": "A data de nascimento do paciente.",
+        "e": "O número de cédula profissional do médico."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A dosagem e via de administração são elementos críticos para a segurança e eficácia do tratamento. A sua ausência ou ilegibilidade impede a dispensação segura e requer clarificação imediata com o prescritor."
+    },
+    {
+      "numero": 4,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "Num armazém de medicamentos, a segregação de produtos é um princípio fundamental. Qual das seguintes estratégias de segregação é a mais apropriada para evitar confusões e garantir a segurança do paciente, especialmente em relação a medicamentos de alto risco ou com nomes semelhantes?",
+      "alineas": {
+        "a": "Armazenar medicamentos com o mesmo nome genérico em prateleiras adjacentes, mas com rótulos de cores diferentes.",
+        "b": "Utilizar zonas físicas distintas e claramente identificadas para medicamentos de uso externo e de uso interno.",
+        "c": "Agrupar todos os medicamentos controlados numa área de acesso restrito, independentemente da sua forma farmacêutica.",
+        "d": "Separar medicamentos por ordem alfabética do nome comercial, independentemente da semelhança fonética.",
+        "e": "Manter medicamentos de alto risco isolados e com dupla verificação antes da dispensação, mesmo que no mesmo armário."
+      },
+      "resposta_correcta": "e",
+      "justificativa": "A segregação física e a dupla verificação de medicamentos de alto risco minimizam o risco de erros, especialmente devido a semelhanças fonéticas ou visuais, que são causas comuns de erros de medicação."
+    },
+    {
+      "numero": 5,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "No processo de recepção de medicamentos numa farmácia, qual das seguintes acções é primordial para a garantia da qualidade e segurança, e deve ser realizada antes mesmo do armazenamento físico?",
+      "alineas": {
+        "a": "Verificação da integridade das embalagens de transporte e da conformidade da documentação com o pedido.",
+        "b": "Registo imediato de todos os lotes e datas de validade no sistema informático de gestão de stock.",
+        "c": "Movimentação célere dos produtos para as áreas de armazenamento apropriadas para evitar exposição prolongada.",
+        "d": "Confirmação do pagamento da factura junto ao fornecedor para evitar atrasos na liberação dos produtos.",
+        "e": "Organização do pessoal para a realização da contagem cega de todos os itens recebidos."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A verificação da conformidade da documentação e a integridade das embalagens de transporte são passos críticos iniciais. Qualquer anomalia pode indicar problemas de qualidade ou fraude, impedindo o armazenamento."
+    },
+    {
+      "numero": 6,
+      "tema": "I. Boas Práticas de Armazenamento e Dispensação",
+      "enunciado": "Um técnico de farmácia depara-se com uma prescrição médica para um antibiótico que, segundo a bula, deve ser reconstituído e armazenado no frigorífico por no máximo 7 dias. O paciente, residente numa área rural remota de Angola, não possui acesso fiável a refrigeração. Qual a conduta mais ética e segura a adoptar?",
+      "alineas": {
+        "a": "Dispensar o medicamento, instruindo o paciente a procurar gelo ou um meio de refrigeração alternativo.",
+        "b": "Contactar o médico prescritor para discutir a viabilidade da prescrição e explorar alternativas terapêuticas.",
+        "c": "Recusar a dispensação devido à impossibilidade de garantir as condições de conservação pós-reconstituição.",
+        "d": "Dispensar uma quantidade menor do antibiótico para que o paciente possa usar de imediato, sem necessidade de refrigeração prolongada.",
+        "e": "Aconselhar o paciente a não reconstituir o medicamento e a procurar um posto de saúde com condições de refrigeração para administração."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A segurança e eficácia do tratamento são primordiais. A falta de refrigeração compromete a estabilidade do antibiótico. O técnico deve discutir alternativas com o médico para garantir que o paciente receba um tratamento adequado e viável."
+    },
+    {
+      "numero": 7,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "Na preparação de uma pomada dermatológica semi-sólida, qual o principal factor que determina a sua capacidade de oclusão e, consequentemente, a hidratação da pele?",
+      "alineas": {
+        "a": "O tamanho das partículas do princípio ativo.",
+        "b": "A viscosidade do veículo.",
+        "c": "A natureza da base (lipofílica, hidrofílica ou emulsão).",
+        "d": "A concentração do conservante.",
+        "e": "O pH da formulação."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A natureza da base (por exemplo, bases lipofílicas como petrolato) determina a oclusividade da pomada. Bases mais oclusivas formam uma barreira que impede a perda de água, promovendo a hidratação da pele."
+    },
+    {
+      "numero": 8,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "Um fármaco destinado a actuar localmente nas vias aéreas superiores, com o objetivo de minimizar os efeitos sistémicos, deve ser administrado preferencialmente através de que forma farmacêutica e via?",
+      "alineas": {
+        "a": "Comprimido efervescente, via oral.",
+        "b": "Spray nasal dosimetrado, via nasal.",
+        "c": "Injeção subcutânea, em solução aquosa.",
+        "d": "Xarope antialérgico, via oral.",
+        "e": "Parche transdérmico, via cutânea."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O spray nasal dosimetrado permite a administração direta do fármaco às mucosas nasais, proporcionando uma ação local eficaz com absorção sistémica mínima, reduzindo os efeitos indesejáveis."
+    },
+    {
+      "numero": 9,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "Na preparação de suspensões farmacêuticas, a sedimentação das partículas é um fenómeno inevitável. Qual das seguintes abordagens é mais eficaz para garantir a redispersão homogénea do fármaco após armazenamento, sem comprometer a estabilidade físico-química da formulação?",
+      "alineas": {
+        "a": "Aumento significativo da viscosidade do veículo.",
+        "b": "Diminuição do tamanho médio das partículas do fármaco.",
+        "c": "Alteração da densidade do veículo para corresponder à do fármaco.",
+        "d": "Adição de um agente floculante controlado.",
+        "e": "Emprego de um agente emulsificante."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A adição de um agente floculante apropriado promove a formação de agregados frouxos (flóculos) que sedimentam mais rapidamente, mas são facilmente redispersos por agitação, evitando a formação de um bolo compacto e irreversível."
+    },
+    {
+      "numero": 10,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "Um técnico de farmácia está a preparar uma solução para injeção intramuscular de um fármaco pouco solúvel em água. Qual o solvente mais adequado a considerar, que minimize a dor no local da injeção e evite a precipitação do fármaco?",
+      "alineas": {
+        "a": "Água para preparações injetáveis.",
+        "b": "Soluções aquosas de polietilenoglicóis de baixo peso molecular.",
+        "c": "Óleos vegetais purificados (e.g., óleo de sésamo).",
+        "d": "Soluções de propilenoglicol.",
+        "e": "Soluções salinas isotónicas."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Para fármacos hidrofóbicos, óleos vegetais purificados são frequentemente usados como veículos para injeções intramusculares. Permitem uma dissolução adequada do fármaco e, devido à sua natureza lipofílica, promovem uma absorção lenta e sustentada, minimizando a dor e a irritação local em comparação com solventes orgânicos mais cáusticos ou soluções aquosas para fármacos insolúveis."
+    },
+    {
+      "numero": 11,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "Na formulação de aerossóis para inalação oral, a escolha do propelente é fundamental. Qual dos seguintes propelentes é atualmente preferido devido ao seu perfil ambiental e de segurança, em detrimento dos clorofluorocarbonetos (CFCs)?",
+      "alineas": {
+        "a": "Clorofluorocarbonetos (CFCs).",
+        "b": "Hidrofluorocarbonetos (HFCs).",
+        "c": "Óxido nitroso.",
+        "d": "Dióxido de carbono comprimido.",
+        "e": "Propano."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Os hidrofluorocarbonetos (HFCs) são os propelentes de escolha nos aerossóis farmacêuticos modernos, substituindo os CFCs devido ao seu impacto ambiental reduzido e perfil de segurança aceitável para inalação humana."
+    },
+    {
+      "numero": 12,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "Na formulação de emulsões farmacêuticas, qual a principal razão para a inclusão de um agente emulsionante, além de estabilizar a mistura imiscível de líquidos?",
+      "alineas": {
+        "a": "Aumentar a solubilidade do fármaco em ambas as fases.",
+        "b": "Diminuir a tensão superficial entre as fases imiscíveis.",
+        "c": "Prevenir a cristalização do fármaco na fase aquosa.",
+        "d": "Alterar a cor e o sabor da formulação.",
+        "e": "Promover a floculação das partículas suspensas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Os agentes emulsionantes (surfactantes) atuam diminuindo a tensão interfacial entre as duas fases imiscíveis (ex: óleo e água), facilitando a formação e a estabilização das gotículas da fase dispersa, prevenindo a coalescência e a separação de fases."
+    },
+    {
+      "numero": 13,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "A forma farmacêutica de 'libertação sustentada' difere da 'libertação prolongada' na sua intenção. Qual a característica que melhor descreve uma forma de libertação sustentada?",
+      "alineas": {
+        "a": "Libertação gradual do fármaco ao longo de um período definido para manter concentrações terapêuticas.",
+        "b": "Libertação inicial rápida seguida por uma libertação mais lenta e constante.",
+        "c": "Libertação do fármaco apenas em ambientes com pH específico.",
+        "d": "Libertação do fármaco em pulsos discretos para evitar tolerância.",
+        "e": "Libertação imediata de uma dose de ataque seguida por uma dose de manutenção."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Libertação sustentada refere-se à libertação contínua e prolongada do fármaco, de modo a manter concentrações plasmáticas dentro da janela terapêutica por um período estendido, reduzindo a frequência de dosagem."
+    },
+    {
+      "numero": 14,
+      "tema": "II. Formas Farmacêuticas e Vias de Administração",
+      "enunciado": "Qual dos seguintes excipientes, quando incorporado numa formulação de comprimido, tem como principal objetivo promover a rápida desagregação do comprimido em partículas menores quando em contacto com fluidos gastrointestinais?",
+      "alineas": {
+        "a": "Lubrificante (e.g., estearato de magnésio).",
+        "b": "Aglutinante (e.g., povidona).",
+        "c": "Diluente (e.g., lactose).",
+        "d": "Desintegrante (e.g., croscarmelose sódica).",
+        "e": "Antiadherente (e.g., talco)."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Os desintegrantes, como a croscarmelose sódica, expandem-se ou criam canais capilares quando em contacto com a água, forçando o comprimido a desagregar-se rapidamente em grânulos ou partículas finas, facilitando a dissolução do fármaco."
+    },
+    {
+      "numero": 15,
+      "tema": "III. Prazo de Validade",
+      "enunciado": "A determinação do prazo de validade de um medicamento, essencial para a garantia da sua segurança e eficácia, é baseada em estudos de estabilidade que consideram diversos factores. Qual dos seguintes factores é o MAIS determinante para a definição inicial do prazo de validade de um novo fármaco aquando da sua autorização de introdução no mercado?",
+      "alineas": {
+        "a": "O tempo médio de conservação dos excipientes utilizados na formulação.",
+        "b": "Os resultados dos estudos de estabilidade acelerada e de longa duração.",
+        "c": "A data de fabrico do princípio activo isolado, sem considerar a formulação final.",
+        "d": "A estimativa de consumo do medicamento no mercado angolano, baseada em dados históricos.",
+        "e": "A legislação internacional que estabelece prazos fixos para classes terapêuticas específicas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Os estudos de estabilidade acelerada e de longa duração fornecem dados cruciais sobre a degradação do medicamento em diferentes condições, permitindo extrapolar e definir um prazo de validade que garanta a sua qualidade durante o período de armazenamento."
+    },
+    {
+      "numero": 16,
+      "tema": "III. Prazo de Validade",
+      "enunciado": "Um medicamento sujeito a condições especiais de conservação, como refrigeração (2ºC-8ºC), é inadvertidamente exposto a temperaturas ambiente (25ºC) por um período prolongado. Embora a data de validade original ainda não tenha sido atingida, qual a implicação mais relevante do ponto de vista da segurança e eficácia?",
+      "alineas": {
+        "a": "A exposição a temperatura ambiente anula imediatamente o prazo de validade, devendo o medicamento ser descartado.",
+        "b": "O medicamento mantém a sua validade original, desde que seja recolocado na refrigeração o mais rapidamente possível.",
+        "c": "A eficácia pode ser reduzida e/ou a toxicidade aumentada devido à degradação acelerada, mesmo que não haja alterações visíveis.",
+        "d": "A validade é estendida, pois a temperatura ambiente inibe o crescimento microbiano em alguns casos.",
+        "e": "É necessário contactar o fabricante para uma reavaliação da lote, pois não há risco imediato directo."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A exposição a condições de armazenamento fora das especificadas pode acelerar a degradação do fármaco, levando à perda de eficácia ou à formação de produtos de degradação tóxicos, mesmo antes da data de validade original."
+    },
+    {
+      "numero": 17,
+      "tema": "III. Prazo de Validade",
+      "enunciado": "No contexto da manipulação de medicamentos em farmácia hospitalar, como a preparação de soluções intravenosas, que tipo de prazo de validade é estabelecido para o produto final e quem é o principal responsável por essa determinação?",
+      "alineas": {
+        "a": "O prazo de validade é o mesmo do fármaco original, sendo o farmacêutico o responsável pela sua aplicação.",
+        "b": "É estabelecido um 'prazo de utilização' (beyond-use date) determinado pelo farmacêutico com base em referências e estudos internos de estabilidade da formulação.",
+        "c": "O médico prescritor define a validade de acordo com a duração do tratamento do paciente.",
+        "d": "O fabricante do material de embalagem é responsável por indicar o prazo limite de uso da preparação.",
+        "e": "A validade é arbitrária, estendendo-se até que o produto apresente alterações visíveis ou sensoriais."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Para medicamentos manipulados, o farmacêutico é responsável por estabelecer um 'prazo de utilização' (beyond-use date) que considera a estabilidade da formulação, as condições de armazenamento e o risco microbiológico, um processo distinto do prazo de validade do produto industrializado."
+    },
+    {
+      "numero": 18,
+      "tema": "III. Prazo de Validade",
+      "enunciado": "Qual a principal razão pela qual alguns medicamentos, como certas formulações de insulina ou antibióticos em suspensão, requerem agitação antes da administração, e como isso se relaciona com o seu prazo de validade?",
+      "alineas": {
+        "a": "A agitação prolonga o prazo de validade, pois retarda a degradação do princípio activo.",
+        "b": "A agitação assegura a homogeneidade da dose, sendo que a sua ausência pode levar a subdosagem ou superdosagem, comprometendo a eficácia dentro do prazo de validade.",
+        "c": "A agitação é um indicador de que o medicamento está próximo do seu prazo de validade e precisa ser descartado.",
+        "d": "A agitação é necessária apenas para medicamentos que foram congelados e precisam ser descongelados rapidamente.",
+        "e": "A agitação serve para ativar o princípio activo, que se encontra inactivo antes da sua mistura."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A agitação é crucial para garantir a redispersion dos componentes, assegurando que cada dose administrada contenha a concentração correta do fármaco. A não homogeneidade compromete a eficácia e segurança do medicamento mesmo dentro do seu prazo de validade."
+    },
+    {
+      "numero": 19,
+      "tema": "III. Prazo de Validade",
+      "enunciado": "Um técnico de farmácia observa um medicamento com a data de validade 'EXP: 11/2024'. Qual a interpretação correcta desta data, segundo as normas gerais de prática farmacêutica?",
+      "alineas": {
+        "a": "O medicamento é válido até ao dia 1 de Novembro de 2024.",
+        "b": "O medicamento é válido até à última hora do último dia de Novembro de 2024.",
+        "c": "O medicamento deve ser removido do stock de venda a partir do dia 1 de Novembro de 2024.",
+        "d": "O medicamento perde a sua validade exatamente no momento da sua fabricação em Novembro de 2024.",
+        "e": "A data indica o mês e ano em que os estudos de estabilidade foram finalizados, não a validade real."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A data de validade, quando expressa apenas com mês e ano, indica que o medicamento é válido até ao final do último dia do mês indicado. Após essa data, a sua utilização não é recomendada."
+    },
+    {
+      "numero": 20,
+      "tema": "IV. Sistemas de Distribuição",
+      "enunciado": "No planeamento da distribuição de vacinas para uma campanha de saúde pública em áreas rurais de Angola, qual factor representa o maior desafio na manutenção da cadeia de frio e como pode ser mitigado de forma mais eficaz?",
+      "alineas": {
+        "a": "A escassez de veículos climatizados; mitigado pelo uso de drones de transporte.",
+        "b": "A instabilidade da rede elétrica; mitigado pelo uso de caixas isotérmicas e geradores portáteis.",
+        "c": "A falta de pessoal treinado; mitigado pela formação de voluntários locais.",
+        "d": "A distância entre armazéns e postos de vacinação; mitigado pela criação de múltiplos centros de distribuição regionais.",
+        "e": "A validade curta de algumas vacinas; mitigado pela compra de grandes stocks prévios."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A instabilidade da rede elétrica é um desafio crónico em áreas rurais. O uso combinado de caixas isotérmicas de alta performance e geradores portáteis assegura a manutenção da temperatura ideal, mesmo na ausência de energia elétrica estável."
+    },
+    {
+      "numero": 21,
+      "tema": "IV. Sistemas de Distribuição",
+      "enunciado": "Ao implementar um novo sistema de distribuição de medicamentos em centros de saúde periféricos angolanos, qual das seguintes abordagens otimiza o controlo de stock e minimiza perdas por validade, enquanto considera as limitações de infraestrutura e conectividade?",
+      "alineas": {
+        "a": "Implementação de um sistema RFID para rastreamento individual de cada embalagem.",
+        "b": "Dispensação \"Just-in-Time\" (JIT) com entregas diárias do armazém central.",
+        "c": "Sistema de stock mínimo/máximo com reabastecimento baseado em relatórios manuais de consumo e inventário.",
+        "d": "Utilização exclusiva de dispensadores automatizados para todos os medicamentos.",
+        "e": "Centralização de todo o stock de medicamentos na capital e entregas por demanda em 48h."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Um sistema de stock mínimo/máximo com relatórios manuais é pragmaticamente adequado a ambientes com infraestrutura limitada e conectividade intermitente. Permite um controlo razoável do stock e alerta para reabastecimento antes da rutura, sem depender de tecnologia avançada inacessível."
+    },
+    {
+      "numero": 22,
+      "tema": "IV. Sistemas de Distribuição",
+      "enunciado": "Na distribuição de medicamentos para uma clínica móvel que atende comunidades isoladas em Angola, qual é a principal prioridade logística a ser considerada para garantir a eficácia da intervenção de saúde?",
+      "alineas": {
+        "a": "A escolha de medicamentos com embalagens mais estéticas e apelativas.",
+        "b": "Minimizar o peso e volume dos medicamentos transportados, mantendo a estabilidade e eficácia.",
+        "c": "Priorizar medicamentos de marca em detrimento de genéricos para maior confiança.",
+        "d": "Estabelecer uma ligação direta com o fabricante para entregas expedidas.",
+        "e": "Garantir que todos os medicamentos sejam dispensados em dose única pré-embalada."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Para uma clínica móvel que opera em áreas isoladas, a capacidade de transporte é limitada. Minimizar o peso e volume dos medicamentos, sem comprometer a sua estabilidade e eficácia, é crucial para maximizar a quantidade de suprimentos que podem ser levados e otimizar a logística de acesso a estas comunidades."
+    },
+    {
+      "numero": 23,
+      "tema": "V. Inventários",
+      "enunciado": "No contexto da gestão de inventários em farmácia, qual das seguintes métricas é mais crucial para avaliar a eficiência do processo de aquisição e armazenamento de medicamentos de alto custo e rotatividade lenta?",
+      "alineas": {
+        "a": "Índice de rotatividade de estoque (IRS)",
+        "b": "Percentagem de ruptura de estoque (PRE)",
+        "c": "Custo médio ponderado (CMP)",
+        "d": "Cobertura de estoque em dias (CED)",
+        "e": "Taxa de devolução de produtos (TDP)"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A Cobertura de Estoque em Dias (CED) é fundamental para fármacos de alto custo e rotatividade lenta, pois indica por quanto tempo o inventário atual pode suprir a demanda, permitindo decisões de compra mais precisas e evitando o imobilização excessiva de capital."
+    },
+    {
+      "numero": 24,
+      "tema": "V. Inventários",
+      "enunciado": "A abordagem de inventário cíclico, quando implementada numa farmácia hospitalar, visa predominantemente aprimorar qual dos seguintes aspetos operacionais?",
+      "alineas": {
+        "a": "Aumento da velocidade de processamento de prescrições médicas.",
+        "b": "Redução da necessidade de auditorias anuais completas de estoque.",
+        "c": "Otimização da distribuição interna de fármacos por setores.",
+        "d": "Minimização da ocorrência de erros na dispensação de medicamentos controlados.",
+        "e": "Melhoria da negociação de preços com fornecedores habituais."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O inventário cíclico, ao verificar subconjuntos do estoque regularmente, permite identificar e corrigir discrepâncias de forma contínua, diminuindo a dependência de e o impacto de inventários anuais completos, que são onerosos e disruptivos."
+    },
+    {
+      "numero": 25,
+      "tema": "V. Inventários",
+      "enunciado": "Em Angola, a gestão de inventários de medicamentos psicotrópicos e estupefacientes exige um controlo rigoroso. Qual dos seguintes métodos de inventário se coaduna melhor com as exigências legais de rastreabilidade e segurança para estes produtos?",
+      "alineas": {
+        "a": "Sistema de média ponderada móvel (MPM).",
+        "b": "Método FIFO (First-In, First-Out).",
+        "c": "Verificação física contínua com registo dual.",
+        "d": "Inventário periódico por amostragem ABC.",
+        "e": "Contagem por inventário rotativo semanal."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Para medicamentos psicotrópicos e estupefacientes, a verificação física contínua com registo dual (por exemplo, em livro apropriado e sistema informático) é essencial para garantir a rastreabilidade, prevenir desvios e cumprir as rigorosas exigências legais de controlo."
+    },
+    {
+      "numero": 26,
+      "tema": "V. Inventários",
+      "enunciado": "Uma farmácia comunitária notou um aumento significativo nos custos de transporte e armazenamento de medicamentos perecíveis. Qual estratégia de gestão de inventário minimizaria esses custos, mantendo a disponibilidade do produto?",
+      "alineas": {
+        "a": "Adoção do sistema Just-In-Time (JIT) para estes produtos.",
+        "b": "Aumento do stock de segurança para cobrir flutuações de demanda.",
+        "c": "Implementação do método LIFO (Last-In, First-Out) para a saída.",
+        "d": "Centralização do armazenamento em um único depósito regional.",
+        "e": "Priorização da compra em grandes volumes para desconto."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O sistema Just-In-Time (JIT) é ideal para produtos perecíveis, pois visa receber os produtos apenas quando são necessários, reduzindo o tempo de armazenamento, os custos de transporte e o risco de perdas por validade ou deterioração."
+    },
+    {
+      "numero": 27,
+      "tema": "V. Inventários",
+      "enunciado": "Ao realizar um inventário físico numa farmácia, qual das seguintes abordagens é mais eficaz para mitigar erros induzidos por fadiga e desatenção da equipa, especialmente em grandes volumes de medicamentos?",
+      "alineas": {
+        "a": "Realizar o inventário em um único período extralaboral prolongado.",
+        "b": "Dividir a equipa em pares e rotacionar as áreas de contagem periodicamente.",
+        "c": "Utilizar exclusivamente scanners de código de barras sem verificação manual.",
+        "d": "Implementar um sistema de contagem 'à vista', sem registo imediato.",
+        "e": "Encarregar apenas o gestor da farmácia pela contagem final."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Dividir a equipa em pares para a contagem e rotacionar as áreas ajuda a reduzir a fadiga, permite a verificação cruzada imediata e melhora a precisão, minimizando erros em grandes volumes de itens."
+    },
+    {
+      "numero": 28,
+      "tema": "VI. Concentração e Diluição de Soluções",
+      "enunciado": "Um frasco de xarope de paracetamol indica que contém 160 mg de paracetamol em cada 5 mL. Qual a concentração percentual (m/v) de paracetamol neste xarope?",
+      "alineas": {
+        "a": "0,32%",
+        "b": "1,6%",
+        "c": "3,2%",
+        "d": "16%"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A concentração percentual (m/v) é (massa em gramas / volume em mL) * 100%. Convertendo 160 mg para gramas (0,16 g), temos (0,16 g / 5 mL) * 100% = 3,2%."
+    },
+    {
+      "numero": 29,
+      "tema": "VI. Concentração e Diluição de Soluções",
+      "enunciado": "Qual o fator de diluição se 5 mL de uma amostra de soro sanguíneo são adicionados a 45 mL de diluente?",
+      "alineas": {
+        "a": "1:5",
+        "b": "1:9",
+        "c": "1:10",
+        "d": "1:100"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O volume total após a diluição é 5 mL (amostra) + 45 mL (diluente) = 50 mL. O fator de diluição é a razão entre o volume inicial da amostra e o volume final: 5 mL / 50 mL = 1/10, ou 1:10."
+    },
+    {
+      "numero": 30,
+      "tema": "VII. Condições de Armazenamento",
+      "enunciado": "Qual das seguintes condições de armazenamento é crucial para a preservação da estabilidade de um medicamento termolábil, como uma insulina, em regiões com variações de temperatura ambiente significativas, como algumas províncias do interior de Angola?",
+      "alineas": {
+        "a": "Armazenamento em prateleiras elevadas para evitar humidade do solo.",
+        "b": "Refrigeração constante entre 2°C e 8°C, monitorizada rigorosamente.",
+        "c": "Exposição à luz solar indireta para inibir o crescimento microbiano.",
+        "d": "Manutenção em armários herméticos à temperatura ambiente controlada até 25°C."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Medicamentos termolábeis, como a insulina, exigem refrigeração constante (2-8°C) para manter sua potência e eficácia, sendo essencial um monitoramento rigoroso da temperatura."
+    },
+    {
+      "numero": 31,
+      "tema": "VII. Condições de Armazenamento",
+      "enunciado": "Um lote de vacinas que requer armazenamento entre -15°C e -25°C foi acidentalmente exposto a -5°C por um período de 4 horas. O que deve ser feito com este lote de vacinas?",
+      "alineas": {
+        "a": "Pode ser utilizado, desde que a temperatura retorne rapidamente ao intervalo adequado.",
+        "b": "Deve ser colocado em quarentena e avaliado por um especialista em controlo de qualidade.",
+        "c": "É seguro para uso, pois a variação não foi extrema e o período foi curto.",
+        "d": "Deve ser imediatamente descartado devido à potencial perda de potência."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A exposição de vacinas ultracongeladas a temperaturas acima do limite superior por qualquer período pode comprometer irreversivelmente a sua potência e segurança, exigindo o descarte imediato."
+    },
+    {
+      "numero": 32,
+      "tema": "VII. Condições de Armazenamento",
+      "enunciado": "Ao armazenar medicamentos fotossensíveis, como o Nitroprussiato de Sódio, qual é o principal método de proteção a ser implementado num ambiente hospitalar com iluminação fluorescente intensa?",
+      "alineas": {
+        "a": "Armazenar em embalagens secundárias transparentes para facilitar a identificação.",
+        "b": "Manter os frascos dentro das caixas originais ou em recipientes opacos, longe da luz.",
+        "c": "Colocar os medicamentos em prateleiras mais baixas, onde a luz é menos intensa.",
+        "d": "Utilizar lâmpadas UV para esterilizar a área de armazenamento e proteger os medicamentos."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Medicamentos fotossensíveis devem ser protegidos da luz para evitar a degradação, sendo o armazenamento nas suas embalagens originais ou em recipientes opacos a medida mais eficaz."
+    },
+    {
+      "numero": 33,
+      "tema": "VII. Condições de Armazenamento",
+      "enunciado": "Um Técnico de Farmácia em Malanje deve preparar e armazenar formulações magistrais estéreis. Qual é a condição mais crítica para garantir a segurança e eficácia dessas preparações?",
+      "alineas": {
+        "a": "Armazenamento em temperatura ambiente controlada de 20-25°C, após a preparação.",
+        "b": "Manutenção em ambiente com controlo rigoroso da qualidade do ar (sala limpa) durante a preparação e posterior armazenamento adequado à formulação.",
+        "c": "Utilização de embalagens escuras para proteger da luz, independentemente da composição.",
+        "d": "Congelamento imediato após a preparação para prolongar a validade de todos os ingredientes."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A preparação e armazenamento de formulações estéreis exigem um ambiente controlado (sala limpa) para prevenir contaminação microbiológica e de partículas, sendo o controlo da qualidade do ar essencial para a segurança e eficácia."
+    },
+    {
+      "numero": 34,
+      "tema": "VIII. Farmácia Hospitalar",
+      "enunciado": "No contexto da Farmácia Hospitalar angolana, qual das seguintes acções representa a mais significativa contribuição do técnico de farmácia para a gestão de riscos associados à terapêutica oncológica, para além da preparação asséptica?",
+      "alineas": {
+        "a": "A monitorização contínua dos níveis séricos de marcadores tumorais para ajuste posológico.",
+        "b": "A validação da prescrição médica quanto à dose, via e interacções medicamentosas potenciais, antes da manipulação.",
+        "c": "A formação de enfermeiros na administração de quimioterápicos.",
+        "d": "A gestão do inventário de medicamentos antineoplásicos de alto custo, minimizando perdas por expiração."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A validação farmacêutica da prescrição é crucial na terapêutica oncológica, permitindo identificar e mitigar erros antes da preparação e administração, garantindo a segurança do paciente e a eficácia do tratamento."
+    },
+    {
+      "numero": 35,
+      "tema": "VIII. Farmácia Hospitalar",
+      "enunciado": "No âmbito do uso racional de medicamentos em ambiente hospitalar em Angola, qual a ferramenta mais eficaz que o técnico de farmácia pode auxiliar na sua implementação e monitorização contínua?",
+      "alineas": {
+        "a": "A elaboração de relatórios mensais sobre o consumo de antibióticos por serviço.",
+        "b": "A participação activa na revisão e actualização do formulário hospitalar, com base em evidências e perfil epidemiológico local.",
+        "c": "A fiscalização do cumprimento das datas de validade dos medicamentos nos carros de emergência.",
+        "d": "A organização de palestras educativas para os pacientes sobre a importância da adesão à terapêutica."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A participação na actualização do formulário hospitalar permite alinhar a disponibilidade de medicamentos com as melhores evidências clínicas e as necessidades epidemiológicas do hospital, promovendo o uso racional de forma estrutural."
+    },
+    {
+      "numero": 36,
+      "tema": "VIII. Farmácia Hospitalar",
+      "enunciado": "Qual o principal desafio logístico para a Farmácia Hospitalar num hospital universitário em Angola, no que concerne à aquisição e gestão de medicamentos de uso restrito e de alta complexidade (ex: para ensaios clínicos ou terapias avançadas)?",
+      "alineas": {
+        "a": "A falta de espaço de armazenamento adequado para estes medicamentos.",
+        "b": "A dificuldade em obter cotações de preços competitivas de fornecedores internacionais.",
+        "c": "A complexidade dos processos de importação, licenciamento e manutenção da cadeia de frio específica, aliada à volatilidade da procura.",
+        "d": "A escassez de pessoal técnico capacitado para a manipulação destes fármacos."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Medicamentos de uso restrito e alta complexidade frequentemente envolvem cadeias de abastecimento globais, regulamentação rigorosa de importação e condições de armazenamento muito específicas, representando um desafio logístico considerável para as farmácias hospitalares em Angola."
+    },
+    {
+      "numero": 37,
+      "tema": "VIII. Farmácia Hospitalar",
+      "enunciado": "A farmacovigilância activa na Farmácia Hospitalar angolana desempenha um papel crítico. Qual das seguintes actividades representa a maior contribuição do técnico de farmácia para este processo, para além da notificação de reacções adversas conhecidas?",
+      "alineas": {
+        "a": "A pesquisa bibliográfica sobre novos efeitos secundários de medicamentos recentemente introduzidos no mercado.",
+        "b": "A participação em rondas clínicas para identificar e documentar reacções adversas a medicamentos (RAM) não esperadas ou raras.",
+        "c": "A organização e arquivo de todas as bulas dos medicamentos dispensados no hospital.",
+        "d": "A realização de inquéritos de satisfação aos pacientes sobre a sua experiência com a medicação."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A participação em rondas clínicas permite ao técnico de farmácia observar directamente os pacientes, identificar RAMs, incluindo as não esperadas, e recolher dados relevantes para a farmacovigilância, contribuindo activamente para a segurança da terapêutica."
+    },
+    {
+      "numero": 38,
+      "tema": "XII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A recente reconfiguração da divisão político-administrativa de Angola em 2024 trouxe alterações significativas. Qual das seguintes opções descreve CORRECTAMENTE uma das mudanças implementadas ou uma característica fundamental do novo paradigma territorial?",
+      "alineas": {
+        "a": "A criação de novos municípios em todas as províncias litorais para impulsionar o desenvolvimento costeiro.",
+        "b": "A fusão de alguns municípios de menor dimensão nas províncias do interior para otimizar a gestão administrativa.",
+        "c": "A elevação de certas comunas com elevado potencial económico à categoria de municípios independentes.",
+        "d": "A redução do número total de províncias para uma gestão mais centralizada e eficiente.",
+        "e": "A introdução de distritos urbanos como subdivisões administrativas autónomas em todas as cidades capitais de província."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A reestruturação visa, entre outros aspetos, a criação de novos municípios a partir de comunas com potencial de desenvolvimento, visando aproximar a administração dos cidadãos e dinamizar as economias locais. As outras opções representam distratores plausíveis, mas não correspondem à essência das mudanças."
+    },
+    {
+      "numero": 39,
+      "tema": "XII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "No contexto da nova divisão político-administrativa de 2024, a província do Moxico, dada a sua vasta extensão territorial, poderá ser alvo de futuras subdivisões. Qual critério é prioritariamente considerado para a criação de novos municípios nesta província, de acordo com as diretrizes governamentais?",
+      "alineas": {
+        "a": "Existência de elevada densidade populacional em áreas urbanas consolidadas.",
+        "b": "Presença de recursos naturais estratégicos, como jazigos diamantíferos ou áreas agrícolas de grande produção.",
+        "c": "Necessidade de descentralização administrativa para facilitar o acesso dos cidadãos aos serviços públicos.",
+        "d": "Localização geográfica de fronteira ou proximidade a importantes eixos rodoviários.",
+        "e": "Histórico de conflitos étnicos ou regionais que exijam uma gestão diferenciada."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A descentralização administrativa é um pilar fundamental da reforma, visando aproximar a governação dos cidadãos e melhorar a prestação de serviços públicos, especialmente em províncias de grande dimensão como o Moxico."
+    },
+    {
+      "numero": 40,
+      "tema": "XII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "Considerando a nova estrutura da divisão político-administrativa de 2024, qual dos seguintes elementos representa a menor unidade administrativa com autonomia orçamental e capacidade de gestão direta de serviços básicos à população?",
+      "alineas": {
+        "a": "Província",
+        "b": "Município",
+        "c": "Comuna",
+        "d": "Distrito Urbano",
+        "e": "Povoação"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O município é a unidade base da administração local, dotado de autonomia administrativa, financeira e patrimonial, responsável pela gestão dos serviços públicos de interesse local, incluindo muitas vezes hospitais municipais e postos de saúde."
+    },
+    {
+      "numero": 41,
+      "tema": "XII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A reforma de 2024 introduziu ou consolidou a figura do 'Distrito Urbano' em algumas das maiores cidades. Qual a principal JUSTIFICATIVA para a criação ou reforço desta subdivisão administrativa dentro dos municípios?",
+      "alineas": {
+        "a": "Promover a autonomia total dos distritos urbanos em relação ao município principal.",
+        "b": "Facilitar a gestão de grandes aglomerados populacionais, descentralizando serviços municipais e melhorando a resposta às necessidades locais.",
+        "c": "Reduzir a influência política dos municípios sobre as áreas urbanas mais desenvolvidas.",
+        "d": "Criar novas fontes de receita fiscal exclusivas para as áreas urbanas.",
+        "e": "Padronizar o modelo de gestão urbana com base em exemplos de outros países africanos."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Os distritos urbanos visam a descentralização de serviços e a gestão mais próxima dos cidadãos em grandes centros urbanos, onde a complexidade e a densidade populacional exigem uma administração mais focada e reativa às especificidades locais."
+    },
+    {
+      "numero": 42,
+      "tema": "XII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A província de Luanda, devido à sua complexidade demográfica e económica, tem sido um foco particular nas discussões sobre a divisão político-administrativa. Qual é uma das intenções subjacentes à potencial reconfiguração dos seus municípios ou à criação de novas unidades administrativas dentro da província?",
+      "alineas": {
+        "a": "Reduzir o fluxo migratório de outras províncias para Luanda através da criação de barreiras administrativas.",
+        "b": "Otimizar a prestação de serviços públicos essenciais, como saúde e saneamento, face ao crescimento populacional desordenado.",
+        "c": "Descentralizar o poder político da capital para os municípios circundantes, conferindo-lhes maior governação.",
+        "d": "Garantir uma representatividade equitativa de todas as minorias étnicas nos órgãos de decisão municipal.",
+        "e": "Promover a criação de zonas francas fiscais em todos os novos distritos urbanos."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A reconfiguração em Luanda visa, essencialmente, melhorar a capacidade de resposta das administrações locais face aos desafios de urbanização, densidade populacional e prestação de serviços básicos, como a saúde e o saneamento."
+    },
+    {
+      "numero": 43,
+      "tema": "XIV. IIMS 2023–2024",
+      "enunciado": "No contexto da 'Iniciativa Integrada de Medicamentos e Serviços (IIMS) 2023–2024' em Angola, qual das seguintes estratégias é fundamental para mitigar o impacto da escassez de antimicrobianos essenciais em unidades de saúde rurais, considerando a logística de frio e a sustentabilidade financeira?",
+      "alineas": {
+        "a": "Centralização da dispensa em hospitais provinciais, com transporte semanal por via aérea para todas as unidades.",
+        "b": "Implementação de um sistema de 'stock regulador' a nível municipal, gerido por técnicos de farmácia com formação específica em gestão de cadeia de frio, e aquisição via contratos de performance com fornecedores locais.",
+        "c": "Aquisição massiva e armazenamento em grandes entrepostos centrais, com distribuição trimestral por via terrestre.",
+        "d": "Delegação total da compra e gestão de stock às comunidades locais, com micro-financiamento para cada unidade de saúde.",
+        "e": "Foco exclusivo na importação de genéricos de baixo custo, sem considerar a capacidade de armazenamento local."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A estratégia de 'stock regulador' a nível municipal, gerida por técnicos capacitados e com contratos de performance, optimiza a distribuição e assegura a manutenção da cadeia de frio, sendo mais sustentável e adaptada às realidades rurais do que as outras opções que apresentam falhas logísticas ou financeiras significativas."
+    },
+    {
+      "numero": 44,
+      "tema": "XIV. IIMS 2023–2024",
+      "enunciado": "A 'Iniciativa Integrada de Medicamentos e Serviços (IIMS) 2023–2024' preconiza a optimização da farmacovigilância a nível primário. Qual das seguintes abordagens representa o maior desafio e, simultaneamente, o maior potencial de melhoria na detecção de Reacções Adversas a Medicamentos (RAM) em zonas de difícil acesso em Angola?",
+      "alineas": {
+        "a": "Adoção de sistemas de notificação eletrónica baseados em smartphones para todos os profissionais de saúde, independentemente da conectividade.",
+        "b": "Formação intensiva de agentes comunitários de saúde (ACS) na identificação e registo preliminar de RAM, com reporte facilitado para técnicos de farmácia distritais.",
+        "c": "Criação de um centro nacional de farmacovigilância com inteligência artificial para processamento automático de dados de RAM.",
+        "d": "Obrigatoriedade de notificação para todas as RAM, mesmo as ligeiras, por parte dos médicos em hospitais de referência.",
+        "e": "Distribuição de folhetos informativos sobre RAM em todas as farmácias comunitárias."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A formação de ACS potencia a detecção precoce de RAM em zonas remotas, superando as barreiras de conectividade e acesso directo a profissionais de saúde qualificados, sendo uma estratégia de base comunitária alinhada com as necessidades do IIMS."
+    },
+    {
+      "numero": 45,
+      "tema": "XIV. IIMS 2023–2024",
+      "enunciado": "A IIMS 2023–2024 visa fortalecer a cadeia de abastecimento de medicamentos essenciais. Qual das seguintes acções demonstra uma abordagem integrada e inovadora para superar os desafios de 'última milha' na distribuição para unidades de saúde remotas, considerando as infraestruturas actuais?",
+      "alineas": {
+        "a": "Contratação de uma única empresa de transporte internacional para toda a distribuição nacional.",
+        "b": "Utilização de drones para o transporte de vacinas e medicamentos termolábeis em áreas de difícil acesso, complementada por parcerias com cooperativas de transporte local para volumes maiores e rotinas.",
+        "c": "Construção de novos armazéns em cada comuna para diminuir as distâncias de transporte.",
+        "d": "Dependência exclusiva do transporte rodoviário, mesmo em estradas intransitáveis na época das chuvas.",
+        "e": "Distribuição de bicicletas a todos os técnicos de farmácia para recolha de medicamentos em centros provinciais."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A combinação de drones para produtos sensíveis e urgentes com parcerias locais para transporte de rotina representa uma solução inovadora e adaptada às realidades de infraestrutura, superando o desafio da 'última milha' de forma eficiente e resiliente."
+    },
+    {
+      "numero": 46,
+      "tema": "XV. Inteligência Artificial na Saúde",
+      "enunciado": "A implementação de sistemas de IA para a gestão de stocks de medicamentos em farmácias hospitalares angolanas pode optimizar significativamente a cadeia de abastecimento. Qual dos seguintes aspectos representa o maior desafio na validação e integração de modelos preditivos baseados em IA para esta finalidade, considerando o contexto específico do MINSA?",
+      "alineas": {
+        "a": "A escassez de infraestruturas de computação de alto desempenho nas unidades hospitalares periféricas.",
+        "b": "A complexidade em uniformizar e harmonizar dados históricos de consumo provenientes de diferentes sistemas de registo legados e, por vezes, incompletos.",
+        "c": "A resistência cultural dos técnicos de farmácia à adopção de novas tecnologias, preferindo métodos manuais.",
+        "d": "O elevado custo de licenciamento de software de IA proprietário e a falta de orçamentos dedicados.",
+        "e": "A ausência de legislação específica em Angola que regulamente o uso de IA na gestão de inventário."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A harmonização e limpeza de dados heterogéneos e incompletos de diferentes fontes é um desafio crítico para a construção de modelos de IA robustos e fiáveis, especialmente em contextos com sistemas de registo diversos."
+    },
+    {
+      "numero": 47,
+      "tema": "XV. Inteligência Artificial na Saúde",
+      "enunciado": "Um algoritmo de IA baseado em Deep Learning foi proposto para auxiliar no rastreio inicial de doenças renais crónicas em pacientes angolanos, analisando dados de exames laboratoriais de rotina. Qual das seguintes limitações éticas merece maior escrutínio antes de sua implementação generalizada no sistema de saúde público angolano?",
+      "alineas": {
+        "a": "O potencial de vieses algorítmicos decorrentes de dados de treino não representativos da diversidade étnica e socioeconómica da população angolana.",
+        "b": "A dificuldade em obter consentimento informado de todos os pacientes para o uso dos seus dados em modelos de IA.",
+        "c": "A falta de técnicos especializados para a manutenção e calibração contínua do algoritmo.",
+        "d": "O risco de sobre-diagnóstico e consequente aumento desnecessário na procura por exames complementares.",
+        "e": "A inviabilidade de integrar o algoritmo com os actuais sistemas de informação hospitalar sem uma reforma total."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Vieses algorítmicos podem levar a desigualdades no diagnóstico e tratamento, sendo crucial garantir que os dados de treino reflectem a diversidade da população para evitar resultados discriminatórios."
+    },
+    {
+      "numero": 48,
+      "tema": "XV. Inteligência Artificial na Saúde",
+      "enunciado": "No contexto da farmacovigilância activa em Angola, sistemas de Processamento de Linguagem Natural (PLN) baseados em IA podem ser empregados para analisar relatórios de eventos adversos a medicamentos. Qual é a principal vantagem da IA neste cenário, face aos métodos tradicionais de revisão manual?",
+      "alineas": {
+        "a": "A capacidade de identificar padrões complexos e correlações entre múltiplos eventos adversos que seriam imperceptíveis à análise humana.",
+        "b": "A redução imediata da necessidade de farmacêuticos qualificados na equipe de farmacovigilância.",
+        "c": "A garantia de 100% de precisão na detecção de todos os eventos adversos, eliminando erros humanos.",
+        "d": "A automatização completa da tomada de decisões regulatórias sobre a segurança de medicamentos.",
+        "e": "O baixo custo de implementação e manutenção de tais sistemas em comparação com a formação de pessoal."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A IA, através de PLN, pode analisar grandes volumes de dados textuais e identificar padrões subtis e correlações complexas entre eventos adversos, superando as limitações da análise manual humana."
+    },
+    {
+      "numero": 49,
+      "tema": "XV. Inteligência Artificial na Saúde",
+      "enunciado": "A aplicação de IA para a descoberta e desenvolvimento de novas moléculas medicamentosas em Angola, embora ainda incipiente, apresenta um potencial transformador. Qual das seguintes afirmações melhor descreve o principal benefício da IA nesta fase inicial do Drug Discovery?",
+      "alineas": {
+        "a": "A redução do tempo necessário para ensaios clínicos de Fase III, acelerando a aprovação regulatória.",
+        "b": "A previsão precisa da eficácia e segurança de um novo fármaco em populações específicas antes de qualquer teste laboratorial.",
+        "c": "A identificação e optimização de compostos promissores e a previsão das suas interacções moleculares, diminuindo o número de candidatos a serem sintetizados e testados experimentalmente.",
+        "d": "A substituição total de modelos animais e estudos in vitro na fase de pré-desenvolvimento.",
+        "e": "A eliminação da necessidade de farmacêuticos e químicos na fase de design de novos fármacos."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A IA pode acelerar a descoberta de fármacos, prevendo interacções moleculares e seleccionando os candidatos mais promissores, o que reduz significativamente o tempo e os custos na fase de pesquisa e desenvolvimento."
+    },
+    {
+      "numero": 50,
+      "tema": "XV. Inteligência Artificial na Saúde",
+      "enunciado": "A gestão de ensaios clínicos em Angola, especialmente em áreas de doenças tropicais negligenciadas, pode beneficiar da IA para optimizar o recrutamento de participantes. Qual das seguintes abordagens de IA apresenta o maior potencial para garantir a diversidade e representatividade da amostra de participantes, mitigando vieses?",
+      "alineas": {
+        "a": "Algoritmos de clustering para agrupar pacientes com base em critérios demográficos e clínicos complexos, assegurando quotas equilibradas.",
+        "b": "Redes Generativas Adversariais (GANs) para sintetizar dados de pacientes e preencher lacunas em populações sub-representadas.",
+        "c": "Modelos de Regressão Logística para prever a probabilidade de adesão ao ensaio clínico em diferentes grupos populacionais.",
+        "d": "Sistemas de recomendação baseados em filtragem colaborativa para sugerir pacientes com perfis semelhantes a estudos anteriores bem-sucedidos.",
+        "e": "Agentes inteligentes autónomos para conduzir a triagem inicial de pacientes sem intervenção humana."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Algoritmos de clustering podem identificar grupos de pacientes com características diversas e complexas, permitindo um recrutamento mais estratificado e representativo, essencial para mitigar vieses em ensaios clínicos."
+    }
+  ]
+}

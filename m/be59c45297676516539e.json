@@ -1,0 +1,662 @@
+{
+  "serie": "A",
+  "categoria": "TÉCNICO MÉDIO DE ENFERMAGEM de 3ª CLASSE",
+  "pais": "Angola",
+  "total": 100,
+  "perguntas": [
+    {
+      "numero": 1,
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Ao avaliar o pulso radial de um paciente desidratado, o técnico descreve-o como 'fino e difícil de palpar'. O termo técnico para esta característica de amplitude é:",
+      "alineas": {
+        "a": "Pulso Dicrótico",
+        "b": "Pulso Filiforme",
+        "c": "Pulso Célere",
+        "d": "Pulso Rítmico"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O pulso filiforme indica uma redução do volume sistólico e aumento da resistência vascular, comum em choques e desidratação grave."
+    },
+    {
+      "numero": 2,
+      "tema": "I. Sinais Vitais",
+      "enunciado": "A respiração de Cheyne-Stokes é caracterizada por:",
+      "alineas": {
+        "a": "Respiração rápida, contínua e profunda",
+        "b": "Apneia prolongada seguida de inspiração única",
+        "c": "Períodos de apneia intercalados com aumentos e diminuições graduais da amplitude respiratória",
+        "d": "Respiração ruidosa com estertores"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O padrão Cheyne-Stokes é cíclico, comum em insuficiência cardíaca grave e lesões neurológicas."
+    },
+    {
+      "numero": 3,
+      "tema": "I. Sinais Vitais",
+      "enunciado": "O termo 'Ortopneia' refere-se à:",
+      "alineas": {
+        "a": "Dificuldade de respirar ao deitar-se, aliviada pela posição erecta",
+        "b": "Ausência total de respiração",
+        "c": "Respiração lenta e superficial",
+        "d": "Dor ao respirar profundamente"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A ortopneia é um sintoma clássico de congestão pulmonar onde o paciente necessita estar sentado para respirar melhor."
+    },
+    {
+      "numero": 4,
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Um paciente pediátrico requer 80.000 UI de Nistatina. O frasco tem 100.000 UI/mL. Quantas gotas administrar se o conta-gotas for de 20 gotas/mL?",
+      "alineas": {
+        "a": "8 gotas",
+        "b": "12 gotas",
+        "c": "16 gotas",
+        "d": "20 gotas"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Regra de 3: 100.000 UI --- 1 mL; 80.000 UI --- x. x = (80.000 × 1) / 100.000 = 0,8 mL. Como 1 mL corresponde a 20 gotas, então 0,8 × 20 = 16 gotas."
+    },
+    {
+      "numero": 5,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Segundo a AHA (American Heart Association), em um adulto vítima de paragem cardiorrespiratória (PCR), a profundidade das compressões torácicas deve ser de:",
+      "alineas": {
+        "a": "2 a 3 cm",
+        "b": "Pelo menos 5 cm, não excedendo 6 cm",
+        "c": "Pelo menos 7 cm",
+        "d": "Exatamente 4 cm"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Segundo a AHA, em adultos com paragem cardiorrespiratória, as compressões torácicas devem ter profundidade de pelo menos 5 cm, sem exceder 6 cm, para promover uma circulação sanguínea eficaz durante a reanimação."
+    },
+    {
+      "numero": 6,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Segundo as diretrizes da AHA, qual a sequência correcta de activação do Suporte Básico de Vida (SBV) para um profissional de saúde ao encontrar uma pessoa caída?",
+      "alineas": {
+        "a": "Compressões, via aérea, respiração",
+        "b": "Verificar segurança do local, checar responsividade, pedir ajuda/desfibrilhador, checar pulso e respiração",
+        "c": "Ventilar duas vezes, comprimir 30 vezes e ligar 112",
+        "d": "Iniciar compressões imediatamente sem checar nada"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A segurança da cena é a prioridade absoluta, seguida da identificação da paragem e pedido de socorro."
+    },
+    {
+      "numero": 7,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "A relação compressão-ventilação em adultos com 1 ou 2 socorristas no SBV é:",
+      "alineas": {
+        "a": "15:2",
+        "b": "30:2",
+        "c": "15:1",
+        "d": "30:1"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "No adulto, mantém-se 30 compressões para 2 ventilações independentemente de serem 1 ou 2 socorristas."
+    },
+    {
+      "numero": 8,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Onde deve ser verificado o pulso em um lactente (menos de 1 ano) inconsciente?",
+      "alineas": {
+        "a": "Pulso Radial",
+        "b": "Pulso Carotídeo",
+        "c": "Pulso Braquial",
+        "d": "Pulso Femoral"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Em lactentes, o pulso carotídeo é difícil de palpar devido ao pescoço curto; o braquial é o local de eleição."
+    },
+    {
+      "numero": 9,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Em caso de obstrução das vias aéreas por corpo estranho (OVACE) em adulto consciente que não consegue tossir ou falar, a manobra indicada é:",
+      "alineas": {
+        "a": "Manobra de Valsalva",
+        "b": "Manobra de Heimlich",
+        "c": "Manobra de Leopold",
+        "d": "Golpes nas costas apenas"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A manobra de Heimlich (compressões subdiafragmáticas) é o padrão para desobstrução de via aérea em adultos conscientes."
+    },
+    {
+      "numero": 10,
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Qual o objectivo primordial do uso do Desfibrilhador Externo Automático (DEA)?",
+      "alineas": {
+        "a": "Reiniciar o coração em assistolia",
+        "b": "Tratar ritmos de Fibrilhação Ventricular e Taquicardia Ventricular sem pulso",
+        "c": "Aumentar a frequência respiratória",
+        "d": "Substituir as compressões torácicas"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O DEA choca ritmos 'chocáveis' (FV/TVsp). O DEA não choca assistolia."
+    },
+    {
+      "numero": 11,
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Um dos principais objectivos do banho no leito, além da higiene, é:",
+      "alineas": {
+        "a": "Aumentar a tensão arterial do paciente",
+        "b": "Avaliar a integridade da pele e estimular a circulação periférica",
+        "c": "Reduzir a necessidade de mudança de decúbito",
+        "d": "Substituir a necessidade de curativos"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O banho é o momento oportuno para o exame físico da pele e a fricção suave estimula o retorno venoso."
+    },
+    {
+      "numero": 12,
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Durante o procedimento de banho no leito, como deve ser feita a secagem da pele?",
+      "alineas": {
+        "a": "Friccionando a toalha vigorosamente",
+        "b": "Por compressão suave (apalpando), especialmente em áreas de pregas",
+        "c": "Deixando a pele secar ao ar livre",
+        "d": "Aplicando álcool logo após a água"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A fricção pode lesionar peles frágeis (idosos/desnutridos); a secagem por compressão preserva a integridade cutânea."
+    },
+    {
+      "numero": 13,
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Ao realizar a higiene íntima de uma paciente do sexo feminino, o movimento deve ser:",
+      "alineas": {
+        "a": "De trás para frente",
+        "b": "Da região anal para a vulva",
+        "c": "Da sínfise púbica em direcção ao ânus",
+        "d": "Movimentos circulares sem ordem específica"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A higiene deve ser da frente para trás para evitar a translocação de bactérias entéricas para o trato urinário."
+    },
+    {
+      "numero": 14,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "O ângulo de inserção da agulha para uma injecção intradérmica (ex: teste de Mantoux ou BCG) deve ser de:",
+      "alineas": {
+        "a": "90 graus",
+        "b": "45 graus",
+        "c": "25 graus",
+        "d": "10 a 15 graus"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A via intradérmica requer um ângulo quase paralelo à pele para atingir apenas a derme."
+    },
+    {
+      "numero": 15,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Sobre a técnica de administração intramuscular em Z (Z-track), qual sua principal finalidade?",
+      "alineas": {
+        "a": "Reduzir a dor da picada",
+        "b": "Impedir o refluxo da medicação para o tecido subcutâneo",
+        "c": "Acelerar a absorção da droga",
+        "d": "Permitir volumes maiores que 5 mL"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A técnica em Z veda o trajecto da agulha, sendo indicada para substâncias irritantes como o ferro."
+    },
+    {
+      "numero": 16,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "O volume máximo recomendado para aplicação intramuscular no músculo deltoide de um adulto saudável é:",
+      "alineas": {
+        "a": "1 mL",
+        "b": "3 mL",
+        "c": "5 mL",
+        "d": "10 mL"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O deltoide é um músculo pequeno; volumes acima de 1-2 mL podem causar dor excessiva ou lesão tecidual; prefere-se o glúteo para volumes maiores."
+    },
+    {
+      "numero": 17,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Antes de administrar qualquer medicação, o técnico deve verificar os 'Ceros'. Qual destes NÃO faz parte dos '5 Certos' tradicionais?",
+      "alineas": {
+        "a": "Paciente certo e Medicamento certo",
+        "b": "Dose certa e Via certa",
+        "c": "Hora certa",
+        "d": "Custo certo do medicamento"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Os 5 certos originais focam na segurança: Paciente, Medicamento, Dose, Via e Hora."
+    },
+    {
+      "numero": 18,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "A administração de um medicamento por via sublingual tem a vantagem de:",
+      "alineas": {
+        "a": "Evitar o efeito de primeira passagem hepática",
+        "b": "Ser mais lenta que a via oral comum",
+        "c": "Poder ser usada em pacientes inconscientes",
+        "d": "Não exigir colaboração do paciente"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A mucosa sublingual é altamente vascularizada, enviando o fármaco directo para a veia cava superior, evitando o fígado inicialmente."
+    },
+    {
+      "numero": 19,
+      "tema": "V. Administração de Medicação",
+      "enunciado": "A região ventro-glútea (de Hochstetter) é considerada segura para injecções IM porque:",
+      "alineas": {
+        "a": "É uma área com grandes vasos sanguíneos",
+        "b": "É livre de nervos importantes e vasos calibrosos",
+        "c": "Possui pouco tecido adiposo",
+        "d": "É menos dolorosa que a região glútea posterior"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A ausência de vasos calibrosos e nervos importantes (como o isquiático) torna-a a via mais segura para IM profunda."
+    },
+    {
+      "numero": 20,
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "As úlceras de pressão (escaras) ocorrem principalmente devido a:",
+      "alineas": {
+        "a": "Excesso de humidade apenas",
+        "b": "Isquemia tecidual por compressão prolongada entre uma proeminência óssea e uma superfície dura",
+        "c": "Deficiência de vitamina C",
+        "d": "Uso excessivo de lençóis de algodão"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A pressão mecânica interrompe o fluxo sanguíneo capilar, levando à necrose do tecido por falta de oxigénio."
+    },
+    {
+      "numero": 21,
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "Uma úlcera de pressão que apresenta perda total da espessura da pele e gordura visível, mas sem exposição de osso ou tendão, é classificada como:",
+      "alineas": {
+        "a": "Grau I",
+        "b": "Grau II",
+        "c": "Grau III",
+        "d": "Grau IV"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Grau III atinge o tecido subcutâneo. O Grau IV expõe estruturas profundas (fáscia, músculo, osso)."
+    },
+    {
+      "numero": 22,
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "Para prevenir quedas em pacientes idosos ou confusos, a primeira medida de enfermagem deve ser:",
+      "alineas": {
+        "a": "Realizar contenção mecânica (amarrar o paciente)",
+        "b": "Manter as grades da cama elevadas e a cama em posição baixa",
+        "c": "Administrar sedativos conforme necessidade",
+        "d": "Apagar todas as luzes do quarto"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A segurança física passiva (grades e altura da cama) é a barreira inicial essencial contra quedas."
+    },
+    {
+      "numero": 23,
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "A utilização de coxins (almofadas) tem como objectivo no paciente acamado:",
+      "alineas": {
+        "a": "Apenas o conforto estético",
+        "b": "Manter o alinhamento corporal e descompressão de pontos ósseos",
+        "c": "Substituir a mudança de decúbito",
+        "d": "Aumentar a temperatura corporal"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Coxins ajudam a distribuir o peso e manter a postura anatómica correcta, prevenindo deformidades e úlceras."
+    },
+    {
+      "numero": 24,
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "Um paciente que permanece em decúbito dorsal por muito tempo tem maior risco de desenvolver úlcera de pressão na região do:",
+      "alineas": {
+        "a": "Trocânter e orelhas",
+        "b": "Sacro e calcâneos",
+        "c": "Joelhos e cristas ilíacas",
+        "d": "Cotovelos e região occipital apenas"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Em decúbito dorsal (costas), o sacro e os calcanhares são os pontos de maior pressão por suporte de peso."
+    },
+    {
+      "numero": 25,
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "A 'fricção' e o 'cisalhamento' são factores que contribuem para:",
+      "alineas": {
+        "a": "Melhorar a circulação",
+        "b": "O surgimento de lesões por pressão",
+        "c": "A cicatrização rápida",
+        "d": "O aumento da massa muscular"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Cisalhamento ocorre quando a pele fica estática contra o lençol e as estruturas profundas se movem, rompendo vasos sanguíneos."
+    },
+    {
+      "numero": 26,
+      "tema": "VII. Feridas",
+      "enunciado": "Uma ferida cirúrgica limpa e com bordas aproximadas por sutura cicatriza por:",
+      "alineas": {
+        "a": "Primeira intenção",
+        "b": "Segunda intenção",
+        "c": "Terceira intenção",
+        "d": "Cicatrização retardada"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Primeira intenção ocorre quando não há perda de tecido e as bordas são unidas artificialmente ou naturalmente de imediato."
+    },
+    {
+      "numero": 27,
+      "tema": "VII. Feridas",
+      "enunciado": "O tecido de granulação, essencial na fase de proliferação da ferida, caracteriza-se por ser:",
+      "alineas": {
+        "a": "Seco, esbranquiçado e endurecido",
+        "b": "Vermelho vivo, brilhante e húmido devido à neovascularização",
+        "c": "Amarelado, viscoso e com odor desagradável",
+        "d": "Preto, desvitalizado e seco"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A granulação indica que novos vasos e colágeno estão a preencher o leito da ferida para a cicatrização."
+    },
+    {
+      "numero": 28,
+      "tema": "VII. Feridas",
+      "enunciado": "O processo de remoção de tecido necrótico ou corpos estranhos de uma ferida denomina-se:",
+      "alineas": {
+        "a": "Abscesso",
+        "b": "Desbridamento",
+        "c": "Evisceração",
+        "d": "Espontaneidade"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O desbridamento (autolítico, mecânico, enzimático ou cirúrgico) é necessário para eliminar focos de infecção e permitir a cura."
+    },
+    {
+      "numero": 29,
+      "tema": "VII. Feridas",
+      "enunciado": "Qual o principal objectivo de um curativo oclusivo?",
+      "alineas": {
+        "a": "Manter a ferida exposta ao ar",
+        "b": "Impedir o contacto com microrganismos externos e manter a humidade ideal",
+        "c": "Apenas esconder a ferida do paciente",
+        "d": "Secar completamente o leito da ferida"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O curativo oclusivo protege contra contaminação externa e favorece o meio húmido, que acelera a migração celular."
+    },
+    {
+      "numero": 30,
+      "tema": "VII. Feridas",
+      "enunciado": "O exsudado purulento é caracterizado por:",
+      "alineas": {
+        "a": "Líquido claro e fino",
+        "b": "Líquido avermelhado com sangue vivo",
+        "c": "Líquido espesso, de cor variável (amarelo/verde) com presença de glóbulos brancos e bactérias",
+        "d": "Líquido rosado e sem odor"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O pús (purulento) é sinal clássico de infecção activa, contendo restos celulares e microrganismos."
+    },
+    {
+      "numero": 31,
+      "tema": "VII. Feridas",
+      "enunciado": "Em Angola, o tratamento de feridas crónicas muitas vezes utiliza o Açúcar Cristal para:",
+      "alineas": {
+        "a": "Adoçar a ferida e atrair insectos",
+        "b": "Promover acção osmótica que reduz o edema e inibe o crescimento bacteriano",
+        "c": "Aumentar o nível de glicémia do paciente localmente",
+        "d": "Apenas baixar o custo do curativo"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O açúcar cria um ambiente de alta osmolaridade que desidrata as bactérias e estimula o desbridamento autolítico."
+    },
+    {
+      "numero": 32,
+      "tema": "VII. Feridas",
+      "enunciado": "Sobre as 'Feridas Limpas', qual a afirmação correcta?",
+      "alineas": {
+        "a": "São feridas traumáticas com muita terra",
+        "b": "São feridas feitas em ambiente cirúrgico sem penetração nos tractos digestivo, respiratório ou urinário",
+        "c": "São todas as feridas após 7 dias de tratamento",
+        "d": "São feridas inflamadas sem pus"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Feridas limpas são incisões cirúrgicas em tecidos estéreis sem quebra de técnica asséptica e sem contacto com cavidades colonizadas."
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "No banco de urgência, um técnico de enfermagem atende um paciente com quadro de choque hipovolémico decorrente de malária grave. Ao realizar a palpação rítmica, observa que a pulsação desaparece momentaneamente durante a inspiração profunda, mas recupera na expiração. Como se denomina este fenómeno?",
+      "alineas": {
+        "a": "Pulso Dicrótico",
+        "b": "Pulso Paradoxal",
+        "c": "Pulso Alternante",
+        "d": "Pulso Célere"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O pulso paradoxal é caracterizado pela redução da amplitude da pulsação ou queda da Tensão Arterial sistólica superior a 10 mmHg durante a fase de inspiração, comum em casos de tamponamento cardíaco ou choque grave.",
+      "numero": 33
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Um paciente pediátrico de 4 anos é admitido com acidose metabólica grave. O enfermeiro observa um padrão respiratório caracterizado por inspirações profundas e ruidosas seguidas de expirações rápidas e curtas, com breves períodos de apneia. Este padrão é identificado como:",
+      "alineas": {
+        "a": "Respiração de Biot",
+        "b": "Respiração de Kussmaul",
+        "c": "Bradipneia obstrutiva",
+        "d": "Respiração suspirosa"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A respiração de Kussmaul é o padrão clássico de compensação em acidoses metabólicas (como na cetoacidose diabética ou malária complicada), apresentando quatro fases: inspiração ruidosa, apneia, expiração ruidosa e apneia.",
+      "numero": 34
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Ao avaliar a frequência cardíaca apical e a frequência de pulso radial simultaneamente num paciente com arritmia, o técnico médio regista 98 bpm no coração e 82 bpm no pulso. Este achado clínico é denominado:",
+      "alineas": {
+        "a": "Bradisfigmia",
+        "b": "Défice de pulso",
+        "c": "Pulso bigeminado",
+        "d": "Dissociação eletromecânica"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O défice de pulso ocorre quando a contração cardíaca é ineficaz para gerar uma onda de pulso periférica palpável, resultando numa diferença numérica entre a frequência cardíaca central e o pulso periférico.",
+      "numero": 35
+    },
+    {
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Foi prescrito a um recém-nascido na neonatologia 12 mcg de Digoxina por via endovenosa. A ampola disponível é de 0,25 mg/mL em 2 mL. Para uma aspiração segura, o enfermeiro dilui 1 mL da ampola em 9 mL de Soro Fisiológico. Qual o volume da solução final a administrar?",
+      "alineas": {
+        "a": "0,48 mL",
+        "b": "0,24 mL",
+        "c": "1,2 mL",
+        "d": "0,048 mL"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "1 mL original tem 250 mcg. Após diluir para 10 mL, temos 25 mcg/mL. Para 12 mcg, fazemos: 12 / 25 = 0,48 mL.",
+      "numero": 36
+    },
+    {
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "Quantos miligramas de permanganato de potássio existem em 200 mL de uma solução preparada na proporção de 1:40.000, comum em limpezas de escaras no internamento?",
+      "alineas": {
+        "a": "50 mg",
+        "b": "5 mg",
+        "c": "0,5 mg",
+        "d": "2 mg",
+        "e": "8 mg"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "1:40.000 significa 1g em 40.000 mL. 1000 mg em 40.000 mL simplifica para 1 mg em 40 mL. Em 200 mL: 200 / 40 = 5 mg.",
+      "numero": 37
+    },
+    {
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "No contexto da reanimação de um lactente (menos de 1 ano) por dois profissionais de saúde no PNA (Posto Nutricional de Apoio), qual a técnica de compressão e a relação compressão-ventilação preconizadas?",
+      "alineas": {
+        "a": "Técnica de dois dedos (indicador e médio) e relação 30:2.",
+        "b": "Técnica de dois dedos (indicador e médio) e relação 15:2.",
+        "c": "Técnica dos dois polegares circundando o tórax e relação 15:2.",
+        "d": "Técnica dos dois polegares circundando o tórax e relação 30:2.",
+        "e": "Utilização da palma de uma mão e relação 15:1."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Para lactentes, quando há dois socorristas, a técnica dos polegares circundando o tronco é superior para gerar pressão coronária, e a relação altera-se de 30:2 para 15:2 para priorizar a ventilação.",
+      "numero": 38
+    },
+    {
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Ao utilizar um Desfibrilhador Externo Automático (DEA) num paciente que apresenta excesso de pelos no tórax e suor abundante (diaforese), qual a sequência de acções correctoras para garantir a análise do ritmo e eficácia do choque?",
+      "alineas": {
+        "a": "Aplicar as pás sobre o suor, pois o gel das pás conduz a electricidade independentemente da humidade.",
+        "b": "Secar rapidamente o tórax e, se as pás não aderirem por causa dos pelos, usar um par de pás extra para depilar a zona ou usar uma lâmina de barbear (shaver) do kit.",
+        "c": "Aumentar a carga do choque para 360J para compensar a resistência dos pelos.",
+        "d": "Colocar as pás na região dorsal (costas) para evitar o contacto com o suor frontal."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O suor pode dispersar a corrente e os pelos impedem o contacto adequado; a secagem rápida e a depilação (com batedura de pás ou lâmina) são essenciais para reduzir a impedância transtorácica.",
+      "numero": 39
+    },
+    {
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Um paciente pediátrico (8 anos) é admitido no Banco de Urgência após afogamento, apresentando-se em apneia, mas com pulso palpável de 52 batimentos por minuto (bpm) e sinais de má perfusão. Qual a conduta imediata do enfermeiro de triagem?",
+      "alineas": {
+        "a": "Apenas ventilação de resgate (1 ventilação a cada 2-3 segundos).",
+        "b": "Iniciar ciclos de 30 compressões e 2 ventilações imediatamente.",
+        "c": "Iniciar compressões torácicas e ventilações (RCP), pois a frequência cardíaca está abaixo de 60 bpm com má perfusão.",
+        "d": "Aguardar 2 minutos para reavaliar o pulso antes de qualquer intervenção física.",
+        "e": "Administrar apenas oxigénio por máscara de reserva."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Em pediatria, se o pulso for inferior a 60 bpm com sinais de má perfusão arterial sistémica, mesmo na presença de pulso palpável, as diretrizes de SBV exigem o início de compressões torácicas.",
+      "numero": 40
+    },
+    {
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Durante a execução do banho no leito de um paciente com Acidente Vascular Cerebral (AVC) isquémico, que apresenta hemiplegia à direita e uma perfusão intravenosa no membro superior esquerdo, qual a técnica correcta para a manipulação do vestuário (pijama/bata)?",
+      "alineas": {
+        "a": "Remover a bata começando pelo braço afectado (direito) e vestir pelo braço são (esquerdo).",
+        "b": "Remover a bata começando pelo braço com o cateter (esquerdo) e vestir pelo braço afectado (direito).",
+        "c": "Remover a bata começando pelo braço são (esquerdo) e vestir iniciando pelo braço afectado (direito).",
+        "d": "Cortar a manga da bata do braço com o cateter para evitar a desconexão do sistema de soro.",
+        "e": "Manter o paciente despido durante todo o procedimento para facilitar a observação de escaras."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A técnica padrão dita que deve-se despir primeiro o lado não afectado (são) e vestir primeiro o lado afectado (paralisado/com limitações) para minimizar o desconforto e risco de lesões articulares.",
+      "numero": 41
+    },
+    {
+      "tema": "IV. Banho no Leito",
+      "enunciado": "No contexto de um banho no leito completo, a técnica de lavagem das extremidades inferiores deve seguir um sentido específico para optimizar a fisiologia vascular. Indique o procedimento correcto:",
+      "alineas": {
+        "a": "Lavar do sentido proximal para o distal (da coxa para o pé) para empurrar os detritos.",
+        "b": "Lavar do sentido distal para o proximal (do pé para a coxa) para favorecer o retorno venoso.",
+        "c": "Iniciar pela região inguinal e descer até aos maléolos com movimentos circulares.",
+        "d": "Apenas realizar a limpeza com compressas húmidas, sem fricção, para evitar a libertação de trombos."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A lavagem com movimentos longos e firmes do distal para o proximal auxilia mecanicamente o retorno do sangue venoso ao coração, prevenindo a estase em pacientes acamados.",
+      "numero": 42
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Durante a administração de Hidrocortisona por via Intravenosa (IV) directa num paciente pediátrico, o técnico nota um extravasamento imediato no local da punção. Qual é a conduta imediata e prioritária de acordo com as boas práticas de enfermagem?",
+      "alineas": {
+        "a": "Retirar imediatamente a cânula e aplicar compressas quentes.",
+        "b": "Interromper a infusão, aspirar o resíduo medicamentoso pela cânula e só então retirá-la.",
+        "c": "Elevar o membro e massagear vigorosamente a área para absorção.",
+        "d": "Aplicar pomada de Hirudoid e puncionar o mesmo vaso em posição distal."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A interrupção imediata seguida da aspiração minimiza a quantidade de fármaco nos tecidos adjacentes antes da remoção do dispositivo venoso.",
+      "numero": 43
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Ao realizar uma injecção intramuscular profunda num paciente caquético na Sala de Tratamentos, o técnico opta pelo músculo vasto lateral da coxa. Qual a angulação da agulha e o comprimento recomendado para garantir que o fármaco não atinja o periósteo?",
+      "alineas": {
+        "a": "90° com agulha 30x7.",
+        "b": "45° com agulha 25x8.",
+        "c": "90° com agulha 25x7 e prega cutânea firme.",
+        "d": "60° com agulha 40x12."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Em pacientes com pouca massa muscular (caquéticos), utiliza-se uma agulha menor (25mm) a 90° com prega para elevar o músculo e garantir a segurança técnico-anatómica.",
+      "numero": 44
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "No contexto da 'Síndrome da Imobilização', qual das seguintes alterações fisiopatológicas representa uma complicação do sistema cardiovascular decorrente do decúbito prolongado sem mobilização passiva?",
+      "alineas": {
+        "a": "Hipertensão arterial sistólica severa.",
+        "b": "Aumento do débito cardíaco por facilitação do retorno venoso.",
+        "c": "Hipotensão ortostática e aumento do risco de trombose venosa profunda (TVP).",
+        "d": "Bradicardia sinusal persistente."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O imobilismo causa perda do tónus vascular (hipotensão ortostática) e estase sanguínea nos membros inferiores, predispondo à formação de trombos sanguíneos.",
+      "numero": 45
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "No Banco de Urgência, um paciente de 45 anos apresenta uma ferida por descolamento traumático no membro inferior esquerdo com perda substancial de tecido, impossibilitando a aproximação das bordas. O plano de cuidados indica cicatrização por 'Segunda Intenção'. Qual a característica fisiopatológica predominante neste processo?",
+      "alineas": {
+        "a": "Fechamento rápido mediado por suturas de polipropileno ou agrafos metálicos.",
+        "b": "Formação intensa de tecido de granulação e contração da ferida pelos miofibroblastos.",
+        "c": "Ausência de resposta inflamatória devido à profundidade da lesão dérmica.",
+        "d": "Aproximação tardia das bordas após 3 a 5 dias de controlo da infecção."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Na cicatrização por segunda intenção, a ferida permanece aberta, exigindo maior produção de tecido de granulação para preencher o espaço e a ação de miofibroblastos para a contração centrípeta das bordas.",
+      "numero": 46
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Durante a ronda na Sala de Tratamentos, o Técnico de Enfermagem avalia uma úlcera de pressão na região sacra de um paciente acamado. A ferida apresenta tecido de cor preta, dura, seca e firmemente aderente ao leito, impedindo a visualização da profundidade real. Segundo a classificação de estadiamento, como deve ser registada?",
+      "alineas": {
+        "a": "Úlcera de Pressão Categoria/Estádio III.",
+        "b": "Úlcera de Pressão Categoria/Estádio IV.",
+        "c": "Úlcera de Pressão Não Estadiável devido à presença de escara.",
+        "d": "Lesão por Pressão de Tecidos Moles Profundos."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Sempre que o leito da ferida está coberto por tecido necrótico (escara ou esfacelo) que impede a visualização da base, a ferida é classificada como 'não estadiável' até que o desbridamento seja realizado.",
+      "numero": 47
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Um paciente pediátrico deu entrada no hospital com uma ferida infectada no antebraço. O médico prescreveu a aplicação de compressas húmidas com Solução de Dakin (hipoclorito de sódio diluído). Qual o cuidado de enfermagem crítico ao aplicar este antisséptico?",
+      "alineas": {
+        "a": "Manter a compressa por 24 horas sem troca para garantir a esterilidade.",
+        "b": "Proteger a pele perilesional sã com pasta de zinco ou vaselina para evitar irritação e maceração.",
+        "c": "Aquecer a solução a 50°C para potenciar a libertação de oxigénio.",
+        "d": "Aplicar apenas em feridas com tecido de granulação exuberante e húmido."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Solução de Dakin é citotóxica para o tecido de granulação e irritante para a pele sã; por isso, a margem da ferida deve ser protegida para evitar dermatites químicas.",
+      "numero": 48
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Ao realizar o curativo de uma ferida cirúrgica abdominal que sofreu deiscência, o técnico nota a saída de um líquido viscoso, de cor rosada e transparente. Na terminologia técnica, como se denomina este tipo de exsudado?",
+      "alineas": {
+        "a": "Exsudado Hemorrágico.",
+        "b": "Exsudado Serosanguinolento.",
+        "c": "Exsudado Fibrinoso.",
+        "d": "Exsudado Seroso."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O exsudado serosanguinolento é uma mistura de soro (claro) e sangue (vermelho), resultando numa aparência rosada, comum em feridas em fase de cicatrização ou logo após o trauma.",
+      "numero": 49
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Em Angola, o uso de soluções antissépticas requer rigor técnico. Durante a irrigação de uma ferida profunda e tunelizada com Soro Fisiológico a 0,9%, qual deve ser a técnica de irrigação mais recomendada para evitar trauma tecidular e a reintrodução de bactérias?",
+      "alineas": {
+        "a": "Irrigação por gravidade com o frasco de soro a 2 metros de altura.",
+        "b": "Uso de seringa de 20 ml com agulha 21G (0,8 mm) para gerar pressão de 4 a 15 psi.",
+        "c": "Fricção vigorosa com compressas secas no fundo do túnel.",
+        "d": "Aplicação de jacto de água oxigenada sob alta pressão constante."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A irrigação de feridas deve promover a remoção de detritos e reduzir a carga bacteriana sem causar lesão do tecido viável. A utilização de uma seringa de 20 mL acoplada a uma agulha ou cateter 19–21G gera uma pressão aproximada de 4 a 15 psi, considerada adequada para esse procedimento.",
+      "numero": 50
+    }
+  ]
+}

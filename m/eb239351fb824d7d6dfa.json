@@ -1,0 +1,658 @@
+{
+  "serie": "A",
+  "categoria": "CULTURA GERAL",
+  "pais": "Angola",
+  "total": 100,
+  "perguntas": [
+    {
+      "numero": 1,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "O Ministro que superintende a pasta das Relações Exteriores de Angola integra o Governo sob a designação de:",
+      "alineas": {
+        "a": "Secretário de Estado para a Diplomacia",
+        "b": "Ministro das Relações Exteriores",
+        "c": "Ministro de Estado para as Relações Exteriores",
+        "d": "Alto-Comissário para os Negócios Estrangeiros"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Ministério das Relações Exteriores conduz a política externa angolana, sendo dirigido por um Ministro das Relações Exteriores."
+    },
+    {
+      "numero": 2,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A malária continua a ser, segundo dados do MINSA, uma das principais causas de:",
+      "alineas": {
+        "a": "Desemprego juvenil",
+        "b": "Morbimortalidade em Angola, sobretudo em crianças menores de 5 anos",
+        "c": "Poluição atmosférica",
+        "d": "Acidentes de viação em Angola"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A malária é endémica em Angola e permanece uma das principais causas de doença e morte, especialmente entre crianças menores de cinco anos."
+    },
+    {
+      "numero": 3,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A tuberculose em Angola é combatida através de um programa nacional que assegura, entre outras medidas:",
+      "alineas": {
+        "a": "Encerramento de todos os hospitais rurais",
+        "b": "Isolamento obrigatório permanente dos doentes",
+        "c": "Vacinação exclusiva de adultos",
+        "d": "Tratamento gratuito e directamente observado (DOTS)"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O Programa Nacional de Controlo da Tuberculose adopta a estratégia DOTS, com tratamento gratuito e supervisionado."
+    },
+    {
+      "numero": 4,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "Em relação ao VIH/SIDA, o MINSA promove o TARV, sigla que significa:",
+      "alineas": {
+        "a": "Tratamento Antirretroviral",
+        "b": "Teste Ambulatório de Rastreio Vírico",
+        "c": "Triagem Anual de Risco Vascular",
+        "d": "Terapia de Apoio à Recuperação Vital"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O TARV (Tratamento Antirretroviral) é fornecido gratuitamente às pessoas que vivem com VIH, controlando a carga viral."
+    },
+    {
+      "numero": 5,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A vacina Pentavalente, aplicada no âmbito do PAV, protege a criança contra cinco doenças, incluindo:",
+      "alineas": {
+        "a": "Poliomielite, raiva, tifo, dengue e zika",
+        "b": "Difteria, tétano, tosse convulsa, hepatite B e Haemophilus influenzae tipo b",
+        "c": "Malária, cólera, febre amarela, sarampo e rubéola",
+        "d": "Varicela, papeira, HPV, rotavírus e meningite"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Pentavalente combina protecção contra difteria, tétano, tosse convulsa, hepatite B e Haemophilus influenzae tipo b."
+    },
+    {
+      "numero": 6,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A rede de cuidados de saúde em Angola organiza-se hierarquicamente em três níveis, sendo o primário representado pelos:",
+      "alineas": {
+        "a": "Postos e centros de saúde municipais e comunais",
+        "b": "Hospitais centrais provinciais",
+        "c": "Hospitais gerais",
+        "d": "Institutos de investigação médica"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O nível primário assenta em postos e centros de saúde, mais próximos das comunidades, encaminhando casos complexos para níveis superiores."
+    },
+    {
+      "numero": 7,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A febre amarela é uma doença viral transmitida por mosquitos, sendo a principal medida de prevenção adoptada pelo MINSA:",
+      "alineas": {
+        "a": "Quarentena obrigatória de 40 dias",
+        "b": "Vacinação da população em risco",
+        "c": "Uso de repelentes apenas",
+        "d": "Distribuição de antibióticos preventivos"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A vacinação é a medida mais eficaz contra a febre amarela, integrando campanhas de imunização em zonas de risco."
+    },
+    {
+      "numero": 8,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A desnutrição crónica infantil em Angola é medida principalmente através do indicador de:",
+      "alineas": {
+        "a": "Perímetro cefálico reduzido",
+        "b": "Anemia falciforme",
+        "c": "Baixa estatura para a idade (atraso de crescimento)",
+        "d": "Peso excessivo para a idade"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A desnutrição crónica traduz-se em atraso de crescimento (baixa estatura para a idade), reflectindo privações nutricionais prolongadas."
+    },
+    {
+      "numero": 9,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O Serviço Nacional de Sangue em Angola tem como missão principal:",
+      "alineas": {
+        "a": "Formar enfermeiros especializados",
+        "b": "Fiscalizar clínicas privadas",
+        "c": "Produzir medicamentos genéricos",
+        "d": "Garantir a segurança e disponibilidade do sangue e hemoderivados"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O Serviço Nacional de Sangue assegura a colecta, processamento e distribuição segura de sangue e hemoderivados nas unidades de saúde."
+    },
+    {
+      "numero": 10,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A luta contra a poliomielite em Angola tem incluído campanhas de vacinação em massa, tendo o país sido declarado, pela OMS, livre de:",
+      "alineas": {
+        "a": "Poliovírus selvagem",
+        "b": "Tuberculose",
+        "c": "Malária",
+        "d": "Todas as doenças infecciosas"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Angola foi certificada como livre da transmissão do poliovírus selvagem, resultado de campanhas de vacinação sustentadas."
+    },
+    {
+      "numero": 11,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O programa nacional que visa reduzir a transmissão vertical do VIH de mãe para filho denomina-se:",
+      "alineas": {
+        "a": "Programa Nacional de Alimentação Escolar",
+        "b": "Programa Água para Todos",
+        "c": "Programa Casa Melhor",
+        "d": "Programa de Prevenção da Transmissão Vertical (PTV)"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O PTV integra o rastreio e tratamento de grávidas seropositivas, reduzindo significativamente o risco de transmissão do VIH ao recém-nascido."
+    },
+    {
+      "numero": 12,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "Uma das prioridades do MINSA no reforço da atenção primária é a expansão dos Cuidados de Saúde Primários, cujo pilar histórico foi definido na:",
+      "alineas": {
+        "a": "Convenção de Genebra (1949)",
+        "b": "Declaração de Alma-Ata (1978)",
+        "c": "Carta de Maputo (1990)",
+        "d": "Declaração de Luanda (2000)"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Declaração de Alma-Ata, de 1978, consagrou os Cuidados de Saúde Primários como estratégia fundamental para a saúde para todos."
+    },
+    {
+      "numero": 13,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "O Censo Geral da População e Habitação de Angola, realizado mais recentemente, apurou uma população total de aproximadamente:",
+      "alineas": {
+        "a": "42 milhões de habitantes",
+        "b": "25,7 milhões de habitantes",
+        "c": "18 milhões de habitantes",
+        "d": "33,9 milhões de habitantes"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Segundo os resultados definitivos, Angola tinha cerca de 33,9 milhões de habitantes, dado utilizado no planeamento nacional pós-2024."
+    },
+    {
+      "numero": 14,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "A operação censitária de 2024 em Angola contou com apoio técnico e financeiro de organismos como o:",
+      "alineas": {
+        "a": "OTAN",
+        "b": "Banco Mundial exclusivamente",
+        "c": "Cruz Vermelha Internacional",
+        "d": "Fundo de População das Nações Unidas (UNFPA)"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O UNFPA apoiou tecnicamente o Instituto Nacional de Estatística na preparação e realização do Censo de 2024."
+    },
+    {
+      "numero": 15,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "A criação de novas províncias pela Lei n.º 14/24 teve como um dos principais objectivos declarados:",
+      "alineas": {
+        "a": "Diminuir o número de funcionários públicos",
+        "b": "Aproximar a administração do Estado das populações e promover o desenvolvimento local",
+        "c": "Reduzir o número de eleitores",
+        "d": "Extinguir os governos provinciais"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Executivo justificou a reorganização territorial com a necessidade de aproximar os serviços do Estado das populações e dinamizar o desenvolvimento local."
+    },
+    {
+      "numero": 16,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "Angola tem assumido um papel de destaque como mediador no conflito na região oriental da:",
+      "alineas": {
+        "a": "Etiópia",
+        "b": "República Democrática do Congo",
+        "c": "Somália",
+        "d": "Nigéria"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Angola, através do Presidente João Lourenço, tem mediado o diálogo entre a RD Congo e o grupo M23, no âmbito do Processo de Luanda."
+    },
+    {
+      "numero": 17,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "O Processo de Luanda, iniciado sob mediação angolana, procura resolver a tensão entre a RD Congo e:",
+      "alineas": {
+        "a": "O Uganda",
+        "b": "O Congo-Brazzaville",
+        "c": "O Ruanda",
+        "d": "A Zâmbia"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Processo de Luanda visa a normalização das relações entre a RD Congo e o Ruanda, no contexto do conflito no leste congolês."
+    },
+    {
+      "numero": 18,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "O principal produto mineral que se pretende escoar através do Corredor do Lobito, extraído da RD Congo e Zâmbia, é o:",
+      "alineas": {
+        "a": "Cobre e cobalto",
+        "b": "Diamante",
+        "c": "Ouro",
+        "d": "Urânio"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O cobre e o cobalto, essenciais para baterias e tecnologias verdes, são os principais minerais a escoar pelo Corredor do Lobito."
+    },
+    {
+      "numero": 19,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "A moeda nacional de Angola é o:",
+      "alineas": {
+        "a": "Escudo",
+        "b": "Metical",
+        "c": "Rand",
+        "d": "Kwanza"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O Kwanza é a moeda oficial de Angola desde 1977, emitida e regulada pelo Banco Nacional de Angola."
+    },
+    {
+      "numero": 20,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "O principal produto de exportação da economia angolana continua a ser:",
+      "alineas": {
+        "a": "Petróleo bruto",
+        "b": "Café",
+        "c": "Diamantes",
+        "d": "Pescado"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O petróleo bruto continua a representar a maior fatia das exportações e das receitas fiscais do Estado angolano."
+    },
+    {
+      "numero": 21,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "O programa do Executivo angolano destinado a substituir importações e dinamizar a produção nacional denomina-se Plano de:",
+      "alineas": {
+        "a": "Fomento Agrícola Integrado",
+        "b": "Desenvolvimento Industrial",
+        "c": "Apoio à Produção, Diversificação das Exportações e Substituição das Importações (PRODESI)",
+        "d": "Recuperação Rodoviária Nacional"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O PRODESI visa reduzir a dependência de importações e diversificar as exportações não petrolíferas da economia angolana."
+    },
+    {
+      "numero": 22,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "A barragem de Laúca, uma das maiores infra-estruturas hidroeléctricas de Angola, está situada no rio:",
+      "alineas": {
+        "a": "Cubango",
+        "b": "Zaire (Congo)",
+        "c": "Cunene",
+        "d": "Cuanza"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A Barragem de Laúca está construída no rio Cuanza, na província do Cuanza Sul/Malanje, reforçando a produção de energia eléctrica."
+    },
+    {
+      "numero": 23,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "O aeroporto internacional inaugurado em Luanda para substituir o antigo Aeroporto 4 de Fevereiro denomina-se:",
+      "alineas": {
+        "a": "Aeroporto Internacional Agostinho Neto",
+        "b": "Aeroporto Internacional de Bom Jesus",
+        "c": "Aeroporto Dr. António Agostinho Neto",
+        "d": "Aeroporto Internacional António Agostinho"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O Aeroporto Internacional Agostinho Neto, no Icolo e Bengo, entrou em operação plena a partir de 2023, substituindo o antigo aeroporto 4 de Fevereiro."
+    },
+    {
+      "numero": 24,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O início da luta armada de libertação nacional em Angola é assinalado, oficialmente, pelo ataque de 4 de Fevereiro de 1961 a:",
+      "alineas": {
+        "a": "Quartel do Namibe",
+        "b": "Prisões em Luanda",
+        "c": "Instalações militares em Cabinda",
+        "d": "Sede do governo colonial em Malanje"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A 4 de Fevereiro de 1961, militantes nacionalistas atacaram prisões em Luanda, marcando simbolicamente o início da luta armada."
+    },
+    {
+      "numero": 25,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "A guerra civil angolana, iniciada após a independência, terminou formalmente com a assinatura do Memorando de Entendimento do Luena, em:",
+      "alineas": {
+        "a": "1994",
+        "b": "2002",
+        "c": "2004",
+        "d": "2000"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Memorando do Luena, assinado em Abril de 2002, selou o fim da guerra civil após a morte de Jonas Savimbi."
+    },
+    {
+      "numero": 26,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "As cores da bandeira nacional de Angola são:",
+      "alineas": {
+        "a": "Vermelho e verde",
+        "b": "Verde e amarelo",
+        "c": "Azul e branco",
+        "d": "Vermelho e preto"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A bandeira angolana é composta pelas cores vermelho e preto, com o emblema da roda dentada, catana e estrela ao centro."
+    },
+    {
+      "numero": 27,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O maior lago artificial de Angola, formado pela barragem homónima, é o de:",
+      "alineas": {
+        "a": "Capanda",
+        "b": "Cameia",
+        "c": "Matala",
+        "d": "Gove"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A albufeira de Capanda, no rio Cuanza, é o maior reservatório artificial de Angola, associado à central hidroeléctrica de Capanda."
+    },
+    {
+      "numero": 28,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O deserto que ocupa parte da faixa costeira sul de Angola denomina-se deserto do:",
+      "alineas": {
+        "a": "Karoo",
+        "b": "Sahara",
+        "c": "Namibe",
+        "d": "Kalahari"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Deserto do Namibe estende-se pela faixa litoral sul de Angola, prolongando-se pelo deserto do Namibe/Namíbia."
+    },
+    {
+      "numero": 29,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O rio mais extenso que nasce em território angolano e desagua no Oceano Índico, através de Moçambique, é o:",
+      "alineas": {
+        "a": "Cunene",
+        "b": "Cuanza",
+        "c": "Congo",
+        "d": "Zambeze"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O Rio Zambeze nasce em Angola, na região da Lunda, e percorre vários países até desaguar no Oceano Índico, em Moçambique."
+    },
+    {
+      "numero": 30,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "A antiga capital do Reino do Congo, cujas ruínas se situam actualmente na província do Zaire, era:",
+      "alineas": {
+        "a": "Mbanza Kongo",
+        "b": "Kalandula",
+        "c": "Massangano",
+        "d": "Pungo Andongo"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Mbanza Kongo foi a capital histórica do Reino do Congo, classificada Património Mundial da UNESCO em 2017."
+    },
+    {
+      "numero": 31,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O Reino do Ndongo, governado por sobas e posteriormente pela Rainha Nzinga Mbandi, situava-se na região correspondente ao actual:",
+      "alineas": {
+        "a": "Sul do Namibe",
+        "b": "Litoral de Luanda e Cuanza",
+        "c": "Norte de Cabinda",
+        "d": "Leste da Lunda"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Reino do Ndongo desenvolveu-se na região do Cuanza e arredores de Luanda, tendo Nzinga Mbandi resistido à colonização portuguesa."
+    },
+    {
+      "numero": 32,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "A idade mínima para o exercício do direito de voto em Angola é:",
+      "alineas": {
+        "a": "18 anos",
+        "b": "16 anos",
+        "c": "25 anos",
+        "d": "21 anos"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Todo o cidadão angolano maior de 18 anos tem capacidade eleitoral activa, salvo as excepções previstas na lei."
+    },
+    {
+      "numero": 33,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "Um dos deveres fundamentais do cidadão angolano, consagrado na Constituição, é:",
+      "alineas": {
+        "a": "Residir permanentemente na província de nascimento",
+        "b": "Filiar-se obrigatoriamente num partido político",
+        "c": "Servir nas Forças Armadas até aos 40 anos",
+        "d": "Pagar impostos e cumprir a lei"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A Constituição consagra como dever fundamental o cumprimento da lei e das obrigações fiscais, entre outros deveres cívicos."
+    },
+    {
+      "numero": 34,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "O direito à educação em Angola é garantido constitucionalmente, sendo o ensino primário caracterizado por ser:",
+      "alineas": {
+        "a": "Gratuito e obrigatório",
+        "b": "Pago e facultativo",
+        "c": "Apenas disponível em Luanda",
+        "d": "Exclusivo do sector privado"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A Constituição consagra o ensino primário como gratuito e de frequência obrigatória, garantindo o direito universal à educação básica."
+    },
+    {
+      "numero": 35,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "A liberdade de expressão e de imprensa em Angola está consagrada como um direito:",
+      "alineas": {
+        "a": "Exclusivo dos órgãos públicos de comunicação",
+        "b": "Fundamental, sujeito apenas às restrições previstas na Constituição e na lei",
+        "c": "Reservado apenas a jornalistas credenciados pelo Estado",
+        "d": "Absoluto, sem qualquer limitação"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Constituição garante a liberdade de expressão e de imprensa como direitos fundamentais, com as limitações previstas na lei."
+    },
+    {
+      "numero": 36,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "A igualdade entre homens e mulheres perante a lei, incluindo em matéria de acesso a cargos públicos, é um princípio consagrado na:",
+      "alineas": {
+        "a": "Lei da Terra",
+        "b": "Lei da Família apenas",
+        "c": "Lei do Trabalho apenas",
+        "d": "Constituição da República de Angola"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A Constituição de Angola consagra expressamente o princípio da igualdade de género e de oportunidades no acesso a cargos e funções públicas."
+    },
+    {
+      "numero": 37,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "O cartão que serve de identificação civil e comprova a maioridade e a nacionalidade angolana é o:",
+      "alineas": {
+        "a": "Bilhete de Identidade",
+        "b": "Passaporte",
+        "c": "Cartão de Contribuinte",
+        "d": "Cartão de Eleitor"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O Bilhete de Identidade é o documento oficial que comprova a identidade, a nacionalidade e demais dados civis do cidadão angolano."
+    },
+    {
+      "numero": 38,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O Parque Nacional do Iona, situado no sudoeste de Angola, é conhecido pela conservação de espécies adaptadas ao deserto, como a planta:",
+      "alineas": {
+        "a": "Vitória-régia",
+        "b": "Baobá gigante",
+        "c": "Welwitschia mirabilis",
+        "d": "Palmeira de Icolo"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A Welwitschia mirabilis, planta endémica do deserto do Namibe, é uma das espécies mais emblemáticas do Parque Nacional do Iona."
+    },
+    {
+      "numero": 39,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A palanca negra gigante, símbolo nacional da fauna angolana, encontra-se protegida principalmente na área da:",
+      "alineas": {
+        "a": "Serra da Chela",
+        "b": "Baía de Luanda",
+        "c": "Ilha do Mussulo",
+        "d": "Reserva Especial do Luando"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A palanca negra gigante, espécie endémica e símbolo de Angola, é protegida sobretudo na Reserva Especial do Luando, na Lunda/Malanje."
+    },
+    {
+      "numero": 40,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O fenómeno das alterações climáticas tem afectado o sul de Angola, sobretudo através de:",
+      "alineas": {
+        "a": "Secas recorrentes e insegurança alimentar",
+        "b": "Descida generalizada das temperaturas",
+        "c": "Expansão das florestas tropicais",
+        "d": "Aumento da precipitação anual"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O sul de Angola, nomeadamente o Cunene e Namibe, tem enfrentado secas cíclicas agravadas pelas alterações climáticas, afectando a segurança alimentar."
+    },
+    {
+      "numero": 41,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O principal instrumento nacional de gestão ambiental em Angola, que exige a avaliação de impacte ambiental para grandes projectos, é regulado pela:",
+      "alineas": {
+        "a": "Lei da Família",
+        "b": "Lei de Bases do Ambiente",
+        "c": "Lei do Trabalho",
+        "d": "Lei da Terra"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Lei de Bases do Ambiente estabelece os princípios da política ambiental angolana, incluindo a obrigatoriedade de estudos de impacte ambiental."
+    },
+    {
+      "numero": 42,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O Kissama Foundation e outros projectos de conservação em Angola trabalham na reintrodução de espécies afectadas pela guerra civil, como:",
+      "alineas": {
+        "a": "Peixes de água doce",
+        "b": "Aves migratórias apenas",
+        "c": "Elefantes e outros grandes mamíferos",
+        "d": "Répteis marinhos"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Programas de conservação, como a Operação Noé, reintroduziram elefantes e outros grandes mamíferos em áreas protegidas afectadas pelo conflito armado."
+    },
+    {
+      "numero": 43,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A energia solar tem vindo a ganhar importância na matriz energética angolana, com destaque para o parque fotovoltaico de:",
+      "alineas": {
+        "a": "Cambambe",
+        "b": "Biópio",
+        "c": "Laúca",
+        "d": "Caraculo, no Namibe"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O parque solar do Caraculo, no Namibe, é um dos maiores projectos fotovoltaicos de Angola, contribuindo para a diversificação energética."
+    },
+    {
+      "numero": 44,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A vegetação predominante na maior parte do planalto central angolano é o(a):",
+      "alineas": {
+        "a": "Savana e miombo (floresta aberta)",
+        "b": "Floresta equatorial densa",
+        "c": "Mangal costeiro",
+        "d": "Deserto arenoso"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O planalto central de Angola é dominado por savanas e formações de miombo, típicas do clima tropical de altitude."
+    },
+    {
+      "numero": 45,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O aproveitamento sustentável da biodiversidade marinha ao longo da costa angolana enfrenta desafios como:",
+      "alineas": {
+        "a": "Erupções vulcânicas frequentes",
+        "b": "Congelamento das águas costeiras",
+        "c": "Pesca ilegal e não regulamentada",
+        "d": "Excesso de chuvas no litoral"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A pesca ilegal, não declarada e não regulamentada é um dos principais desafios à sustentabilidade dos recursos marinhos angolanos."
+    },
+    {
+      "numero": 46,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O Instituto Nacional de Meteorologia e Geofísica de Angola (INAMET) é responsável, entre outras funções, por:",
+      "alineas": {
+        "a": "Coordenar campanhas de vacinação",
+        "b": "Fiscalizar o tráfego aéreo internacional",
+        "c": "Gerir as reservas cambiais",
+        "d": "Emitir previsões meteorológicas e alertas de fenómenos extremos"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O INAMET produz e divulga informação meteorológica e climatológica, essencial para a agricultura, aviação e prevenção de desastres naturais."
+    },
+    {
+      "numero": 47,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A gestão de resíduos sólidos urbanos constitui um desafio ambiental crescente em Angola, sobretudo devido a:",
+      "alineas": {
+        "a": "Rápida urbanização e crescimento populacional",
+        "b": "Diminuição da população urbana",
+        "c": "Ausência total de lixo produzido",
+        "d": "Excesso de reciclagem industrial"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O crescimento acelerado das cidades angolanas, sobretudo Luanda, tem agravado os desafios ligados à recolha e tratamento de resíduos sólidos."
+    },
+    {
+      "numero": 48,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A prática da agricultura de sequeiro é predominante em Angola devido, sobretudo, a:",
+      "alineas": {
+        "a": "Proibição legal da irrigação",
+        "b": "Fraca cobertura de sistemas de rega",
+        "c": "Excesso de canais de irrigação",
+        "d": "Solos exclusivamente pantanosos"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A maior parte da produção agrícola familiar em Angola depende das chuvas, devido à fraca cobertura de sistemas de irrigação."
+    },
+    {
+      "numero": 49,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O fenómeno da erosão costeira tem afectado zonas litorais angolanas, sendo agravado sobretudo por:",
+      "alineas": {
+        "a": "Arrefecimento global",
+        "b": "Redução das marés",
+        "c": "Subida do nível do mar e ocupação desordenada da faixa costeira",
+        "d": "Diminuição da actividade humana no litoral"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A subida do nível do mar associada às alterações climáticas, aliada à ocupação desordenada, tem intensificado a erosão costeira em Angola."
+    },
+    {
+      "numero": 50,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O maior parque natural marinho protegido de Angola, criado para preservar ecossistemas costeiros e espécies marinhas, é o:",
+      "alineas": {
+        "a": "Parque Nacional da Cangandala",
+        "b": "Parque Nacional do Bicuar",
+        "c": "Parque Nacional da Mupa",
+        "d": "Parque Nacional Marinho das Ilhas dos Tigres"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O Parque Nacional Marinho das Ilhas dos Tigres, no Namibe, protege ecossistemas costeiros e insulares importantes para aves e mamíferos marinhos."
+    }
+  ]
+}

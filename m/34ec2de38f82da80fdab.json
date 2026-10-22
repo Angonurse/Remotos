@@ -1,0 +1,3181 @@
+{
+ "categoria_id": "fisioterapia",
+ "categoria": "Técnico de Fisioterapia",
+ "temas": [
+  {
+   "titulo": "I. Conceitos Básicos de Fisioterapia",
+   "introducao": "A Fisioterapia é a ciência da saúde que estuda, previne e trata as disfunções do movimento humano decorrentes de alterações de órgãos e sistemas. O técnico de fisioterapia utiliza agentes físicos (movimento, calor, frio, água, electricidade, luz e som) para restaurar a função, aliviar a dor e devolver autonomia ao doente.",
+   "conceitos": [
+    {
+     "termo": "Fisioterapia",
+     "definicao": "Profissão da área da saúde que utiliza agentes físicos e o movimento terapêutico para prevenir, tratar e reabilitar disfunções cinético-funcionais.",
+     "explicacao": "Na prática, o fisioterapeuta não trata a doença em si, mas as consequências funcionais dela: a força que se perdeu, a amplitude que ficou limitada, a marcha que ficou insegura, a respiração que ficou ineficaz.",
+     "itens": [
+      "Avalia (anamnese, exame físico, testes funcionais)",
+      "Define objectivos e plano de tratamento",
+      "Executa e reavalia periodicamente",
+      "Documenta e dá alta funcional"
+     ],
+     "destaques": [
+      "Fisioterapia = função. Se não altera função ou sintoma, o plano deve ser revisto."
+     ]
+    },
+    {
+     "termo": "Cinesioterapia",
+     "definicao": "Uso terapêutico do movimento, activo ou passivo, para recuperar ou manter a função.",
+     "explicacao": "É o recurso mais importante e mais barato da fisioterapia: não depende de aparelhos, apenas de técnica e de conhecimento anatómico.",
+     "itens": [
+      "Passiva: o terapeuta move o segmento (doente sem força ou inconsciente)",
+      "Activa-assistida: o doente inicia, o terapeuta ajuda",
+      "Activa livre: o doente faz sozinho contra a gravidade",
+      "Resistida: contra carga (halteres, faixa elástica, mão do terapeuta)"
+     ],
+     "destaques": [
+      "Progressão clássica: passiva → activa-assistida → activa livre → resistida."
+     ]
+    },
+    {
+     "termo": "Amplitude de Movimento (ADM)",
+     "definicao": "Grau de movimento disponível numa articulação, medido em graus com goniómetro.",
+     "explicacao": "Distinguir ADM activa (o que o doente faz) de ADM passiva (o que o terapeuta consegue mover). Activa muito menor que a passiva sugere fraqueza ou dor; ambas iguais e reduzidas sugerem bloqueio articular ou retracção.",
+     "itens": [
+      "Flexão do ombro: 0–180°",
+      "Flexão do cotovelo: 0–145°",
+      "Flexão do joelho: 0–135°",
+      "Dorsiflexão do tornozelo: 0–20°"
+     ],
+     "destaques": [
+      "Sempre comparar com o lado contralateral saudável."
+     ]
+    },
+    {
+     "termo": "Força muscular (escala de Oxford / MRC)",
+     "definicao": "Graduação da contracção muscular de 0 a 5.",
+     "explicacao": "É a linguagem universal para registar evolução. Grau 3 é o marco funcional: vence a gravidade.",
+     "itens": [
+      "0 — ausência de contracção",
+      "1 — contracção palpável sem movimento",
+      "2 — movimento apenas sem gravidade",
+      "3 — vence a gravidade",
+      "4 — vence resistência moderada",
+      "5 — força normal"
+     ],
+     "destaques": [
+      "Grau 3 = vence a gravidade. Abaixo disso, trabalhar em plano horizontal/hidroterapia."
+     ]
+    },
+    {
+     "termo": "Termoterapia",
+     "definicao": "Aplicação terapêutica de calor (superficial ou profundo).",
+     "explicacao": "O calor causa vasodilatação, aumenta a extensibilidade do colagénio e reduz o espasmo muscular — ideal antes do alongamento em quadros crónicos.",
+     "itens": [
+      "Superficial: bolsa quente, parafina, infravermelhos (2–3 cm)",
+      "Profundo: ultrassom, ondas curtas",
+      "Duração habitual: 15–20 minutos"
+     ],
+     "destaques": [
+      "Nunca aplicar calor sobre inflamação aguda, hemorragia, tumor ou área sem sensibilidade."
+     ]
+    },
+    {
+     "termo": "Crioterapia",
+     "definicao": "Aplicação terapêutica de frio.",
+     "explicacao": "Provoca vasoconstrição, reduz o edema, a dor e o metabolismo local — é o recurso da fase aguda (primeiras 48–72 h).",
+     "itens": [
+      "Gelo em saco com pano interposto, 15–20 min, 3–4x/dia",
+      "Nunca aplicar gelo directamente na pele",
+      "Contra-indicado em Raynaud, urticária ao frio e insensibilidade cutânea"
+     ],
+     "destaques": [
+      "Regra PRICE/POLICE: Protecção, Optimal Loading, Ice, Compressão, Elevação."
+     ]
+    },
+    {
+     "termo": "Electroterapia",
+     "definicao": "Uso de correntes eléctricas com fins analgésicos ou de estimulação muscular.",
+     "explicacao": "TENS actua na dor (teoria das comportas); FES/corrente russa recruta fibras musculares em músculos inibidos ou denervados.",
+     "itens": [
+      "TENS convencional: alta frequência, analgesia rápida",
+      "TENS acupuntura: baixa frequência, libertação de endorfinas",
+      "Contra-indicações: pacemaker, gravidez (abdómen), trombose, sobre o seio carotídeo"
+     ],
+     "destaques": [
+      "Eléctrodos nunca sobre pele lesada; verificar sempre sensibilidade antes de aplicar."
+     ]
+    },
+    {
+     "termo": "Objectivo funcional (SMART)",
+     "definicao": "Meta de tratamento específica, mensurável, atingível, relevante e temporizada.",
+     "explicacao": "Em vez de 'melhorar a marcha', escreve-se 'andar 50 metros com canadiana em 3 semanas'. Isto permite avaliar objectivamente o sucesso.",
+     "itens": [
+      "Curto prazo: dias a 2 semanas",
+      "Médio prazo: 2–6 semanas",
+      "Longo prazo: alta funcional"
+     ]
+    }
+   ],
+   "finalidades": [
+    "Prevenir incapacidades e complicações do repouso",
+    "Aliviar a dor e o edema",
+    "Restaurar amplitude, força, equilíbrio e coordenação",
+    "Reeducar a marcha e as actividades de vida diária (AVD)",
+    "Promover a reintegração familiar, escolar e laboral"
+   ],
+   "vantagens": [
+    "Tratamento não invasivo e sem efeitos adversos medicamentosos",
+    "Baixo custo quando baseado em cinesioterapia",
+    "Reduz tempo de internamento e consumo de analgésicos"
+   ],
+   "desvantagens": [
+    "Exige adesão e tempo do doente",
+    "Resultados progressivos, raramente imediatos",
+    "Depende de avaliação correcta: um diagnóstico funcional errado leva a tratamento ineficaz"
+   ],
+   "valores_referencia": [
+    {
+     "parametro": "Escala de força (MRC)",
+     "valor": "0 a 5",
+     "observacao": "3 = vence a gravidade"
+    },
+    {
+     "parametro": "Escala visual analógica de dor (EVA)",
+     "valor": "0 a 10",
+     "observacao": "≥7 = dor intensa, rever plano"
+    },
+    {
+     "parametro": "Aplicação de gelo",
+     "valor": "15–20 min, 3–4x/dia",
+     "observacao": "Fase aguda, até 72 h"
+    },
+    {
+     "parametro": "Aplicação de calor superficial",
+     "valor": "15–20 min",
+     "observacao": "Fase crónica"
+    },
+    {
+     "parametro": "Alongamento estático",
+     "valor": "20–30 s, 3–5 repetições",
+     "observacao": "Sem dor aguda"
+    }
+   ],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Acolher o doente, confirmar identificação e explicar o procedimento (consentimento)."
+    },
+    {
+     "passo": 2,
+     "descricao": "Colher anamnese: queixa, início, factores de agravamento/alívio, antecedentes e medicação."
+    },
+    {
+     "passo": 3,
+     "descricao": "Realizar exame físico: inspecção, palpação, goniometria, teste de força, testes especiais."
+    },
+    {
+     "passo": 4,
+     "descricao": "Formular o diagnóstico cinético-funcional e definir objectivos SMART."
+    },
+    {
+     "passo": 5,
+     "descricao": "Executar o plano (termo/crioterapia, cinesioterapia, electroterapia, treino funcional)."
+    },
+    {
+     "passo": 6,
+     "descricao": "Reavaliar a cada sessão (dor, ADM, força) e registar no processo."
+    },
+    {
+     "passo": 7,
+     "descricao": "Ensinar exercícios domiciliários e critérios de alerta antes da alta."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Doente com entorse do tornozelo há 24 h, tornozelo edemaciado e doloroso. O colega quer aplicar bolsa de água quente para 'relaxar'.",
+     "resolucao": "Errado. Nas primeiras 48–72 h aplica-se frio (15–20 min, 3–4x/dia), compressão elástica e elevação do membro. O calor aumentaria a vasodilatação e o edema. Calor só na fase crónica/residual."
+    },
+    {
+     "situacao": "Doente com força grau 2 no quadricípite após imobilização prolongada.",
+     "resolucao": "Grau 2 significa movimento só sem a gravidade: iniciar exercícios em decúbito lateral ou em suspensão/hidroterapia, com progressão para activo-assistido e depois activo contra a gravidade quando atingir grau 3."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Aplicar calor em fase inflamatória aguda",
+    "Aplicar gelo directamente sobre a pele (queimadura pelo frio)",
+    "Não testar sensibilidade antes de termoterapia ou electroterapia",
+    "Progredir a carga sem reavaliar a dor",
+    "Tratar o exame de imagem em vez de tratar o doente",
+    "Omitir o registo no processo clínico"
+   ],
+   "conclusao": "Dominar os conceitos básicos — avaliação, cinesioterapia, termoterapia, crioterapia e electroterapia — é a base de toda a prática. Sem avaliação correcta e reavaliação sistemática não há fisioterapia eficaz."
+  },
+  {
+   "titulo": "II. Fisioterapia Respiratória e Cardíaca (Insuficiência Cardíaca, DPOC e Insuficiência Respiratória)",
+   "introducao": "A fisioterapia cardiorrespiratória visa melhorar a ventilação, a higiene brônquica e a tolerância ao esforço em doentes com patologia do coração e do pulmão. É uma das áreas com maior impacto na redução do tempo de internamento e das complicações pulmonares.",
+   "conceitos": [
+    {
+     "termo": "Insuficiência Cardíaca (IC)",
+     "definicao": "Incapacidade do coração em bombear sangue suficiente para as necessidades metabólicas do organismo.",
+     "explicacao": "O doente cansa-se com pequenos esforços, apresenta edema dos membros inferiores e dispneia que agrava em decúbito. A fisioterapia trabalha o condicionamento aeróbio controlado, sempre monitorizando sinais vitais.",
+     "itens": [
+      "IC esquerda: dispneia, ortopneia, dispneia paroxística nocturna, fervores pulmonares",
+      "IC direita: edema periférico, ingurgitamento jugular, hepatomegalia, ascite",
+      "IC global: ambos os quadros"
+     ],
+     "destaques": [
+      "Classificação NYHA: I sem limitação; II limitação leve; III limitação acentuada; IV sintomas em repouso.",
+      "Treino aeróbio só em doente compensado (NYHA I–III)."
+     ]
+    },
+    {
+     "termo": "DPOC (Doença Pulmonar Obstrutiva Crónica)",
+     "definicao": "Limitação persistente e pouco reversível do fluxo aéreo, associada a bronquite crónica e/ou enfisema, geralmente causada pelo tabaco e fumos.",
+     "explicacao": "O ar entra mas custa a sair — surge aprisionamento aéreo e hiperinsuflação. Por isso o doente adopta espontaneamente a respiração com lábios semicerrados, que cria pressão positiva e evita o colapso das vias aéreas.",
+     "itens": [
+      "Tosse crónica produtiva e dispneia progressiva",
+      "Tórax em barril e uso de músculos acessórios",
+      "Espirometria: VEF1/CVF < 0,70 pós-broncodilatador"
+     ],
+     "destaques": [
+      "Na DPOC prioriza-se a EXPIRAÇÃO: freno labial, expiração prolongada e ritmo respiratório."
+     ]
+    },
+    {
+     "termo": "Insuficiência Respiratória",
+     "definicao": "Incapacidade do sistema respiratório em manter as trocas gasosas adequadas: PaO₂ < 60 mmHg e/ou PaCO₂ > 45 mmHg.",
+     "explicacao": "Tipo I (hipoxémica) é problema de oxigenação (pneumonia, edema pulmonar); tipo II (hipercápnica) é falência da bomba ventilatória (DPOC agudizada, doença neuromuscular, depressão do centro respiratório).",
+     "itens": [
+      "Tipo I: PaO₂ baixa, PaCO₂ normal ou baixa",
+      "Tipo II: PaO₂ baixa com PaCO₂ alta e acidose respiratória",
+      "Sinais: taquipneia, cianose, tiragem, sudorese, alteração da consciência"
+     ],
+     "destaques": [
+      "Alteração do estado de consciência em doente dispneico é sinal de gravidade — chamar o médico imediatamente."
+     ]
+    },
+    {
+     "termo": "Higiene brônquica",
+     "definicao": "Conjunto de técnicas que mobilizam e removem secreções das vias aéreas.",
+     "explicacao": "Combina-se posicionamento, técnicas manuais e técnicas de fluxo expiratório; a hidratação e a aspiração completam o processo quando o doente não tem tosse eficaz.",
+     "itens": [
+      "Drenagem postural (posicionamento segundo o lobo afectado)",
+      "Percussão/tapotagem e vibração",
+      "Ciclo activo das técnicas respiratórias (CATR)",
+      "Expiração forçada (huffing) e tosse assistida",
+      "Aspiração de secreções quando tosse ineficaz"
+     ],
+     "destaques": [
+      "Percussão está contra-indicada em fracturas de costelas, osteoporose grave, hemoptise, enfisema subcutâneo e instabilidade hemodinâmica."
+     ]
+    },
+    {
+     "termo": "Padrões e exercícios ventilatórios",
+     "definicao": "Técnicas que reeducam a mecânica respiratória e aumentam o volume pulmonar.",
+     "explicacao": "São usados na prevenção de atelectasias no pós-operatório e na reeducação do doente crónico.",
+     "itens": [
+      "Respiração diafragmática",
+      "Freno labial (lábios semicerrados)",
+      "Inspiração fraccionada e sustentação máxima inspiratória",
+      "Inspirómetro de incentivo",
+      "Exercícios com apoio abdominal pós-cirurgia"
+     ],
+     "destaques": [
+      "Pós-operatório abdominal/torácico: ensinar a conter a incisão com almofada durante a tosse."
+     ]
+    },
+    {
+     "termo": "Reabilitação cardíaca",
+     "definicao": "Programa estruturado de exercício, educação e controlo de factores de risco após evento cardíaco.",
+     "explicacao": "Divide-se em fases: hospitalar (fase I), pós-alta supervisionada (fase II) e manutenção a longo prazo (fases III/IV).",
+     "itens": [
+      "Fase I: mobilização precoce, sentar, levantar, marcha curta",
+      "Fase II: treino aeróbio supervisionado e monitorizado",
+      "Fase III/IV: manutenção comunitária e autonomia"
+     ],
+     "destaques": [
+      "Critérios de paragem: dor torácica, dispneia intensa, tonturas, FC acima do alvo, queda da TA sistólica > 10 mmHg, arritmias."
+     ]
+    },
+    {
+     "termo": "Escala de Borg",
+     "definicao": "Escala de percepção subjectiva do esforço (0–10 modificada ou 6–20 original).",
+     "explicacao": "Muito útil em doentes que tomam beta-bloqueantes, nos quais a frequência cardíaca não sobe adequadamente.",
+     "itens": [
+      "Intensidade alvo habitual: Borg 3–5 (moderado) na escala 0–10"
+     ],
+     "destaques": [
+      "Doente deve conseguir falar durante o exercício ('talk test')."
+     ]
+    },
+    {
+     "termo": "Oximetria de pulso (SpO₂)",
+     "definicao": "Medição não invasiva da saturação de oxigénio da hemoglobina.",
+     "explicacao": "Guia a segurança do exercício. Queda sustentada durante o esforço obriga a parar e a reavaliar.",
+     "itens": [
+      "Normal: 95–100%",
+      "DPOC crónico retentor: alvo 88–92%",
+      "Parar exercício se SpO₂ < 88% ou queda > 4% do basal"
+     ],
+     "destaques": [
+      "Em retentor crónico de CO₂ não se deve elevar o O₂ indiscriminadamente — risco de depressão respiratória."
+     ]
+    }
+   ],
+   "finalidades": [
+    "Melhorar a ventilação e as trocas gasosas",
+    "Remover secreções e prevenir atelectasias e pneumonias",
+    "Aumentar a tolerância ao esforço e a autonomia nas AVD",
+    "Reduzir a dispneia e a ansiedade associada",
+    "Educar o doente na conservação de energia e no controlo respiratório"
+   ],
+   "vantagens": [
+    "Reduz complicações pulmonares pós-operatórias",
+    "Diminui reinternamentos na DPOC e na IC",
+    "Melhora qualidade de vida e capacidade funcional",
+    "Baixo custo e aplicável à beira do leito"
+   ],
+   "desvantagens": [
+    "Requer monitorização (SpO₂, FC, TA) e vigilância clínica",
+    "Algumas técnicas manuais têm contra-indicações importantes",
+    "Exige colaboração do doente na maioria das técnicas activas"
+   ],
+   "valores_referencia": [
+    {
+     "parametro": "SpO₂ normal",
+     "valor": "95–100%",
+     "observacao": "88–92% em DPOC retentor"
+    },
+    {
+     "parametro": "Frequência respiratória do adulto",
+     "valor": "12–20 cpm",
+     "observacao": ">24 cpm = taquipneia"
+    },
+    {
+     "parametro": "PaO₂ / PaCO₂ normais",
+     "valor": "80–100 / 35–45 mmHg",
+     "observacao": "IR: PaO₂<60 e/ou PaCO₂>45"
+    },
+    {
+     "parametro": "VEF1/CVF na DPOC",
+     "valor": "< 0,70",
+     "observacao": "Pós-broncodilatador"
+    },
+    {
+     "parametro": "Escala de Borg alvo",
+     "valor": "3–5 (0–10)",
+     "observacao": "Esforço moderado"
+    },
+    {
+     "parametro": "Teste da marcha de 6 minutos",
+     "valor": "400–700 m no adulto saudável",
+     "observacao": "Parar se dessaturação ou dor torácica"
+    }
+   ],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Avaliar sinais vitais, SpO₂, padrão respiratório e auscultação antes da sessão."
+    },
+    {
+     "passo": 2,
+     "descricao": "Posicionar o doente conforme o objectivo (semi-Fowler para dispneia; drenagem postural para secreções)."
+    },
+    {
+     "passo": 3,
+     "descricao": "Aplicar técnicas de higiene brônquica quando há secreções (vibração, CATR, huffing)."
+    },
+    {
+     "passo": 4,
+     "descricao": "Realizar exercícios ventilatórios: diafragmática, freno labial, inspirómetro de incentivo."
+    },
+    {
+     "passo": 5,
+     "descricao": "Progredir para mobilização activa: sentar, ortostatismo, marcha assistida, com monitorização contínua."
+    },
+    {
+     "passo": 6,
+     "descricao": "Interromper perante dor torácica, SpO₂ < 88%, dispneia intensa ou instabilidade hemodinâmica."
+    },
+    {
+     "passo": 7,
+     "descricao": "Registar tolerância, distância percorrida, Borg e quantidade/aspecto das secreções."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Doente com DPOC agudizada, dispneico, SpO₂ 89% em ar ambiente, com secreções espessas.",
+     "resolucao": "Posicionar sentado inclinado à frente com apoio dos braços, ensinar freno labial, hidratar/nebulizar segundo prescrição, aplicar técnicas de fluxo expiratório (CATR e huffing) e evitar percussão vigorosa se houver dispneia intensa. Manter alvo de SpO₂ 88–92% e não elevar O₂ acima do prescrito."
+    },
+    {
+     "situacao": "Doente com IC classe NYHA III no 2.º dia de internamento, medicado com beta-bloqueante.",
+     "resolucao": "Iniciar fase I: exercícios activos de baixa intensidade na cama, sentar à beira do leito, ortostatismo e marcha curta. Como o beta-bloqueante limita a subida da FC, usar a escala de Borg (alvo 3–4) e vigiar edema, TA e dispneia."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Fazer percussão em doente com hemoptise, osteoporose grave ou instabilidade hemodinâmica",
+    "Aumentar o O₂ em retentor crónico de CO₂ sem indicação médica",
+    "Não monitorizar SpO₂/FC/TA durante o esforço",
+    "Deitar completamente um doente dispneico",
+    "Insistir em exercícios com dor torácica presente",
+    "Não ensinar conservação de energia e ritmo respiratório nas AVD"
+   ],
+   "conclusao": "Na área cardiorrespiratória a segurança vem primeiro: monitorizar, conhecer as contra-indicações e progredir gradualmente. A combinação de higiene brônquica, reeducação ventilatória e mobilização precoce previne complicações e devolve autonomia."
+  },
+  {
+   "titulo": "III. Fisioterapia no Trauma Ortopédico (Fracturas, Entorse, Luxação e Subluxação)",
+   "introducao": "O trauma ortopédico é uma das causas mais frequentes de encaminhamento à fisioterapia. Conhecer os tipos de lesão, o tempo de consolidação e as fases de reabilitação evita tanto a rigidez por imobilismo como a re-lesão por progressão precoce.",
+   "conceitos": [
+    {
+     "termo": "Fractura",
+     "definicao": "Solução de continuidade (quebra) total ou parcial de um osso.",
+     "explicacao": "Clinicamente manifesta-se por dor, edema, deformidade, impotência funcional e, nas completas, crepitação e mobilidade anormal. O papel da fisioterapia começa ainda durante a imobilização, mobilizando as articulações livres.",
+     "itens": [
+      "Completa vs incompleta (fissura, 'em ramo verde' na criança)",
+      "Fechada (pele íntegra) vs exposta/aberta (comunica com o exterior)",
+      "Traços: transversa, oblíqua, espiroide, cominutiva, impactada, por avulsão"
+     ],
+     "destaques": [
+      "Fractura exposta é urgência: risco de osteomielite. Nunca reduzir no local; imobilizar e encaminhar."
+     ]
+    },
+    {
+     "termo": "Classificação quanto à origem",
+     "definicao": "Agrupamento das fracturas segundo o mecanismo que as produziu.",
+     "explicacao": "Determina o prognóstico e a conduta: uma fractura patológica não suporta a mesma carga que uma traumática num osso saudável.",
+     "itens": [
+      "Traumática: trauma directo (pancada) ou indirecto (torção, queda sobre a mão)",
+      "Patológica: osso enfraquecido por tumor, metástase, osteoporose ou infecção; ocorre com trauma mínimo",
+      "Por stress/fadiga: microtraumas repetidos (militares, atletas, tíbia e metatarsos)",
+      "Obstétrica: durante o parto (clavícula do recém-nascido)"
+     ],
+     "destaques": [
+      "Fractura com trauma mínimo em idoso = suspeitar de osteoporose ou lesão patológica."
+     ]
+    },
+    {
+     "termo": "Consolidação óssea",
+     "definicao": "Processo biológico de reparação da fractura, em fases: inflamatória, calo mole, calo duro e remodelação.",
+     "explicacao": "O tempo varia com o osso, a idade e o estado nutricional. Fumar, diabetes descompensada e má nutrição atrasam a consolidação.",
+     "itens": [
+      "Inflamatória: 0–7 dias (hematoma)",
+      "Calo mole: 2–3 semanas",
+      "Calo duro: 4–12 semanas",
+      "Remodelação: meses a anos"
+     ],
+     "destaques": [
+      "Retardo de consolidação e pseudartrose são complicações a suspeitar quando persiste dor e mobilidade no foco."
+     ]
+    },
+    {
+     "termo": "Entorse",
+     "definicao": "Lesão ligamentar por movimento forçado que excede a amplitude fisiológica, sem perda permanente do contacto articular.",
+     "explicacao": "O tornozelo em inversão é o exemplo clássico (ligamento talofibular anterior). Gradua-se em três graus.",
+     "itens": [
+      "Grau I: estiramento, dor ligeira, sem instabilidade",
+      "Grau II: ruptura parcial, edema e equimose, instabilidade ligeira",
+      "Grau III: ruptura total, instabilidade franca, incapacidade de carga"
+     ],
+     "destaques": [
+      "Fase aguda: PRICE/POLICE. Depois: mobilização precoce protegida e treino proprioceptivo — é este que previne a recidiva."
+     ]
+    },
+    {
+     "termo": "Luxação",
+     "definicao": "Perda TOTAL e permanente do contacto entre as superfícies articulares.",
+     "explicacao": "Há deformidade evidente, dor intensa e bloqueio do movimento. Mais frequente no ombro (anterior) e nos dedos. A redução é acto médico.",
+     "itens": [
+      "Sinais: deformidade, encurtamento, posição antálgica fixa, impotência funcional",
+      "Avaliar sempre pulso, sensibilidade e mobilidade distal (risco vasculo-nervoso)",
+      "Após redução: imobilização e depois reabilitação progressiva"
+     ],
+     "destaques": [
+      "Técnico não reduz luxação. Imobiliza na posição encontrada, avalia neurovascular e encaminha."
+     ]
+    },
+    {
+     "termo": "Subluxação",
+     "definicao": "Perda PARCIAL do contacto entre as superfícies articulares, com deslocamento incompleto.",
+     "explicacao": "É frequente no ombro do doente hemiplégico, por hipotonia do deltóide e supraespinhoso — cria-se o 'sinal do degrau' subacromial.",
+     "itens": [
+      "Menor deformidade que a luxação, muitas vezes redutível espontaneamente",
+      "No hemiplégico: usar suporte/sling, posicionamento correcto e evitar tracção do membro",
+      "Pode gerar dor crónica no ombro e síndrome ombro-mão"
+     ],
+     "destaques": [
+      "Nunca puxar pelo braço parético para levantar o doente — provoca subluxação e dor."
+     ]
+    },
+    {
+     "termo": "Factores de risco de doença traumática",
+     "definicao": "Condições que aumentam a probabilidade de trauma ou agravam o seu prognóstico.",
+     "explicacao": "A prevenção é parte do trabalho do fisioterapeuta: identificar e corrigir estes factores reduz recidivas e quedas.",
+     "itens": [
+      "Idade avançada, osteoporose e sarcopenia",
+      "Álcool, drogas e medicação sedativa",
+      "Ambiente: pisos escorregadios, má iluminação, tapetes soltos",
+      "Acidentes de viação e de trabalho, ausência de equipamento de protecção",
+      "Desporto sem aquecimento, sobrecarga de treino, calçado inadequado",
+      "Défice visual, alterações do equilíbrio e doenças neurológicas"
+     ],
+     "destaques": [
+      "Nos idosos, a queda é o principal mecanismo: treino de equilíbrio + adaptação do domicílio."
+     ]
+    },
+    {
+     "termo": "Fases da reabilitação ortopédica",
+     "definicao": "Sequência lógica de objectivos após trauma ou cirurgia.",
+     "explicacao": "Cada fase só avança quando os critérios da anterior estão cumpridos (dor controlada, edema reduzido, ADM e força suficientes).",
+     "itens": [
+      "Fase aguda: controlo da dor e do edema, mobilização das articulações livres, isometria",
+      "Fase subaguda: recuperar ADM, iniciar fortalecimento progressivo",
+      "Fase de fortalecimento: resistido, carga progressiva conforme prescrição",
+      "Fase funcional/desportiva: propriocepção, agilidade, gesto específico"
+     ],
+     "destaques": [
+      "Sinais de alarme durante imobilização: dor desproporcionada, palidez, parestesias, ausência de pulso — suspeitar de síndrome compartimental."
+     ]
+    }
+   ],
+   "finalidades": [
+    "Controlar dor e edema na fase aguda",
+    "Prevenir rigidez, atrofia e aderências durante a imobilização",
+    "Restaurar ADM, força, propriocepção e padrão de marcha",
+    "Reeducar a carga progressiva conforme a consolidação",
+    "Prevenir recidivas através de treino proprioceptivo e educação"
+   ],
+   "vantagens": [
+    "Encurta o tempo de retorno às actividades",
+    "Reduz complicações do imobilismo (rigidez, TVP, atrofia)",
+    "Diminui o risco de instabilidade crónica após entorses"
+   ],
+   "desvantagens": [
+    "Progressão precoce pode causar re-lesão ou desvio da consolidação",
+    "Depende da prescrição médica quanto à carga permitida",
+    "Necessita reavaliação frequente e boa comunicação com a ortopedia"
+   ],
+   "valores_referencia": [
+    {
+     "parametro": "Consolidação de fractura em adulto (membro superior)",
+     "valor": "6–8 semanas",
+     "observacao": "Varia com osso e idade"
+    },
+    {
+     "parametro": "Consolidação de fractura em adulto (membro inferior)",
+     "valor": "8–12 semanas",
+     "observacao": "Fémur pode exceder"
+    },
+    {
+     "parametro": "Consolidação em criança",
+     "valor": "3–6 semanas",
+     "observacao": "Maior potencial de remodelação"
+    },
+    {
+     "parametro": "Crioterapia após entorse",
+     "valor": "15–20 min, 3–4x/dia até 72 h",
+     "observacao": "Com compressão e elevação"
+    },
+    {
+     "parametro": "Flexão do joelho funcional para subir escadas",
+     "valor": "≈ 100°",
+     "observacao": "Sentar exige ≈ 90°"
+    },
+    {
+     "parametro": "Dorsiflexão necessária para marcha normal",
+     "valor": "≥ 10°",
+     "observacao": "Défice altera o padrão"
+    }
+   ],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Confirmar diagnóstico, tipo de imobilização e carga autorizada pelo médico."
+    },
+    {
+     "passo": 2,
+     "descricao": "Avaliar dor (EVA), edema (perimetria), ADM, força e estado neurovascular distal."
+    },
+    {
+     "passo": 3,
+     "descricao": "Fase aguda: crioterapia, elevação, compressão e mobilização das articulações livres."
+    },
+    {
+     "passo": 4,
+     "descricao": "Iniciar isometria no segmento imobilizado para travar a atrofia."
+    },
+    {
+     "passo": 5,
+     "descricao": "Após retirada da imobilização: recuperar ADM com mobilização activa-assistida e alongamentos suaves."
+    },
+    {
+     "passo": 6,
+     "descricao": "Progredir para fortalecimento resistido e treino de carga conforme tolerância e prescrição."
+    },
+    {
+     "passo": 7,
+     "descricao": "Treinar propriocepção e equilíbrio (apoio unipodal, superfícies instáveis) antes da alta."
+    },
+    {
+     "passo": 8,
+     "descricao": "Ensinar prevenção de recidivas e adaptação do domicílio/actividade."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Doente com gesso antebraquial por fractura do rádio distal há 10 dias. Queixa-se de ombro rígido.",
+     "resolucao": "Durante a imobilização devem manter-se mobilizados os dedos, o cotovelo e sobretudo o ombro, além de exercícios isométricos e elevação do membro contra o edema. Iniciar de imediato mobilização activa do ombro e dos dedos, e ensinar exercícios domiciliários várias vezes ao dia."
+    },
+    {
+     "situacao": "Atleta com entorse do tornozelo grau II, 3.ª semana, já sem dor em repouso mas com sensação de 'falha'.",
+     "resolucao": "A instabilidade residual é défice proprioceptivo. Progredir: apoio unipodal olhos abertos → fechados → prancha instável → saltos e mudanças de direcção; associar fortalecimento dos peroneais e ligadura funcional no retorno ao desporto."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Aplicar calor ou massagem vigorosa na fase aguda",
+    "Imobilizar mais tempo do que o necessário, gerando rigidez",
+    "Permitir carga antes da autorização médica",
+    "Ignorar sinais de síndrome compartimental ou de compressão do gesso",
+    "Terminar o tratamento ao recuperar ADM, sem treinar propriocepção",
+    "Tentar reduzir luxações"
+   ],
+   "conclusao": "No trauma ortopédico, o timing é tudo: proteger na fase aguda, mobilizar cedo o que pode ser mobilizado e progredir com critérios objectivos até ao treino proprioceptivo, que é o que previne a recidiva."
+  },
+  {
+   "titulo": "IV. Fisioterapia Endócrina e Dermato-Funcional (Drenagem Linfática e Massagem)",
+   "introducao": "Este capítulo aborda as técnicas manuais aplicadas ao sistema linfático e aos tecidos moles, com utilidade no edema, no linfedema pós-mastectomia, nas alterações circulatórias e no acompanhamento do doente com patologia endócrina, sobretudo diabetes e obesidade.",
+   "conceitos": [
+    {
+     "termo": "Sistema linfático",
+     "definicao": "Rede de capilares, vasos, gânglios e órgãos linfóides que drena o líquido intersticial e o devolve à circulação venosa.",
+     "explicacao": "É um sistema de baixa pressão sem bomba central: depende da contracção muscular, da respiração e da pulsação arterial. Por isso o imobilismo favorece o edema.",
+     "itens": [
+      "Gânglios principais: cervicais, axilares, inguinais",
+      "Ducto torácico drena 3/4 do corpo para a veia subclávia esquerda",
+      "Ducto linfático direito drena o quadrante superior direito"
+     ],
+     "destaques": [
+      "A drenagem começa sempre pelos gânglios proximais — 'abrir a estrada antes de mandar o trânsito'."
+     ]
+    },
+    {
+     "termo": "Drenagem Linfática Manual (DLM)",
+     "definicao": "Massagem suave, lenta e rítmica que estimula o transporte da linfa em direcção aos gânglios.",
+     "explicacao": "Usa pressão muito leve (cerca de 30–40 mmHg, o suficiente para deslizar a pele sem a esfregar) porque os capilares linfáticos são superficiais e colapsam sob pressão forte.",
+     "itens": [
+      "Manobras: círculos fixos, bombeamento, dador e rotativo",
+      "Ritmo lento: cada manobra repetida 5–7 vezes",
+      "Sentido sempre no trajecto linfático fisiológico",
+      "Sessão típica: 40–60 minutos"
+     ],
+     "destaques": [
+      "Se a manobra provoca vermelhidão ou dor, a pressão está excessiva — não é DLM, é massagem clássica."
+     ]
+    },
+    {
+     "termo": "Linfedema",
+     "definicao": "Acumulação de linfa rica em proteínas no interstício por falha do transporte linfático.",
+     "explicacao": "Primário é congénito; secundário é o mais frequente — pós-esvaziamento ganglionar (mastectomia), radioterapia, infecção (filariose) ou trauma. Evolui com fibrose se não for tratado.",
+     "itens": [
+      "Estádio 0: subclínico",
+      "Estádio I: edema depressível que melhora com elevação",
+      "Estádio II: não depressível, não melhora com elevação, fibrose",
+      "Estádio III: elefantíase, alterações cutâneas"
+     ],
+     "destaques": [
+      "Terapia Descongestiva Complexa = DLM + ligadura multicamadas + exercícios + cuidados com a pele."
+     ]
+    },
+    {
+     "termo": "Contra-indicações da DLM",
+     "definicao": "Situações em que a drenagem é proibida ou exige autorização médica.",
+     "explicacao": "Mobilizar linfa em infecção ou trombose pode disseminar o processo ou deslocar um trombo.",
+     "itens": [
+      "Absolutas: infecção aguda/erisipela, TVP, insuficiência cardíaca descompensada, tumor maligno em actividade sem indicação médica",
+      "Relativas: hipotensão, hipertiroidismo (evitar região cervical), gravidez (região abdominal)"
+     ],
+     "destaques": [
+      "Membro quente, vermelho e doloroso: NÃO drenar — suspeitar de erisipela ou TVP."
+     ]
+    },
+    {
+     "termo": "Massagem terapêutica clássica",
+     "definicao": "Manipulação metódica dos tecidos moles com fins terapêuticos.",
+     "explicacao": "Ao contrário da DLM, usa pressão média a forte e procura efeito muscular, circulatório e analgésico.",
+     "itens": [
+      "Deslizamento (effleurage): início e fim da sessão",
+      "Amassamento (petrissage): tecido muscular profundo",
+      "Fricção: aderências e cicatrizes",
+      "Percussão (tapotement): estimulante",
+      "Vibração: relaxante"
+     ],
+     "destaques": [
+      "Ordem clássica: deslizar → amassar → friccionar → percutir → deslizar novamente."
+     ]
+    },
+    {
+     "termo": "Fisioterapia no doente diabético",
+     "definicao": "Intervenção que integra exercício, prevenção do pé diabético e educação.",
+     "explicacao": "O exercício aumenta a sensibilidade à insulina; mas requer inspecção diária dos pés e calçado adequado por causa da neuropatia e da doença vascular.",
+     "itens": [
+      "Exercício aeróbio 150 min/semana, moderado",
+      "Inspeccionar pés diariamente e verificar sensibilidade (monofilamento 10 g)",
+      "Não exercitar com glicemia < 70 ou > 250 mg/dL com cetose",
+      "Ter sempre açúcar disponível durante a sessão"
+     ],
+     "destaques": [
+      "Sinais de hipoglicemia: sudorese, tremor, confusão, taquicardia — parar e dar açúcar."
+     ]
+    },
+    {
+     "termo": "Fisioterapia na obesidade e síndrome metabólica",
+     "definicao": "Programa de exercício adaptado e progressivo para reduzir massa gorda e melhorar o perfil metabólico.",
+     "explicacao": "Começar por actividades de baixo impacto (marcha, cicloergómetro, hidroterapia) para proteger as articulações.",
+     "itens": [
+      "Combinar aeróbio + resistido",
+      "Vigiar TA, dispneia e dor articular",
+      "Objectivos comportamentais além do peso: perímetro, resistência, autonomia"
+     ],
+     "destaques": [
+      "Perímetro abdominal de risco: > 94 cm no homem e > 80 cm na mulher."
+     ]
+    }
+   ],
+   "finalidades": [
+    "Reduzir edema e linfedema",
+    "Melhorar circulação e trofismo dos tecidos",
+    "Aliviar dor e tensão muscular",
+    "Prevenir complicações do pé diabético",
+    "Promover exercício seguro em doentes endócrinos"
+   ],
+   "vantagens": [
+    "Técnicas manuais sem custos de equipamento",
+    "Alívio sintomático imediato e boa aceitação pelo doente",
+    "Complementa o tratamento médico e cirúrgico"
+   ],
+   "desvantagens": [
+    "Efeito temporário se não houver contenção elástica e exercício",
+    "Exige treino técnico específico (DLM mal executada é ineficaz)",
+    "Contra-indicações importantes que obrigam a triagem cuidadosa"
+   ],
+   "valores_referencia": [
+    {
+     "parametro": "Pressão da DLM",
+     "valor": "≈ 30–40 mmHg",
+     "observacao": "Pressão muito leve, sem hiperemia"
+    },
+    {
+     "parametro": "Duração da sessão de DLM",
+     "valor": "40–60 minutos",
+     "observacao": "Membro completo"
+    },
+    {
+     "parametro": "Diferença de perímetro sugestiva de linfedema",
+     "valor": "> 2 cm entre membros",
+     "observacao": "Medir em pontos fixos e registar"
+    },
+    {
+     "parametro": "Exercício aeróbio no diabético",
+     "valor": "150 min/semana",
+     "observacao": "Intensidade moderada"
+    },
+    {
+     "parametro": "Glicemia segura para exercitar",
+     "valor": "100–250 mg/dL",
+     "observacao": "Adiar se <70 ou >250 com cetose"
+    },
+    {
+     "parametro": "Perímetro abdominal de risco",
+     "valor": "H > 94 cm; M > 80 cm",
+     "observacao": "Risco cardiometabólico"
+    }
+   ],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Excluir contra-indicações: infecção, TVP, IC descompensada, tumor activo."
+    },
+    {
+     "passo": 2,
+     "descricao": "Medir perímetros bilaterais em pontos fixos e registar para comparação."
+    },
+    {
+     "passo": 3,
+     "descricao": "Iniciar pela desobstrução dos gânglios proximais (cervicais, depois axilares ou inguinais)."
+    },
+    {
+     "passo": 4,
+     "descricao": "Drenar do proximal para o distal na preparação e depois conduzir a linfa do distal para o proximal."
+    },
+    {
+     "passo": 5,
+     "descricao": "Aplicar ligadura de contenção multicamadas após a sessão, se indicado."
+    },
+    {
+     "passo": 6,
+     "descricao": "Ensinar exercícios miolinfocinéticos e cuidados com a pele (hidratação, evitar feridas e picadas)."
+    },
+    {
+     "passo": 7,
+     "descricao": "Reavaliar perímetros semanalmente e ajustar o plano."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Mulher mastectomizada com esvaziamento axilar, braço direito com +3 cm de perímetro e sensação de peso.",
+     "resolucao": "Linfedema secundário estádio I. Aplicar Terapia Descongestiva Complexa: DLM iniciando pelos gânglios cervicais e axilares contralaterais, contenção elástica multicamadas, exercícios com a ligadura colocada e educação (evitar punções, medições de TA e feridas nesse braço)."
+    },
+    {
+     "situacao": "Doente diabético refere tonturas e sudorese a meio da sessão de treino.",
+     "resolucao": "Interromper imediatamente, sentar o doente, medir glicemia capilar e administrar açúcar/sumo se hipoglicemia. Reavaliar antes de retomar e ajustar horário do exercício em relação à insulina e à refeição."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Aplicar pressão forte na DLM (colapsa os capilares linfáticos)",
+    "Drenar membro com sinais inflamatórios ou suspeita de TVP",
+    "Começar a drenagem pela extremidade distal sem desobstruir os gânglios",
+    "Dispensar a contenção elástica após a sessão",
+    "Exercitar diabético sem verificar glicemia nem inspeccionar os pés",
+    "Usar cremes ou óleos que impeçam a aderência necessária às manobras de DLM"
+   ],
+   "conclusao": "Nas técnicas manuais, o rigor está na triagem das contra-indicações e na pressão correcta. A drenagem linfática só é eficaz quando integrada em terapia descongestiva completa, com contenção, exercício e cuidados com a pele."
+  },
+  {
+   "titulo": "V. Fisioterapia Neurológica (Paralisia Infantil, Hidrocefalia, AVC e suas Sequelas)",
+   "introducao": "A fisioterapia neurológica actua sobre lesões do sistema nervoso central e periférico, aproveitando a neuroplasticidade — a capacidade do cérebro de reorganizar-se — para recuperar função. O treino deve ser precoce, repetitivo, intenso e orientado para tarefas reais.",
+   "conceitos": [
+    {
+     "termo": "Neuroplasticidade",
+     "definicao": "Capacidade do sistema nervoso de modificar a sua estrutura e função em resposta ao treino e à experiência.",
+     "explicacao": "É a base científica da reabilitação: repetir tarefas funcionais com dificuldade adequada cria novas ligações. Quanto mais precoce e mais específico o treino, melhor o resultado.",
+     "itens": [
+      "Repetição elevada e significativa",
+      "Tarefa orientada e relevante para o doente",
+      "Intensidade progressiva",
+      "Feedback constante"
+     ],
+     "destaques": [
+      "'Use it or lose it': o membro que não se usa perde representação cortical."
+     ]
+    },
+    {
+     "termo": "Poliomielite (paralisia infantil)",
+     "definicao": "Doença viral que destrói os neurónios motores do corno anterior da medula, causando paralisia flácida assimétrica.",
+     "explicacao": "Não há perda de sensibilidade — é puramente motora. A prevenção faz-se pela vacina (VOP/VIP) do PAV. Deixa sequelas de atrofia, deformidades e desigualdade de comprimento dos membros.",
+     "itens": [
+      "Paralisia flácida assimétrica, mais nos membros inferiores",
+      "Reflexos abolidos, sensibilidade preservada",
+      "Sequelas: pé equino, escoliose, encurtamentos, marcha com órteses",
+      "Síndrome pós-pólio: nova fraqueza décadas depois"
+     ],
+     "destaques": [
+      "Paralisia flácida aguda em criança < 15 anos é de notificação obrigatória."
+     ]
+    },
+    {
+     "termo": "Hidrocefalia",
+     "definicao": "Acumulação excessiva de líquido cefalorraquidiano nos ventrículos cerebrais, com aumento da pressão intracraniana.",
+     "explicacao": "No lactente o crânio ainda é maleável e o perímetro cefálico aumenta rapidamente, com fontanela tensa e 'olhar em sol poente'. Tratamento habitual: derivação ventrículo-peritoneal (DVP).",
+     "itens": [
+      "Sinais no lactente: perímetro cefálico crescente, fontanela abaulada, veias do couro cabeludo salientes, irritabilidade, vómitos",
+      "Sinais de disfunção da válvula: vómitos, sonolência, cefaleia, febre — urgência",
+      "Fisioterapia: controlo cefálico, estimulação do desenvolvimento, posicionamento, prevenção de deformidades"
+     ],
+     "destaques": [
+      "Após DVP: evitar mudanças bruscas de posição e manobras que aumentem a pressão intracraniana; vigiar sinais de disfunção da válvula."
+     ]
+    },
+    {
+     "termo": "AVC (Acidente Vascular Cerebral)",
+     "definicao": "Défice neurológico focal de instalação súbita por isquemia (≈85%) ou hemorragia (≈15%) cerebral.",
+     "explicacao": "O reconhecimento rápido é decisivo, porque a trombólise tem janela terapêutica estreita. A fisioterapia começa nas primeiras 24–48 h após estabilização.",
+     "itens": [
+      "Escala FAST: Face, Arm, Speech, Time",
+      "Isquémico: trombótico ou embólico",
+      "Hemorrágico: intraparenquimatoso ou subaracnoideu",
+      "Factores de risco: HTA (o principal), diabetes, tabagismo, fibrilhação auricular, dislipidemia"
+     ],
+     "destaques": [
+      "'Tempo é cérebro': cada minuto sem perfusão perde-se cerca de 1,9 milhões de neurónios."
+     ]
+    },
+    {
+     "termo": "Sequelas do AVC",
+     "definicao": "Défices persistentes após a fase aguda.",
+     "explicacao": "O padrão típico é hemiparesia contralateral com espasticidade em flexão no membro superior e em extensão no membro inferior (padrão de Wernicke-Mann), gerando a marcha ceifante.",
+     "itens": [
+      "Motoras: hemiplegia/hemiparesia, espasticidade, pé equino",
+      "Sensitivas: hipostesia, negligência do hemicorpo",
+      "Linguagem: afasia de Broca (expressão) ou de Wernicke (compreensão)",
+      "Deglutição: disfagia com risco de aspiração",
+      "Outras: subluxação do ombro, síndrome ombro-mão, depressão, incontinência"
+     ],
+     "destaques": [
+      "Membro superior: flexão. Membro inferior: extensão. Marcha em ceifa com circundução."
+     ]
+    },
+    {
+     "termo": "Espasticidade e escala de Ashworth modificada",
+     "definicao": "Aumento do tónus muscular dependente da velocidade, com exagero dos reflexos; graduada de 0 a 4.",
+     "explicacao": "Alongar lentamente reduz a resposta espástica; movimentos rápidos desencadeiam-na. Posicionamento antiespástico e mobilização regular previnem contraturas.",
+     "itens": [
+      "0 — tónus normal",
+      "1 — leve resistência no fim da amplitude",
+      "1+ — resistência em menos de metade da amplitude",
+      "2 — aumento marcado, mas mobiliza-se facilmente",
+      "3 — movimento passivo difícil",
+      "4 — rigidez em flexão ou extensão"
+     ],
+     "destaques": [
+      "Alongar devagar e sustentado; evitar estímulos dolorosos que aumentam o tónus."
+     ]
+    },
+    {
+     "termo": "Conceito Bobath (NDT) e treino orientado à tarefa",
+     "definicao": "Abordagens de reabilitação neurológica focadas na normalização do tónus, controlo postural e prática de tarefas funcionais.",
+     "explicacao": "Actualmente valoriza-se sobretudo a prática repetida de tarefas reais (levantar da cadeira, alcançar um copo, subir um degrau) com número elevado de repetições.",
+     "itens": [
+      "Facilitação do movimento normal e inibição de padrões patológicos",
+      "Transferências, controlo de tronco e equilíbrio",
+      "Treino de marcha com apoio progressivo",
+      "Terapia por contensão induzida no membro superior com alguma função"
+     ],
+     "destaques": [
+      "Objectivos devem ser tarefas concretas do quotidiano do doente."
+     ]
+    },
+    {
+     "termo": "Disfagia e prevenção da aspiração",
+     "definicao": "Dificuldade de deglutição frequente após AVC, com risco de pneumonia de aspiração.",
+     "explicacao": "O fisioterapeuta contribui com posicionamento correcto (sentado a 90°), higiene brônquica e reconhecimento de sinais de aspiração.",
+     "itens": [
+      "Sinais: tosse ao comer, voz molhada, engasgamento, febre inexplicada",
+      "Manter cabeceira elevada 30–45 min após refeição",
+      "Comunicar sempre à equipa para avaliação de deglutição"
+     ],
+     "destaques": [
+      "Pneumonia de aspiração é uma das principais causas de morte pós-AVC."
+     ]
+    }
+   ],
+   "finalidades": [
+    "Estimular a neuroplasticidade e a recuperação motora",
+    "Prevenir contraturas, deformidades e úlceras de pressão",
+    "Recuperar controlo de tronco, equilíbrio, transferências e marcha",
+    "Prevenir complicações respiratórias e tromboembólicas",
+    "Promover independência nas AVD e reintegração familiar"
+   ],
+   "vantagens": [
+    "Ganhos funcionais significativos, sobretudo nos primeiros 3–6 meses",
+    "Reduz institucionalização e dependência de cuidadores",
+    "Aplicável desde a fase hospitalar até à comunidade"
+   ],
+   "desvantagens": [
+    "Recuperação lenta e nem sempre completa",
+    "Exige equipa multidisciplinar e continuidade",
+    "Requer envolvimento e formação do cuidador"
+   ],
+   "valores_referencia": [
+    {
+     "parametro": "Início da mobilização pós-AVC",
+     "valor": "24–48 h após estabilização",
+     "observacao": "Evitar mobilização agressiva muito precoce"
+    },
+    {
+     "parametro": "Período de maior recuperação",
+     "valor": "Primeiros 3–6 meses",
+     "observacao": "Ganhos podem continuar depois"
+    },
+    {
+     "parametro": "Escala de Ashworth modificada",
+     "valor": "0 a 4",
+     "observacao": "Avalia espasticidade"
+    },
+    {
+     "parametro": "Perímetro cefálico do RN de termo",
+     "valor": "33–37 cm",
+     "observacao": "Aumento rápido sugere hidrocefalia"
+    },
+    {
+     "parametro": "Mudança de decúbito",
+     "valor": "a cada 2 horas",
+     "observacao": "Prevenção de úlceras de pressão"
+    },
+    {
+     "parametro": "Índice de Barthel",
+     "valor": "0–100",
+     "observacao": "Avalia independência nas AVD"
+    }
+   ],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Avaliar nível de consciência, tónus, força, sensibilidade, equilíbrio e AVD (Barthel)."
+    },
+    {
+     "passo": 2,
+     "descricao": "Posicionar em padrão antiespástico e alternar decúbitos de 2 em 2 horas."
+    },
+    {
+     "passo": 3,
+     "descricao": "Realizar mobilização passiva/activa-assistida de todos os segmentos, incluindo o lado parético."
+    },
+    {
+     "passo": 4,
+     "descricao": "Treinar controlo cefálico e de tronco: rolar, sentar, equilíbrio sentado."
+    },
+    {
+     "passo": 5,
+     "descricao": "Progredir para transferências, ortostatismo e treino de marcha com apoio adequado."
+    },
+    {
+     "passo": 6,
+     "descricao": "Estimular o uso do membro superior em tarefas funcionais e bimanuais."
+    },
+    {
+     "passo": 7,
+     "descricao": "Proteger o ombro parético: sling, apoio na cadeira, nunca traccionar o membro."
+    },
+    {
+     "passo": 8,
+     "descricao": "Formar o cuidador e prescrever plano domiciliário."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Doente no 3.º dia pós-AVC isquémico, hemiplégico à direita, com ombro doloroso e 'degrau' subacromial.",
+     "resolucao": "Subluxação do ombro por hipotonia. Aplicar suporte/sling na posição sentada, apoiar o antebraço em almofada, ensinar a equipa e a família a nunca puxar pelo braço para transferir, e iniciar estimulação do deltóide e supraespinhoso com mobilização escapular suave e indolor."
+    },
+    {
+     "situacao": "Criança de 8 meses com hidrocefalia e DVP, sem controlo cefálico, com tendência ao opistótono.",
+     "resolucao": "Trabalhar controlo cefálico em decúbito ventral e no colo com apoio, estimulação visual na linha média, posicionamento em flexão para inibir a extensão, prevenção de plagiocefalia com alternância de posição, e ensinar aos pais os sinais de disfunção da válvula (vómitos, sonolência, fontanela tensa)."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Traccionar o membro parético nas transferências",
+    "Ignorar sinais de disfagia e permitir alimentação em decúbito",
+    "Mobilizar rapidamente um membro espástico, aumentando o tónus",
+    "Trabalhar apenas o lado são",
+    "Descurar o posicionamento e a mudança de decúbitos",
+    "Não envolver nem treinar o cuidador",
+    "Não reconhecer sinais de hipertensão intracraniana na criança com DVP"
+   ],
+   "conclusao": "A reabilitação neurológica é precoce, repetitiva e funcional. Proteger o ombro parético, prevenir contraturas e complicações respiratórias, e treinar tarefas reais com o cuidador envolvido são as chaves do resultado."
+  },
+  {
+   "titulo": "VI. Fisioterapia em Doentes Queimados (Prevenção de Contraturas e Equimoses)",
+   "introducao": "A queimadura provoca dor, edema, perda de função e, sobretudo, retracção cicatricial. A fisioterapia começa nas primeiras 24–48 horas com posicionamento antideformidade e mobilização, porque a contratura instalada é muito mais difícil de tratar do que de prevenir.",
+   "conceitos": [
+    {
+     "termo": "Classificação das queimaduras por profundidade",
+     "definicao": "Graduação segundo as camadas da pele atingidas.",
+     "explicacao": "Determina dor, tempo de cicatrização e risco de retracção. As de espessura total não doem no centro porque as terminações nervosas foram destruídas.",
+     "itens": [
+      "1.º grau (epiderme): eritema, dor, sem flictenas; cura em 3–7 dias",
+      "2.º grau superficial: flictenas, muito dolorosa, cura em 10–14 dias",
+      "2.º grau profundo: aspecto pálido, menos dolorosa, cicatriz hipertrófica frequente",
+      "3.º grau (espessura total): escara branca/nacarada ou carbonizada, indolor, exige enxerto"
+     ],
+     "destaques": [
+      "Ausência de dor numa queimadura extensa é sinal de gravidade, não de melhoria."
+     ]
+    },
+    {
+     "termo": "Regra dos 9 de Wallace",
+     "definicao": "Método de estimativa da superfície corporal queimada (SCQ) no adulto.",
+     "explicacao": "Permite decidir sobre reposição de fluidos e transferência para unidade de queimados. Na criança a cabeça pesa mais e os membros inferiores menos.",
+     "itens": [
+      "Cabeça e pescoço: 9%",
+      "Cada membro superior: 9%",
+      "Cada membro inferior: 18%",
+      "Tronco anterior: 18%; tronco posterior: 18%",
+      "Períneo: 1%",
+      "Palma da mão do doente ≈ 1%"
+     ],
+     "destaques": [
+      "Adulto grave: SCQ > 20%. Criança/idoso: > 10%."
+     ]
+    },
+    {
+     "termo": "Contratura cicatricial",
+     "definicao": "Encurtamento permanente dos tecidos por retracção da cicatriz, limitando o movimento articular.",
+     "explicacao": "A cicatriz retrai-se ao longo das linhas de menor tensão, sobretudo nas superfícies de flexão (pescoço, axila, cotovelo, mão, joelho). Prevenir é posicionar no sentido oposto à retracção esperada.",
+     "itens": [
+      "Pescoço: manter em extensão, sem almofada",
+      "Axila: abdução 90–100°",
+      "Cotovelo: extensão",
+      "Mão: posição intrínseca-plus (punho 20–30° extensão, MCF 70–90° flexão, IF extensão, polegar em abdução)",
+      "Joelho: extensão; anca: extensão e abdução neutra",
+      "Tornozelo: 90° (neutro), com tala anti-equino"
+     ],
+     "destaques": [
+      "Posição de conforto é posição de deformidade — o doente encolhe-se, e é exactamente isso que se deve impedir."
+     ]
+    },
+    {
+     "termo": "Cicatriz hipertrófica e quelóide",
+     "definicao": "Cicatriz elevada, avermelhada e rígida; o quelóide ultrapassa os limites da lesão original.",
+     "explicacao": "São mais frequentes em pele escura e em queimaduras de 2.º grau profundo com cicatrização superior a 3 semanas. A pressoterapia é o pilar do tratamento.",
+     "itens": [
+      "Malha de compressão 20–30 mmHg, 23 h/dia, durante 6–12 meses",
+      "Placas de silicone",
+      "Massagem de descolamento cicatricial com hidratante, após epitelização completa",
+      "Protecção solar rigorosa"
+     ],
+     "destaques": [
+      "Cicatriz que demora mais de 3 semanas a fechar tem risco elevado de hipertrofia."
+     ]
+    },
+    {
+     "termo": "Equimose e hematoma",
+     "definicao": "Extravasamento de sangue nos tecidos: equimose é superficial e plana; hematoma forma colecção com volume.",
+     "explicacao": "Evolui com mudança de cor (vermelho-arroxeado → esverdeado → amarelado) ao longo de 1–3 semanas, pela degradação da hemoglobina. Na fase inicial trata-se com frio, compressão e elevação; depois com calor suave e drenagem.",
+     "itens": [
+      "0–48 h: frio, compressão e elevação; não massajar",
+      "Após 48–72 h: calor suave, drenagem linfática e mobilização",
+      "Sinais de alarme: dor intensa e crescente, tensão do compartimento, parestesias"
+     ],
+     "destaques": [
+      "Nunca massajar equimose recente — aumenta a hemorragia."
+     ]
+    },
+    {
+     "termo": "Mobilização precoce no queimado",
+     "definicao": "Início da cinesioterapia nas primeiras 24–48 horas, mesmo com feridas abertas.",
+     "explicacao": "Mobilizar previne aderências e mantém a amplitude. Deve ser feita preferencialmente no período de analgesia e, se possível, durante o penso.",
+     "itens": [
+      "Mobilização activa sempre que possível; passiva quando o doente não colabora",
+      "Alongamento suave e sustentado, sem tracção brusca sobre enxertos",
+      "Enxerto recente: imobilizar 3–5 dias antes de mobilizar",
+      "Deambulação precoce com ligadura elástica nos membros inferiores"
+     ],
+     "destaques": [
+      "Combinar sessão de fisioterapia com o horário da analgesia melhora muito a adesão."
+     ]
+    },
+    {
+     "termo": "Cuidados respiratórios na lesão inalatória",
+     "definicao": "Suspeita e manejo da queimadura das vias aéreas.",
+     "explicacao": "Queimadura em espaço fechado, pêlos nasais chamuscados, rouquidão e escarro carbonáceo indicam lesão inalatória, com risco de obstrução por edema.",
+     "itens": [
+      "Sinais: rouquidão, estridor, escarro com fuligem, queimadura facial",
+      "Fisioterapia respiratória, higiene brônquica e posicionamento",
+      "Vigiar sinais de obstrução — urgência médica"
+     ],
+     "destaques": [
+      "Queimadura facial + espaço fechado = suspeitar sempre de lesão inalatória."
+     ]
+    }
+   ],
+   "finalidades": [
+    "Prevenir contraturas e deformidades",
+    "Manter amplitude articular e força",
+    "Reduzir edema e favorecer a cicatrização",
+    "Prevenir complicações respiratórias e do imobilismo",
+    "Preparar o regresso às AVD e à vida social/laboral"
+   ],
+   "vantagens": [
+    "A prevenção de contraturas evita cirurgias reconstrutivas posteriores",
+    "Mobilização precoce reduz tempo de internamento",
+    "Pressoterapia melhora significativamente o aspecto e a flexibilidade da cicatriz"
+   ],
+   "desvantagens": [
+    "Tratamento doloroso, com necessidade de analgesia prévia",
+    "Adesão difícil à malha compressiva pelo calor e desconforto",
+    "Processo longo (meses), exigindo motivação contínua"
+   ],
+   "valores_referencia": [
+    {
+     "parametro": "Pressão da malha compressiva",
+     "valor": "20–30 mmHg",
+     "observacao": "23 horas/dia, 6–12 meses"
+    },
+    {
+     "parametro": "Queimadura grave (adulto)",
+     "valor": "SCQ > 20%",
+     "observacao": "> 10% na criança e no idoso"
+    },
+    {
+     "parametro": "Palma da mão do doente",
+     "valor": "≈ 1% da SCQ",
+     "observacao": "Útil em queimaduras dispersas"
+    },
+    {
+     "parametro": "Imobilização após enxerto",
+     "valor": "3–5 dias",
+     "observacao": "Depois mobilização progressiva"
+    },
+    {
+     "parametro": "Posição da axila",
+     "valor": "Abdução 90–100°",
+     "observacao": "Prevenção de retracção axilar"
+    },
+    {
+     "parametro": "Posição do tornozelo",
+     "valor": "90° (neutro)",
+     "observacao": "Tala anti-equino"
+    }
+   ],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Avaliar extensão, profundidade, articulações envolvidas e dor; articular a sessão com a analgesia."
+    },
+    {
+     "passo": 2,
+     "descricao": "Instalar posicionamento antideformidade e talas nas áreas de risco desde as primeiras 24–48 h."
+    },
+    {
+     "passo": 3,
+     "descricao": "Realizar mobilização activa/passiva de todas as articulações, de preferência durante o penso."
+    },
+    {
+     "passo": 4,
+     "descricao": "Elevar os membros afectados para controlo do edema."
+    },
+    {
+     "passo": 5,
+     "descricao": "Após epitelização, iniciar massagem de descolamento com hidratante e alongamento sustentado."
+    },
+    {
+     "passo": 6,
+     "descricao": "Prescrever e ajustar malha compressiva e/ou placa de silicone."
+    },
+    {
+     "passo": 7,
+     "descricao": "Progredir para fortalecimento, treino de marcha e AVD; ensinar protecção solar e plano domiciliário."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Doente com queimadura de 2.º grau profundo na região axilar, mantém o braço junto ao corpo por dor.",
+     "resolucao": "Posicionar em abdução de 90–100° com apoio/tala em abdução, mobilizar diariamente sob analgesia e alongar em sentido contrário à retracção. Manter esta posição também durante o sono; a posição de conforto (adução) levaria a retracção axilar e perda definitiva da elevação do braço."
+    },
+    {
+     "situacao": "Doente com hematoma volumoso na coxa após trauma, 12 horas de evolução; pede massagem.",
+     "resolucao": "Não massajar. Nas primeiras 48 h: frio, compressão elástica, elevação e repouso relativo com mobilização suave e indolor. Após 48–72 h, iniciar calor suave, drenagem e mobilização progressiva. Vigiar dor desproporcionada e parestesias (síndrome compartimental)."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Permitir a 'posição de conforto' que gera contratura",
+    "Adiar a mobilização até à cicatrização completa",
+    "Mobilizar enxerto recente antes dos 3–5 dias",
+    "Massajar cicatriz não epitelizada ou equimose recente",
+    "Não usar ou usar irregularmente a malha compressiva",
+    "Esquecer a protecção solar da cicatriz",
+    "Não coordenar a sessão com a analgesia"
+   ],
+   "conclusao": "No queimado, a fisioterapia é preventiva antes de ser curativa: posicionar contra a deformidade, mobilizar cedo e comprimir a cicatriz durante meses são as intervenções que determinam o resultado funcional e estético."
+  },
+  {
+   "titulo": "VII. Fisioterapia em Doentes Amputados (Níveis, Protetização, Próteses/Órteses e Controlo da Dor)",
+   "introducao": "A amputação exige um programa estruturado que vai desde a preparação do coto até à marcha protetizada. Em Angola, as causas mais frequentes incluem trauma, acidentes de viação, minas, complicações do pé diabético e doença vascular periférica.",
+   "conceitos": [
+    {
+     "termo": "Níveis de amputação",
+     "definicao": "Local anatómico onde é realizada a secção do membro.",
+     "explicacao": "Quanto mais proximal o nível, maior o gasto energético na marcha e mais difícil a protetização. Preservar a articulação do joelho é decisivo para a autonomia.",
+     "itens": [
+      "Membro inferior: dedos, transmetatársica, Syme, transtibial (abaixo do joelho), desarticulação do joelho, transfemoral (acima do joelho), desarticulação da anca, hemipelvectomia",
+      "Membro superior: dedos, transradial, desarticulação do cotovelo, transumeral, desarticulação do ombro"
+     ],
+     "destaques": [
+      "Gasto energético na marcha: transtibial +20–25%; transfemoral +60–70%; bilateral transfemoral pode ultrapassar +100%.",
+      "Salvar o joelho muda completamente o prognóstico funcional."
+     ]
+    },
+    {
+     "termo": "Fases do processo de reabilitação (protetização)",
+     "definicao": "Etapas sequenciais desde o pré-operatório até ao uso definitivo da prótese.",
+     "explicacao": "A fisioterapia intervém em todas: preparar antes, moldar o coto depois e treinar a marcha por fim.",
+     "itens": [
+      "Pré-operatória: informação, fortalecimento dos membros preservados, treino de transferências",
+      "Pós-operatória imediata: controlo do edema, posicionamento, prevenção de contraturas",
+      "Pré-protética: enfaixamento, dessensibilização, endurecimento do coto, equilíbrio em pé",
+      "Protética: colocação, treino de marcha e progressão",
+      "Pós-protética/manutenção: autonomia, desporto, vigilância do coto"
+     ],
+     "destaques": [
+      "Prótese provisória é geralmente possível 4–8 semanas após cicatrização; a definitiva quando o coto estabiliza (3–6 meses)."
+     ]
+    },
+    {
+     "termo": "Cuidados e enfaixamento do coto",
+     "definicao": "Conjunto de técnicas que moldam o coto em forma cónica e reduzem o edema.",
+     "explicacao": "O enfaixamento em espiga (figura em 8) aplica pressão maior no extremo distal e menor na proximal, evitando o efeito garrote e o coto 'em bolbo'.",
+     "itens": [
+      "Ligadura em 8, mais apertada distalmente, refeita a cada 4 horas ou se deslizar",
+      "Higiene diária com água e sabão, secagem completa",
+      "Inspeccionar diariamente à procura de feridas, rubor e maceração",
+      "Massagem e dessensibilização com texturas e tapping"
+     ],
+     "destaques": [
+      "Nunca enfaixar em círculos horizontais — provoca garrote e necrose distal."
+     ]
+    },
+    {
+     "termo": "Prevenção de contraturas no amputado",
+     "definicao": "Posicionamento e exercícios que evitam encurtamentos que impedem a protetização.",
+     "explicacao": "O transfemoral tende à flexão e abdução da anca; o transtibial tende à flexão do joelho. Ambas as posições inviabilizam a marcha com prótese.",
+     "itens": [
+      "Não colocar almofada debaixo do coto nem entre as pernas",
+      "Decúbito ventral 20–30 min, 2–3 vezes por dia",
+      "Fortalecer extensores e adutores da anca e extensores do joelho",
+      "Manter o joelho em extensão quando sentado (tábua de extensão)"
+     ],
+     "destaques": [
+      "Almofada debaixo do coto é o erro mais frequente e a causa mais comum de contratura em flexão."
+     ]
+    },
+    {
+     "termo": "Prótese vs órtese",
+     "definicao": "Prótese substitui um segmento corporal ausente; órtese apoia, alinha ou corrige um segmento existente.",
+     "explicacao": "Confundi-los é erro clássico de exame. Uma perna artificial é prótese; uma tala anti-equino (AFO) é órtese.",
+     "itens": [
+      "Prótese transtibial: encaixe PTB/TSB, meias de coto, joelho preservado",
+      "Prótese transfemoral: encaixe quadrilateral ou de contenção isquiática, joelho protético",
+      "Órteses: AFO (tornozelo-pé), KAFO (joelho-tornozelo-pé), coletes, talas de repouso"
+     ],
+     "destaques": [
+      "Prótese = substitui. Órtese = corrige/apoia."
+     ]
+    },
+    {
+     "termo": "Dor fantasma e sensação fantasma",
+     "definicao": "Sensação fantasma é a percepção não dolorosa do membro ausente; dor fantasma é a percepção dolorosa.",
+     "explicacao": "Explicar ao doente que é fenómeno real de reorganização cortical, não imaginação, aumenta a adesão. Distingue-se da dor do coto, que tem causa local (neuroma, ferida, prótese mal ajustada).",
+     "itens": [
+      "Terapia do espelho",
+      "TENS e dessensibilização",
+      "Massagem e imaginação motora graduada",
+      "Uso precoce da prótese",
+      "Fármacos: gabapentina, amitriptilina (prescrição médica)"
+     ],
+     "destaques": [
+      "Dor localizada e crescente no coto com sinais inflamatórios não é dor fantasma — procurar infecção, neuroma ou encaixe inadequado."
+     ]
+    },
+    {
+     "termo": "Recursos fisioterapêuticos no controlo da dor",
+     "definicao": "Meios físicos usados para analgesia no amputado.",
+     "explicacao": "Combinar recursos analgésicos com movimento é mais eficaz do que qualquer recurso isolado.",
+     "itens": [
+      "TENS sobre o coto ou membro contralateral",
+      "Crioterapia na dor aguda pós-operatória",
+      "Terapia do espelho para dor fantasma",
+      "Dessensibilização com texturas progressivas",
+      "Relaxamento e controlo respiratório"
+     ],
+     "destaques": [
+      "Objectivo do controlo da dor é permitir o movimento, não substituí-lo."
+     ]
+    }
+   ],
+   "finalidades": [
+    "Preparar o coto para receber a prótese",
+    "Prevenir contraturas e complicações do imobilismo",
+    "Controlar a dor do coto e a dor fantasma",
+    "Restaurar equilíbrio, força e marcha independente",
+    "Promover reintegração social, escolar ou laboral"
+   ],
+   "vantagens": [
+    "Programa estruturado reduz o tempo até à protetização",
+    "Marcha protetizada devolve autonomia e diminui dependência",
+    "Educação do doente previne feridas e reinternamentos"
+   ],
+   "desvantagens": [
+    "Custo e disponibilidade limitada de próteses",
+    "Necessidade de reajustes frequentes com a alteração de volume do coto",
+    "Impacto psicológico exige apoio multidisciplinar"
+   ],
+   "valores_referencia": [
+    {
+     "parametro": "Gasto energético — transtibial",
+     "valor": "+20–25%",
+     "observacao": "Comparado com marcha normal"
+    },
+    {
+     "parametro": "Gasto energético — transfemoral",
+     "valor": "+60–70%",
+     "observacao": "Aumenta em bilaterais"
+    },
+    {
+     "parametro": "Prótese provisória",
+     "valor": "4–8 semanas pós-cicatrização",
+     "observacao": "Depende do estado do coto"
+    },
+    {
+     "parametro": "Prótese definitiva",
+     "valor": "3–6 meses",
+     "observacao": "Após estabilização de volume"
+    },
+    {
+     "parametro": "Decúbito ventral",
+     "valor": "20–30 min, 2–3x/dia",
+     "observacao": "Previne flexão da anca"
+    },
+    {
+     "parametro": "Renovação do enfaixamento",
+     "valor": "a cada 4 horas",
+     "observacao": "Ou sempre que desliza"
+    }
+   ],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Avaliar o coto: cicatriz, volume, forma, sensibilidade, dor, ADM e força."
+    },
+    {
+     "passo": 2,
+     "descricao": "Aplicar enfaixamento em 8 com maior pressão distal e ensinar o doente a refazê-lo."
+    },
+    {
+     "passo": 3,
+     "descricao": "Posicionar contra a contratura: sem almofada sob o coto, decúbito ventral diário."
+    },
+    {
+     "passo": 4,
+     "descricao": "Fortalecer tronco, membros superiores e musculatura residual; treinar transferências."
+    },
+    {
+     "passo": 5,
+     "descricao": "Dessensibilizar o coto e aplicar recursos analgésicos (TENS, espelho) conforme a dor."
+    },
+    {
+     "passo": 6,
+     "descricao": "Treinar equilíbrio unipodal e uso de auxiliares de marcha."
+    },
+    {
+     "passo": 7,
+     "descricao": "Com a prótese: ensinar colocação/remoção, tempo progressivo de uso e inspecção da pele."
+    },
+    {
+     "passo": 8,
+     "descricao": "Treinar marcha em piso plano, rampas, escadas e terreno irregular; corrigir desvios."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Amputado transfemoral há 3 semanas, mantém almofada debaixo do coto por conforto e já apresenta 20° de flexão fixa da anca.",
+     "resolucao": "Retirar imediatamente a almofada, iniciar decúbito ventral 20–30 min 2–3x/dia, alongamento dos flexores da anca, fortalecimento de glúteo máximo e adutores, e educação do doente e da família. Contratura acima de 15–20° compromete o alinhamento da prótese e a marcha."
+    },
+    {
+     "situacao": "Doente refere dor em queimadura no pé que já não existe, sobretudo à noite.",
+     "resolucao": "Dor fantasma. Explicar o mecanismo, iniciar terapia do espelho diária, TENS, dessensibilização do coto e encorajar o uso precoce da prótese; articular com o médico para eventual medicação neuropática. Excluir causas locais no coto (neuroma, ferida, encaixe)."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Colocar almofada debaixo do coto ou entre as pernas",
+    "Enfaixar em círculos horizontais (garrote)",
+    "Adiar o fortalecimento e as transferências até à chegada da prótese",
+    "Não inspeccionar diariamente a pele do coto",
+    "Aumentar o tempo de uso da prótese demasiado depressa",
+    "Confundir dor do coto com dor fantasma",
+    "Não treinar quedas e levantar do chão"
+   ],
+   "conclusao": "A qualidade do coto determina a qualidade da marcha. Enfaixar correctamente, prevenir contraturas, controlar a dor e treinar progressivamente são as etapas que transformam uma amputação numa reabilitação bem-sucedida."
+  },
+  {
+   "titulo": "VIII. Doenças Degenerativas (Osteoporose, Reumatologia e Escoliose)",
+   "introducao": "As doenças degenerativas e reumáticas são causa major de dor crónica e incapacidade. O papel da fisioterapia é preservar função, controlar a dor, manter a massa óssea e muscular e prevenir quedas e deformidades.",
+   "conceitos": [
+    {
+     "termo": "Osteoporose",
+     "definicao": "Doença esquelética sistémica caracterizada por baixa massa óssea e deterioração da microarquitectura, com aumento da fragilidade e do risco de fractura.",
+     "explicacao": "É silenciosa até à primeira fractura. As fracturas típicas são do punho (Colles), vértebras (por compressão, causando cifose e perda de altura) e do colo do fémur, esta última com elevada mortalidade no idoso.",
+     "itens": [
+      "Factores de risco: idade, sexo feminino, menopausa, corticoterapia, tabaco, álcool, sedentarismo, baixa ingestão de cálcio",
+      "Diagnóstico: densitometria (DEXA) com T-score",
+      "Exercício indicado: carga axial, marcha, resistido progressivo e equilíbrio"
+     ],
+     "destaques": [
+      "T-score: normal ≥ −1,0; osteopenia entre −1,0 e −2,5; osteoporose ≤ −2,5.",
+      "Evitar flexão anterior forçada e rotações bruscas do tronco — risco de fractura vertebral."
+     ]
+    },
+    {
+     "termo": "Osteoartrose (artrose)",
+     "definicao": "Doença degenerativa articular com desgaste da cartilagem, esclerose subcondral e osteófitos.",
+     "explicacao": "Dor mecânica (piora com o uso, alivia com repouso), rigidez matinal curta (< 30 minutos) e crepitação. Mais frequente em joelho, anca e coluna.",
+     "itens": [
+      "Tratamento base: exercício + controlo de peso + educação",
+      "Fortalecer quadricípite na gonartrose",
+      "Exercício de baixo impacto: bicicleta, hidroterapia",
+      "Auxiliares de marcha na dor e instabilidade"
+     ],
+     "destaques": [
+      "Rigidez matinal < 30 min sugere artrose; > 60 min sugere artrite inflamatória."
+     ]
+    },
+    {
+     "termo": "Artrite reumatoide",
+     "definicao": "Doença auto-imune, inflamatória, crónica e simétrica, que afecta sobretudo as pequenas articulações das mãos e pés.",
+     "explicacao": "Causa sinovite, deformidades típicas (desvio cubital, dedos em pescoço de cisne e em botoeira) e manifestações sistémicas. A abordagem difere conforme a fase.",
+     "itens": [
+      "Fase aguda: repouso relativo, talas de repouso, crioterapia, isometria",
+      "Fase de remissão: mobilização, fortalecimento suave, hidroterapia, calor",
+      "Protecção articular e economia articular nas AVD",
+      "Evitar exercícios resistidos intensos durante a inflamação"
+     ],
+     "destaques": [
+      "Rigidez matinal superior a 1 hora e envolvimento simétrico das mãos são marcas da artrite reumatoide."
+     ]
+    },
+    {
+     "termo": "Outras patologias reumáticas relevantes",
+     "definicao": "Grupo que inclui espondilite anquilosante, gota, fibromialgia e lúpus.",
+     "explicacao": "Cada uma tem particularidade fisioterapêutica: na espondilite trabalha-se extensão e expansão torácica; na gota aguda não se mobiliza a articulação inflamada; na fibromialgia o exercício aeróbio suave e progressivo é o tratamento mais eficaz.",
+     "itens": [
+      "Espondilite anquilosante: exercícios de extensão, postura, respiração",
+      "Gota: fase aguda com repouso e frio, sem mobilização forçada",
+      "Fibromialgia: aeróbio ligeiro, educação sobre a dor, higiene do sono"
+     ],
+     "destaques": [
+      "Na espondilite, cifose progressiva previne-se com treino diário de extensão e expansão torácica."
+     ]
+    },
+    {
+     "termo": "Escoliose",
+     "definicao": "Desvio lateral da coluna no plano frontal, superior a 10° de Cobb, associado a rotação vertebral.",
+     "explicacao": "A rotação é o que produz a giba (bossa costal) visível no teste de Adams. A maioria é idiopática do adolescente e progride durante o pico de crescimento.",
+     "itens": [
+      "Classificação: idiopática (infantil, juvenil, do adolescente), congénita, neuromuscular, funcional/postural",
+      "Teste de Adams: flexão anterior do tronco revela a giba",
+      "Escoliose funcional desaparece na flexão ou ao corrigir a dismetria; a estrutural não"
+     ],
+     "destaques": [
+      "Cobb < 20°: observação e exercícios; 20–40° em crescimento: colete; > 45–50°: avaliação cirúrgica."
+     ]
+    },
+    {
+     "termo": "Ângulo de Cobb e sinal de Risser",
+     "definicao": "Cobb mede a magnitude da curva em radiografia; Risser avalia a maturidade esquelética pela ossificação da crista ilíaca (0–5).",
+     "explicacao": "Risser baixo com curva significativa indica risco elevado de progressão — é aí que o colete tem maior indicação.",
+     "itens": [
+      "Risser 0–1: grande potencial de crescimento e progressão",
+      "Risser 4–5: crescimento praticamente terminado",
+      "Progressão significativa: aumento ≥ 5° entre radiografias"
+     ],
+     "destaques": [
+      "Risco de progressão = magnitude da curva + imaturidade esquelética."
+     ]
+    },
+    {
+     "termo": "Exercícios específicos para escoliose (SEAS/Schroth)",
+     "definicao": "Programas de auto-correcção tridimensional com estabilização activa e respiração rotacional.",
+     "explicacao": "Não substituem o colete nas curvas moderadas, mas melhoram a postura, a força e a estética, e podem reduzir a progressão.",
+     "itens": [
+      "Auto-elongação axial",
+      "Correcção nos três planos (frontal, sagital, transverso)",
+      "Respiração dirigida à concavidade",
+      "Estabilização e integração na vida diária"
+     ],
+     "destaques": [
+      "Exercícios simétricos genéricos são pouco eficazes; a correcção deve ser específica para o padrão da curva."
+     ]
+    }
+   ],
+   "finalidades": [
+    "Controlar a dor e manter a mobilidade articular",
+    "Preservar massa óssea e muscular",
+    "Prevenir deformidades, quedas e fracturas",
+    "Manter a independência nas AVD",
+    "Educar sobre protecção articular e gestão da doença crónica"
+   ],
+   "vantagens": [
+    "Exercício é intervenção de primeira linha na artrose e na osteoporose",
+    "Reduz consumo de analgésicos e anti-inflamatórios",
+    "Melhora o humor, o sono e a qualidade de vida"
+   ],
+   "desvantagens": [
+    "Requer adesão a longo prazo",
+    "Progressão limitada nas fases avançadas",
+    "Necessário adaptar rigorosamente às fases inflamatórias"
+   ],
+   "valores_referencia": [
+    {
+     "parametro": "T-score de osteoporose",
+     "valor": "≤ −2,5",
+     "observacao": "Osteopenia: −1,0 a −2,5"
+    },
+    {
+     "parametro": "Cálcio diário no adulto/idoso",
+     "valor": "1000–1200 mg",
+     "observacao": "Com vitamina D 800–1000 UI"
+    },
+    {
+     "parametro": "Escoliose (diagnóstico)",
+     "valor": "Cobb > 10°",
+     "observacao": "Com rotação vertebral"
+    },
+    {
+     "parametro": "Indicação de colete",
+     "valor": "Cobb 20–40° em crescimento",
+     "observacao": "Risser baixo"
+    },
+    {
+     "parametro": "Indicação cirúrgica na escoliose",
+     "valor": "Cobb > 45–50°",
+     "observacao": "Ou progressão rápida"
+    },
+    {
+     "parametro": "Rigidez matinal",
+     "valor": "< 30 min artrose; > 60 min artrite",
+     "observacao": "Dado diferencial clássico"
+    },
+    {
+     "parametro": "Exercício com carga na osteoporose",
+     "valor": "30 min/dia, 5x/semana",
+     "observacao": "Marcha + resistido + equilíbrio"
+    }
+   ],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Avaliar dor, ADM, força, postura, equilíbrio e risco de queda."
+    },
+    {
+     "passo": 2,
+     "descricao": "Na escoliose, realizar teste de Adams, medir gibosidade e verificar dismetria dos membros."
+    },
+    {
+     "passo": 3,
+     "descricao": "Definir fase da doença (inflamatória aguda vs crónica) e adaptar a intensidade."
+    },
+    {
+     "passo": 4,
+     "descricao": "Prescrever exercício: carga axial e resistido na osteoporose; fortalecimento e baixo impacto na artrose."
+    },
+    {
+     "passo": 5,
+     "descricao": "Aplicar recursos analgésicos (calor na rigidez crónica, frio na inflamação aguda, TENS)."
+    },
+    {
+     "passo": 6,
+     "descricao": "Treinar equilíbrio e prevenção de quedas; rever o domicílio (tapetes, iluminação, apoios)."
+    },
+    {
+     "passo": 7,
+     "descricao": "Ensinar protecção articular, economia de esforço e plano domiciliário; reavaliar periodicamente."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Mulher de 68 anos com osteoporose confirmada quer fazer abdominais clássicos e alongamentos em flexão profunda do tronco.",
+     "resolucao": "Contra-indicado: a flexão anterior forçada e as rotações bruscas aumentam o risco de fractura vertebral por compressão. Substituir por exercícios de extensão, estabilização isométrica do tronco, marcha com carga, resistido progressivo dos membros e treino de equilíbrio."
+    },
+    {
+     "situacao": "Adolescente de 13 anos, Risser 1, escoliose torácica de 28° de Cobb.",
+     "resolucao": "Curva moderada em fase de grande crescimento: indicação de colete associado a exercícios específicos de auto-correcção tridimensional, com controlo radiográfico periódico. Só exercícios seriam insuficientes; monitorizar progressão ≥ 5°."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Fazer flexão anterior forçada em osteoporose",
+    "Exercitar articulação em crise inflamatória aguda",
+    "Prescrever apenas repouso na artrose (agrava a atrofia)",
+    "Confundir escoliose funcional com estrutural",
+    "Ignorar a prevenção de quedas no idoso",
+    "Prescrever exercícios simétricos genéricos na escoliose estruturada",
+    "Não rastrear dismetria de membros inferiores"
+   ],
+   "conclusao": "Nas doenças degenerativas, o exercício adaptado é o tratamento — não um complemento. Adequar à fase da doença, proteger as articulações e prevenir quedas e deformidades preserva anos de autonomia."
+  },
+  {
+   "titulo": "IX. Fisioterapia no Síndrome de Imobilismo",
+   "introducao": "O síndrome de imobilismo é o conjunto de alterações que resultam do repouso prolongado no leito. Afecta todos os sistemas e instala-se rapidamente: perde-se força desde os primeiros dias. A melhor terapêutica é a prevenção através da mobilização precoce.",
+   "conceitos": [
+    {
+     "termo": "Síndrome de imobilismo",
+     "definicao": "Conjunto de complicações multissistémicas decorrentes da permanência prolongada no leito e da inactividade.",
+     "explicacao": "Não é consequência da doença de base, mas do repouso em si — por isso é largamente prevenível.",
+     "itens": [
+      "Critério clínico frequente: repouso > 15 dias com múltiplos défices, incluindo contratura e úlceras",
+      "Atinge sistemas músculo-esquelético, respiratório, cardiovascular, urinário, digestivo, tegumentar e psicológico"
+     ],
+     "destaques": [
+      "Perde-se 1–3% de força muscular por dia de repouso absoluto (até 10–15% por semana)."
+     ]
+    },
+    {
+     "termo": "Complicações músculo-esqueléticas",
+     "definicao": "Atrofia, fraqueza, contraturas, rigidez articular e perda óssea.",
+     "explicacao": "Os músculos antigravitacionais (quadricípite, glúteos, tríceps sural) atrofiam primeiro. As contraturas instalam-se em posição de flexão.",
+     "itens": [
+      "Atrofia por desuso e sarcopenia",
+      "Contraturas em flexão e pé equino",
+      "Osteopenia por desuso e hipercalciúria",
+      "Ossificação heterotópica em doentes neurológicos"
+     ],
+     "destaques": [
+      "Pé equino previne-se com tala/apoio a 90° e mobilização diária do tornozelo."
+     ]
+    },
+    {
+     "termo": "Complicações respiratórias",
+     "definicao": "Redução dos volumes pulmonares, retenção de secreções, atelectasias e pneumonia hipostática.",
+     "explicacao": "Em decúbito dorsal o diafragma é empurrado pelas vísceras e as bases pulmonares ficam mal ventiladas — as secreções acumulam-se nas zonas dependentes.",
+     "itens": [
+      "Elevar a cabeceira 30–45°",
+      "Exercícios respiratórios e inspirómetro de incentivo",
+      "Higiene brônquica e mudança de decúbitos",
+      "Estimular tosse eficaz"
+     ],
+     "destaques": [
+      "Pneumonia hipostática é uma das principais causas de morte no acamado."
+     ]
+    },
+    {
+     "termo": "Complicações cardiovasculares",
+     "definicao": "Descondicionamento, taquicardia de repouso, hipotensão ortostática e trombose venosa profunda (TVP).",
+     "explicacao": "A perda da estimulação barorreflexa faz o doente ficar tonto ao levantar-se; a estase venosa favorece a TVP (tríade de Virchow: estase, lesão endotelial e hipercoagulabilidade).",
+     "itens": [
+      "Hipotensão ortostática: queda ≥ 20 mmHg sistólica ou ≥ 10 mmHg diastólica ao levantar",
+      "Prevenção da TVP: mobilização, exercícios activos de tornozelo, meias de compressão, hidratação",
+      "Sinais de TVP: dor na barriga da perna, edema unilateral, calor e rubor"
+     ],
+     "destaques": [
+      "Suspeita de TVP: NÃO mobilizar nem massajar o membro; comunicar imediatamente ao médico."
+     ]
+    },
+    {
+     "termo": "Úlceras de pressão",
+     "definicao": "Lesão da pele e tecidos por pressão prolongada sobre proeminências ósseas.",
+     "explicacao": "Formam-se em horas nas zonas de apoio: sacro, calcâneos, trocânteres, cotovelos e occipital. A prevenção passa por aliviar a pressão de forma sistemática.",
+     "itens": [
+      "Categoria I: eritema não branqueável",
+      "Categoria II: perda parcial da espessura (flictena/abrasão)",
+      "Categoria III: perda total da espessura, com tecido adiposo visível",
+      "Categoria IV: exposição de músculo, tendão ou osso"
+     ],
+     "destaques": [
+      "Mudar de decúbito de 2 em 2 horas, hidratar a pele, manter lençóis secos e sem pregas, usar colchão de pressão alternada e a escala de Braden."
+     ]
+    },
+    {
+     "termo": "Outras repercussões",
+     "definicao": "Alterações urinárias, digestivas, metabólicas e psicológicas.",
+     "explicacao": "Estase urinária favorece infecção e litíase; a lentificação intestinal causa obstipação e impactação fecal; o isolamento gera depressão e confusão, sobretudo no idoso.",
+     "itens": [
+      "Infecção urinária e litíase por hipercalciúria",
+      "Obstipação e fecaloma",
+      "Anorexia e desnutrição",
+      "Depressão, ansiedade, desorientação e alteração do sono"
+     ],
+     "destaques": [
+      "Sentar o doente à beira do leito é intervenção respiratória, circulatória e psicológica ao mesmo tempo."
+     ]
+    },
+    {
+     "termo": "Mobilização precoce",
+     "definicao": "Início da actividade física dentro das primeiras 24–72 horas após estabilização clínica.",
+     "explicacao": "É a intervenção mais eficaz contra o imobilismo, aplicável mesmo em doentes ventilados, com progressão por níveis.",
+     "itens": [
+      "Nível 1: mobilização passiva e posicionamento no leito",
+      "Nível 2: exercícios activos-assistidos, sentar no leito",
+      "Nível 3: sentar à beira do leito, transferência para cadeirão",
+      "Nível 4: ortostatismo e marcha assistida"
+     ],
+     "destaques": [
+      "Critérios de paragem: FC > 70% da máxima, SpO₂ < 88%, TA instável, agitação ou dor intensa."
+     ]
+    }
+   ],
+   "finalidades": [
+    "Prevenir atrofia, contraturas e úlceras de pressão",
+    "Manter função respiratória e prevenir pneumonia",
+    "Prevenir TVP e hipotensão ortostática",
+    "Preservar orientação, humor e autonomia",
+    "Encurtar o internamento e facilitar o regresso a casa"
+   ],
+   "vantagens": [
+    "Intervenção de baixo custo e alto impacto",
+    "Reduz mortalidade, tempo de internamento e custos",
+    "Aplicável mesmo em doentes críticos, com critérios de segurança"
+   ],
+   "desvantagens": [
+    "Requer disponibilidade de pessoal e coordenação com a enfermagem",
+    "Riscos se realizada sem critérios de segurança",
+    "Necessita de reavaliação diária"
+   ],
+   "valores_referencia": [
+    {
+     "parametro": "Perda de força no repouso absoluto",
+     "valor": "1–3% por dia",
+     "observacao": "Até 10–15% por semana"
+    },
+    {
+     "parametro": "Mudança de decúbito",
+     "valor": "a cada 2 horas",
+     "observacao": "1 em 1 hora se sentado em cadeirão"
+    },
+    {
+     "parametro": "Elevação da cabeceira",
+     "valor": "30–45°",
+     "observacao": "Prevenção de aspiração e atelectasia"
+    },
+    {
+     "parametro": "Hipotensão ortostática",
+     "valor": "Queda ≥ 20/10 mmHg",
+     "observacao": "Ao passar a ortostatismo"
+    },
+    {
+     "parametro": "Escala de Braden",
+     "valor": "≤ 16 = risco",
+     "observacao": "≤ 12 = risco elevado"
+    },
+    {
+     "parametro": "Início da mobilização",
+     "valor": "24–72 h após estabilização",
+     "observacao": "Inclui doentes ventilados"
+    }
+   ],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Avaliar estabilidade hemodinâmica e respiratória antes de cada sessão."
+    },
+    {
+     "passo": 2,
+     "descricao": "Inspeccionar a pele nas proeminências ósseas e aplicar a escala de Braden."
+    },
+    {
+     "passo": 3,
+     "descricao": "Posicionar correctamente e alternar decúbitos de 2 em 2 horas, com apoio a 90° no tornozelo."
+    },
+    {
+     "passo": 4,
+     "descricao": "Realizar mobilização passiva/activa de todos os segmentos e exercícios de tornozelo para prevenção de TVP."
+    },
+    {
+     "passo": 5,
+     "descricao": "Aplicar exercícios respiratórios e higiene brônquica."
+    },
+    {
+     "passo": 6,
+     "descricao": "Progredir: sentar no leito → beira do leito → cadeirão → ortostatismo → marcha assistida."
+    },
+    {
+     "passo": 7,
+     "descricao": "Vigiar sinais de intolerância e registar o nível de mobilidade alcançado."
+    },
+    {
+     "passo": 8,
+     "descricao": "Ensinar a família e articular com a enfermagem a continuidade fora das sessões."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Doente acamado há 3 semanas apresenta eritema não branqueável no sacro e pé em equino.",
+     "resolucao": "Úlcera de pressão categoria I e retracção do tríceps sural. Aliviar imediatamente a pressão no sacro (decúbitos laterais alternados a 30°, colchão de pressão alternada), hidratar a pele, colocar apoio/tala mantendo o tornozelo a 90°, alongar diariamente o tríceps sural e iniciar programa de mobilização progressiva."
+    },
+    {
+     "situacao": "Doente acamado há 10 dias sente tonturas e escurecimento da visão ao sentar-se.",
+     "resolucao": "Hipotensão ortostática por descondicionamento. Progredir gradualmente: elevar a cabeceira por etapas, sentar com as pernas pendentes por períodos crescentes, usar meias de compressão, hidratar e monitorizar TA nas várias posições antes de progredir ao ortostatismo."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Esperar pela 'estabilização total' para iniciar a mobilização",
+    "Mobilizar membro com suspeita de TVP",
+    "Deixar o doente sempre em decúbito dorsal",
+    "Colocar almofada sob o joelho (favorece flexão fixa e estase)",
+    "Não avaliar a pele nas proeminências ósseas",
+    "Passar bruscamente do leito ao ortostatismo",
+    "Não registar nem comunicar o nível de mobilidade atingido"
+   ],
+   "conclusao": "No imobilismo, cada dia de cama custa força, osso, pulmão e autonomia. A resposta é simples e eficaz: posicionar bem, mobilizar cedo, alternar decúbitos e progredir todos os dias."
+  },
+  {
+   "titulo": "X. Interpretação de Exames Complementares (Laboratoriais e Imagiológicos)",
+   "introducao": "O técnico de fisioterapia não emite diagnóstico médico, mas deve interpretar exames o suficiente para decidir se a sessão é segura, que intensidade aplicar e quando suspender e comunicar à equipa.",
+   "conceitos": [
+    {
+     "termo": "Hemograma",
+     "definicao": "Exame que avalia eritrócitos, leucócitos e plaquetas.",
+     "explicacao": "Anemia grave reduz a tolerância ao esforço; trombocitopenia grave contra-indica técnicas manuais vigorosas e resistidos intensos pelo risco hemorrágico.",
+     "itens": [
+      "Hb: H 13–17 g/dL; M 12–16 g/dL",
+      "Leucócitos: 4.000–11.000/mm³",
+      "Plaquetas: 150.000–450.000/mm³"
+     ],
+     "destaques": [
+      "Plaquetas < 20.000/mm³: apenas mobilização suave. Hb < 8 g/dL: exercício muito ligeiro e monitorizado."
+     ]
+    },
+    {
+     "termo": "Marcadores de inflamação e infecção",
+     "definicao": "PCR, VS e leucograma.",
+     "explicacao": "Valores muito elevados com febre indicam fase aguda: adiar o exercício intenso e priorizar posicionamento e higiene brônquica.",
+     "itens": [
+      "PCR normal < 6 mg/L",
+      "VS: H até 15 mm/h; M até 20 mm/h"
+     ],
+     "destaques": [
+      "Febre > 38 °C: suspender treino aeróbio."
+     ]
+    },
+    {
+     "termo": "Gasometria arterial",
+     "definicao": "Mede pH, PaO₂, PaCO₂, HCO₃⁻ e SatO₂.",
+     "explicacao": "Distingue insuficiência respiratória tipo I de tipo II e identifica acidose/alcalose.",
+     "itens": [
+      "pH 7,35–7,45",
+      "PaO₂ 80–100 mmHg",
+      "PaCO₂ 35–45 mmHg",
+      "HCO₃⁻ 22–26 mEq/L"
+     ],
+     "destaques": [
+      "pH < 7,25 com PaCO₂ alta: doente instável — não progredir a mobilização sem avaliação médica."
+     ]
+    },
+    {
+     "termo": "Bioquímica relevante",
+     "definicao": "Glicemia, ureia/creatinina, ionograma, CK e D-dímeros.",
+     "explicacao": "Potássio alterado predispõe a arritmias durante o esforço; CK muito elevada sugere lesão muscular e contra-indica exercício resistido.",
+     "itens": [
+      "Glicemia em jejum 70–99 mg/dL",
+      "Potássio 3,5–5,0 mEq/L",
+      "Creatinina 0,6–1,3 mg/dL"
+     ],
+     "destaques": [
+      "K⁺ < 3,0 ou > 6,0 mEq/L: não exercitar; comunicar."
+     ]
+    },
+    {
+     "termo": "Radiografia",
+     "definicao": "Exame de eleição para osso e para avaliação torácica inicial.",
+     "explicacao": "Permite ver fracturas, consolidação, luxações, artrose, escoliose (Cobb), condensações e derrames.",
+     "itens": [
+      "Osso: fractura, calo, osteófitos, redução do espaço articular",
+      "Tórax: condensação, atelectasia, derrame, posição do tubo"
+     ],
+     "destaques": [
+      "Derrame volumoso ou pneumotórax não drenado: evitar técnicas de pressão positiva e percussão."
+     ]
+    },
+    {
+     "termo": "TAC, RM e ecografia",
+     "definicao": "Exames de imagem complementares.",
+     "explicacao": "TAC é rápida e boa para osso, trauma e AVC agudo; RM é superior para partes moles (ligamentos, discos, medula); a ecografia avalia tendões, derrames e permite guiar tratamento.",
+     "itens": [
+      "RM: hérnia discal, lesões meniscais e ligamentares",
+      "TAC: fracturas complexas, AVC hemorrágico",
+      "Ecografia: tendinopatias, TVP (eco-Doppler)"
+     ],
+     "destaques": [
+      "Tratar o doente, não a imagem: alterações degenerativas na imagem são frequentes em pessoas sem sintomas."
+     ]
+    }
+   ],
+   "finalidades": [
+    "Garantir a segurança da sessão",
+    "Ajustar intensidade e tipo de exercício",
+    "Monitorizar a evolução do tratamento",
+    "Comunicar objectivamente com a equipa clínica"
+   ],
+   "vantagens": [
+    "Evita eventos adversos durante o tratamento",
+    "Permite justificar decisões clínicas",
+    "Melhora a integração multidisciplinar"
+   ],
+   "desvantagens": [
+    "Risco de sobrevalorizar a imagem em relação à clínica",
+    "Exige actualização contínua",
+    "Valores de referência variam entre laboratórios"
+   ],
+   "valores_referencia": [
+    {
+     "parametro": "Hemoglobina",
+     "valor": "H 13–17 / M 12–16 g/dL",
+     "observacao": "<8 g/dL limita o esforço"
+    },
+    {
+     "parametro": "Plaquetas",
+     "valor": "150.000–450.000/mm³",
+     "observacao": "<20.000 só mobilização suave"
+    },
+    {
+     "parametro": "pH arterial",
+     "valor": "7,35–7,45",
+     "observacao": "Acidose <7,35"
+    },
+    {
+     "parametro": "PaO₂ / PaCO₂",
+     "valor": "80–100 / 35–45 mmHg",
+     "observacao": "IR: <60 e/ou >45"
+    },
+    {
+     "parametro": "Potássio",
+     "valor": "3,5–5,0 mEq/L",
+     "observacao": "Risco de arritmia fora da faixa"
+    },
+    {
+     "parametro": "Ângulo de Cobb",
+     "valor": ">10° = escoliose",
+     "observacao": "Medido em radiografia"
+    }
+   ],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Consultar o processo clínico e os exames mais recentes antes da sessão."
+    },
+    {
+     "passo": 2,
+     "descricao": "Identificar valores críticos (Hb, plaquetas, K⁺, gasometria, febre)."
+    },
+    {
+     "passo": 3,
+     "descricao": "Confirmar a imagem quanto a fracturas, drenos, tubos e derrames."
+    },
+    {
+     "passo": 4,
+     "descricao": "Ajustar ou adiar o plano conforme o risco e comunicar à equipa."
+    },
+    {
+     "passo": 5,
+     "descricao": "Registar no processo a decisão tomada e a justificação."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Doente oncológico com plaquetas de 15.000/mm³ referenciado para fortalecimento resistido.",
+     "resolucao": "Suspender o resistido e as técnicas manuais vigorosas pelo risco hemorrágico. Manter mobilização activa suave, exercícios respiratórios e posicionamento, e reavaliar após correcção laboratorial."
+    },
+    {
+     "situacao": "Gasometria: pH 7,30; PaCO₂ 58 mmHg; PaO₂ 55 mmHg.",
+     "resolucao": "Insuficiência respiratória tipo II com acidose respiratória. Priorizar higiene brônquica, posicionamento e reeducação ventilatória com freno labial; não progredir a mobilização intensa e comunicar de imediato à equipa médica."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Tratar a imagem em vez do doente",
+    "Ignorar valores críticos antes da sessão",
+    "Percutir o tórax com plaquetas baixas ou hemoptise",
+    "Exercitar doente febril ou com alterações graves do potássio",
+    "Não registar a justificação para suspender a sessão"
+   ],
+   "conclusao": "Ler exames é ler segurança: o exame não substitui a avaliação funcional, mas define os limites dentro dos quais a fisioterapia pode avançar."
+  },
+  {
+   "titulo": "XI. Critérios de Admissão dos Pacientes nos Serviços de Fisioterapia",
+   "introducao": "Nem todos os doentes referenciados devem iniciar tratamento imediatamente. Os critérios de admissão garantem que os recursos, sempre limitados, são atribuídos a quem deles beneficia e em condições de segurança.",
+   "conceitos": [
+    {
+     "termo": "Critérios de admissão",
+     "definicao": "Conjunto de requisitos clínicos e administrativos para aceitar um doente no serviço.",
+     "explicacao": "Combina a existência de disfunção cinético-funcional com estabilidade clínica e potencial de recuperação.",
+     "itens": [
+      "Referenciação/prescrição médica válida com diagnóstico",
+      "Existência de disfunção passível de tratamento fisioterapêutico",
+      "Estabilidade clínica e hemodinâmica",
+      "Capacidade de colaboração ou presença de cuidador",
+      "Consentimento informado do doente ou representante"
+     ],
+     "destaques": [
+      "Sem disfunção funcional identificável não há indicação para fisioterapia."
+     ]
+    },
+    {
+     "termo": "Critérios de exclusão e de adiamento",
+     "definicao": "Condições que impedem ou adiam o início do tratamento.",
+     "explicacao": "Muitas são temporárias: resolvido o quadro agudo, o doente é readmitido.",
+     "itens": [
+      "Instabilidade hemodinâmica ou respiratória",
+      "Febre alta e infecção aguda não controlada",
+      "TVP não tratada",
+      "Fractura instável ainda não estabilizada",
+      "Recusa do doente",
+      "Doença terminal sem objectivo funcional (excepto cuidados paliativos)"
+     ],
+     "destaques": [
+      "Recusa informada do doente deve ser registada e respeitada."
+     ]
+    },
+    {
+     "termo": "Triagem e priorização",
+     "definicao": "Ordenação dos doentes por urgência e potencial de ganho.",
+     "explicacao": "Doentes internados, pós-operatórios e neurológicos agudos têm prioridade porque a janela de ganho é curta e o risco de complicações é maior.",
+     "itens": [
+      "Prioridade 1: internados críticos, pós-op imediato, AVC agudo, queimados",
+      "Prioridade 2: pós-alta recente e agudizações",
+      "Prioridade 3: crónicos estáveis e manutenção"
+     ],
+     "destaques": [
+      "Tempo perdido em neurologia e em queimados raramente se recupera."
+     ]
+    },
+    {
+     "termo": "Avaliação inicial e plano terapêutico",
+     "definicao": "Primeira consulta que fundamenta a admissão e define objectivos.",
+     "explicacao": "Inclui anamnese, exame físico, testes funcionais e escalas, culminando no diagnóstico cinético-funcional.",
+     "itens": [
+      "Escalas: EVA, MRC, Barthel, Ashworth, Borg",
+      "Objectivos SMART de curto, médio e longo prazo",
+      "Frequência e duração previstas do tratamento"
+     ],
+     "destaques": [
+      "Sem avaliação inicial documentada não deve iniciar-se tratamento."
+     ]
+    },
+    {
+     "termo": "Critérios de alta",
+     "definicao": "Condições que determinam o fim do tratamento.",
+     "explicacao": "A alta é decisão clínica documentada, não simples abandono do doente.",
+     "itens": [
+      "Objectivos atingidos ou função máxima alcançada",
+      "Ausência de progresso após período razoável de tratamento",
+      "Faltas repetidas injustificadas ou recusa",
+      "Transferência para outro nível de cuidados"
+     ],
+     "destaques": [
+      "Toda a alta deve incluir plano domiciliário e critérios de retorno."
+     ]
+    },
+    {
+     "termo": "Registo e documentação",
+     "definicao": "Escrita obrigatória do processo clínico de fisioterapia.",
+     "explicacao": "Protege o doente e o profissional, garante continuidade e permite auditoria.",
+     "itens": [
+      "Avaliação inicial, plano, evolução por sessão, reavaliações e alta",
+      "Registo de intercorrências e de recusas",
+      "Confidencialidade dos dados"
+     ],
+     "destaques": [
+      "O que não está registado, para efeitos legais, não foi feito."
+     ]
+    }
+   ],
+   "finalidades": [
+    "Assegurar tratamento seguro e adequado",
+    "Gerir listas de espera com equidade",
+    "Documentar objectivos e resultados",
+    "Facilitar a continuidade dos cuidados"
+   ],
+   "vantagens": [
+    "Reduz tratamentos inúteis e eventos adversos",
+    "Optimiza recursos escassos",
+    "Melhora a comunicação entre serviços"
+   ],
+   "desvantagens": [
+    "Pode gerar burocracia e atrasos",
+    "Critérios rígidos podem excluir casos com benefício potencial"
+   ],
+   "valores_referencia": [
+    {
+     "parametro": "Prazo desejável para avaliação de internado",
+     "valor": "até 24–48 h após pedido",
+     "observacao": "Casos prioritários"
+    },
+    {
+     "parametro": "Reavaliação formal",
+     "valor": "a cada 10 sessões ou 2–4 semanas",
+     "observacao": "Ou antes se houver intercorrência"
+    },
+    {
+     "parametro": "Sessão típica",
+     "valor": "30–60 minutos",
+     "observacao": "Conforme complexidade"
+    },
+    {
+     "parametro": "Frequência habitual em ambulatório",
+     "valor": "2–3 sessões/semana",
+     "observacao": "Diária em internamento"
+    }
+   ],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Receber e verificar a referenciação médica e os dados do doente."
+    },
+    {
+     "passo": 2,
+     "descricao": "Triar por prioridade clínica e agendar."
+    },
+    {
+     "passo": 3,
+     "descricao": "Realizar avaliação inicial completa e aplicar escalas."
+    },
+    {
+     "passo": 4,
+     "descricao": "Confirmar ausência de critérios de exclusão e obter consentimento."
+    },
+    {
+     "passo": 5,
+     "descricao": "Definir objectivos, plano, frequência e duração previstos."
+    },
+    {
+     "passo": 6,
+     "descricao": "Executar e registar cada sessão; reavaliar periodicamente."
+    },
+    {
+     "passo": 7,
+     "descricao": "Dar alta documentada com plano domiciliário e critérios de retorno."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Doente referenciado para reabilitação de gonartrose apresenta-se febril, com joelho quente, vermelho e muito doloroso.",
+     "resolucao": "Adiar a admissão: quadro sugestivo de artrite séptica ou surto inflamatório agudo. Encaminhar de imediato ao médico e reagendar após resolução, mantendo apenas orientações de repouso relativo e crioterapia se autorizadas."
+    },
+    {
+     "situacao": "Doente em ambulatório faltou a 4 sessões consecutivas sem justificação.",
+     "resolucao": "Contactar o doente, registar as faltas e a tentativa de contacto e, mantendo-se a situação, dar alta administrativa documentada, com informação de como pode ser reencaminhado pelo médico assistente."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Iniciar tratamento sem avaliação inicial documentada",
+    "Aceitar referenciações sem diagnóstico ou objectivo",
+    "Não verificar critérios de exclusão temporários",
+    "Manter tratamento indefinido sem reavaliação nem ganhos",
+    "Dar alta sem plano domiciliário",
+    "Não registar recusas e intercorrências"
+   ],
+   "conclusao": "Admitir bem é tratar bem: triagem criteriosa, avaliação inicial documentada, reavaliação periódica e alta planeada garantem segurança, equidade e resultados demonstráveis."
+  },
+  {
+   "titulo": "XII. Fisioterapia na U.T.I. (Ventilação Mecânica, Intubação Orotraqueal, Desintubação e Gasometria)",
+   "introducao": "Na unidade de terapia intensiva a fisioterapia previne as complicações do doente crítico — atelectasias, pneumonia associada à ventilação, fraqueza adquirida na UTI — e contribui para o desmame ventilatório e para a mobilização precoce, mesmo em doentes sedados.",
+   "conceitos": [
+    {
+     "termo": "Ventilação mecânica (VM)",
+     "definicao": "Suporte artificial da ventilação através de pressão positiva, invasiva (tubo/traqueostomia) ou não invasiva (máscara).",
+     "explicacao": "Ao contrário da respiração espontânea, que é por pressão negativa, a VM insufla o pulmão — daí o risco de barotrauma e de repercussão hemodinâmica.",
+     "itens": [
+      "Modos: controlado (VCV/PCV), assistido-controlado, SIMV, pressão de suporte (PSV), CPAP",
+      "Parâmetros: volume corrente, FR, FiO₂, PEEP, pressão de pico e de platô",
+      "VNI: útil na DPOC agudizada e no edema agudo do pulmão"
+     ],
+     "destaques": [
+      "Volume corrente protector: 6–8 mL/kg de peso predito. Pressão de platô ≤ 30 cmH₂O."
+     ]
+    },
+    {
+     "termo": "Intubação orotraqueal",
+     "definicao": "Introdução de tubo na traqueia através da boca para garantir via aérea e permitir ventilação.",
+     "explicacao": "O fisioterapeuta assiste, pré-oxigena e, sobretudo, vigia a posição e a permeabilidade do tubo durante as mobilizações.",
+     "itens": [
+      "Confirmação: auscultação bilateral, capnografia e radiografia",
+      "Ponta do tubo 2–4 cm acima da carina",
+      "Pressão do cuff 20–30 cmH₂O",
+      "Cabeceira a 30–45° para prevenir aspiração"
+     ],
+     "destaques": [
+      "Intubação selectiva do brônquio direito é causa frequente de atelectasia do pulmão esquerdo."
+     ]
+    },
+    {
+     "termo": "Aspiração de secreções",
+     "definicao": "Remoção mecânica de secreções da via aérea artificial.",
+     "explicacao": "Deve ser feita por indicação (secreções audíveis, dessaturação, curva de fluxo em serrilha), não por rotina horária.",
+     "itens": [
+      "Técnica estéril, pré-oxigenação com FiO₂ 100%",
+      "Duração ≤ 15 segundos por passagem",
+      "Pressão de vácuo 80–120 mmHg no adulto",
+      "Vigiar bradicardia, arritmia e dessaturação"
+     ],
+     "destaques": [
+      "Aspirar de rotina lesa a mucosa e aumenta o risco de infecção — aspirar quando há indicação."
+     ]
+    },
+    {
+     "termo": "Desmame e desintubação (extubação)",
+     "definicao": "Retirada progressiva do suporte ventilatório e remoção do tubo.",
+     "explicacao": "Testa-se a respiração espontânea; se tolerada e havendo tosse eficaz e nível de consciência adequado, procede-se à extubação.",
+     "itens": [
+      "Critérios: causa resolvida, PaO₂/FiO₂ > 150–200, PEEP ≤ 5–8, FiO₂ ≤ 0,4, hemodinâmica estável, doente colaborante",
+      "Teste de respiração espontânea 30–120 min em tubo T ou PSV baixo",
+      "Índice de Tobin (f/VT) < 105 prevê sucesso",
+      "Após extubação: vigiar estridor, tiragem e dessaturação"
+     ],
+     "destaques": [
+      "Falência de extubação nas 48 h é frequente: manter fisioterapia respiratória intensiva no pós-extubação."
+     ]
+    },
+    {
+     "termo": "Gasometria arterial na UTI",
+     "definicao": "Análise do equilíbrio ácido-base e das trocas gasosas.",
+     "explicacao": "Orienta ajustes ventilatórios e a segurança da mobilização.",
+     "itens": [
+      "pH 7,35–7,45; PaCO₂ 35–45; HCO₃⁻ 22–26; PaO₂ 80–100 mmHg",
+      "Acidose respiratória: pH baixo com PaCO₂ alta (hipoventilação)",
+      "Alcalose respiratória: pH alto com PaCO₂ baixa (hiperventilação)",
+      "Relação PaO₂/FiO₂ < 300 = lesão pulmonar; < 100 = SDRA grave"
+     ],
+     "destaques": [
+      "PaCO₂ alta = ventilar melhor. PaO₂ baixa = oxigenar/recrutar melhor."
+     ]
+    },
+    {
+     "termo": "Mobilização precoce e fraqueza adquirida na UTI",
+     "definicao": "Programa progressivo de actividade que combate a polineuromiopatia do doente crítico.",
+     "explicacao": "É segura mesmo em doentes ventilados, desde que respeitados critérios hemodinâmicos e respiratórios.",
+     "itens": [
+      "Níveis: passivo no leito → activo-assistido → sentar → ortostatismo → marcha com apoio",
+      "Cicloergómetro de leito e electroestimulação em sedados",
+      "Contra-indicações: instabilidade hemodinâmica, aminas em dose elevada, PIC elevada, hemorragia activa"
+     ],
+     "destaques": [
+      "Suspender se SpO₂ < 88%, FC fora dos limites, TAM instável, arritmia nova ou agitação incontrolável."
+     ]
+    },
+    {
+     "termo": "Prevenção da pneumonia associada à ventilação (PAV)",
+     "definicao": "Conjunto de medidas (bundle) que reduz a infecção respiratória no doente ventilado.",
+     "explicacao": "A fisioterapia integra este bundle com posicionamento, higiene brônquica e mobilização.",
+     "itens": [
+      "Cabeceira 30–45°",
+      "Higiene oral com clorexidina",
+      "Pressão do cuff 20–30 cmH₂O",
+      "Interrupção diária da sedação e avaliação do desmame",
+      "Circuitos e sistemas fechados de aspiração"
+     ],
+     "destaques": [
+      "Cabeceira baixa é o erro isolado mais associado à PAV."
+     ]
+    }
+   ],
+   "finalidades": [
+    "Manter permeabilidade das vias aéreas e higiene brônquica",
+    "Prevenir atelectasias e PAV",
+    "Contribuir para o desmame ventilatório",
+    "Prevenir fraqueza adquirida e imobilismo",
+    "Preparar a transição para a enfermaria com autonomia"
+   ],
+   "vantagens": [
+    "Reduz dias de ventilação e de internamento",
+    "Diminui incidência de PAV e de fraqueza neuromuscular",
+    "Melhora o estado funcional à alta"
+   ],
+   "desvantagens": [
+    "Exige formação específica e monitorização contínua",
+    "Risco de extubação acidental e instabilidade se mal executada",
+    "Depende de rácio adequado de pessoal"
+   ],
+   "valores_referencia": [
+    {
+     "parametro": "Volume corrente protector",
+     "valor": "6–8 mL/kg peso predito",
+     "observacao": "Pressão de platô ≤ 30 cmH₂O"
+    },
+    {
+     "parametro": "Pressão do cuff",
+     "valor": "20–30 cmH₂O",
+     "observacao": "Verificar por turno"
+    },
+    {
+     "parametro": "Aspiração: duração e pressão",
+     "valor": "≤ 15 s; 80–120 mmHg",
+     "observacao": "Pré-oxigenar com FiO₂ 100%"
+    },
+    {
+     "parametro": "Índice de Tobin (f/VT)",
+     "valor": "< 105",
+     "observacao": "Preditor de sucesso do desmame"
+    },
+    {
+     "parametro": "PaO₂/FiO₂",
+     "valor": "> 300 normal",
+     "observacao": "< 100 = SDRA grave"
+    },
+    {
+     "parametro": "Cabeceira do leito",
+     "valor": "30–45°",
+     "observacao": "Bundle da PAV"
+    },
+    {
+     "parametro": "Paragem da mobilização",
+     "valor": "SpO₂ < 88%",
+     "observacao": "Ou instabilidade hemodinâmica/arritmia"
+    }
+   ],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Rever processo, parâmetros ventilatórios, gasometria, sedação e drogas vasoactivas."
+    },
+    {
+     "passo": 2,
+     "descricao": "Avaliar hemodinâmica, auscultação, secreções e nível de consciência (RASS)."
+    },
+    {
+     "passo": 3,
+     "descricao": "Confirmar posição e fixação do tubo e a pressão do cuff antes de mobilizar."
+    },
+    {
+     "passo": 4,
+     "descricao": "Aplicar higiene brônquica e, se indicado, aspiração com técnica estéril."
+    },
+    {
+     "passo": 5,
+     "descricao": "Posicionar (cabeceira 30–45°, decúbitos alternados, decúbito ventral se prescrito)."
+    },
+    {
+     "passo": 6,
+     "descricao": "Progredir mobilização por níveis, com monitorização contínua e critérios de paragem."
+    },
+    {
+     "passo": 7,
+     "descricao": "Colaborar no teste de respiração espontânea e preparar o doente para a extubação."
+    },
+    {
+     "passo": 8,
+     "descricao": "Após extubação, intensificar exercícios respiratórios e vigiar sinais de falência."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Doente ventilado com queda súbita de SpO₂, aumento da pressão de pico e murmúrio diminuído à esquerda.",
+     "resolucao": "Suspeitar de obstrução por secreções ou de intubação selectiva do brônquio direito. Aspirar com técnica estéril, auscultar novamente, verificar a profundidade do tubo e comunicar de imediato à equipa; confirmar posição com radiografia."
+    },
+    {
+     "situacao": "Doente extubado há 2 horas, com estridor, tiragem e voz rouca.",
+     "resolucao": "Sinais de edema da via aérea superior pós-extubação. Suspender técnicas que exijam esforço, manter cabeceira elevada, oxigenoterapia conforme prescrição e chamar a equipa médica com urgência pelo risco de reintubação."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Aspirar por rotina e por tempo excessivo",
+    "Mobilizar sem verificar fixação do tubo e drenos",
+    "Baixar a cabeceira do doente ventilado",
+    "Ignorar critérios de paragem durante a mobilização",
+    "Percutir o tórax em instabilidade hemodinâmica ou com plaquetas baixas",
+    "Interpretar gasometria isoladamente, sem o quadro clínico"
+   ],
+   "conclusao": "Na UTI, a fisioterapia é segurança e função: higiene brônquica criteriosa, posicionamento correcto, apoio ao desmame e mobilização precoce reduzem complicações e devolvem ao doente capacidade para sair da unidade a andar."
+  },
+  {
+   "titulo": "XIII. Ética e Deontologia da Carreira de Fisioterapia",
+   "introducao": "A ética profissional regula a relação do técnico com o doente, com os colegas e com a instituição. Em Angola, o exercício integra-se na carreira dos técnicos de diagnóstico e terapêutica do Serviço Nacional de Saúde e rege-se pelos princípios da função pública e pelo Estatuto disciplinar.",
+   "conceitos": [
+    {
+     "termo": "Ética e deontologia",
+     "definicao": "Ética é a reflexão sobre o agir correcto; deontologia é o conjunto de deveres profissionais estabelecidos.",
+     "explicacao": "A ética orienta o julgamento em situações novas; a deontologia é escrita e exigível disciplinarmente.",
+     "itens": [
+      "Ética: princípios e valores",
+      "Deontologia: normas, códigos e deveres",
+      "Direito: leis e sanções"
+     ],
+     "destaques": [
+      "Nem tudo o que é legal é ético; mas o que é antiético raramente é defensável."
+     ]
+    },
+    {
+     "termo": "Princípios bioéticos",
+     "definicao": "Quatro princípios que orientam a prática clínica.",
+     "explicacao": "Aplicam-se todos os dias: explicar antes de tratar (autonomia), não causar dano (não maleficência), procurar o bem do doente (beneficência) e tratar todos sem discriminação (justiça).",
+     "itens": [
+      "Autonomia: consentimento informado e direito de recusa",
+      "Beneficência: agir no melhor interesse do doente",
+      "Não maleficência: primum non nocere",
+      "Justiça: equidade no acesso e na distribuição de recursos"
+     ],
+     "destaques": [
+      "Consentimento informado é obrigatório antes de qualquer técnica, mesmo não invasiva."
+     ]
+    },
+    {
+     "termo": "Sigilo profissional",
+     "definicao": "Dever de não divulgar informação clínica obtida no exercício da profissão.",
+     "explicacao": "Mantém-se após a alta e após o fim do vínculo laboral; abrange conversas, registos e fotografias.",
+     "itens": [
+      "Não comentar casos em corredores, transportes ou redes sociais",
+      "Nunca publicar imagens de doentes sem consentimento escrito",
+      "Excepções: perigo de vida, doenças de notificação obrigatória, ordem judicial"
+     ],
+     "destaques": [
+      "Publicar fotografia de doente identificável nas redes sociais é violação grave do sigilo."
+     ]
+    },
+    {
+     "termo": "Deveres do funcionário público de saúde",
+     "definicao": "Obrigações gerais previstas no regime da função pública angolana.",
+     "explicacao": "Aplicam-se ao técnico de fisioterapia integrado no SNS.",
+     "itens": [
+      "Isenção, imparcialidade e zelo",
+      "Obediência hierárquica legítima",
+      "Assiduidade, pontualidade e correcção",
+      "Sigilo e lealdade",
+      "Proibição de aceitar gratificações pela prestação de cuidados públicos"
+     ],
+     "destaques": [
+      "Cobrar ao doente por um serviço público gratuito constitui infracção disciplinar e criminal."
+     ]
+    },
+    {
+     "termo": "Responsabilidade profissional",
+     "definicao": "Obrigação de responder pelos actos praticados no exercício.",
+     "explicacao": "Pode ser cumulativa: disciplinar perante a instituição, civil pela reparação de danos e criminal em casos graves.",
+     "itens": [
+      "Disciplinar: repreensão, multa, suspensão, demissão",
+      "Civil: indemnização",
+      "Criminal: ofensa à integridade física por negligência"
+     ],
+     "destaques": [
+      "Executar técnica sem competência comprovada ou sem prescrição é assumir responsabilidade pessoal pelo dano."
+     ]
+    },
+    {
+     "termo": "Relação com o doente e com a equipa",
+     "definicao": "Padrões de conduta na comunicação e no trabalho multidisciplinar.",
+     "explicacao": "Respeito pela dignidade, privacidade e crenças do doente; comunicação clara e sem menosprezo dos colegas.",
+     "itens": [
+      "Preservar a privacidade durante a sessão (biombo, exposição mínima)",
+      "Comunicar em linguagem compreensível",
+      "Não criticar colegas perante o doente",
+      "Registar e comunicar erros e incidentes"
+     ],
+     "destaques": [
+      "Notificar um incidente não é acusar alguém — é proteger o próximo doente."
+     ]
+    }
+   ],
+   "finalidades": [
+    "Proteger o doente e os seus direitos",
+    "Garantir qualidade e segurança dos cuidados",
+    "Orientar decisões em situações de conflito",
+    "Preservar a dignidade e credibilidade da profissão"
+   ],
+   "vantagens": [
+    "Aumenta a confiança do doente e da comunidade",
+    "Reduz litígios e processos disciplinares",
+    "Melhora o clima e a coesão da equipa"
+   ],
+   "desvantagens": [
+    "Conflitos entre princípios exigem ponderação difícil",
+    "Recursos escassos podem colidir com o princípio da justiça"
+   ],
+   "valores_referencia": [
+    {
+     "parametro": "Consentimento informado",
+     "valor": "Obrigatório antes de qualquer intervenção",
+     "observacao": "Escrito em procedimentos de risco"
+    },
+    {
+     "parametro": "Sigilo profissional",
+     "valor": "Vitalício",
+     "observacao": "Mantém-se após a alta e após o vínculo"
+    },
+    {
+     "parametro": "Registo clínico",
+     "valor": "Obrigatório em todas as sessões",
+     "observacao": "Legível, datado e assinado"
+    },
+    {
+     "parametro": "Recusa do doente",
+     "valor": "Deve ser respeitada e registada",
+     "observacao": "Após informação adequada"
+    }
+   ],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Identificar-se, confirmar a identidade do doente e explicar o procedimento."
+    },
+    {
+     "passo": 2,
+     "descricao": "Obter e documentar o consentimento; respeitar a recusa."
+    },
+    {
+     "passo": 3,
+     "descricao": "Garantir privacidade e exposição mínima durante a sessão."
+    },
+    {
+     "passo": 4,
+     "descricao": "Actuar dentro do âmbito de competência e da prescrição."
+    },
+    {
+     "passo": 5,
+     "descricao": "Registar tudo de forma legível, datada e assinada."
+    },
+    {
+     "passo": 6,
+     "descricao": "Comunicar incidentes e situações de risco pela via hierárquica adequada."
+    },
+    {
+     "passo": 7,
+     "descricao": "Manter formação contínua e actualização técnica."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Um familiar pede informação clínica detalhada sobre um doente adulto e consciente, que não autorizou.",
+     "resolucao": "Não divulgar. Explicar com cortesia que a informação pertence ao doente e que só ele pode autorizar a partilha; encaminhar o pedido para o doente e para o médico assistente, e registar a ocorrência."
+    },
+    {
+     "situacao": "Doente oferece uma quantia ao técnico para ser atendido antes dos outros na lista de espera.",
+     "resolucao": "Recusar de forma educada e firme, explicar os critérios de priorização clínica e comunicar ao superior hierárquico. Aceitar violaria a isenção, a justiça e a lei, com responsabilidade disciplinar e criminal."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Tratar sem explicar nem obter consentimento",
+    "Comentar casos clínicos fora do contexto profissional",
+    "Publicar imagens de doentes nas redes sociais",
+    "Aceitar gratificações por cuidados públicos",
+    "Executar técnicas fora do âmbito de competência",
+    "Omitir registos ou registar o que não foi feito",
+    "Criticar colegas na presença do doente"
+   ],
+   "conclusao": "A competência técnica sem ética não é profissionalismo. Consentir, respeitar, registar, guardar sigilo e actuar dentro das competências são deveres tão importantes quanto executar bem a técnica."
+  },
+  {
+   "titulo": "XIV. Cultura Geral de Angola",
+   "introducao": "A cultura geral de Angola é um vasto e complexo mosaico que reflecte a rica história, a diversidade étnica e geográfica, e as singulares experiências do povo angolano. Compreender esta cultura é fundamental para qualquer profissional que pretenda servir a nação, especialmente na área da saúde, onde a interacção humana e o respeito pelas tradições locais são cruciais. Este tema aborda os pilares da identidade angolana, desde a sua formação histórica, passando pela organização político-administrativa, até aos aspectos demográficos e socioeconómicos mais recentes. O objectivo é fornecer uma base sólida de conhecimentos que permita aos candidatos ao concurso de Técnico de Farmácia contextualizar a sua actuação e contribuir eficazmente para o desenvolvimento do país, honrando os valores e as singularidades da sociedade angolana.",
+   "conceitos": [
+    {
+     "termo": "Cultura",
+     "definicao": "Conjunto de padrões de comportamento, crenças, instituições, valores e outros produtos do trabalho e do pensamento humano, que caracterizam uma sociedade ou grupo específico. Inclui a língua, a religião, a arte, a culinária, as tradições e os costumes."
+    },
+    {
+     "termo": "Identidade Nacional",
+     "definicao": "Sentimento de pertença a uma nação, partilhando uma cultura comum, língua, história e símbolos nacionais. Em Angola, é construída sobre a diversidade étnica e linguística, unida pela luta pela independência e pela construção de um futuro comum."
+    },
+    {
+     "termo": "Divisão Político-Administrativa",
+     "definicao": "Estrutura organizacional do território nacional em províncias, municípios, comunas e outras subdivisões, com o objectivo de facilitar a governação, a administração pública e a prestação de serviços aos cidadãos. Em Angola, esta divisão tem sido objecto de reajustes para optimizar a gestão territorial."
+    },
+    {
+     "termo": "Demografia",
+     "definicao": "Estudo estatístico das populações humanas, abrangendo a sua dimensão, estrutura, distribuição geográfica e as suas mudanças ao longo do tempo (nascimentos, mortes, migrações). Os dados demográficos são essenciais para o planeamento de políticas públicas, incluindo as de saúde."
+    },
+    {
+     "termo": "Símbolos Nacionais",
+     "definicao": "Elementos visuais, auditivos ou textuais que representam uma nação e a sua identidade. Em Angola, incluem a Bandeira Nacional, o Hino Nacional ('Angola Avante!'), o Emblema e a Insígnia, cada um com significados históricos e culturais profundos."
+    },
+    {
+     "termo": "Património Cultural",
+     "definicao": "Conjunto de bens, materiais e imateriais, que devido à sua importância histórica, artística, científica ou social, devem ser preservados para as gerações futuras. Em Angola, inclui sítios históricos, línguas, danças, músicas, rituais e gastronomia."
+    },
+    {
+     "termo": "Diversidade Étnica",
+     "definicao": "A existência de múltiplos grupos étnicos dentro de uma nação, cada um com as suas próprias tradições, línguas e identidades culturais. Angola é caracterizada por uma rica diversidade étnica, com grupos como os Ovimbundu, Kimbundu, Bakongo, Tchokwe, entre outros."
+    }
+   ],
+   "finalidades": [
+    "Promover o conhecimento e respeito pela diversidade cultural angolana no exercício profissional.",
+    "Compreender o contexto socioeconómico e demográfico que influencia a saúde pública em Angola.",
+    "Desenvolver uma consciência cívica e patriótica, valorizando os símbolos e a história nacional.",
+    "Capacitar o profissional de saúde para interagir eficazmente com a população, considerando as suas particularidades culturais.",
+    "Contribuir para a preservação e valorização do património cultural angolano.",
+    "Fornecer uma base de conhecimentos para uma participação activa e informada na sociedade angolana."
+   ],
+   "vantagens": [
+    "Melhoria da comunicação e relacionamento interpessoal com utentes e colegas.",
+    "Adaptação mais eficaz às necessidades e expectativas da comunidade.",
+    "Redução de barreiras culturais na prestação de cuidados de saúde.",
+    "Fortalecimento do sentido de pertença e responsabilidade social.",
+    "Facilitação da integração em equipas multidisciplinares e multiculturais.",
+    "Enriquecimento pessoal e profissional através do conhecimento da cultura angolana."
+   ],
+   "desvantagens": [
+    "A vastidão do tema pode dificultar uma abordagem exaustiva em tempo limitado.",
+    "A subjectividade cultural pode levar a interpretações erróneas se não houver um estudo aprofundado.",
+    "A rápida evolução social e demográfica exige actualização constante dos conhecimentos.",
+    "O risco de generalizações indevidas sobre grupos étnicos ou regiões específicas."
+   ],
+   "valores_referencia": [],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Estudar a história de Angola desde os reinos pré-coloniais (Reino do Kongo, Matamba, Ndongo) até à independência e ao período pós-guerra civil, com foco nos marcos históricos e figuras relevantes."
+    },
+    {
+     "passo": 2,
+     "descricao": "Analisar a constituição e a divisão político-administrativa actual de Angola (18 províncias, 164 municípios, 559 comunas, conforme a Lei n.º 18/23, de 27 de Dezembro, que aprova a Lei sobre a Organização e Funcionamento dos Órgãos de Administração Local do Estado), identificando as suas capitais e características principais."
+    },
+    {
+     "passo": 3,
+     "descricao": "Pesquisar sobre os principais grupos etnolinguísticos de Angola (Ovimbundu, Kimbundu, Bakongo, Tchokwe, Nganguela, Nyaneka-Humbi, Herero, Ovambo, San), as suas línguas (Umbundu, Kimbundu, Kikongo, Cokwe, etc.) e as suas principais manifestações culturais (música, dança, culinária, crenças)."
+    },
+    {
+     "passo": 4,
+     "descricao": "Compreender a simbologia dos elementos nacionais: Bandeira (cores e símbolos), Hino Nacional (letra e música), Emblema (significado dos elementos), e a sua importância para a identidade angolana."
+    },
+    {
+     "passo": 5,
+     "descricao": "Estudar os dados demográficos mais recentes de Angola, com base no Censo 2024 (previsão, ou o mais recente disponível, que aponta para uma população superior a 35 milhões de habitantes), taxa de natalidade, mortalidade, esperança média de vida, distribuição etária e por género, bem como a distribuição populacional nas províncias e municípios."
+    },
+    {
+     "passo": 6,
+     "descricao": "Analisar os indicadores socioeconómicos do país, como o PIB per capita, taxa de pobreza, acesso à educação, saneamento e água potável, e o estado dos serviços de saúde, com base em relatórios como o IIMS 2023-2024 (Inquérito Integrado sobre o Bem-Estar da População)."
+    },
+    {
+     "passo": 7,
+     "descricao": "Familiarizar-se com os principais desafios e oportunidades de desenvolvimento de Angola, incluindo os programas governamentais e as metas de desenvolvimento sustentável."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Um utente da província do Cunene, pertencente ao grupo etnolinguístico Nyaneka-Humbi, chega à farmácia com uma receita médica. Durante a interacção, o utente parece hesitante e não faz contacto visual directo. O Técnico de Farmácia nota que o utente fala predominantemente a língua local.",
+     "resolucao": "O Técnico de Farmácia, ciente da diversidade cultural angolana, reconhece que a falta de contacto visual pode ser um sinal de respeito em algumas culturas angolanas e não de desconfiança. Procura um colega que fale Nyaneka ou utiliza ferramentas de tradução se disponíveis, para garantir que as instruções de medicação são compreendidas. Questiona com delicadeza sobre eventuais práticas tradicionais de cura que o utente possa estar a seguir, sem julgamento, para evitar interacções medicamentosas negativas, reforçando a importância da adesão ao tratamento prescrito."
+    },
+    {
+     "situacao": "Uma campanha de vacinação está a ser planeada para uma comunidade rural na província do Moxico, onde a maioria da população pertence ao grupo etnolinguístico Tchokwe. Observa-se uma baixa adesão a campanhas anteriores.",
+     "resolucao": "O Técnico de Farmácia, ao participar no planeamento, sugere que a equipa de saúde se articule com os líderes comunitários, sobas e autoridades tradicionais Tchokwe. Propõe que a informação sobre a vacinação seja divulgada não só em português, mas também em Tchokwe, utilizando formatos visuais e narrativos que respeitem as tradições locais. A campanha deve ser precedida por sessões de sensibilização que abordem as preocupações da comunidade, desmistifiquem crenças erradas e integrem aspectos culturais que facilitem a aceitação, como a realização de um 'mutue' (reunião comunitária) antes da vacinação."
+    },
+    {
+     "situacao": "Durante um período de escassez de medicamentos essenciais numa farmácia municipal em Luanda, o Técnico de Farmácia é confrontado com a necessidade de gerir a distribuição de forma equitativa e transparente, considerando a alta densidade populacional da capital e a diversidade de utentes.",
+     "resolucao": "O Técnico de Farmácia aplica os princípios de ética e equidade, garantindo que a distribuição dos medicamentos seja baseada na necessidade clínica e não em critérios socioeconómicos ou culturais. Comunica de forma clara e transparente a situação da escassez aos utentes, explicando os critérios de distribuição e os esforços para a reposição do stock. Colabora com as autoridades sanitárias locais para identificar fontes alternativas de medicamentos e para informar a população sobre os hospitais e centros de saúde onde os medicamentos ainda podem estar disponíveis, utilizando os canais de comunicação mais eficazes para a diversa população luandense (rádio, avisos em diferentes línguas, etc.)."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Generalizar comportamentos ou crenças de um grupo étnico a toda a população angolana.",
+    "Desconsiderar a importância das línguas nacionais e regionais na comunicação com os utentes.",
+    "Ignorar as práticas de cura tradicionais sem um diálogo aberto e respeitoso.",
+    "Subestimar o impacto da história e da identidade nacional na percepção dos serviços de saúde.",
+    "Não se manter actualizado sobre os dados demográficos e socioeconómicos do país.",
+    "Assumir que todos os angolanos têm o mesmo acesso à informação e aos serviços de saúde."
+   ],
+   "conclusao": "A Cultura Geral de Angola é um pilar essencial para a formação de um Técnico de Farmácia competente e socialmente responsável. A compreensão da riqueza histórica, da complexidade demográfica e da diversidade cultural do país permite uma actuação mais humanizada e eficaz. Ao dominar estes conhecimentos, o profissional estará apto a adaptar a sua prática às realidades locais, respeitando as tradições e promovendo a saúde de forma inclusiva. A capacidade de interagir com sensibilidade cultural e de aplicar uma perspectiva informada sobre os desafios e oportunidades de Angola é crucial para o sucesso no concurso e para uma carreira de impacto na saúde pública angolana, contribuindo para o bem-estar da população e para o desenvolvimento sustentável da nação."
+  },
+  {
+   "titulo": "XV. Divisão Político-Administrativa de Angola (2024): Impacto na Organização da Saúde",
+   "introducao": "A Divisão Político-Administrativa (DPA) de Angola é a estrutura que organiza o território nacional em unidades geográficas e administrativas, com o propósito de facilitar a governação, a gestão dos recursos e a prestação de serviços públicos aos cidadãos. Compreender esta divisão é fundamental para qualquer profissional que actue no sector público angolano, e em particular na área da saúde. A eficácia da distribuição de recursos humanos, materiais e financeiros na saúde depende directamente da correcta articulação com as diferentes esferas administrativas, desde o nível central até aos municípios e comunas. Esta matéria visa fornecer uma visão completa e actualizada da DPA angolana em 2024, destacando a sua relevância para a organização e funcionamento do Sistema Nacional de Saúde, abordando os seus conceitos fundamentais, finalidades, vantagens e desafios, com base nos dados mais recentes disponíveis, incluindo as projeções do Censo 2024 e os inquéritos como o IIMS 2023-2024, que moldam a compreensão das necessidades de saúde a nível local.",
+   "conceitos": [
+    {
+     "termo": "Província",
+     "definicao": "Maior unidade territorial e administrativa de Angola, directamente subordinada ao poder central. Actualmente, Angola possui 18 províncias, cada uma com um Governador Provincial como o principal representante do Estado e responsável pela gestão dos serviços públicos a nível provincial, incluindo os de saúde."
+    },
+    {
+     "termo": "Município",
+     "definicao": "Unidade administrativa intermédia, subdivisão da província. É a principal unidade de administração local, com autonomia administrativa e financeira para a gestão dos assuntos de interesse local, incluindo a coordenação dos serviços de saúde municipais. É liderado por um Administrador Municipal. Angola conta com 164 municípios."
+    },
+    {
+     "termo": "Comuna",
+     "definicao": "Unidade administrativa de base, subdivisão do município. Representa o nível mais próximo da população, onde são geridos os assuntos mais elementares da comunidade. É liderada por um Administrador Comunal. São mais de 500 comunas em Angola."
+    },
+    {
+     "termo": "Distrito Urbano",
+     "definicao": "Subdivisão de uma comuna em áreas urbanas densamente povoadas, geralmente com o objectivo de descentralizar ainda mais a administração e facilitar a gestão dos serviços públicos, incluindo a saúde, em grandes cidades. Não possuem autonomia administrativa plena como os municípios."
+    },
+    {
+     "termo": "Bairro/Aldeia",
+     "definicao": "As menores unidades de organização populacional, não possuem estatuto administrativo próprio, mas são fundamentais para a localização e prestação de serviços de saúde primários, como postos de saúde e centros de saúde comunitários. Representam a base da pirâmide territorial."
+    },
+    {
+     "termo": "Descentralização Administrativa",
+     "definicao": "Processo de transferência de competências e recursos do poder central para unidades administrativas subnacionais (províncias, municípios), visando aproximar a gestão pública dos cidadãos e promover maior eficiência na prestação de serviços, incluindo os de saúde."
+    },
+    {
+     "termo": "Regionalização da Saúde",
+     "definicao": "Estratégia de organização do Sistema Nacional de Saúde que visa adaptar a prestação de cuidados às especificidades e necessidades de cada região (província ou município), optimizando a utilização de recursos e garantindo a equidade no acesso aos serviços de saúde."
+    },
+    {
+     "termo": "Governo Provincial",
+     "definicao": "Órgão executivo desconcentrado do Estado a nível provincial, responsável pela implementação das políticas públicas, incluindo as de saúde, e pela coordenação dos serviços públicos na sua área de jurisdição. É presidido pelo Governador Provincial."
+    }
+   ],
+   "finalidades": [
+    "Facilitar a governação e a administração do território nacional.",
+    "Promover a descentralização do poder e a autonomia das autarquias locais (quando implementadas).",
+    "Assegurar a prestação de serviços públicos essenciais, como saúde, educação e saneamento básico, de forma equitativa e eficiente.",
+    "Garantir a participação dos cidadãos na gestão dos assuntos públicos locais.",
+    "Promover o desenvolvimento socioeconómico equilibrado das diferentes regiões do país.",
+    "Optimizar a alocação de recursos humanos e materiais para responder às necessidades específicas de cada localidade em matéria de saúde."
+   ],
+   "vantagens": [
+    "Aproximação dos serviços públicos aos cidadãos, facilitando o acesso, especialmente em áreas rurais.",
+    "Melhor identificação e resposta às necessidades e especificidades locais, incluindo as demandas de saúde.",
+    "Maior eficiência na gestão de recursos, ao permitir que as decisões sejam tomadas mais perto do local da acção.",
+    "Promoção da participação cívica e da governação local.",
+    "Redução das disparidades regionais através de políticas e intervenções adaptadas.",
+    "Facilitação da coordenação intersectorial a nível local para abordar os determinantes sociais da saúde."
+   ],
+   "desvantagens": [
+    "Risco de duplicação de esforços e recursos entre diferentes níveis administrativos, se não houver coordenação eficaz.",
+    "Desigualdades na capacidade administrativa e técnica entre as diferentes unidades subnacionais.",
+    "Potencial para conflitos de competências entre os diferentes níveis da administração.",
+    "Dependência financeira excessiva dos municípios e comunas em relação ao poder central.",
+    "Dificuldade na implementação de políticas de saúde padronizadas a nível nacional devido a variações locais.",
+    "Escassez de técnicos de saúde qualificados em áreas mais remotas, mesmo com a descentralização administrativa."
+   ],
+   "valores_referencia": [],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Identificação da Província: A primeira etapa para qualquer acção de saúde a nível territorial é identificar a província de actuação. Angola possui 18 províncias: Bengo, Benguela, Bié, Cabinda, Cunene, Huambo, Huíla, Kuando Kubango, Kwanza Norte, Kwanza Sul, Luanda, Lunda Norte, Lunda Sul, Malanje, Moxico, Namibe, Uíge e Zaire. Cada uma possui um Gabinete Provincial de Saúde."
+    },
+    {
+     "passo": 2,
+     "descricao": "Localização do Município: Dentro da província, é crucial determinar o município específico. Por exemplo, na Província de Luanda, pode-se actuar no Município de Viana, Kilamba Kiaxi, Belas, etc. Os municípios são as unidades-chave para a gestão local da saúde, com os hospitais municipais e centros de saúde sob sua alçada."
+    },
+    {
+     "passo": 3,
+     "descricao": "Delimitação da Comuna/Distrito Urbano: No município, a acção de saúde é muitas vezes dirigida a uma comuna ou distrito urbano específico. Por exemplo, no Município de Viana, a Comuna de Calumbo ou a Comuna de Viana. É a este nível que se encontram os postos de saúde e centros de saúde comunitários, a porta de entrada para os cuidados primários."
+    },
+    {
+     "passo": 4,
+     "descricao": "Mapeamento de Bairros/Aldeias: Para intervenções comunitárias ou campanhas de vacinação, o mapeamento dos bairros e aldeias dentro das comunas é essencial para garantir a cobertura total da população. Os dados do Censo 2024 e inquéritos como o IIMS 2023-2024 são cruciais para compreender a distribuição populacional e as necessidades de saúde a este nível micro."
+    },
+    {
+     "passo": 5,
+     "descricao": "Articulação com as Autoridades Locais de Saúde: Em cada nível (provincial, municipal, comunal), é imperativo estabelecer contacto e coordenar as acções com os respectivos Gabinetes de Saúde e Administrações, garantindo alinhamento com as políticas e planos de saúde locais."
+    },
+    {
+     "passo": 6,
+     "descricao": "Alocação de Recursos de Saúde: A divisão político-administrativa orienta a alocação de recursos (pessoal, medicamentos, equipamentos) de forma a cobrir as necessidades de cada área, desde hospitais provinciais até postos de saúde em aldeias remotas, considerando a densidade populacional e as prevalências de doenças locais."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Um surto de cólera é detectado na Comuna do Benfica, Município de Talatona, Província de Luanda. Como a DPA orienta a resposta do Técnico de Farmácia?",
+     "resolucao": "1. Identificação geográfica: A detecção ocorre na Comuna do Benfica, Município de Talatona, Província de Luanda. 2. Notificação: O Técnico de Farmácia deve notificar o Gabinete Municipal de Saúde de Talatona e, subsequentemente, o Gabinete Provincial de Saúde de Luanda, que escalará ao nível central, se necessário. 3. Mobilização de Recursos Farmacêuticos: O Técnico de Farmácia, em coordenação com a administração do Centro de Saúde do Benfica e o Gabinete Municipal de Saúde, deve assegurar o aprovisionamento urgente de soros de reidratação oral (SRO), antibióticos específicos para cólera (se indicados), desinfectantes e materiais de protecção individual. 4. Distribuição Local: A distribuição destes medicamentos e materiais deve ser coordenada com as autoridades comunais e chefes de bairro/aldeia para garantir que cheguem aos pacientes e às comunidades afectadas, seguindo os protocolos de controlo de infecção. A articulação com o nível municipal é crucial para o rápido reabastecimento e apoio logístico."
+    },
+    {
+     "situacao": "O Ministério da Saúde decide implementar uma campanha nacional de vacinação contra o sarampo, com base nos dados do IIMS 2023-2024 que indicam baixas coberturas em certas regiões. Como a DPA facilita a logística e execução?",
+     "resolucao": "1. Planeamento Central: O Ministério da Saúde define as directrizes e aloca as vacinas a nível nacional. 2. Distribuição Provincial: As vacinas são distribuídas para os 18 Gabinetes Provinciais de Saúde, que são responsáveis pela sua conservação na cadeia de frio e pela distribuição subsequente. 3. Distribuição Municipal: Cada Gabinete Provincial de Saúde distribui as vacinas para os seus respectivos Municípios, considerando as metas populacionais de cada um (com base em projecções do Censo 2024). 4. Execução Comunal/Local: Os Gabinetes Municipais de Saúde coordenam com os Centros de Saúde e Postos de Saúde a nível comunal/distrital e de bairro/aldeia. O Técnico de Farmácia garante a correcta conservação das vacinas nos frigoríficos dos centros de saúde e a sua dispensação para as equipas de vacinação móveis, que actuam directamente nos bairros e aldeias para alcançar a população-alvo, utilizando a estrutura da DPA para optimizar o acesso."
+    },
+    {
+     "situacao": "Um novo hospital municipal é inaugurado no Município de Cacuso, Província de Malanje. Quais são os passos para estruturar a sua farmácia hospitalar de acordo com a DPA?",
+     "resolucao": "1. Enquadramento Administrativo: O hospital está sob a alçada do Gabinete Municipal de Saúde de Cacuso e, em última instância, do Gabinete Provincial de Saúde de Malanje. 2. Levantamento de Necessidades: Com base nas projecções populacionais do Censo 2024 para Cacuso e nos dados epidemiológicos locais (possivelmente do IIMS 2023-2024), o Técnico de Farmácia deve elaborar uma lista de medicamentos e consumíveis essenciais. 3. Aprovisionamento Inicial: O aprovisionamento inicial deve ser coordenado com o Gabinete Municipal de Saúde e, se necessário, com o Gabinete Provincial de Saúde para garantir o acesso à Central de Compras de Medicamentos e Equipamentos Médicos de Angola (CECOMA) ou outros fornecedores. 4. Gestão e Distribuição: A farmácia hospitalar estabelece os seus próprios procedimentos de gestão de stocks, dispensação e controlo de qualidade, seguindo as directrizes nacionais, mas adaptando-se às especificidades locais. O Técnico de Farmácia reporta as suas actividades e necessidades ao director do hospital e ao Gabinete Municipal de Saúde, garantindo a integração na rede de saúde municipal e provincial."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Desconhecimento da estrutura hierárquica e das competências de cada nível administrativo (província, município, comuna), levando a comunicações incorrectas ou atrasos na tomada de decisões.",
+    "Falta de coordenação entre os diferentes níveis administrativos na área da saúde, resultando em duplicação de esforços ou lacunas na prestação de serviços.",
+    "Não adaptação das políticas e programas de saúde às realidades e necessidades específicas de cada localidade, ignorando as particularidades demográficas e epidemiológicas.",
+    "Subestimação da importância dos Administradores Comunais e Chefes de Bairro/Aldeia como parceiros-chave na implementação de acções de saúde comunitária.",
+    "Ignorar a necessidade de capacitação e apoio técnico contínuo para os profissionais de saúde e gestores a nível municipal e comunal.",
+    "Não utilizar dados actualizados (Censo 2024, IIMS 2023-2024) para o planeamento e alocação de recursos, resultando em ineficiências."
+   ],
+   "conclusao": "A Divisão Político-Administrativa de Angola é a espinha dorsal da organização territorial e da governação do país, com implicações profundas na estruturação e funcionamento do Sistema Nacional de Saúde. Para o Técnico de Farmácia, compreender esta estrutura é mais do que um conhecimento burocrático; é uma ferramenta essencial para a eficácia das suas acções. A articulação harmoniosa entre os níveis central, provincial, municipal e comunal é fundamental para garantir o acesso equitativo a medicamentos, vacinas e cuidados de saúde de qualidade em todo o território angolano. A descentralização administrativa, embora com os seus desafios, visa aproximar os serviços dos cidadãos, e a capacidade de um Técnico de Farmácia em navegar e colaborar dentro desta estrutura é crucial para o sucesso das políticas de saúde pública e para a melhoria contínua dos indicadores de saúde da população, alinhado com as necessidades identificadas pelos mais recentes inquéritos e censos."
+  },
+  {
+   "titulo": "XVI. Censo Geral da População e Habitação 2024 de Angola",
+   "introducao": "O Censo Geral da População e Habitação (CGPH) de Angola é uma operação estatística de grande escala, fundamental para o planeamento e desenvolvimento socioeconómico do país. Em 2024, Angola realizará o seu segundo censo pós-independência, dando continuidade ao esforço de recolha de dados demográficos, sociais e económicos iniciado com o Censo de 2014. Esta iniciativa visa actualizar a informação sobre a dimensão, estrutura e distribuição da população, bem como as características das habitações e das famílias angolanas. Os dados recolhidos são cruciais para a formulação de políticas públicas eficazes, a alocação de recursos e a monitorização dos progressos em diversas áreas, incluindo a saúde, educação e habitação, constituindo uma base sólida para a governação e o investimento, tanto a nível central como local, em todo o território nacional.",
+   "conceitos": [
+    {
+     "termo": "Censo Demográfico",
+     "definicao": "Operação estatística de recolha, compilação, avaliação, análise e divulgação de dados demográficos, económicos e sociais relativos a todas as pessoas de um país ou de uma área geográfica específica, num período de referência determinado."
+    },
+    {
+     "termo": "Inquérito Integrado sobre o Bem-Estar da População (IIBP)",
+     "definicao": "Estudo amostral complementar que aborda indicadores de saúde, educação, emprego e condições de vida, fornecendo dados mais aprofundados sobre o bem-estar e a pobreza, e que em Angola assume a designação de Inquérito Integrado sobre o Bem-Estar da População (IIBP), substituindo o antigo Inquérito Integrado sobre o Bem-Estar da População (IIMS)."
+    },
+    {
+     "termo": "População Residente",
+     "definicao": "Conjunto de indivíduos que habitam permanentemente num determinado território, independentemente da sua nacionalidade ou situação legal. É o principal indicador demográfico apurado pelos censos."
+    },
+    {
+     "termo": "Unidade de Enumeração",
+     "definicao": "A menor unidade geográfica definida para o processo de recolha de dados do censo, geralmente correspondendo a uma área delimitada com um número controlável de agregados familiares e habitações, atribuída a um recenseador."
+    },
+    {
+     "termo": "Agregado Familiar",
+     "definicao": "Conjunto de pessoas que residem na mesma habitação, partilham recursos e responsabilidades, e geralmente têm laços de parentesco, embora a sua constituição possa ser mais abrangente, incluindo não parentes que partilham a mesma economia doméstica."
+    },
+    {
+     "termo": "Cartografia Censitária",
+     "definicao": "Processo de elaboração e actualização de mapas e limites geográficos para fins censitários, essencial para a organização do trabalho de campo, a delimitação das unidades de enumeração e a georreferenciação dos dados recolhidos."
+    },
+    {
+     "termo": "Instituto Nacional de Estatística (INE)",
+     "definicao": "Entidade pública angolana responsável pela produção, análise e divulgação de estatísticas oficiais, incluindo a coordenação e execução dos censos demográficos e outras operações estatísticas de grande relevância nacional."
+    },
+    {
+     "termo": "Dados Censitários",
+     "definicao": "Informações recolhidas durante o censo, que abrangem características demográficas (idade, sexo), sociais (estado civil, escolaridade), económicas (actividade profissional), e de habitação (tipo de habitação, acesso a serviços básicos)."
+    }
+   ],
+   "finalidades": [
+    "Determinar o número, a distribuição geográfica e a composição da população angolana.",
+    "Fornecer dados atualizados para o planeamento de políticas públicas em saúde, educação, habitação e emprego.",
+    "Subsidiar a distribuição de recursos e a delimitação de circunscrições administrativas e eleitorais.",
+    "Apoiar a investigação científica e o estudo de fenómenos demográficos e sociais.",
+    "Quantificar as necessidades de infraestruturas e serviços básicos para a população.",
+    "Gerar indicadores para a monitorização dos Objetivos de Desenvolvimento Sustentável (ODS) e outros programas de desenvolvimento nacional e internacional.",
+    "Atualizar o quadro de referência para a realização de futuras sondagens e inquéritos amostrais."
+   ],
+   "vantagens": [
+    "Fornecimento de dados completos e atualizados sobre a população e habitação.",
+    "Base sólida para o planeamento estratégico e a tomada de decisões governamentais.",
+    "Permite a identificação de grupos populacionais vulneráveis e áreas com carências específicas.",
+    "Melhora a alocação de recursos públicos de forma mais equitativa e eficiente.",
+    "Facilita a monitorização do progresso em relação a metas de desenvolvimento.",
+    "Apoia a investigação e o desenvolvimento de novas políticas sociais e económicas.",
+    "Promove a transparência e a responsabilização na gestão pública."
+   ],
+   "desvantagens": [
+    "Elevado custo financeiro e logístico para a sua execução.",
+    "Complexidade na operacionalização, especialmente em áreas de difícil acesso ou com infraestruturas precárias.",
+    "Risco de subenumeração ou superenumeração, afectando a precisão dos dados.",
+    "Possibilidade de resistência ou desconfiança por parte da população, dificultando a recolha de dados.",
+    "Necessidade de um grande número de pessoal qualificado (recenseadores, supervisores), com os desafios de formação e gestão inerentes.",
+    "Atrasos na divulgação dos resultados podem comprometer a actualidade e a utilidade dos dados.",
+    "Dificuldade na recolha de dados sensíveis ou em contextos culturais específicos."
+   ],
+   "valores_referencia": [],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Pré-censeamento (Fase Preparatória): Inclui a actualização da cartografia censitária, a revisão e definição da metodologia, a elaboração dos instrumentos de recolha (questionários), o planeamento logístico e a selecção e formação do pessoal (recenseadores e supervisores)."
+    },
+    {
+     "passo": 2,
+     "descricao": "Recolha de Dados (Trabalho de Campo): Os recenseadores visitam todas as habitações e agregados familiares nas unidades de enumeração atribuídas, aplicando os questionários e registando as respostas. Utilização de dispositivos eletrónicos (tablets) para a recolha de dados em formato digital (CAPI - Computer Assisted Personal Interviewing)."
+    },
+    {
+     "passo": 3,
+     "descricao": "Processamento e Análise de Dados: Após a recolha, os dados são transferidos para uma base de dados central, verificados quanto à consistência e qualidade, codificados e tabulados. Segue-se a análise estatística para identificar padrões e tendências demográficas, sociais e económicas."
+    },
+    {
+     "passo": 4,
+     "descricao": "Divulgação dos Resultados: Os resultados preliminares e definitivos são publicados em relatórios, atlas demográficos, bases de dados e outras plataformas, tornando a informação acessível a decisores, investigadores e ao público em geral. Realização de workshops e seminários para apresentação dos dados."
+    },
+    {
+     "passo": 5,
+     "descricao": "Avaliação Pós-Censo: Análise da qualidade dos dados recolhidos e dos processos executados, visando identificar boas práticas e áreas de melhoria para futuras operações censitárias. Inclui estudos de cobertura e de conteúdo para aferir a precisão dos dados."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Um município em Angola precisa planear a construção de novas escolas primárias para os próximos 10 anos.",
+     "resolucao": "Os dados do Censo 2024 sobre a população em idade escolar (0-14 anos), discriminados por bairro e comuna, são essenciais. Ao analisar a taxa de natalidade e a distribuição etária, o município pode projetar a demanda futura por vagas escolares, identificar as áreas com maior crescimento populacional infantil e, assim, determinar o número e a localização estratégica das novas escolas, bem como o número de professores necessários. Por exemplo, se o Censo indicar um aumento de 20% na população de 5-9 anos numa determinada comuna, o município deverá prever um aumento correspondente na oferta de salas de aula e recursos humanos nessa área."
+    },
+    {
+     "situacao": "O Ministério da Saúde pretende distribuir vacinas e outros medicamentos essenciais de forma mais eficiente nas províncias de Angola.",
+     "resolucao": "Os dados de população residente por província, município e comuna, fornecidos pelo Censo 2024, são cruciais. Ao cruzar esses dados com as taxas de morbidade e mortalidade (obtidas, por exemplo, do IIBP 2023-2024 ou de registos de saúde), o Ministério pode calcular a quantidade de vacinas e medicamentos necessários para cada área, priorizando aquelas com maior densidade populacional e/ou maior prevalência de doenças específicas. Por exemplo, se a população de uma província aumentou 15% desde o último censo, a alocação de recursos de saúde deve ser ajustada proporcionalmente para garantir a cobertura adequada."
+    },
+    {
+     "situacao": "Uma empresa de telecomunicações pretende expandir a sua rede de internet móvel em áreas rurais de Angola.",
+     "resolucao": "Os dados do Censo 2024 sobre a distribuição geográfica da população, as características das habitações (acesso a energia elétrica) e o nível de escolaridade da população em áreas rurais são fundamentais. A empresa pode identificar as comunidades rurais com maior número de agregados familiares e maior potencial de consumo de serviços, avaliando também a infraestrutura existente. Por exemplo, se uma determinada área rural apresenta uma concentração significativa de jovens com ensino secundário e superior, e um número elevado de habitações com acesso a energia, é um forte candidato para investimento em infraestruturas de telecomunicações, pois indica maior probabilidade de uso de tecnologia."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Subenumeração de populações de difícil acesso ou marginalizadas (e.g., nómadas, populações em zonas de conflito).",
+    "Erro no registo de dados devido a má formação ou desmotivação dos recenseadores.",
+    "Resistência da população em fornecer informações precisas, por desconfiança ou falta de entendimento da finalidade do censo.",
+    "Atrasos na fase de planeamento ou execução, comprometendo o cronograma e a qualidade dos resultados.",
+    "Falta de recursos financeiros e logísticos adequados para cobrir todo o território nacional.",
+    "Problemas técnicos com os dispositivos de recolha de dados (tablets) ou com a infraestrutura de rede.",
+    "Violação da confidencialidade dos dados pessoais, gerando desconfiança e impactando a participação futura.",
+    "Interpretação errónea dos questionários pelos recenseadores ou pelos inquiridos."
+   ],
+   "conclusao": "O Censo Geral da População e Habitação 2024 representa um marco crucial para o desenvolvimento de Angola, fornecendo uma fotografia detalhada da realidade demográfica e socioeconómica do país. Os dados resultantes desta vasta operação serão a pedra angular para a formulação de políticas públicas orientadas para as necessidades reais da população, desde a expansão da rede de saúde e educação até ao desenvolvimento de infraestruturas habitacionais e de saneamento. A sua importância transcende a mera contagem, constituindo uma ferramenta indispensável para a boa governação, a equidade social e o crescimento económico sustentável. É imperativo que todos os cidadãos angolanos compreendam a relevância da sua participação, garantindo a precisão e a abrangência dos dados que moldarão o futuro de Angola para as próximas décadas."
+  },
+  {
+   "titulo": "XVII. Inquérito de Indicadores Múltiplos e de Saúde (IIMS) 2023-2024: Fundamentos e Implicações para a Saúde Pública Angolana",
+   "introducao": "O Inquérito de Indicadores Múltiplos e de Saúde (IIMS), conhecido internacionalmente como MICS (Multiple Indicator Cluster Survey), é uma iniciativa global desenvolvida pelo UNICEF que tem como objectivo fornecer dados estatísticos cruciais para o monitoramento da situação de crianças e mulheres, bem como para o acompanhamento dos Objectivos de Desenvolvimento Sustentável (ODS). A edição 2023-2024 em Angola representa um marco fundamental para a formulação e avaliação de políticas públicas no sector da saúde e áreas afins. Este inquérito recolhe informações abrangentes sobre saúde, nutrição, educação, protecção infantil, água, saneamento e higiene, entre outros indicadores sociais e demográficos. Para os técnicos de farmácia, a compreensão dos resultados do IIMS é vital, pois permite contextualizar as necessidades da população, optimizar a gestão de medicamentos e insumos, e participar activamente na promoção da saúde e prevenção de doenças, alinhando as intervenções farmacêuticas com as prioridades nacionais de saúde. A análise aprofundada dos dados do IIMS possibilita uma actuação mais informada e eficaz no sistema de saúde angolano.",
+   "conceitos": [
+    {
+     "termo": "Inquérito de Indicadores Múltiplos e de Saúde (IIMS)",
+     "definicao": "Um programa internacional de inquéritos domiciliares, desenvolvido pelo UNICEF, que recolhe dados comparáveis internacionalmente sobre uma vasta gama de indicadores nos domínios da saúde, educação, protecção infantil, água, saneamento e higiene, com foco especial em crianças e mulheres."
+    },
+    {
+     "termo": "Objectivos de Desenvolvimento Sustentável (ODS)",
+     "definicao": "Um conjunto de 17 metas globais interligadas, estabelecidas pela Organização das Nações Unidas em 2015, para serem alcançadas até 2030, que visam erradicar a pobreza, proteger o planeta e garantir a paz e a prosperidade para todos. O IIMS é uma ferramenta chave para monitorar o progresso em muitos destes objectivos."
+    },
+    {
+     "termo": "Amostragem",
+     "definicao": "O processo de selecção de um subconjunto de indivíduos de uma população maior para estimar características da população total. No IIMS, utiliza-se geralmente uma amostragem estratificada por conglomerados para garantir representatividade nacional e subnacional."
+    },
+    {
+     "termo": "Taxa de Mortalidade Infantil (TMI)",
+     "definicao": "O número de óbitos de crianças com idade inferior a um ano por cada 1000 nascidos vivos. É um indicador crucial da saúde e bem-estar de uma população e um dos principais resultados monitorizados pelo IIMS."
+    },
+    {
+     "termo": "Cobertura Vacinal",
+     "definicao": "A percentagem de crianças que receberam todas as doses recomendadas de vacinas específicas dentro de um determinado período de idade. O IIMS recolhe dados detalhados sobre a cobertura vacinal para avaliar a eficácia dos programas de imunização."
+    },
+    {
+     "termo": "Saúde Materno-Infantil",
+     "definicao": "Um campo da saúde pública focado na saúde de mulheres durante a gravidez, parto e pós-parto, bem como na saúde de bebés, crianças e adolescentes. O IIMS dedica uma secção substancial à recolha de dados sobre este tema, incluindo cuidados pré-natais, assistência ao parto e amamentação."
+    },
+    {
+     "termo": "Indicadores de Nutrição",
+     "definicao": "Medidas quantificáveis que reflectem o estado nutricional de uma população, como a prevalência de baixo peso, atraso de crescimento (stunting), emaciação (wasting) e excesso de peso/obesidade em crianças. O IIMS recolhe dados antropométricos para calcular estes indicadores."
+    },
+    {
+     "termo": "Água, Saneamento e Higiene (WASH)",
+     "definicao": "Um acrónimo para Water, Sanitation and Hygiene, que se refere ao acesso a água potável, instalações de saneamento adequadas e práticas de higiene. O IIMS avalia o acesso e a utilização destes serviços essenciais como determinantes da saúde."
+    }
+   ],
+   "finalidades": [
+    "Fornecer dados desagregados e actualizados sobre a situação de crianças e mulheres em Angola, essenciais para a formulação de políticas.",
+    "Monitorizar o progresso de Angola em relação aos Objectivos de Desenvolvimento Sustentável (ODS), especialmente aqueles relacionados à saúde, educação e bem-estar.",
+    "Identificar disparidades regionais e demográficas nos indicadores de saúde e desenvolvimento, permitindo intervenções mais direccionadas.",
+    "Apoiar a planificação, implementação e avaliação de programas e projectos nos sectores da saúde, educação e protecção social.",
+    "Fortalecer a capacidade estatística nacional de Angola através da recolha e análise de dados complexos.",
+    "Gerar evidências para a advocacia e mobilização de recursos para programas que visam melhorar a vida de crianças e mulheres."
+   ],
+   "vantagens": [
+    "Padronização internacional, permitindo comparações fiáveis com outros países e ao longo do tempo.",
+    "Abrangência de temas, fornecendo uma visão holística da situação social e de saúde.",
+    "Capacidade de desagregar dados por província, área de residência (urbana/rural), sexo, idade e nível de riqueza, revelando desigualdades.",
+    "Fornece dados directamente comparáveis com os ODS, facilitando o monitoramento do progresso nacional.",
+    "Metodologia robusta e cientificamente validada, garantindo a qualidade e fiabilidade dos dados.",
+    "Contribui para o empoderamento de decisores políticos e técnicos com informações baseadas em evidências."
+   ],
+   "desvantagens": [
+    "Custo elevado e complexidade logística na execução de um inquérito de grande escala.",
+    "Demora na divulgação dos resultados finais, que podem não reflectir as mudanças mais recentes.",
+    "Dependência da capacidade de resposta dos inquiridos e da qualidade dos dados recolhidos pelos entrevistadores.",
+    "Potencial de viés de memória ou tendenciosidade nas respostas, especialmente em questões sensíveis.",
+    "Não abrange todos os indicadores de saúde necessários para uma análise exaustiva, focando-se em indicadores chave.",
+    "A interpretação dos dados exige conhecimento estatístico e contextual para evitar conclusões equivocadas."
+   ],
+   "valores_referencia": [],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Fase de Planeamento e Preparação: Definição dos objectivos, selecção de indicadores, desenvolvimento do questionário adaptado ao contexto angolano, desenho da amostra (geralmente estratificada por província e área urbana/rural, com selecção de conglomerados e agregados familiares), e recrutamento e formação de equipas de campo (entrevistadores, supervisores, editores)."
+    },
+    {
+     "passo": 2,
+     "descricao": "Fase de Recolha de Dados no Campo: As equipas de campo deslocam-se aos agregados familiares seleccionados. Os entrevistadores aplicam os questionários a mulheres em idade fértil (15-49 anos) e aos cuidadores de crianças menores de 5 anos. Recolhem-se informações sobre as características dos agregados familiares, demografia, saúde, nutrição, educação, WASH, entre outros. Podem ser realizadas medições antropométricas (peso, altura) e testes de diagnóstico rápido (ex: anemia, malária) em sub-amostras ou grupos específicos."
+    },
+    {
+     "passo": 3,
+     "descricao": "Fase de Processamento de Dados: Os dados recolhidos (geralmente via tablets ou smartphones) são transmitidos para um servidor central. Segue-se a edição, codificação e validação dos dados para corrigir erros e garantir a consistência. Esta fase inclui a criação de um banco de dados limpo e organizado, pronto para análise estatística."
+    },
+    {
+     "passo": 4,
+     "descricao": "Fase de Análise e Relatório: Os estatísticos e especialistas em saúde pública analisam os dados usando software estatístico (ex: SPSS, R, Stata) para calcular os indicadores definidos. Elaboram-se tabelas, gráficos e textos interpretativos. São produzidos relatórios preliminares, relatórios de síntese e o relatório final, que detalha os resultados a nível nacional e subnacional (provincial)."
+    },
+    {
+     "passo": 5,
+     "descricao": "Fase de Divulgação e Utilização: Os resultados do IIMS são divulgados através de workshops, conferências, publicações online e impressas. Os dados são disponibilizados para governos, agências da ONU, ONGs, academia e o público em geral, para informar o planeamento estratégico, a formulação de políticas e a avaliação de programas no contexto angolano."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Um técnico de farmácia precisa avaliar a necessidade de stock de vacinas na sua unidade sanitária em Luanda, considerando a cobertura vacinal reportada pelo IIMS 2023-2024.",
+     "resolucao": "O técnico de farmácia consulta o relatório do IIMS 2023-2024 para a província de Luanda e identifica que a cobertura da vacina DTP3 (difteria, tétano e tosse convulsa, 3ª dose) para crianças de 12-23 meses é de 75%. Se a população-alvo de crianças nesta faixa etária na sua área de abrangência é de 2000, e a meta nacional é de 90%, o técnico calcula que 2000 * (0.90 - 0.75) = 300 crianças ainda não estão totalmente vacinadas. Este défice indica uma necessidade de reforçar as campanhas de vacinação e, consequentemente, prever um aumento no consumo de DTP3, ajustando o stock de vacinas na farmácia para atender a esta demanda adicional e apoiar os esforços de imunização."
+    },
+    {
+     "situacao": "O Ministério da Saúde de Angola, com base nos dados do IIMS 2023-2024, verifica que a taxa de amamentação exclusiva para bebés menores de 6 meses na província do Huambo é de apenas 35%, muito abaixo da média nacional e das recomendações da OMS.",
+     "resolucao": "Com base neste indicador crítico, o Ministério da Saúde, em colaboração com o Gabinete Provincial da Saúde do Huambo, pode desenvolver um plano de acção. Este plano incluiria campanhas de sensibilização intensivas sobre os benefícios da amamentação exclusiva, formação de profissionais de saúde (incluindo técnicos de farmácia) em aconselhamento sobre amamentação, implementação de políticas de apoio à amamentação em unidades sanitárias e locais de trabalho, e a distribuição de materiais informativos. Os técnicos de farmácia poderiam participar activamente, aconselhando mães que procuram fórmulas infantis sobre os benefícios da amamentação e encaminhando-as para serviços de apoio à lactação, além de assegurar que os stocks de suplementos vitamínicos para mães e bebés sejam adequados."
+    },
+    {
+     "situacao": "Uma ONG parceira do governo angolano, ao analisar os dados do IIMS 2023-2024, identifica que a prevalência de anemia em crianças de 6-59 meses na província de Malanje é de 60%, um valor alarmante.",
+     "resolucao": "A ONG, em conjunto com as autoridades de saúde locais, pode planear uma intervenção para combater a anemia. Isso envolveria a distribuição de suplementos de ferro e ácido fólico para crianças e mães, a promoção do consumo de alimentos ricos em ferro e vitamina C, e a educação sobre práticas de higiene para prevenir infecções parasitárias que contribuem para a anemia. O técnico de farmácia de uma unidade sanitária em Malanje teria um papel crucial em garantir a disponibilidade e o armazenamento adequado desses suplementos, bem como em participar activamente nas sessões de aconselhamento nutricional para as famílias, explicando a importância da adesão à suplementação e da diversificação alimentar."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Generalização indevida: Não assumir que os resultados provinciais são representativos de todos os municípios ou comunidades dentro da província sem uma análise mais detalhada.",
+    "Interpretação causal: Evitar inferir relações de causa-e-efeito directamente dos dados correlacionais do IIMS sem estudos adicionais.",
+    "Ignorar o contexto: Os dados devem ser interpretados à luz das realidades socioeconómicas, culturais e políticas específicas de Angola e de cada região.",
+    "Desactualização: Reconhecer que os dados do IIMS, embora robustos, representam um instantâneo de um período específico e podem não reflectir mudanças muito recentes.",
+    "Viés de selecção/resposta: Estar ciente das limitações inerentes a qualquer inquérito por amostragem, como a possibilidade de não-resposta ou respostas socialmente desejáveis.",
+    "Falta de desagragação: Quando a amostra não permite desagregar dados para níveis administrativos muito pequenos (ex: bairro, comuna), evitar extrapolações."
+   ],
+   "conclusao": "O Inquérito de Indicadores Múltiplos e de Saúde (IIMS) 2023-2024 é uma ferramenta estatística indispensável para o planeamento e monitoramento da saúde pública em Angola. Os seus dados abrangentes e desagregados fornecem uma base sólida para a identificação de desafios, a formulação de políticas eficazes e a alocação estratégica de recursos. Para os técnicos de farmácia, a compreensão dos resultados do IIMS é crucial, pois permite uma actuação mais informada na gestão de stocks, na participação em campanhas de saúde (vacinação, nutrição, higiene) e no aconselhamento à comunidade. Ao integrar os conhecimentos do IIMS na prática diária, os profissionais de farmácia contribuem significativamente para a melhoria dos indicadores de saúde em Angola, promovendo o bem-estar de crianças, mulheres e de toda a população, e colaborando para o alcance dos Objectivos de Desenvolvimento Sustentável."
+  },
+  {
+   "titulo": "XVIII. Inteligência Artificial na Saúde",
+   "introducao": "A Inteligência Artificial (IA) é um campo da ciência da computação que se dedica à criação de sistemas capazes de simular a inteligência humana, incluindo o raciocínio, a aprendizagem, a percepção e a tomada de decisões. Na saúde, a IA representa uma revolução tecnológica com o potencial de transformar radicalmente a prática clínica, a gestão hospitalar e a investigação biomédica. Em Angola, a integração da IA no sector da saúde, embora ainda em fase incipiente, promete otimizar recursos, melhorar a qualidade dos cuidados e democratizar o acesso a serviços especializados, contribuindo para enfrentar desafios como a escassez de profissionais qualificados e a endemicidade de certas doenças, conforme os dados do Inquérito de Indicadores Múltiplos de Saúde (IIMS) de 2023-2024.",
+   "conceitos": [
+    {
+     "termo": "Inteligência Artificial (IA)",
+     "definicao": "Ramo da ciência da computação que se ocupa do desenvolvimento de máquinas e sistemas que podem executar tarefas que normalmente exigiriam inteligência humana, como reconhecimento de padrões, aprendizagem, resolução de problemas e tomada de decisões."
+    },
+    {
+     "termo": "Machine Learning (ML)",
+     "definicao": "Subcampo da IA que permite que sistemas aprendam a partir de dados, identifiquem padrões e tomem decisões com mínima intervenção humana. Inclui algoritmos de aprendizagem supervisionada, não supervisionada e por reforço."
+    },
+    {
+     "termo": "Deep Learning (DL)",
+     "definicao": "Subcampo do Machine Learning que utiliza redes neurais artificiais com múltiplas camadas (profundas) para aprender representações de dados com vários níveis de abstração. É particularmente eficaz no reconhecimento de imagens e processamento de linguagem natural."
+    },
+    {
+     "termo": "Processamento de Linguagem Natural (PLN)",
+     "definicao": "Área da IA que permite que computadores compreendam, interpretem e gerem linguagem humana de forma significativa, sendo fundamental para a análise de registos clínicos e comunicação com pacientes."
+    },
+    {
+     "termo": "Visão Computacional",
+     "definicao": "Área da IA que permite que computadores 'vejam' e interpretem imagens e vídeos da mesma forma que os humanos, sendo crucial para a análise de exames de imagem médica, como raios-X, TAC e ressonâncias magnéticas."
+    },
+    {
+     "termo": "Big Data em Saúde",
+     "definicao": "Conjuntos de dados extremamente grandes e complexos gerados no sector da saúde (registos eletrónicos de saúde, resultados de exames, dados genómicos, etc.) que não podem ser processados ou analisados por métodos tradicionais, exigindo ferramentas de IA para extrair valor e conhecimento."
+    },
+    {
+     "termo": "Telemedicina",
+     "definicao": "Prestação de serviços de saúde à distância, utilizando tecnologias de informação e comunicação. A IA pode aprimorar a telemedicina através de diagnósticos assistidos por IA, monitorização remota de pacientes e chatbots para triagem inicial."
+    },
+    {
+     "termo": "Algoritmo Preditivo",
+     "definicao": "Modelo matemático ou computacional que utiliza dados históricos para prever resultados futuros ou a probabilidade de ocorrência de eventos, como a progressão de doenças ou a resposta a tratamentos."
+    }
+   ],
+   "finalidades": [
+    "Apoiar o diagnóstico precoce e preciso de doenças, analisando grandes volumes de dados clínicos e de imagem.",
+    "Personalizar planos de tratamento e medicação, com base nas características genéticas e clínicas individuais do paciente.",
+    "Otimizar a gestão de recursos hospitalares e logísticos, incluindo agendamento de consultas e gestão de stocks de medicamentos.",
+    "Acelerar a descoberta e desenvolvimento de novos fármacos, através da simulação molecular e análise de dados genómicos.",
+    "Melhorar a monitorização remota de pacientes e a gestão de doenças crónicas, prevenindo complicações e internamentos.",
+    "Apoiar a formação e educação médica, fornecendo ferramentas de simulação e acesso a bases de conhecimento atualizadas.",
+    "Fortalecer a saúde pública, prevendo surtos de doenças e otimizando campanhas de vacinação e prevenção."
+   ],
+   "vantagens": [
+    "Aumento da precisão diagnóstica e redução de erros humanos.",
+    "Otimização do tempo dos profissionais de saúde, permitindo-lhes focar-se em casos mais complexos e na interação com o paciente.",
+    "Aceleração da investigação científica e desenvolvimento de terapias inovadoras.",
+    "Personalização dos cuidados de saúde, resultando em tratamentos mais eficazes e com menos efeitos secundários.",
+    "Democratização do acesso a cuidados de saúde especializados, especialmente em regiões remotas de Angola, onde a disponibilidade de médicos é limitada (Censo 2024).",
+    "Melhoria da eficiência operacional e redução de custos no sistema de saúde.",
+    "Capacidade de processar e analisar volumes massivos de dados em tempo real, identificando padrões invisíveis ao olho humano."
+   ],
+   "desvantagens": [
+    "Elevados custos de implementação e manutenção de sistemas de IA, especialmente em países em desenvolvimento como Angola.",
+    "Questões éticas e de privacidade relacionadas com a recolha e utilização de dados de saúde sensíveis.",
+    "Risco de viés algorítmico, onde os modelos de IA podem replicar ou amplificar preconceitos presentes nos dados de treino, levando a desigualdades nos cuidados.",
+    "Necessidade de infraestruturas tecnológicas robustas (internet de alta velocidade, centros de dados) que podem ser limitadas em algumas províncias angolanas (ex: Moxico, Cuando Cubango).",
+    "Falta de regulamentação clara e quadros legais adaptados à IA na saúde.",
+    "Dependência de dados de alta qualidade; dados incompletos ou imprecisos podem levar a resultados erróneos.",
+    "Resistência à adoção por parte dos profissionais de saúde devido à falta de formação ou receio de substituição profissional.",
+    "A complexidade de alguns modelos de IA (caixa preta) dificulta a compreensão do seu raciocínio, levantando questões de responsabilização."
+   ],
+   "valores_referencia": [],
+   "procedimentos": [
+    {
+     "passo": 1,
+     "descricao": "Identificação da necessidade: Determinar qual problema de saúde ou processo clínico pode ser otimizado pela IA (ex: triagem de pacientes, análise de imagens radiológicas, previsão de surtos epidémicos)."
+    },
+    {
+     "passo": 2,
+     "descricao": "Coleta e preparação de dados: Reunir grandes volumes de dados relevantes (registos de pacientes, imagens médicas, resultados laboratoriais) de forma ética e anonimizada. Em Angola, isso pode envolver a digitalização de registos em papel e a integração de dados de diferentes unidades de saúde."
+    },
+    {
+     "passo": 3,
+     "descricao": "Desenvolvimento ou seleção do modelo de IA: Escolher ou desenvolver um algoritmo de IA (Machine Learning, Deep Learning) adequado ao tipo de problema e dados disponíveis. Isso pode envolver a colaboração com universidades ou empresas de tecnologia."
+    },
+    {
+     "passo": 4,
+     "descricao": "Treino do modelo: Alimentar o algoritmo com os dados preparados, permitindo que aprenda padrões e relações. Esta fase requer poder computacional e tempo significativos."
+    },
+    {
+     "passo": 5,
+     "descricao": "Validação e teste: Avaliar o desempenho do modelo de IA em dados não vistos para garantir a sua precisão, robustez e generalizabilidade. É crucial que o modelo seja testado em populações diversas para evitar viés."
+    },
+    {
+     "passo": 6,
+     "descricao": "Integração no fluxo de trabalho: Incorporar o sistema de IA nas ferramentas e processos clínicos existentes, garantindo uma interface amigável para os profissionais de saúde."
+    },
+    {
+     "passo": 7,
+     "descricao": "Monitorização e manutenção: Acompanhar continuamente o desempenho do sistema de IA, realizando atualizações e ajustes conforme necessário para garantir a sua eficácia e segurança a longo prazo."
+    }
+   ],
+   "exemplos_praticos": [
+    {
+     "situacao": "Diagnóstico precoce de tuberculose em áreas rurais de Angola.",
+     "resolucao": "Em muitas províncias angolanas, como o Cuanza Sul ou Huíla, o acesso a especialistas em radiologia é limitado. Um sistema de IA baseado em Deep Learning pode ser treinado com milhares de radiografias de tórax (incluindo casos confirmados de tuberculose) para identificar padrões sugestivos da doença. Numa unidade sanitária rural, um técnico de saúde pode realizar a radiografia e o sistema de IA analisa a imagem em segundos, alertando para potenciais casos de tuberculose com alta sensibilidade e especificidade. Este sistema pode priorizar casos suspeitos para confirmação laboratorial, reduzindo o tempo de diagnóstico e melhorando o controlo da doença, conforme as directrizes do Programa Nacional de Controlo da Tuberculose."
+    },
+    {
+     "situacao": "Previsão de surtos de malária na província de Luanda.",
+     "resolucao": "A malária continua a ser um grave problema de saúde pública em Angola. Utilizando algoritmos de Machine Learning, é possível analisar dados históricos de incidência de malária, padrões climáticos (temperatura, humidade, precipitação), dados demográficos (densidade populacional do Censo 2024), e informações sobre a presença de vectores em diferentes municípios de Luanda (ex: Viana, Cacuaco). O modelo pode prever com antecedência as áreas e períodos de maior risco para novos surtos, permitindo que as autoridades de saúde pública (ex: Direção Provincial da Saúde de Luanda) mobilizem recursos (mosquiteiros, medicamentos, equipas de pulverização) de forma proativa e eficiente, antes que a doença se alastre. Por exemplo, se o modelo prever um aumento de 30% nos casos de malária em Viana nas próximas 4 semanas, campanhas de pulverização e distribuição de mosquiteiros podem ser iniciadas preventivamente."
+    },
+    {
+     "situacao": "Otimização da gestão de stocks de medicamentos essenciais em hospitais provinciais.",
+     "resolucao": "Em hospitais como o Hospital Geral de Benguela ou o Hospital Sanatório de Luanda, a gestão de stocks de medicamentos é crucial. Um sistema de IA pode analisar dados de consumo histórico de fármacos (ex: anti-maláricos, antibióticos, vacinas), padrões sazonais de doenças, dados demográficos, e até mesmo notícias sobre interrupções na cadeia de abastecimento. O algoritmo de IA pode prever a procura futura de cada medicamento com base nestes fatores, sugerindo as quantidades ideais a encomendar e o timing, minimizando tanto a escassez (que pode levar a mortes) quanto o excesso de stock (que resulta em desperdício por expiração). Por exemplo, se o IIMS 2023-2024 indicar uma alta prevalência de anemia em crianças no Bié, o sistema ajustaria automaticamente a previsão de consumo de suplementos de ferro para a região."
+    }
+   ],
+   "cuidados_erros_comuns": [
+    "Ignorar a necessidade de validação clínica rigorosa dos sistemas de IA antes da sua implementação em larga escala.",
+    "Utilizar conjuntos de dados de treino incompletos ou com viés, levando a modelos imprecisos ou discriminatórios.",
+    "Não garantir a privacidade e segurança dos dados dos pacientes, violando a ética e a legislação de proteção de dados.",
+    "Falta de formação adequada para os profissionais de saúde sobre como interagir e interpretar os resultados dos sistemas de IA.",
+    "Subestimar os custos de manutenção e atualização contínua dos sistemas de IA.",
+    "Implementar tecnologias de IA sem considerar a infraestrutura tecnológica e as capacidades humanas existentes no contexto angolano.",
+    "Depender excessivamente da IA para tomar decisões clínicas sem a supervisão e o julgamento humano."
+   ],
+   "conclusao": "A Inteligência Artificial apresenta-se como uma ferramenta poderosa e transformadora para o sector da saúde em Angola, com o potencial de otimizar diagnósticos, personalizar tratamentos e melhorar a gestão de recursos. No entanto, a sua implementação requer uma abordagem cuidadosa e estratégica, superando desafios como a infraestrutura tecnológica, a qualidade dos dados, a formação de profissionais e a elaboração de um quadro ético e regulatório robusto. Ao integrar a IA de forma responsável e consciente, Angola pode dar um salto qualitativo na prestação de cuidados de saúde, tornando-os mais eficientes, acessíveis e equitativos, contribuindo assim para o bem-estar da sua população e alinhando-se com as tendências globais da medicina do futuro."
+  }
+ ]
+}
