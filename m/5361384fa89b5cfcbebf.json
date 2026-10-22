@@ -1,0 +1,658 @@
+{
+  "serie": "E",
+  "categoria": "CULTURA GERAL",
+  "pais": "Angola",
+  "total": 50,
+  "perguntas": [
+    {
+      "numero": 1,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "O diploma legal que rege o ingresso, acesso e permanência dos funcionários da Administração Pública angolana designa-se:",
+      "alineas": {
+        "a": "Lei do Estatuto da Função Pública",
+        "b": "Código do Processo Civil",
+        "c": "Lei Geral do Trabalho",
+        "d": "Estatuto Orgânico do MINSA"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O Estatuto da Função Pública regula direitos, deveres e carreiras dos agentes da Administração Pública em Angola."
+    },
+    {
+      "numero": 2,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "Compete à Procuradoria-Geral da República angolana, entre outras funções:",
+      "alineas": {
+        "a": "Exercer a acção penal e defender a legalidade democrática",
+        "b": "Legislar sobre matéria orçamental",
+        "c": "Nomear ministros de Estado",
+        "d": "Administrar as províncias"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A Procuradoria-Geral da República representa o Estado, exerce a acção penal e vela pela legalidade democrática."
+    },
+    {
+      "numero": 3,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "O actual modelo de governação local em Angola, que confere autonomia administrativa e financeira a certos municípios, denomina-se:",
+      "alineas": {
+        "a": "Regionalização federal",
+        "b": "Autarquização",
+        "c": "Provincialização",
+        "d": "Descentralização municipal"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A autarquização é o processo de instituição das autarquias locais, conferindo autonomia de gestão aos municípios."
+    },
+    {
+      "numero": 4,
+      "tema": "I. Estado, Governo e Nomeações",
+      "enunciado": "A duração do mandato presidencial em Angola, segundo a Constituição vigente, é de:",
+      "alineas": {
+        "a": "5 anos, renovável uma vez",
+        "b": "4 anos, renovável uma vez",
+        "c": "6 anos, sem limite",
+        "d": "5 anos, sem limite de mandatos"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O mandato presidencial angolano tem a duração de cinco anos, admitindo-se apenas uma reeleição consecutiva."
+    },
+    {
+      "numero": 5,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O regime de carreiras dos técnicos de diagnóstico e terapêutica no sector público de saúde angolano é regulado por:",
+      "alineas": {
+        "a": "Código Civil",
+        "b": "Lei Geral do Trabalho comum",
+        "c": "Estatuto dos Magistrados",
+        "d": "Estatuto próprio aprovado pelo Executivo"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Os técnicos de saúde possuem um estatuto de carreira específico, aprovado por diploma do Executivo, que define categorias e progressão."
+    },
+    {
+      "numero": 6,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "No concurso público de ingresso na função pública de saúde, a admissão é feita mediante:",
+      "alineas": {
+        "a": "Concurso documental e/ou de provas, nos termos legais",
+        "b": "Sorteio entre candidatos",
+        "c": "Herança de vaga familiar",
+        "d": "Indicação política"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O ingresso na função pública, incluindo a área da saúde, obedece a concurso público, garantindo igualdade de oportunidades."
+    },
+    {
+      "numero": 7,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A carreira dos técnicos de saúde em Angola organiza-se, regra geral, em categorias que vão de:",
+      "alineas": {
+        "a": "Assistente a Embaixador",
+        "b": "Auxiliar a Especialista",
+        "c": "Estagiário a Director-Geral",
+        "d": "Aprendiz a Sénior"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O regime de carreiras da saúde prevê categorias progressivas, desde auxiliar/básico até técnico especialista."
+    },
+    {
+      "numero": 8,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O sistema que assegura o acesso universal e gratuito aos cuidados de saúde primários em Angola denomina-se:",
+      "alineas": {
+        "a": "Seguro Privado Nacional",
+        "b": "Instituto de Seguros de Angola",
+        "c": "Serviço Nacional de Saúde (SNS)",
+        "d": "Fundo de Pensões da Saúde"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Serviço Nacional de Saúde (SNS) é o sistema público que organiza a prestação de cuidados de saúde à população angolana."
+    },
+    {
+      "numero": 9,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O financiamento do Serviço Nacional de Saúde angolano provém essencialmente de:",
+      "alineas": {
+        "a": "Receitas do futebol profissional",
+        "b": "Taxas escolares",
+        "c": "Doações estrangeiras exclusivas",
+        "d": "Orçamento Geral do Estado e outras fontes complementares"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O SNS é financiado principalmente pelo Orçamento Geral do Estado, complementado por parcerias e cooperação internacional."
+    },
+    {
+      "numero": 10,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A classe de técnicos superiores de saúde inclui, entre outros, os licenciados em:",
+      "alineas": {
+        "a": "Direito e Economia",
+        "b": "Enfermagem, Fisioterapia e Nutrição",
+        "c": "Contabilidade e Gestão",
+        "d": "Engenharia Civil"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A classe de técnicos superiores de saúde abrange licenciados em áreas como enfermagem, fisioterapia, nutrição e afins."
+    },
+    {
+      "numero": 11,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "As taxas moderadoras cobradas nalgumas unidades sanitárias públicas angolanas destinam-se a:",
+      "alineas": {
+        "a": "Financiar campanhas eleitorais",
+        "b": "Substituir integralmente o orçamento do MINSA",
+        "c": "Comparticipar simbolicamente e regular a procura de serviços",
+        "d": "Pagar salários dos ministros"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "As taxas moderadoras têm carácter simbólico, contribuindo para a sustentabilidade e uso racional dos serviços de saúde."
+    },
+    {
+      "numero": 12,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O programa que visa reduzir a mortalidade materno-infantil em Angola, alinhado com os ODS, chama-se:",
+      "alineas": {
+        "a": "Plano de Ordenamento do Território",
+        "b": "Plano Nacional de Habitação",
+        "c": "Programa Angola Digital",
+        "d": "Plano Nacional de Saúde Reprodutiva e Materno-Infantil"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O plano articula acções de vacinação, assistência ao parto e cuidados pré-natais para reduzir a mortalidade materno-infantil."
+    },
+    {
+      "numero": 13,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A avaliação de desempenho dos técnicos de saúde da função pública é feita, regra geral, através de:",
+      "alineas": {
+        "a": "SIGEP - Sistema Integrado de Gestão da Função Pública",
+        "b": "Sorteio anual",
+        "c": "Voto dos utentes",
+        "d": "Exame único vitalício"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O SIGEP é a plataforma que apoia a gestão de recursos humanos, incluindo a avaliação de desempenho, na função pública angolana."
+    },
+    {
+      "numero": 14,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A progressão na carreira dos técnicos de saúde depende, entre outros factores, de:",
+      "alineas": {
+        "a": "Apenas da idade do funcionário",
+        "b": "Sorteio interno",
+        "c": "Tempo de serviço e formação profissional certificada",
+        "d": "Doação a instituições de caridade"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A progressão na carreira assenta em critérios como antiguidade, avaliação de desempenho e qualificação profissional."
+    },
+    {
+      "numero": 15,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O Instituto que gere o regime de protecção social obrigatória dos trabalhadores angolanos, incluindo da saúde, é:",
+      "alineas": {
+        "a": "AGT",
+        "b": "ANIP",
+        "c": "BNA",
+        "d": "INSS - Instituto Nacional de Segurança Social"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O INSS assegura prestações sociais como pensões e subsídios aos trabalhadores inscritos, incluindo os do sector da saúde."
+    },
+    {
+      "numero": 16,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "Um dos objectivos do Plano Nacional de Desenvolvimento Sanitário é:",
+      "alineas": {
+        "a": "Reforçar a rede de cuidados primários e a cobertura sanitária universal",
+        "b": "Eliminar o SNS",
+        "c": "Privatizar toda a saúde",
+        "d": "Reduzir o número de hospitais públicos"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O Plano Nacional de Desenvolvimento Sanitário visa fortalecer a rede primária e alcançar a cobertura sanitária universal."
+    },
+    {
+      "numero": 17,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "Nos concursos públicos para técnicos de saúde, a comissão de júri é normalmente composta por:",
+      "alineas": {
+        "a": "Apenas familiares dos candidatos",
+        "b": "Representantes do MINSA e da Função Pública",
+        "c": "Somente jornalistas",
+        "d": "Apenas sindicatos privados"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O júri de concurso integra representantes das áreas técnica e de gestão de recursos humanos do MINSA e da Função Pública."
+    },
+    {
+      "numero": 18,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A doença não transmissível que mais contribui para mortes prematuras em Angola, segundo dados recentes da OMS, é:",
+      "alineas": {
+        "a": "Febre-amarela",
+        "b": "Cólera",
+        "c": "Hipertensão arterial e doenças cardiovasculares",
+        "d": "Sarampo"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "As doenças cardiovasculares, associadas à hipertensão, figuram entre as principais causas de morte prematura em Angola."
+    },
+    {
+      "numero": 19,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O regime disciplinar aplicável aos técnicos de saúde da função pública em caso de falta grave prevê, entre outras sanções:",
+      "alineas": {
+        "a": "Promoção imediata",
+        "b": "Aumento salarial automático",
+        "c": "Apenas advertência verbal",
+        "d": "Suspensão e, em casos graves, demissão"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O regime disciplinar da função pública prevê sanções graduadas, incluindo suspensão e demissão em faltas graves."
+    },
+    {
+      "numero": 20,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "A classe de técnicos médios de saúde em Angola corresponde geralmente a formação de nível:",
+      "alineas": {
+        "a": "Ensino médio técnico-profissional",
+        "b": "Ensino primário",
+        "c": "Pós-graduação obrigatória",
+        "d": "Doutoramento"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Os técnicos médios de saúde possuem formação de nível médio técnico-profissional em áreas como enfermagem geral."
+    },
+    {
+      "numero": 21,
+      "tema": "II. Saúde Pública e MINSA",
+      "enunciado": "O Fundo de Apoio Social (FAS) tem colaborado com o MINSA, entre outras acções, na:",
+      "alineas": {
+        "a": "Regulação bancária",
+        "b": "Construção e reabilitação de postos de saúde comunitários",
+        "c": "Extracção de petróleo",
+        "d": "Gestão do câmbio nacional"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O FAS financia projectos comunitários, incluindo reabilitação de infra-estruturas de saúde em zonas carenciadas."
+    },
+    {
+      "numero": 22,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "A menor unidade da divisão político-administrativa angolana, abaixo do município, denomina-se:",
+      "alineas": {
+        "a": "Bairro administrativo",
+        "b": "Freguesia",
+        "c": "Distrito",
+        "d": "Comuna"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A comuna é a subdivisão administrativa do município no sistema angolano de divisão territorial."
+    },
+    {
+      "numero": 23,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "O Censo 2024 recolheu, entre outros dados, informação sobre:",
+      "alineas": {
+        "a": "Somente o número de veículos",
+        "b": "Habitação, emprego, escolaridade e composição familiar",
+        "c": "Apenas dados bancários",
+        "d": "Apenas a idade dos cidadãos"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O censo é um levantamento amplo que abrange habitação, emprego, educação, saúde e características demográficas."
+    },
+    {
+      "numero": 24,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "O órgão de nível municipal que, na nova arquitectura autárquica, gere directamente os interesses locais é:",
+      "alineas": {
+        "a": "O Ministério da Administração do Território",
+        "b": "O Tribunal Municipal",
+        "c": "A Assembleia Nacional",
+        "d": "A Autarquia Local"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "As autarquias locais passaram a ser os órgãos de poder local com autonomia para gerir os interesses próprios das populações."
+    },
+    {
+      "numero": 25,
+      "tema": "III. Divisão Político-Administrativa e Censo 2024",
+      "enunciado": "A capital de Angola, Luanda, corresponde administrativamente a:",
+      "alineas": {
+        "a": "Um distrito autónomo federal",
+        "b": "Uma província com vários municípios",
+        "c": "Um município isolado sem estatuto provincial",
+        "d": "Uma comuna especial"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Luanda é uma província angolana composta por vários municípios, incluindo Luanda, Cazenga, Viana, entre outros."
+    },
+    {
+      "numero": 26,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "Os Objectivos de Desenvolvimento Sustentável (ODS) das Nações Unidas, a cumprir até 2030, totalizam:",
+      "alineas": {
+        "a": "17 objectivos",
+        "b": "20 objectivos",
+        "c": "10 objectivos",
+        "d": "8 objectivos"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A Agenda 2030 da ONU é composta por 17 Objectivos de Desenvolvimento Sustentável."
+    },
+    {
+      "numero": 27,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "O corredor humanitário e de mediação política que Angola tem promovido nos últimos anos ficou conhecido como:",
+      "alineas": {
+        "a": "Processo de Luanda",
+        "b": "Tratado de Maputo",
+        "c": "Acordo de Nairobi",
+        "d": "Acordo de Abuja"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O Processo de Luanda é a iniciativa diplomática angolana de mediação do conflito entre RDC e Ruanda."
+    },
+    {
+      "numero": 28,
+      "tema": "IV. Relações Internacionais e Acontecimentos Recentes",
+      "enunciado": "A sigla NEPAD, associada ao desenvolvimento africano e frequentemente referida junto da Agenda 2063, significa:",
+      "alineas": {
+        "a": "Novo Programa de Ajuda Diplomática",
+        "b": "Nova Parceria para o Desenvolvimento de África",
+        "c": "Rede Europeia de Ajuda a África",
+        "d": "Núcleo Executivo de Paz e Diálogo"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A NEPAD (Nova Parceria para o Desenvolvimento de África) é um programa da União Africana voltado para o desenvolvimento socioeconómico."
+    },
+    {
+      "numero": 29,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "Um dos principais objectivos do investimento internacional no Corredor do Lobito é:",
+      "alineas": {
+        "a": "Construir uma barragem hidroeléctrica",
+        "b": "Facilitar o escoamento de minerais críticos, como o cobre, para os mercados internacionais",
+        "c": "Substituir o Porto de Luanda",
+        "d": "Reduzir a exportação de minerais"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Corredor do Lobito visa facilitar o escoamento de minerais estratégicos da região dos Grandes Lagos até ao Atlântico."
+    },
+    {
+      "numero": 30,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "O fenómeno económico caracterizado pela subida generalizada e persistente dos preços designa-se:",
+      "alineas": {
+        "a": "Estagnação",
+        "b": "Valorização cambial",
+        "c": "Deflação",
+        "d": "Inflação"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A inflação traduz-se num aumento contínuo e generalizado dos preços de bens e serviços numa economia."
+    },
+    {
+      "numero": 31,
+      "tema": "V. Economia, Corredor do Lobito e Infra-estruturas",
+      "enunciado": "A instituição multilateral que tem apoiado financeiramente o desenvolvimento do Corredor do Lobito, ao lado dos EUA e UE, é:",
+      "alineas": {
+        "a": "O Banco Africano de Desenvolvimento",
+        "b": "A Organização Mundial do Comércio",
+        "c": "A Interpol",
+        "d": "O Fundo Monetário Internacional exclusivamente"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O Banco Africano de Desenvolvimento tem sido um dos parceiros financeiros do projecto do Corredor do Lobito."
+    },
+    {
+      "numero": 32,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O Acordo de Bicesse, assinado em 1991, teve como principal objectivo:",
+      "alineas": {
+        "a": "Fundar a União Africana",
+        "b": "Estabelecer o cessar-fogo e o processo eleitoral entre o MPLA e a UNITA",
+        "c": "Criar a moeda nacional",
+        "d": "Definir as fronteiras com a Namíbia"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Acordo de Bicesse, assinado em Portugal, previa cessar-fogo, desmilitarização e eleições multipartidárias em Angola."
+    },
+    {
+      "numero": 33,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O Protocolo de Lusaka, de 1994, teve por finalidade:",
+      "alineas": {
+        "a": "Definir a bandeira nacional",
+        "b": "Estabelecer o regime republicano",
+        "c": "Tentar pôr fim à guerra civil após a retoma dos combates de 1992",
+        "d": "Encerrar definitivamente a guerra sem novo conflito"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O Protocolo de Lusaka procurou restabelecer a paz após a retoma da guerra civil na sequência das eleições de 1992."
+    },
+    {
+      "numero": 34,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O Acordo do Alvor, de 1975, foi assinado entre Portugal e:",
+      "alineas": {
+        "a": "Apenas o MPLA",
+        "b": "MPLA, FNLA e UNITA",
+        "c": "Apenas a UNITA",
+        "d": "A SADC"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Acordo do Alvor estabeleceu a transição para a independência entre Portugal e os três movimentos de libertação angolanos."
+    },
+    {
+      "numero": 35,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "Um dos sítios angolanos classificados como Património Mundial da UNESCO é:",
+      "alineas": {
+        "a": "A Torre de Belém",
+        "b": "As Muralhas de Massangano/Complexo histórico da Cidade Velha de Mbanza Congo",
+        "c": "As Pirâmides de Meroé",
+        "d": "A Ilha de Moçambique"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "As Mbanza Kongo (ruínas da capital do antigo Reino do Congo) foram classificadas pela UNESCO como Património Mundial em 2017."
+    },
+    {
+      "numero": 36,
+      "tema": "VI. História, Símbolos e Geografia de Angola",
+      "enunciado": "O ponto mais alto de Angola é o:",
+      "alineas": {
+        "a": "Monte Namba",
+        "b": "Monte Moco",
+        "c": "Serra da Chela",
+        "d": "Monte Kilimanjaro"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O Monte Moco, na província de Huambo/Bié, é o ponto culminante do território angolano."
+    },
+    {
+      "numero": 37,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "A Lei sobre a Protecção e Desenvolvimento Integral da Criança em Angola visa, sobretudo:",
+      "alineas": {
+        "a": "Definir currículos universitários",
+        "b": "Regular o trabalho infantil sem restrições",
+        "c": "Fixar preços escolares",
+        "d": "Garantir os direitos, protecção e bem-estar das crianças"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A lei consagra o superior interesse da criança e estabelece mecanismos de protecção contra abuso, exploração e negligência."
+    },
+    {
+      "numero": 38,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "A igualdade de género em Angola é promovida institucionalmente, entre outros, pelo:",
+      "alineas": {
+        "a": "Ministério da Acção Social, Família e Promoção da Mulher",
+        "b": "Ministério das Pescas",
+        "c": "Ministério dos Transportes",
+        "d": "Ministério da Energia"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Este ministério coordena políticas de promoção da igualdade de género e de protecção da família em Angola."
+    },
+    {
+      "numero": 39,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "O sufrágio nas eleições gerais angolanas é:",
+      "alineas": {
+        "a": "Restrito a funcionários públicos",
+        "b": "Indirecto e censitário",
+        "c": "Universal, livre, igual, directo, secreto e periódico",
+        "d": "Reservado a maiores de 30 anos"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A Constituição angolana consagra o sufrágio universal, livre, igual, directo, secreto e periódico nas eleições gerais."
+    },
+    {
+      "numero": 40,
+      "tema": "VII. Cidadania, Direitos e Processo Eleitoral",
+      "enunciado": "A quota mínima de participação feminina nas listas de candidatura a eleições em Angola tem sido incentivada através de:",
+      "alineas": {
+        "a": "Proibição de candidatura de mulheres",
+        "b": "Exclusão das mulheres dos partidos",
+        "c": "Ausência total de regulação",
+        "d": "Medidas de acção afirmativa previstas na legislação eleitoral"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A legislação eleitoral prevê mecanismos de incentivo à participação feminina, promovendo maior representatividade nas listas."
+    },
+    {
+      "numero": 41,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A saúde mental é reconhecida pela OMS como parte integrante da saúde, definindo-se, entre outros aspectos, pelo:",
+      "alineas": {
+        "a": "Isolamento social permanente",
+        "b": "Apenas ausência de doença física",
+        "c": "Bem-estar em que o indivíduo realiza o seu potencial e lida com o stress normal da vida",
+        "d": "Ausência total de emoções negativas"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A OMS define saúde mental como um estado de bem-estar em que a pessoa consegue lidar com as tensões normais da vida e contribuir para a comunidade."
+    },
+    {
+      "numero": 42,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O desmatamento e a queima de florestas em Angola contribuem directamente para:",
+      "alineas": {
+        "a": "O aumento da biodiversidade marinha",
+        "b": "A diminuição da erosão do solo",
+        "c": "A redução das emissões de carbono",
+        "d": "O aumento das emissões de gases com efeito de estufa"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A desflorestação e as queimadas libertam grandes quantidades de dióxido de carbono, agravando as alterações climáticas."
+    },
+    {
+      "numero": 43,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "Uma alimentação equilibrada, segundo as recomendações nutricionais, deve incluir principalmente:",
+      "alineas": {
+        "a": "Variedade de grupos alimentares, incluindo frutas e vegetais",
+        "b": "Apenas proteínas animais",
+        "c": "Somente alimentos processados",
+        "d": "Exclusivamente carboidratos refinados"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Uma dieta equilibrada deve conter variedade de alimentos, privilegiando frutas, legumes, proteínas e cereais integrais."
+    },
+    {
+      "numero": 44,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A conservação da biodiversidade nos parques nacionais angolanos, como a Quiçama e o Iona, é importante porque:",
+      "alineas": {
+        "a": "Impede o desenvolvimento do país",
+        "b": "Reduz a produção agrícola",
+        "c": "Não tem impacto na economia",
+        "d": "Protege ecossistemas e favorece o turismo sustentável"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Os parques nacionais preservam espécies e habitats, ao mesmo tempo que potenciam o turismo sustentável e a economia local."
+    },
+    {
+      "numero": 45,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O desporto mais popular em Angola, com selecção nacional de renome no continente, é:",
+      "alineas": {
+        "a": "O futebol",
+        "b": "O golfe",
+        "c": "O hóquei no gelo",
+        "d": "O ténis"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O futebol é o desporto mais praticado e popular em Angola, com forte tradição na selecção nacional, os 'Palancas Negras'."
+    },
+    {
+      "numero": 46,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A gestão sustentável dos recursos hídricos em Angola é relevante, sobretudo, devido a:",
+      "alineas": {
+        "a": "Inexistência de rios importantes",
+        "b": "Abundância ilimitada de água em todo o país",
+        "c": "Distribuição desigual da água e riscos de seca em algumas regiões",
+        "d": "Ausência de population rural"
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Apesar dos recursos hídricos abundantes nalgumas bacias, há regiões com escassez e risco de seca, exigindo gestão sustentável."
+    },
+    {
+      "numero": 47,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "O consumo excessivo de sal e açúcar está associado, do ponto de vista da saúde pública, ao aumento de:",
+      "alineas": {
+        "a": "Longevidade",
+        "b": "Imunidade reforçada",
+        "c": "Capacidade pulmonar",
+        "d": "Doenças cardiovasculares e diabetes"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "O excesso de sal e açúcar na dieta é factor de risco reconhecido para hipertensão, doenças cardiovasculares e diabetes."
+    },
+    {
+      "numero": 48,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A reciclagem de resíduos sólidos urbanos, incentivada em cidades angolanas como Luanda, contribui para:",
+      "alineas": {
+        "a": "Reduzir o volume de lixo e preservar recursos naturais",
+        "b": "Aumentar a poluição",
+        "c": "Elevar o consumo de água potável",
+        "d": "Diminuir o emprego local"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A reciclagem reduz o volume de resíduos depositados em aterros e permite a reutilização de materiais, poupando recursos naturais."
+    },
+    {
+      "numero": 49,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A saúde sexual e reprodutiva dos adolescentes em Angola é uma prioridade de saúde pública devido, entre outros factores, a:",
+      "alineas": {
+        "a": "Ausência de gravidez precoce no país",
+        "b": "Elevadas taxas de gravidez na adolescência",
+        "c": "Baixa taxa de natalidade nacional",
+        "d": "Excesso de informação disponível"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "As elevadas taxas de gravidez precoce em Angola tornam a saúde sexual e reprodutiva dos adolescentes uma prioridade de política pública."
+    },
+    {
+      "numero": 50,
+      "tema": "VIII. Ciência, Ambiente e Sociedade",
+      "enunciado": "A promoção da saúde mental no ambiente escolar e laboral em Angola tem sido incentivada através de:",
+      "alineas": {
+        "a": "Ausência de qualquer intervenção",
+        "b": "Isolamento total dos indivíduos afectados",
+        "c": "Punição de quem procura ajuda",
+        "d": "Programas de sensibilização e apoio psicossocial"
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Programas de sensibilização e apoio psicossocial ajudam a prevenir e tratar problemas de saúde mental em escolas e locais de trabalho."
+    }
+  ]
+}

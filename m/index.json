@@ -1,1 +1,222 @@
-
+{
+  "version": "2026-10-22",
+  "files": {
+    "provas/apoio_serieA": {
+      "handle": "78b2bfa7bc6e461f8805",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/78b2bfa7bc6e461f8805.json",
+      "sha256": "161fa4d1bc9dadc25e4c37d20d5f15b33672ad297b9ad8de0e221d55cb74dacb",
+      "size": 59060
+    },
+    "provas/apoio_serieB": {
+      "handle": "0a51fab06bfcf39a9bc6",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/0a51fab06bfcf39a9bc6.json",
+      "sha256": "3f8f434b82f555e1448875872356b67a8696f340f23653e45b332d0fad5e1feb",
+      "size": 55008
+    },
+    "provas/apoio_serieC": {
+      "handle": "08633b1896329167a86d",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/08633b1896329167a86d.json",
+      "sha256": "a270ca5a34f5200cc0dba1b2cc3451088866320299dc8003f577db53dd9a34ed",
+      "size": 60292
+    },
+    "provas/apoio_serieD": {
+      "handle": "01e4d63a6f7229c43281",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/01e4d63a6f7229c43281.json",
+      "sha256": "5a0999d457d318dcca34c3cbdbd1b657d910c8f5f2f9defb113539d3582d6039",
+      "size": 59194
+    },
+    "provas/apoio_serieE": {
+      "handle": "bc461e46bb276c610d2f",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/bc461e46bb276c610d2f.json",
+      "sha256": "f3d109baff8b9590fba145891cac55e5143a39f55e82501b2e9e583c0c343100",
+      "size": 85330
+    },
+    "provas/cultura_serieA": {
+      "handle": "eb239351fb824d7d6dfa",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/eb239351fb824d7d6dfa.json",
+      "sha256": "7c2035339685d72c0d3288f59428c60ef0537f0de35509afd2cead3acb986bac",
+      "size": 30410
+    },
+    "provas/cultura_serieB": {
+      "handle": "0bb333363eef0752cba3",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/0bb333363eef0752cba3.json",
+      "sha256": "b34a2b81f808a717404cf980a913102461580b2459128f37c1e0a474177d91d6",
+      "size": 30035
+    },
+    "provas/cultura_serieC": {
+      "handle": "290d296f37fa926bde09",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/290d296f37fa926bde09.json",
+      "sha256": "446d1ae5fe8b815a849ccf493a2c2fa89a34ae5fe461e5713ff519f7661114a8",
+      "size": 28624
+    },
+    "provas/cultura_serieD": {
+      "handle": "a6160faf7afa5fd46490",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/a6160faf7afa5fd46490.json",
+      "sha256": "bd02134937b8097cfe3c7d370c8a4bf6bce52977264df612879134bc8ab8d3d2",
+      "size": 31157
+    },
+    "provas/cultura_serieE": {
+      "handle": "5361384fa89b5cfcbebf",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/5361384fa89b5cfcbebf.json",
+      "sha256": "4629e88e2059c0d34c57c16c207384a3ad638a149aea2388ab9c237c33b62f0f",
+      "size": 30203
+    },
+    "provas/diag_serieA": {
+      "handle": "84063262a38ce82c9411",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/84063262a38ce82c9411.json",
+      "sha256": "5f1ebd49ddc8ff93c95dd1dd0a5aff3a05d3ca62545fe6b25737bc9ead63b747",
+      "size": 52807
+    },
+    "provas/diag_serieB": {
+      "handle": "2e630a8bc230493ed895",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/2e630a8bc230493ed895.json",
+      "sha256": "e971fad2af5e0037e295bc7e709229cfcff210a2b81444c9983252b5555ef594",
+      "size": 41302
+    },
+    "provas/diag_serieC": {
+      "handle": "976757cfb98ac50c94e0",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/976757cfb98ac50c94e0.json",
+      "sha256": "056c6ad1d0ebbe640ae35d43525a7e670175b73a51123ad429b3043804f5d5a3",
+      "size": 45357
+    },
+    "provas/diag_serieD": {
+      "handle": "7552e61d24253c4d6bc8",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/7552e61d24253c4d6bc8.json",
+      "sha256": "5bc24bc9fc4ecc3d6f1586a8ed06805876e8d904f43c6248de0d682fbaa3703e",
+      "size": 46656
+    },
+    "provas/diag_serieE": {
+      "handle": "0885cbe28899228917c9",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/0885cbe28899228917c9.json",
+      "sha256": "850446ab4d7f2d29774deec911f09d52a66c39941b6283f17e7f9f29346804f4",
+      "size": 42326
+    },
+    "provas/enf_serieA": {
+      "handle": "be59c45297676516539e",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/be59c45297676516539e.json",
+      "sha256": "f4d83402a3be3abd3b0728800295577f7195749528fc163f5e82690a27981522",
+      "size": 35732
+    },
+    "provas/enf_serieB": {
+      "handle": "5f26df7b7283226bca4d",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/5f26df7b7283226bca4d.json",
+      "sha256": "9dd3de4b71e5d379d0983ca8d0bf26c945c56bcf6f6e7da1c8d6fc4c68be1968",
+      "size": 37365
+    },
+    "provas/enf_serieC": {
+      "handle": "fdd85fa6ae4999122765",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/fdd85fa6ae4999122765.json",
+      "sha256": "7b8b0197d639187df6f539ed2f31c77022e2517d98296a908a4b01cab5759a92",
+      "size": 35251
+    },
+    "provas/enf_serieD": {
+      "handle": "f29714b4305fa522c687",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/f29714b4305fa522c687.json",
+      "sha256": "4a4f96d6948636f4b412c885f8ce2094a9edc9a89edb9e9e53f8054c200b4e9f",
+      "size": 37850
+    },
+    "provas/enf_serieE": {
+      "handle": "c3bd36b094ce6c1c43d6",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/c3bd36b094ce6c1c43d6.json",
+      "sha256": "7d75c9e290156668de20096aa7b25e861852add8ba3564a28d6f46edd1257a85",
+      "size": 54136
+    },
+    "provas/farm_serieA": {
+      "handle": "bfff1b6131c1007be58c",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/bfff1b6131c1007be58c.json",
+      "sha256": "89ed1d138eac9659818d13a8e5d47652be08c991dca538992b01ca7351d701ac",
+      "size": 70073
+    },
+    "provas/farm_serieB": {
+      "handle": "28cf7fd303fc9eab53d2",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/28cf7fd303fc9eab53d2.json",
+      "sha256": "f86c16d47ece5a00dc36df24b2a70070986fcd62e693d61d2757c66e180d9a3d",
+      "size": 75846
+    },
+    "provas/farm_serieC": {
+      "handle": "549233bb56fdc608622a",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/549233bb56fdc608622a.json",
+      "sha256": "92449cd65465b7c271f1fe18b0d10f7a8d5b82acdf5c8b19b6706b23c3edc20a",
+      "size": 75066
+    },
+    "provas/farm_serieD": {
+      "handle": "087284053df8b7f3f040",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/087284053df8b7f3f040.json",
+      "sha256": "fb7ed4405b2e5d235e11a87f1b14be1017a68ca4f5cafbc096c6fc3640d1d25c",
+      "size": 78018
+    },
+    "provas/farm_serieE": {
+      "handle": "6a798938cb300ad307a7",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/6a798938cb300ad307a7.json",
+      "sha256": "27871ae392a0f14e84e78bd916dd6f86ee4df26b1aa2f9610b8ff312aaeadbfc",
+      "size": 58598
+    },
+    "conteudos/apoio": {
+      "handle": "6f0e1ab451ae212149c0",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/6f0e1ab451ae212149c0.json",
+      "sha256": "dec2fa860cd6d303857f88e3b7cd8e30bcadb11611c07d8c05e3ba9cdce2c696",
+      "size": 92977
+    },
+    "conteudos/diagnostico": {
+      "handle": "f5518d072f096cc4cd0e",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/f5518d072f096cc4cd0e.json",
+      "sha256": "65406ed838558f091ea9ed1f775e0e7a904271d1c270d754f03b72a7e9a48aab",
+      "size": 191595
+    },
+    "conteudos/enfermagem": {
+      "handle": "e7ea5245958dc98a5f67",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/e7ea5245958dc98a5f67.json",
+      "sha256": "6aecdd1eb80726ef5e897021a5efc599641667c7ba5fdc58b91878ab165215bd",
+      "size": 200929
+    },
+    "conteudos/estomatologia": {
+      "handle": "54843b9a2503dfff425d",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/54843b9a2503dfff425d.json",
+      "sha256": "4de1c40e25dc715ecee48baccdc8f28c87992dc6b945419220cd37d72e93d646",
+      "size": 280981
+    },
+    "conteudos/farmacia": {
+      "handle": "9bb32d4fb5115f6aa165",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/9bb32d4fb5115f6aa165.json",
+      "sha256": "7fe1468414d21f313a9b31a2b710b83f0e08c77ec66abb297c0ac380b898de7e",
+      "size": 150359
+    },
+    "conteudos/fisioterapia": {
+      "handle": "34ec2de38f82da80fdab",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Angonurse/Remotos/refs/heads/main/m/34ec2de38f82da80fdab.json",
+      "sha256": "505bddb2c47d387df15bc445358648b360235058fc888283f5f004ff0ddb4671",
+      "size": 150057
+    }
+  }
+}

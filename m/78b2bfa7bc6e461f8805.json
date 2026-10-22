@@ -1,0 +1,674 @@
+{
+  "serie": "A",
+  "categoria": "APOIO HOSPITALAR",
+  "pais": "Angola",
+  "total": 50,
+  "perguntas": [
+    {
+      "numero": 1,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "O princípio da legalidade é um pilar da Administração Pública angolana, exigindo que os atos administrativos sejam praticados em conformidade com a lei. Em que medida a aplicação rigorosa deste princípio pode, paradoxalmente, constituir um obstáculo à eficiência e celeridade na prestação de serviços de saúde, especialmente em situações de emergência ou crise sanitária, onde a burocracia pode ser um entrave?",
+      "alineas": {
+        "a": "A aplicação estrita do princípio da legalidade pode levar a procedimentos administrativos excessivamente formais e demorados, atrasando a tomada de decisões urgentes e a aquisição de bens e serviços essenciais, como medicamentos e equipamentos, em situações de crise.",
+        "b": "O princípio da legalidade impede a atuação discricionária dos gestores de saúde, mesmo em situações de urgência, obrigando-os a seguir trâmites burocráticos que não se adaptam à velocidade exigida por crises sanitárias.",
+        "c": "A legalidade exige que todas as decisões sejam aprovadas por hierarquias superiores, sobrecarregando o sistema e impedindo a autonomia dos níveis operacionais na resposta a emergências.",
+        "d": "O princípio da legalidade, por si só, não constitui um obstáculo à eficiência; o problema reside na má interpretação ou aplicação inadequada das normas por parte dos funcionários, e não no princípio em si."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A aplicação rigorosa do princípio da legalidade, sem mecanismos de flexibilidade para situações de emergência, pode resultar em burocracia excessiva, atrasos nos procedimentos e na aquisição de bens e serviços, comprometendo a capacidade de resposta eficiente em crises sanitárias."
+    },
+    {
+      "numero": 2,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "A Lei sobre o Regime Jurídico da Burocracia Pública (Lei n.º 17/16, de 7 de Outubro) visa racionalizar e simplificar os procedimentos administrativos. No entanto, a sua efetivação na prática exige uma mudança cultural e sistémica. Em que medida a persistência de práticas burocráticas excessivas, mesmo após a promulgação desta lei, impacta negativamente o acesso e a qualidade dos serviços de saúde à população angolana?",
+      "alineas": {
+        "a": "A burocracia excessiva atrasa a triagem, o agendamento de consultas e o acesso a exames e tratamentos, resultando em longas filas, esperas prolongadas e, por vezes, a deterioração do estado de saúde dos pacientes devido à demora.",
+        "b": "A burocracia contribui para a ineficiência na gestão de stocks de medicamentos e consumíveis hospitalares, levando a ruturas e à necessidade de aquisição de bens por vias de exceção, muitas vezes mais dispendiosas.",
+        "c": "A complexidade dos procedimentos administrativos desmotiva os profissionais de saúde, que despendem tempo em tarefas burocráticas em vez de se dedicarem ao atendimento direto aos pacientes, afetando a qualidade do serviço.",
+        "d": "O impacto é cumulativo: atrasos na triagem e no acesso a exames, ineficiência na gestão de stocks hospitalares e desmotivação dos profissionais de saúde ocorrem em simultâneo."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A burocracia excessiva afeta a eficiência e a qualidade dos serviços de saúde em múltiplas dimensões, desde o acesso e o tempo de espera dos pacientes, a gestão de recursos e a motivação dos profissionais, tornando todas as opções relevantes e cumulativas."
+    },
+    {
+      "numero": 3,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "O princípio da impessoalidade exige que a Administração Pública atue sem discriminações, tratando todos os cidadãos de igual forma. No contexto da gestão de recursos humanos no setor da saúde, qual das seguintes situações configura uma violação direta e flagrante do princípio da impessoalidade?",
+      "alineas": {
+        "a": "A contratação de funcionários para um hospital público com base em critérios de amizade ou parentesco, em detrimento de candidatos com qualificações superiores e experiência relevante, sem a observância de concursos públicos.",
+        "b": "A priorização do atendimento a pacientes em estado crítico na urgência hospitalar, em detrimento de casos menos graves, seguindo protocolos médicos estabelecidos.",
+        "c": "A aplicação de um sistema de avaliação de desempenho que considera a produtividade e a qualidade do trabalho individual dos profissionais de saúde, resultando em diferenciação salarial por mérito.",
+        "d": "A criação de equipas de trabalho com base na especialidade e experiência dos profissionais, distribuindo tarefas de acordo com as suas competências técnicas para otimizar os resultados."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A contratação baseada em critérios de amizade ou parentesco (nepotismo/clientelismo) sem a observância de concursos públicos que garantam a igualdade de oportunidades e a seleção por mérito, viola diretamente o princípio da impessoalidade e da igualdade no acesso à função pública."
+    },
+    {
+      "numero": 4,
+      "tema": "I. Organização da Administração Pública",
+      "enunciado": "A Reforma do Estado e da Administração Pública em Angola tem promovido a modernização e a desburocratização. No entanto, a interoperabilidade entre os diferentes sistemas de informação dos órgãos da Administração Pública, especialmente no setor da saúde, ainda representa um desafio. Qual das seguintes consequências é a mais crítica da falta de interoperabilidade para a gestão e prestação de serviços de saúde?",
+      "alineas": {
+        "a": "A impossibilidade de partilha eficiente de dados clínicos entre diferentes unidades de saúde (hospitais, centros de saúde, etc.), dificultando o acompanhamento longitudinal dos pacientes e a tomada de decisões médicas informadas.",
+        "b": "A necessidade de os utentes apresentarem múltiplos documentos e informações em cada unidade de saúde, devido à ausência de um registo de paciente único e partilhado, gerando morosidade e insatisfação.",
+        "c": "A dificuldade na elaboração de estatísticas de saúde fidedignas e em tempo real, comprometendo a formulação e avaliação de políticas públicas de saúde baseadas em evidências.",
+        "d": "O impacto ocorre em simultâneo: impossibilidade de partilhar dados clínicos entre unidades, repetição de documentos pelos utentes e estatísticas de saúde pouco fiáveis para decisão política."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "A falta de interoperabilidade dos sistemas de informação na saúde tem um impacto multifacetado e crítico, afetando desde a qualidade do atendimento ao paciente (partilha de dados), a eficiência administrativa (necessidade de múltiplos documentos) até a capacidade de planeamento e avaliação das políticas públicas (estatísticas e evidências). Todas as opções são consequências graves e interligadas."
+    },
+    {
+      "numero": 5,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "Um funcionário de Apoio Hospitalar, durante um turno noturno, recebe uma oferta de valor simbólico (uma caixa de bombons importados) de um familiar de um paciente que elogia o atendimento prestado. Qual a conduta mais adequada sob a ótica da Deontologia da Função Pública Angolana?",
+      "alineas": {
+        "a": "Aceitar o presente, agradecendo a gentileza, pois o valor é simbólico e não configura suborno.",
+        "b": "Recusar educadamente a oferta, explicando que a deontologia proíbe o recebimento de dádivas em razão do serviço.",
+        "c": "Aceitar e partilhar imediatamente com os colegas de turno para evitar suspeitas de benefício pessoal.",
+        "d": "Aceitar e, posteriormente, declarar o recebimento à chefia, caso o valor exceda um limite predefinido."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O dever de imparcialidade e o regime de proibições de recebimento de dádivas impõem a recusa de ofertas, mesmo que de valor simbólico, para evitar qualquer perceção de influência ou favoritismo, fortalecendo a confiança no serviço público."
+    },
+    {
+      "numero": 6,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "Após a implementação de um novo protocolo de higiene hospitalar, um Técnico de Apoio Hospitalar deteta que um colega, por várias vezes, negligencia os procedimentos de desinfeção de superfícies. Qual a sua obrigação deontológica primária?",
+      "alineas": {
+        "a": "Confrontar o colega diretamente e exigir a correção, sob pena de o reportar à chefia.",
+        "b": "Ignorar a situação, pois não é sua responsabilidade fiscalizar outros funcionários.",
+        "c": "Reportar a situação à sua chefia imediata, apresentando os factos observados, visando a salvaguarda da saúde pública e o cumprimento das normas.",
+        "d": "Documentar as ocorrências e aguardar uma oportunidade formal para levantar a questão numa reunião de equipa."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O dever de zelo e a proteção da saúde pública implicam que o funcionário não deve ignorar condutas que comprometam a eficácia do serviço. O reporte à chefia é a via formal e adequada para corrigir a situação e garantir o cumprimento dos protocolos."
+    },
+    {
+      "numero": 7,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "Um Técnico de Apoio Hospitalar é notificado para comparecer a um procedimento disciplinar por alegada violação do dever de urbanidade, após um incidente com um utente. Qual dos seguintes princípios deve orientar a condução desse processo disciplinar?",
+      "alineas": {
+        "a": "A presunção de culpa do funcionário, dada a natureza do incidente.",
+        "b": "O direito do funcionário à defesa, incluindo a apresentação de provas e testemunhas.",
+        "c": "A celeridade do processo, priorizando a aplicação de sanção imediata.",
+        "d": "A confidencialidade absoluta do processo, sem que o funcionário tenha acesso às acusações."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O regime disciplinar da Função Pública garante o princípio do contraditório e o direito à defesa do arguido. Antes de qualquer sanção, o funcionário tem direito a ser ouvido, apresentar a sua versão dos factos, provas e testemunhas."
+    },
+    {
+      "numero": 8,
+      "tema": "II. Deontologia da Função Pública",
+      "enunciado": "Em que circunstância a sanção disciplinar de 'demissão' pode ser aplicada a um funcionário de Apoio Hospitalar, no âmbito do Estatuto Geral da Função Pública?",
+      "alineas": {
+        "a": "Após três faltas injustificadas num período de um mês.",
+        "b": "Por violação grave dos deveres de sigilo ou de probidade, que torne inviável a manutenção do vínculo laboral.",
+        "c": "Por atrasos reiterados, mesmo que não causem prejuízo grave ao serviço.",
+        "d": "Por desobediência a uma ordem legítima que não envolva risco à vida ou saúde de terceiros."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A demissão é a sanção mais grave e é reservada para infrações disciplinares de extrema gravidade, que quebram a relação de confiança e impossibilitam a continuidade do funcionário no serviço público, como a violação grave do dever de sigilo ou atos de corrupção."
+    },
+    {
+      "numero": 9,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "No contexto da gestão de recursos humanos hospitalares, qual das seguintes opções melhor ANULARIA o efeito da frase 'A administração hospitalar demonstrou uma postura de intransigência perante as reivindicações sindicais.'?",
+      "alineas": {
+        "a": "A direcção mostrou-se maleável e aberta ao diálogo com os representantes dos trabalhadores.",
+        "b": "A direcção manteve-se firme nas suas decisões, sem ceder às pressões.",
+        "c": "A gerência reavaliou as exigências, mas não as atendeu completamente.",
+        "d": "A chefia impôs a sua vontade, ignorando as negociações."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Intransigência significa rigidez, inflexibilidade. O seu antónimo contextual é maleabilidade e abertura ao diálogo, que anulam completamente a ideia original."
+    },
+    {
+      "numero": 10,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Identifique a analogia que melhor se coaduna com a relação apresentada em 'PROFILAXIA : DOENÇA'.",
+      "alineas": {
+        "a": "EDUCAÇÃO : IGNORÂNCIA",
+        "b": "DIAGNÓSTICO : SINTOMA",
+        "c": "TRATAMENTO : CURA",
+        "d": "VACINAÇÃO : SURTO"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Profilaxia é a acção de prevenir uma doença. Educação é a acção de prevenir a ignorância. A relação é de prevenção de um estado indesejado."
+    },
+    {
+      "numero": 11,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Considere a frase 'A carência de material esterilizado tornou a cirurgia um verdadeiro calvário'. Qual o significado FIGURADO de 'calvário' neste contexto?",
+      "alineas": {
+        "a": "Um percurso de grande sofrimento e dificuldades.",
+        "b": "Um local elevado onde se realizam sacrifícios.",
+        "c": "Um desafio que exige extrema perícia técnica.",
+        "d": "Uma situação que culmina numa recuperação milagrosa."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "No sentido figurado, 'calvário' evoca a ideia de um sofrimento prolongado e árduo, associado à Via Sacra de Cristo, aplicando-se bem a uma cirurgia complicada e dolorosa."
+    },
+    {
+      "numero": 12,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Identifique o sinónimo que, no contexto de uma avaliação de infraestruturas hospitalares, melhor substitui a palavra 'obsoleto'.",
+      "alineas": {
+        "a": "Antiquado",
+        "b": "Danificado",
+        "c": "Inoperante",
+        "d": "Degradado"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Obsoleto refere-se a algo que está fora de uso por ser antigo ou ultrapassado, sendo 'antiquado' o sinónimo mais directo para este sentido em relação a infraestruturas."
+    },
+    {
+      "numero": 13,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Assinale a opção em que a palavra destacada está empregue CORRETAMENTE, respeitando as normas ortográficas do português de Angola.",
+      "alineas": {
+        "a": "A avaliação `pós-operatória` revelou melhorias significativas.",
+        "b": "O `pré-requisito` para a vaga é experiência mínima de 5 anos.",
+        "c": "Havia um `contra-senso` nas directrizes da nova política de saúde.",
+        "d": "O `micro-organismo` foi identificado no laboratório de análises clínicas."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "De acordo com o AO90, 'pré-requisito' mantém o hífen. 'Pós-operatória' e 'micro-organismo' perdem o hífen ('pós-operatória', 'microrganismo'). 'Contrassenso' perde o hífen e duplica o 's'."
+    },
+    {
+      "numero": 14,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Qual das frases seguintes denota uma conotação de URGÊNCIA MODERADA, sem extremismos, no âmbito da gestão hospitalar?",
+      "alineas": {
+        "a": "É imperioso que se resolva esta questão em tempo recorde.",
+        "b": "A situação demanda atenção prioritária e célere.",
+        "c": "A resolução do problema é crucial e inevitável.",
+        "d": "A questão requer uma abordagem expedita e resolutiva."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "'Demanda atenção prioritária e célere' sugere a necessidade de rapidez e importância, mas sem a imposição ou o sentido de catástrofe iminente de 'imperioso' ou 'crucial'."
+    },
+    {
+      "numero": 15,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "A frase 'O novo protocolo de triagem revelou-se um verdadeiro 'elefante branco' para a equipa de enfermagem.' implica que o protocolo é:",
+      "alineas": {
+        "a": "Algo grandioso e majestoso, mas ineficaz na prática.",
+        "b": "Um projecto inovador, mas de implementação complexa.",
+        "c": "Uma iniciativa de alto custo, mas de pouca utilidade.",
+        "d": "Uma ferramenta robusta, mas que exige muita manutenção."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A expressão 'elefante branco' refere-se a algo que, apesar de dispendioso ou imponente, se revela inútil, desnecessário ou que gera mais despesa do que benefício."
+    },
+    {
+      "numero": 16,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Qual a palavra que preenche correctamente a lacuna na frase: 'A _________ do medicamento era crucial para a recuperação do paciente, que necessitava de uma acção rápida e eficaz.'",
+      "alineas": {
+        "a": "celeridade",
+        "b": "qualidade",
+        "c": "disponibilidade",
+        "d": "eficácia"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A frase indica a necessidade de 'acção rápida e eficaz', o que remete directamente para a 'celeridade' (rapidez) do medicamento, não apenas a sua qualidade, disponibilidade ou eficácia intrínseca."
+    },
+    {
+      "numero": 17,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "Num relatório sobre a sustentabilidade do hospital, a expressão 'passivo oculto' foi utilizada. Qual das opções melhor descreve o seu significado neste contexto?",
+      "alineas": {
+        "a": "Dívidas financeiras não contabilizadas ou subestimadas.",
+        "b": "Recursos humanos subutilizados e ineficazes.",
+        "c": "Equipamentos médicos avariados e sem substituição.",
+        "d": "Problemas estruturais da edificação ainda não detectados."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Um 'passivo oculto' refere-se tipicamente a obrigações financeiras ou dívidas que não estão explicitamente registadas na contabilidade ou que são difíceis de quantificar, mas que podem ter um impacto futuro significativo."
+    },
+    {
+      "numero": 18,
+      "tema": "III. Raciocínio Verbal",
+      "enunciado": "A frase 'A equipa médica agiu com parcimónia na utilização dos fármacos, devido à escassez de recursos.' significa que a equipa:",
+      "alineas": {
+        "a": "Foi económica e comedida no uso dos medicamentos.",
+        "b": "Hesitou em administrar os medicamentos necessários.",
+        "c": "Deu prioridade a tratamentos alternativos.",
+        "d": "Distribuiu os fármacos de forma igualitária entre os pacientes."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Parcimónia significa moderação, economia ou contenção. No contexto de escassez de recursos, agir com parcimónia implica ser cuidadoso e económico na utilização dos fármacos."
+    },
+    {
+      "numero": 19,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Num hospital, 6 enfermeiros conseguem preparar 72 doses de medicação em 40 minutos. Mantendo a mesma produtividade, quantos enfermeiros adicionais seriam necessários para preparar 180 doses em 30 minutos?",
+      "alineas": {
+        "a": "8 enfermeiros",
+        "b": "6 enfermeiros",
+        "c": "14 enfermeiros",
+        "d": "10 enfermeiros"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Primeiro, calcula-se a taxa de produtividade por enfermeiro. Depois, determina-se o total de enfermeiros necessários para a nova condição e subtrai-se o número inicial."
+    },
+    {
+      "numero": 20,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Um lote de 500 seringas descartáveis custa Kz 12.500.00. Se houver um aumento de 20% no custo unitário e for necessário adquirir o dobro da quantidade, qual será o novo valor total a pagar?",
+      "alineas": {
+        "a": "Kz 60.000.00",
+        "b": "Kz 30.000.00",
+        "c": "Kz 48.000.00",
+        "d": "Kz 45.000.00"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Calcula-se o custo unitário original, aplica-se o aumento percentual para obter o novo custo unitário, e depois multiplica-se pela nova quantidade total."
+    },
+    {
+      "numero": 21,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Numa sala de cirurgia, a temperatura deve ser mantida entre 20°C e 22°C. No entanto, o termóstato está calibrado em Fahrenheit. Qual o intervalo de temperatura equivalente em Fahrenheit? (F = 1.8C + 32)",
+      "alineas": {
+        "a": "Entre 68°F e 71.6°F",
+        "b": "Entre 64.4°F e 68°F",
+        "c": "Entre 66.8°F e 70.4°F",
+        "d": "Entre 70.0°F e 72.2°F"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Aplica-se a fórmula de conversão de Celsius para Fahrenheit para os dois limites de temperatura dados."
+    },
+    {
+      "numero": 22,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Uma enfermeira precisa administrar 250 ml de soro a um paciente durante 5 horas. Se o frasco de soro tem uma taxa de gotejamento de 20 gotas/ml, qual a frequência de gotejamento por minuto que ela deve ajustar?",
+      "alineas": {
+        "a": "16.67 gotas/min",
+        "b": "20 gotas/min",
+        "c": "25 gotas/min",
+        "d": "33.33 gotas/min"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Calcula-se o volume total em gotas (ml x gotas/ml), divide-se pelo tempo total em minutos (horas x 60) para obter a taxa de gotejamento por minuto."
+    },
+    {
+      "numero": 23,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Um hospital tem 180 camas. 75% delas estão ocupadas. Dos leitos ocupados, 2/3 são de pacientes com alta prevista para os próximos 3 dias. Quantos leitos estarão disponíveis após estas altas, considerando que não haverá novas internações?",
+      "alineas": {
+        "a": "90 leitos",
+        "b": "105 leitos",
+        "c": "75 leitos",
+        "d": "60 leitos"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Calcula-se o número de leitos ocupados, depois o número de altas. O número de leitos disponíveis é a soma dos leitos vazios iniciais com os leitos que ficarão vazios após as altas."
+    },
+    {
+      "numero": 24,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Uma farmácia hospitalar recebeu um carregamento de medicamentos. 40% são antibióticos, 30% são analgésicos e o restante são anti-inflamatórios. Se o total de medicamentos é 1500 unidades, e 1/5 dos anti-inflamatórios está fora do prazo de validade, quantos anti-inflamatórios válidos existem?",
+      "alineas": {
+        "a": "180 unidades",
+        "b": "270 unidades",
+        "c": "150 unidades",
+        "d": "300 unidades"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Calcula-se a percentagem de anti-inflamatórios, depois o número total de anti-inflamatórios."
+    },
+    {
+      "numero": 25,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Para esterilizar um equipamento, são necessários 250 ml de uma solução de desinfetante a 0.5%. Se a solução concentrada disponível é de 10%, quantos ml da solução concentrada devem ser diluídos em água para obter a quantidade e concentração desejada?",
+      "alineas": {
+        "a": "12.5 ml",
+        "b": "5 ml",
+        "c": "25 ml",
+        "d": "1.25 ml"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Usa-se a fórmula C1V1 = C2V2 para calcular o volume da solução concentrada necessária para atingir a concentração e volume desejados."
+    },
+    {
+      "numero": 26,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Numa campanha de vacinação, a meta era vacinar 85% da população de 2500 pessoas. No primeiro dia, vacinaram-se 1/3 da meta. No segundo dia, vacinaram-se 2/5 do restante da meta. Quantas pessoas ainda precisam ser vacinadas para atingir a meta?",
+      "alineas": {
+        "a": "712 pessoas",
+        "b": "637.5 pessoas",
+        "c": "595 pessoas",
+        "d": "850 pessoas"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Calcula-se a meta total de vacinação. Em seguida, calcula-se o número de vacinados no primeiro e segundo dia e subtrai-se da meta total para encontrar o remanescente."
+    },
+    {
+      "numero": 27,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Um fornecedor de material cirúrgico entregou 15 caixas de luvas. Cada caixa contém 20 pacotes, e cada pacote tem 100 pares de luvas. Se 5% do total de luvas está danificado, quantas luvas utilizáveis foram entregues?",
+      "alineas": {
+        "a": "28.500 luvas",
+        "b": "29.250 luvas",
+        "c": "27.000 luvas",
+        "d": "28.000 luvas",
+        "e": "30.000 luvas"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Calcula-se o número total de luvas. Depois, calcula-se 5% deste total e subtrai-se do total para obter o número de luvas utilizáveis."
+    },
+    {
+      "numero": 28,
+      "tema": "IV. Raciocínio Numérico",
+      "enunciado": "Um hospital registou um aumento de 15% no número de internamentos em Abril relativamente a Março. Em Maio, houve uma redução de 10% relativamente a Abril. Se em Março houve 400 internamentos, quantos internamentos ocorreram em Maio?",
+      "alineas": {
+        "a": "414 internamentos",
+        "b": "420 internamentos",
+        "c": "396 internamentos",
+        "d": "402 internamentos"
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Calcula-se o número de internamentos em Abril aplicando o aumento percentual sobre Março. Depois, aplica-se a redução percentual de Maio sobre o valor de Abril."
+    },
+    {
+      "numero": 29,
+      "tema": "V. COVID-19",
+      "enunciado": "A infecção por SARS-CoV-2 pode desencadear uma série de complicações sistêmicas, para além das manifestações respiratórias. Em relação ao risco de tromboembolismo venoso (TEV) e arterial, qual das seguintes afirmações melhor descreve a fisiopatologia e a conduta recomendada em pacientes hospitalizados com COVID-19 grave?",
+      "alineas": {
+        "a": "A inflamação sistêmica e a disfunção endotelial induzida pelo vírus promovem um estado de hipercoagulabilidade, justificando a profilaxia antitrombótica na maioria dos pacientes hospitalizados, especialmente nos graves.",
+        "b": "O risco de tromboembolismo é principalmente arterial, decorrente da directiva viral às células cardíacas, e a profilaxia antitrombótica é contra-indicada devido ao elevado risco de hemorragia.",
+        "c": "Somente pacientes com histórico prévio de TEV devem receber profilaxia antitrombótica, visto que a COVID-19 não aumenta significativamente o risco em indivíduos sem predisposição.",
+        "d": "A ocorrência de TEV em COVID-19 é um evento raro e idiossincrático, não havendo evidência suficiente para a recomendação generalizada de profilaxia antitrombótica."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A COVID-19, particularmente em quadros graves, induz um estado pró-trombótico devido à inflamação e disfunção endotelial. A profilaxia antitrombótica é fundamental para prevenir TEV em pacientes hospitalizados com COVID-19 grave."
+    },
+    {
+      "numero": 30,
+      "tema": "V. COVID-19",
+      "enunciado": "Um paciente apresenta sintomas gripais inespecíficos há 3 dias. Procurou o serviço de saúde para despiste de COVID-19. O teste rápido de antigénio resultou negativo. Qual a interpretação mais correcta deste resultado para a conduta subsequente?",
+      "alineas": {
+        "a": "O resultado negativo do teste rápido de antigénio não exclui a infecção por SARS-CoV-2, especialmente em casos sintomáticos precoces, e um RT-PCR deve ser considerado em caso de suspeita clínica elevada.",
+        "b": "O resultado negativo é conclusivo para a ausência de infecção por SARS-CoV-2, e o paciente pode ser libertado sem restrições ou necessidade de testes adicionais.",
+        "c": "O teste rápido de antigénio é mais sensível que o RT-PCR nos primeiros dias de sintomas, portanto, um resultado negativo tem alta fiabilidade para exclusão da COVID-19.",
+        "d": "O paciente deve ser considerado um falso-negativo e iniciar imediatamente o isolamento e tratamento para COVID-19, independentemente de qualquer outro teste."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Testes rápidos de antigénio possuem menor sensibilidade que o RT-PCR, principalmente no início da infecção ou com baixa carga viral. Um resultado negativo em um paciente sintomático com alta suspeita clínica requer confirmação por RT-PCR ou reavaliação clínica."
+    },
+    {
+      "numero": 31,
+      "tema": "V. COVID-19",
+      "enunciado": "A etiologia da COVID-19 é o vírus SARS-CoV-2. Qual das seguintes características virais contribui significativamente para a sua alta transmissibilidade e capacidade de evasão imunitária?",
+      "alineas": {
+        "a": "A presença da glicoproteína 'Spike' (S) na sua superfície, que interage com o receptor ACE2 nas células hospedeiras e sofre mutações frequentes, alterando a antigenicidade e a virulência.",
+        "b": "A sua estrutura de RNA de fita dupla, que confere maior estabilidade genética e impede a rápida adaptação a novos hospedeiros.",
+        "c": "A sua capacidade de integrar-se no genoma humano, levando a infecções latentes e reativações, similar a certos herpesvírus.",
+        "d": "A ausência de envelope viral, o que o torna mais resistente a desinfectantes e facilita a sua sobrevivência em superfícies."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A glicoproteína Spike é crucial para a entrada viral nas células e é o principal alvo da resposta imunitária. As suas mutações são responsáveis pelo surgimento de variantes com maior transmissibilidade e capacidade de evasão imunitária."
+    },
+    {
+      "numero": 32,
+      "tema": "V. COVID-19",
+      "enunciado": "O prognóstico da COVID-19 é variável e influenciado por múltiplos factores. Qual combinação de factores é consistentemente associada a um pior prognóstico e maior risco de mortalidade em pacientes hospitalizados com COVID-19?",
+      "alineas": {
+        "a": "Idade avançada, comorbidades como diabetes mellitus e doenças cardiovasculares, e marcadores inflamatórios elevados como D-dímero e PCR.",
+        "b": "Idade jovem, ausência de comorbidades e linfopenia moderada, indicando uma resposta imune robusta.",
+        "c": "Febre baixa, tosse seca e ausência de dispneia, independentemente dos resultados laboratoriais.",
+        "d": "Histórico de vacinação completa contra SARS-CoV-2 e presença de sintomas gastrointestinais isolados."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Idade avançada, comorbidades pré-existentes e evidência de inflamação sistêmica (marcadores elevados) são factores de risco bem estabelecidos para pior prognóstico e maior mortalidade na COVID-19."
+    },
+    {
+      "numero": 33,
+      "tema": "V. COVID-19",
+      "enunciado": "Durante a fase aguda da COVID-19, um paciente desenvolve uma lesão renal aguda (LRA). Qual dos seguintes mecanismos é menos provável de ser a causa primária directa da LRA neste contexto?",
+      "alineas": {
+        "a": "Nefropatia por IgA, uma vez que a COVID-19 não está directamente associada a glomerulonefrites primárias.",
+        "b": "Disfunção endotelial e microangiopatia por inflamação sistêmica e tempestade de citocinas.",
+        "c": "Hipoperfusão renal devido à hipotensão e choque séptico.",
+        "d": "Efeito citopático directo do SARS-CoV-2 nas células tubulares renais e podócitos."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A LRA na COVID-19 é multifactorial, envolvendo choque, hipoperfusão, inflamação sistêmica, nefrotoxicidade de fármacos e possível efeito citopático directo. A nefropatia por IgA é uma glomerulonefrite primária e não é um mecanismo primário directo da LRA na fase aguda da COVID-19."
+    },
+    {
+      "numero": 34,
+      "tema": "V. COVID-19",
+      "enunciado": "A conduta de isolamento é fundamental para o controlo da disseminação da COVID-19. Para um paciente com COVID-19 confirmada e sintomas leves, que está em isolamento domiciliar, qual das seguintes orientações é a mais crítica para prevenir a transmissão intrafamiliar?",
+      "alineas": {
+        "a": "Manter o paciente em um quarto separado, usar máscara ao sair do quarto, evitar partilhar utensílios e assegurar ventilação adequada do ambiente.",
+        "b": "Permitir as actividades diárias normais dentro de casa, desde que o paciente não esteja a tossir activamente, para não causar ansiedade desnecessária.",
+        "c": "Limitar o isolamento a 48 horas após o desaparecimento da febre, independentemente de outros sintomas, pois é o período de maior infecciosidade.",
+        "d": "Apenas o uso de desinfectante de mãos é suficiente, pois a transmissão primária é por contacto directo com objectos contaminados."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O isolamento domiciliar eficaz para casos leves de COVID-19 envolve medidas rigorosas de separação física, uso de máscaras, higiene e ventilação para minimizar a transmissão aérea e por contacto dentro do domicílio."
+    },
+    {
+      "numero": 35,
+      "tema": "V. COVID-19",
+      "enunciado": "Na avaliação laboratorial de um paciente com COVID-19, a monitorização de certos biomarcadores é crucial para estratificação de risco e avaliação da resposta ao tratamento. Qual dos seguintes painéis de biomarcadores é mais indicativo de uma resposta inflamatória sistémica grave e risco de síndrome de libertação de citocinas?",
+      "alineas": {
+        "a": "Elevação acentuada de Proteína C-Reativa (PCR), Ferritina, D-dímero e Interleucina-6 (IL-6), acompanhada de linfopenia.",
+        "b": "Níveis normais de PCR, Ferritina e D-dímero, com ligeira elevação de creatinina.",
+        "c": "Apenas elevação isolada de transaminases hepáticas, sem outras alterações inflamatórias.",
+        "d": "Elevação de biomarcadores cardíacos como troponina I, sem alterações nos marcadores inflamatórios agudos."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A elevação acentuada de PCR, Ferritina, D-dímero e IL-6, juntamente com linfopenia, são marcadores clássicos de uma resposta inflamatória sistémica grave e estão associados a pior prognóstico e risco de tempestade de citocinas na COVID-19."
+    },
+    {
+      "numero": 36,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "A Conferência de Berlim (1884-1885) teve um impacto profundo na delimitação das fronteiras africanas, incluindo as de Angola. Qual das seguintes afirmações melhor descreve a principal consequência geopolítica da Conferência para o território angolano, no que concerne à sua soberania e integridade territorial, antes da proclamação da independência?",
+      "alineas": {
+        "a": "Consolidou a pretensão portuguesa sobre o \"Mapa Cor-de-Rosa\", integrando vastas regiões do que hoje é o Zaire e a Zâmbia no seu domínio colonial em Angola.",
+        "b": "Estabeleceu o princípio da ocupação efetiva, forçando Portugal a negociar acordos de partilha territorial com potências vizinhas, como a Grã-Bretanha e a Alemanha, definindo assim as suas atuais fronteiras leste e sul.",
+        "c": "Legitimou a anexação de Cabinda por Portugal, justificando-a com base em laços históricos e culturais preexistentes com o Reino do Congo.",
+        "d": "Levou à criação de um protetorado internacional sobre o rio Congo, garantindo a livre navegação e impedindo Portugal de controlar a foz e o acesso ao interior angolano.",
+        "e": "Resultou na devolução de uma parte significativa do território angolano aos reinos autóctones, como o Reino do Congo e o Reino de Ndongo, em reconhecimento da sua soberania histórica."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Conferência de Berlim substituiu o princípio do 'uti possidetis' pelo da ocupação efetiva, obrigando Portugal a negociar tratados bilaterais para demarcar as fronteiras angolanas com as colónias britânicas e alemãs, o que moldou decisivamente o território atual."
+    },
+    {
+      "numero": 37,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "A Bandeira Nacional de Angola, um dos símbolos mais importantes do país, possui elementos gráficos e cromáticos com significados específicos. Qual a interpretação mais precisa para a estrela amarela de cinco pontas presente na bandeira, considerando o contexto histórico e os ideais da independência?",
+      "alineas": {
+        "a": "Representa a luta armada vitoriosa contra o colonialismo português, simbolizando o sangue derramado pelos heróis nacionais.",
+        "b": "Simboliza a unidade e a solidariedade dos povos africanos na busca pela autodeterminação e progresso continental.",
+        "c": "Alude à nação internacionalista, à solidariedade e ao progresso do país, espelhando ideais socialistas e de desenvolvimento.",
+        "d": "Representa as cinco regiões geográficas de Angola, unidas sob uma única nação soberana e indivisível.",
+        "e": "É um tributo à estrela polar, um guia para os navegadores e exploradores que contribuíram para a descoberta e colonização do território angolano."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A estrela amarela de cinco pontas na bandeira nacional angolana simboliza o internacionalismo, a solidariedade e o progresso, refletindo os ideais socialistas que nortearam a proclamação da independência."
+    },
+    {
+      "numero": 38,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "O rio Cunene, um dos mais importantes de Angola, desempenha um papel vital na ecologia e economia das regiões que atravessa. Qual das seguintes afirmações sobre o rio Cunene é a mais correta em termos da sua importância transfronteiriça e do seu aproveitamento hidrelétrico?",
+      "alineas": {
+        "a": "Nasce em Angola e desagua totalmente no Oceano Atlântico, sendo a sua bacia hidrográfica exclusivamente angolana e utilizada para irrigação interna.",
+        "b": "Forma parte da fronteira natural entre Angola e a Namíbia, e a sua bacia é partilhada por ambos os países, sendo essencial para projetos hidrelétricos como a barragem de Calueque e Ruacana.",
+        "c": "É um afluente do rio Zambeze, contribuindo para a irrigação das planícies do leste angolano e do sul da Zâmbia.",
+        "d": "A sua foz localiza-se no delta do Okavango, sendo uma fonte crucial de água doce para a vida selvagem Botswana e para a agricultura intensiva.",
+        "e": "É o maior rio totalmente navegável dentro de Angola, facilitando o transporte de mercadorias entre o interior e a costa atlântica."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O rio Cunene forma parte da fronteira Angola-Namíbia, é uma bacia partilhada e fundamental para projetos hidrelétricos como Calueque e Ruacana, de interesse para ambos os países."
+    },
+    {
+      "numero": 39,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "A África, continente de vastas riquezas e desafios, tem sido palco de diversas iniciativas de integração regional. Qual das seguintes tendências tem sido mais proeminente e com maior impacto na dinâmica geopolítica da África Subsariana nas últimas duas décadas, para além das questões de segurança e governação?",
+      "alineas": {
+        "a": "A crescente intervenção militar de potências ocidentais para estabilizar regimes e combater o terrorismo.",
+        "b": "A expansão e o aprofundamento das relações comerciais e de investimento com a China, redefinindo as parcerias económicas tradicionais.",
+        "c": "A emergência de blocos comerciais regionais totalmente integrados, como a Comunidade Económica da África Ocidental (CEDEAO) e a SADC, com uma moeda única.",
+        "d": "A redução significativa da dívida externa africana, permitindo um maior investimento público em infraestruturas sociais e económicas.",
+        "e": "O declínio acentuado das taxas de natalidade em todo o continente, resultando numa mudança demográfica significativa e no envelhecimento da população."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A China emergiu como um parceiro económico e de investimento dominante na África Subsariana nas últimas duas décadas, desafiando as relações económicas tradicionais e redefinindo a geopolítica regional."
+    },
+    {
+      "numero": 40,
+      "tema": "VI. Cultura Geral",
+      "enunciado": "A Constituição da República de Angola, como lei fundamental, estabelece os pilares do Estado angolano. Qual das seguintes características distingue a atual Constituição de Angola (2010), em comparação com as anteriores, no que concerne à eleição do Presidente da República?",
+      "alineas": {
+        "a": "Introduziu o sistema eleitoral direto para o Presidente da República, por sufrágio universal e secreto, com dois turnos se necessário.",
+        "b": "Estabeleceu que o Presidente da República é eleito indiretamente, sendo o cabeça de lista do partido político mais votado nas eleições legislativas.",
+        "c": "Permitiu a reeleição ilimitada do Presidente da República, desde que cumpra os requisitos de idade e nacionalidade.",
+        "d": "Criou o cargo de Vice-Presidente da República, eleito separadamente, mas com menor poder executivo do que o Presidente.",
+        "e": "Introduziu um sistema de eleição por um colégio eleitoral composto por representantes de todas as províncias do país."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A Constituição de 2010 introduziu a eleição indireta do Presidente da República, que passa a ser o cabeça de lista do partido político mais votado nas eleições para a Assembleia Nacional, ao invés de ser eleito diretamente."
+    },
+    {
+      "numero": 41,
+      "tema": "VII. Divisão Político-Administrativa de Angola (2024)",
+      "enunciado": "A reforma administrativa de 2024 estabeleceu novos municípios. Como a criação destes novos municípios pode influenciar a capacidade de resposta a emergências sanitárias, como surtos epidémicos ou desastres naturais, em termos de coordenação intersectorial?",
+      "alineas": {
+        "a": "Exige a criação de novos gabinetes intersectoriais de coordenação em cada novo município, com representação da saúde, defesa civil e outras entidades, para uma resposta integrada e eficaz.",
+        "b": "Reduz a necessidade de coordenação intersectorial, pois cada novo município terá autonomia para gerir suas próprias emergências sem interferência externa.",
+        "c": "Não tem impacto significativo na resposta a emergências, uma vez que a coordenação é sempre realizada a nível provincial ou nacional.",
+        "d": "Leva à centralização da gestão de emergências no Ministério da Saúde, desconsiderando a participação de outros setores no novo arranjo administrativo.",
+        "e": "Aumenta a burocracia na resposta a emergências, pois cada novo município deve seguir um protocolo diferente dos demais."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "Novos municípios implicam a necessidade de estabelecer novas estruturas de coordenação local, incluindo gabinetes intersectoriais, para garantir uma resposta rápida e eficaz a emergências sanitárias, integrando diferentes setores da administração pública."
+    },
+    {
+      "numero": 42,
+      "tema": "IX. IIMS 2023-2024",
+      "enunciado": "No âmbito do IIMS 2023-2024, a análise dos padrões de aleitamento materno exclusivo (AME) demonstrou um desafio persistente. Qual das seguintes abordagens integra melhor os dados do IIMS para fortalecer as políticas de nutrição infantil e promover o AME?",
+      "alineas": {
+        "a": "Fomentar campanhas publicitárias genéricas sobre 'leite materno é melhor', sem segmentação ou intervenções comunitárias.",
+        "b": "Desenvolver programas de aconselhamento nutricional em unidades sanitárias e a nível comunitário, adaptados às barreiras culturais e socioeconómicas identificadas pelo IIMS, e monitorizar a sua eficácia.",
+        "c": "Distribuir fórmulas lácteas gratuitamente em áreas de baixo AME, como medida paliativa para a subnutrição.",
+        "d": "Legislar o AME como obrigatório por lei, sem prover suporte adequado às mães ou considerar os desafios práticos vivenciados.",
+        "e": "Concentrar-se apenas na promoção do AME nos primeiros dias pós-parto, negligenciando o suporte contínuo até os seis meses de vida do bebé."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Os dados do IIMS expõem as barreiras ao AME. O desenvolvimento de programas de aconselhamento adaptados e monitorizados, tanto em unidades sanitárias quanto na comunidade, é a estratégia mais eficaz para fortalecer as políticas de nutrição infantil, abordando as causas subjacentes e promovendo a adesão."
+    },
+    {
+      "numero": 43,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "No contexto da implementação de um sistema de IA para diagnóstico por imagem em hospitais públicos angolanos, qual das seguintes abordagens é a mais eficaz para mitigar o viés algorítmico inerente aos conjuntos de dados de treino, considerando a diversidade étnica e socioeconómica da população angolana?",
+      "alineas": {
+        "a": "Desenvolver um protocolo rigoroso para a curadoria de dados, garantindo a representatividade de diferentes grupos demográficos na fase de aquisição e anotação, e aplicando técnicas de ponderação de amostras durante o treino do modelo.",
+        "b": "Limitar o conjunto de dados de treino a imagens provenientes de hospitais de referência nas capitais provinciais, por apresentarem maior padronização técnica.",
+        "c": "Utilizar exclusivamente modelos de IA pré-treinados em grandes bases de dados internacionais, assumindo que a sua escala global já endereça a diversidade local.",
+        "d": "Implementar um sistema de 'black-box' que impede a análise dos critérios de decisão da IA, focando apenas na acurácia global dos resultados.",
+        "e": "Priorizar a velocidade de processamento da IA em detrimento da diversidade dos dados para otimizar o fluxo de trabalho hospitalar."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A mitigação do viés algorítmico requer um esforço deliberado na curadoria de dados representativos e na aplicação de técnicas que corrijam desequilíbrios, garantindo que o modelo generalize bem para todas as populações, especialmente em contextos de grande diversidade."
+    },
+    {
+      "numero": 44,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "A Lei Angolana de Proteção de Dados Pessoais (LPDP) e o Regulamento Geral de Proteção de Dados (RGPD) europeu, embora com diferenças, partilham princípios fundamentais. Perante a implementação de um chatbot alimentado por IA para triagem de pacientes em unidades de saúde angolanas, qual dos seguintes requisitos éticos e legais é o mais crítico para assegurar a conformidade e a confiança do utente?",
+      "alineas": {
+        "a": "Assegurar que o paciente seja explicitamente informado sobre a interação com uma IA, o propósito da recolha de dados, como os dados serão utilizados e partilhados, e o seu direito de optar por uma interação humana a qualquer momento.",
+        "b": "Garantir que os algoritmos do chatbot operem com uma taxa de acurácia de diagnóstico superior a 95% para todas as condições médicas.",
+        "c": "Armazenar todos os diálogos do chatbot em servidores localizados fora de Angola para maior segurança contra ciberataques internos.",
+        "d": "Priorizar a anonimização completa dos dados de saúde recolhidos, mesmo que isso impeça a melhoria contínua do modelo de IA através de aprendizagem a longo prazo.",
+        "e": "Restringir o acesso ao chatbot apenas a pacientes com histórico clínico prévio na unidade de saúde."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A transparência e o consentimento informado são pilares da proteção de dados e da ética da IA na saúde. Os pacientes devem compreender que estão a interagir com uma IA e ter controlo sobre os seus dados e a opção de assistência humana."
+    },
+    {
+      "numero": 45,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "Um sistema de IA é proposto para otimizar a alocação de recursos em centros de saúde primários em áreas rurais de Angola, baseando-se em modelos preditivos de surtos de doenças. Qual o principal benefício estratégico desta aplicação da IA no sector público angolano?",
+      "alineas": {
+        "a": "Redução significativa da necessidade de profissionais de saúde qualificados nessas áreas, devido à automação da tomada de decisões.",
+        "b": "Otimização proativa da distribuição de medicamentos, vacinas e equipas médicas, minimizando o desperdício e maximizando a cobertura em regiões carenciadas.",
+        "c": "Substituição completa dos sistemas de vigilância epidemiológica tradicionais por algoritmos de IA.",
+        "d": "Garantia de que todos os pacientes receberão um diagnóstico instantâneo e totalmente preciso, independentemente da complexidade do caso.",
+        "e": "Aumento imediato e exponencial do financiamento para a saúde nas áreas rurais, devido à visibilidade gerada pela IA."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A IA pode prever tendências e otimizar a alocação de recursos escassos, permitindo uma resposta mais eficiente e direcionada a surtos ou necessidades de saúde específicas, o que é crucial em regiões rurais com recursos limitados."
+    },
+    {
+      "numero": 46,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "A utilização de IA para análise de grandes volumes de dados genómicos de pacientes angolanos, visando a medicina personalizada, levanta complexas questões éticas. Qual delas representa o dilema mais premente no contexto atual angolano?",
+      "alineas": {
+        "a": "A dificuldade em obter conjuntos de dados genómicos suficientemente grandes e diversificados da população angolana para treinar modelos de IA eficazes, sem levantar preocupações de exploração ou neocolonialismo de dados.",
+        "b": "A obsolescência imediata de todos os medicamentos existentes devido à descoberta de tratamentos personalizados pela IA.",
+        "c": "A inevitabilidade de que a IA revele predisposições genéticas para doenças incuráveis, levando a um pânico generalizado na população.",
+        "d": "A exigência de que todos os cidadãos angolanos submetam o seu genoma para análise de IA como condição para acesso a cuidados de saúde.",
+        "e": "A preocupação com a total substituição de geneticistas humanos por sistemas de IA em hospitais."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A coleta e utilização de dados genómicos de populações específicas, especialmente em contextos com histórico de vulnerabilidades, exige rigor ético para evitar a exploração e garantir que os benefícios da pesquisa sejam partilhados equitativamente, respeitando a soberania dos dados."
+    },
+    {
+      "numero": 47,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "Um modelo de IA de aprendizagem profunda é implementado para auxiliar radiologistas angolanos na deteção precoce de tuberculose em radiografias de tórax. Após a sua implementação, observa-se que o modelo tem um desempenho significativamente inferior em pacientes de proveniência rural. Qual a causa mais provável para esta discrepância no desempenho?",
+      "alineas": {
+        "a": "A IA foi treinada exclusivamente com dados de pacientes urbanos, levando a um viés algorítmico que não reconhece as variações na qualidade da imagem ou na apresentação da doença em contextos rurais.",
+        "b": "Os radiologistas urbanos possuem maior experiência e, portanto, fornecem rótulos de dados mais precisos para o treino da IA.",
+        "c": "A tuberculose é intrinsecamente mais difícil de detetar em pacientes rurais devido a fatores genéticos específicos dessa população.",
+        "d": "Os computadores nas áreas rurais são inerentemente mais lentos, impedindo o processamento eficiente da IA.",
+        "e": "A IA foi projetada para detetar apenas condições respiratórias não relacionadas à tuberculose em pacientes rurais."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O viés algorítmico surge quando o conjunto de dados de treino não é representativo da população onde a IA será aplicada. Se a IA foi treinada principalmente com dados de pacientes urbanos, pode falhar ao generalizar para características diferentes de imagens ou apresentações clínicas em contextos rurais."
+    },
+    {
+      "numero": 48,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "Na perspetiva de um gestor hospitalar do Ministério da Saúde de Angola, qual dos seguintes riscos associados à IA na saúde merece a mais alta prioridade de mitigação, dado o contexto de recursos limitados e a necessidade de equidade no acesso aos cuidados?",
+      "alineas": {
+        "a": "A dependência excessiva da IA por parte dos profissionais de saúde, levando à atrofia das suas competências clínicas e críticas.",
+        "b": "O custo proibitivo da aquisição e manutenção de sistemas de IA, potencialmente desviando recursos de outras áreas essenciais da saúde.",
+        "c": "A possibilidade de que a IA cometa erros de diagnóstico que resultem em danos aos pacientes, sem um claro mecanismo de responsabilização.",
+        "d": "A criação de um 'fosso digital' na saúde, onde o acesso aos benefícios da IA é restrito a uma elite, aprofundando as desigualdades em vez de as reduzir.",
+        "e": "A dificuldade de integrar a IA com sistemas de registos de saúde eletrónicos existentes e desatualizados."
+      },
+      "resposta_correcta": "d",
+      "justificativa": "Em contextos de recursos limitados, a preocupação com a equidade é primordial. Se a IA agravar as desigualdades no acesso aos cuidados, em vez de as aliviar, o seu impacto social pode ser negativo, contrariando o objetivo de um serviço público de saúde."
+    },
+    {
+      "numero": 49,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "A implementação de sistemas de IA para monitorização contínua de pacientes em unidades de cuidados intensivos em hospitais angolanos permite a deteção precoce de deterioração do estado de saúde. Qual a principal implicação ética desta funcionalidade em termos de autonomia do paciente?",
+      "alineas": {
+        "a": "A necessidade de garantir que os pacientes (ou seus representantes legais) compreendam a natureza da monitorização por IA e consintam explicitamente, mesmo em situações de urgência, onde a capacidade de consentimento pode estar comprometida.",
+        "b": "A possibilidade de que a IA prescreva medicamentos sem a supervisão de um médico, violando a autonomia clínica.",
+        "c": "A redução da interação humana entre enfermeiros e pacientes, resultando numa diminuição da qualidade do cuidado.",
+        "d": "O risco de que a IA tome decisões sobre o fim da vida do paciente sem qualquer intervenção humana.",
+        "e": "A obrigatoriedade de que todos os dados de monitorização sejam tornados públicos para fins de pesquisa, sem exceção."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "A autonomia do paciente exige que este seja informado e consinta com os procedimentos médicos, incluindo a monitorização por IA. Em situações de urgência, o desafio ético é garantir que o consentimento seja obtido de forma adequada ou que haja uma base legal e ética para a intervenção, respeitando sempre os desejos prévios do paciente se existirem."
+    },
+    {
+      "numero": 50,
+      "tema": "X. Inteligência Artificial na Saúde",
+      "enunciado": "No âmbito das aplicações de IA para triagem de pacientes em prontos-socorros, a ética exige que se evite o 'desvio de recurso'. Qual das seguintes situações exemplifica o risco mais elevado de 'desvio de recurso' ético num contexto onde a IA é utilizada para priorizar casos?",
+      "alineas": {
+        "a": "O sistema de IA consistentemente atribui uma prioridade mais baixa a pacientes com sintomas atípicos de doenças prevalentes em grupos minoritários, levando a atrasos no diagnóstico e tratamento.",
+        "b": "A IA recomenda a utilização de um medicamento mais caro, mas mais eficaz, para todos os pacientes, independentemente da sua capacidade financeira.",
+        "c": "A IA, ao contrário de um médico, não consegue expressar empatia aos pacientes, o que causa frustração.",
+        "d": "O sistema de IA falha em detetar uma condição rara, mas grave, em um paciente, resultando em um diagnóstico tardio.",
+        "e": "A IA exige mais dados do que o habitual para realizar a triagem, atrasando o processo de atendimento."
+      },
+      "resposta_correcta": "a",
+      "justificativa": "O 'desvio de recurso' ético pode ocorrer quando a IA, devido a vieses nos dados de treino, discrimina inadvertidamente certos grupos de pacientes, atribuindo-lhes uma prioridade mais baixa e, consequentemente, desviando recursos (tempo, atenção, tratamento) para outros, comprometendo a equidade no acesso aos cuidados."
+    }
+  ]
+}

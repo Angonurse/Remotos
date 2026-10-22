@@ -1,0 +1,736 @@
+{
+  "serie": "C",
+  "categoria": "TÉCNICO MÉDIO DE DIAGNÓSTICO E TERAPÊUTICA DE 2ª CLASSE",
+  "subcategoria": "Análises Clínicas e Saúde Pública / Bio Análises Clínicas",
+  "pais": "Angola",
+  "total": 50,
+  "perguntas": [
+    {
+      "justificativa": "Schistosoma mansoni é o agente etiológico da esquistossomose intestinal, cujos ovos são encontrados nas fezes. Embora S. haematobium cause hematúria, seus ovos são encontrados na urina. No contexto de coproparasitologia, S. mansoni é o parasita relevante.",
+      "tema": "I. Coproparasitologia",
+      "resposta_correcta": "a",
+      "alineas": {
+        "c": "Schistosoma japonicum",
+        "a": "Schistosoma mansoni",
+        "d": "Fasciola hepatica",
+        "b": "Schistosoma haematobium"
+      },
+      "enunciado": "Um paciente que regressou recentemente de uma região endémica de esquistossomose apresenta hematúria e dor abdominal. Qual parasita seria o objectivo principal na investigação coproparasitológica, mesmo que a análise urinária seja mais comum para esta apresentação?",
+      "numero": 1
+    },
+    {
+      "justificativa": "Os cristais de Charcot-Leyden são produtos da desintegração de eosinófilos e são frequentemente observados em fezes de pacientes com infecções parasitárias, em particular helmintíases.",
+      "enunciado": "Qual é a importância da pesquisa de cristais de Charcot-Leyden nas fezes?",
+      "alineas": {
+        "d": "Confirmam a presença de sangue oculto nas fezes.",
+        "b": "São patognomónicos de infecções virais entéricas.",
+        "c": "Sinalizam uma resposta eosinofílica a parasitas, especialmente em infecções por helmintos.",
+        "a": "Indicam presença de infecção bacteriana severa."
+      },
+      "tema": "I. Coproparasitologia",
+      "resposta_correcta": "c",
+      "numero": 2
+    },
+    {
+      "tema": "I. Coproparasitologia",
+      "resposta_correcta": "c",
+      "alineas": {
+        "d": "Amostra de fezes colhida directamente do rectose.",
+        "b": "Uma amostra de fezes após jejum prolongado.",
+        "c": "Três amostras de fezes colhidas em dias alternados.",
+        "a": "Amostra única de fezes, colhida aleatoriamente."
+      },
+      "enunciado": "Um bebé apresenta falha de crescimento (retardo ponderal), diarreia crónica e esteatorreia. O médico suspeita de giardíase. Qual a melhor abordagem para a colheita de amostra fecal a fim de aumentar a sensibilidade diagnóstica?",
+      "justificativa": "A colheita de múltiplas amostras (geralmente três em dias alternados) para exame parasitológico de fezes é recomendada para aumentar a sensibilidade, especialmente na detecção de parasitas com eliminação intermitente como a Giardia lamblia.",
+      "numero": 3
+    },
+    {
+      "justificativa": "O método de Lutz baseia-se na sedimentação passiva por gravidade, permitindo que ovos e cistos de parasitas se concentrem no fundo do recipiente.",
+      "tema": "I. Coproparasitologia",
+      "resposta_correcta": "c",
+      "enunciado": "Na execução do método de sedimentação espontânea de Lutz (HPJ), qual é o principal objectivo de deixar a amostra em repouso por várias horas?",
+      "alineas": {
+        "d": "Eliminar as bolhas de ar na preparação.",
+        "b": "Permitir a flutuação dos ovos leves.",
+        "c": "Favorecer a sedimentação de ovos e cistos por gravidade.",
+        "a": "Aumentar a motilidade dos trofozoítos."
+      },
+      "numero": 4
+    },
+    {
+      "justificativa": "Os ovos de Enterobius vermicularis são caracteristicamente ovais, com um lado plano e um lado convexo, assemelhando-se a um 'D', sendo depositados na região perianal.",
+      "alineas": {
+        "b": "Ovo facetado, com opérculo e plug mucoso em cada polo, característico de Diphyllobothrium latum.",
+        "d": "Ovo esférico, com casca fina e ganchos embriões (oncosfera), característico de Taenia spp.",
+        "e": "Ovo em forma de barril, com tampões polares, característico de Trichuris trichiura.",
+        "a": "Ovo com \"ombros\" laterais e embrião em desenvolvimento, característico de Ascaris lumbricoides.",
+        "c": "Ovo em forma de \"D\", plano de um lado e convexo do outro, característico de Enterobius vermicularis."
+      },
+      "enunciado": "Um paciente em idade pediátrica apresenta prurido anal intenso, predominantemente nocturno. O exame de eleição para o diagnóstico é a pesquisa de ovos na região perianal. Qual das seguintes opções representa uma característica MORFOLÓGICA VERDADEIRA do ovo deste parasita?",
+      "tema": "I. Coproparasitologia",
+      "resposta_correcta": "c",
+      "numero": 5
+    },
+    {
+      "enunciado": "Na diferenciação entre Taenia saginata e Taenia solium em fragmentos de proglotes, qual das seguintes características morfológicas do útero é a mais distintiva?",
+      "alineas": {
+        "d": "Existência de uma abertura genital lateral em T. solium, ausente em T. saginata.",
+        "b": "Presença de ganchos no escólex de T. saginata, ausentes em T. solium.",
+        "c": "Proglotes grávidas mais largas do que longas em T. saginata, inversamente em T. solium.",
+        "a": "Maior número de ramificações uterinas (15-30) em T. saginata, comparado a T. solium (7-13)."
+      },
+      "tema": "I. Coproparasitologia",
+      "resposta_correcta": "a",
+      "justificativa": "O útero de Taenia saginata possui de 15 a 30 ramificações laterais de cada lado, enquanto o de Taenia solium apresenta de 7 a 13 ramificações, sendo esta a característica mais fiável para a diferenciação.",
+      "numero": 6
+    },
+    {
+      "alineas": {
+        "d": "A presença de fibras vegetais indigeríveis contribui para o volume fecal.",
+        "e": "O pH fecal normal é sempre ácido (abaixo de 7.0) devido à fermentação bacteriana.",
+        "a": "A cor normal das fezes é predominantemente devido à presença de estercobilina.",
+        "c": "Fezes acólicas (claras) podem indicar obstrução biliar.",
+        "b": "A consistência das fezes é influenciada principalmente pelo teor de água."
+      },
+      "enunciado": "Qual das seguintes afirmações sobre a formação e características fisiológicas das fezes está INCORRETA?",
+      "tema": "I. Coproparasitologia",
+      "resposta_correcta": "e",
+      "justificativa": "O pH fecal normal é variável, mas geralmente ligeiramente ácido a neutro (6.5-7.5), podendo ser influenciado pela dieta e pela flora bacteriana, não sendo sempre estritamente ácido abaixo de 7.0.",
+      "numero": 7
+    },
+    {
+      "enunciado": "O sistema de complemento desempenha um papel crucial na defesa do hospedeiro. Qual das seguintes vias é ativada directamente pela ligação de anticorpos (IgG ou IgM) a um antigénio na superfície de um microrganismo?",
+      "resposta_correcta": "c",
+      "alineas": {
+        "e": "Via da Citocina",
+        "d": "Via da Propérdina",
+        "b": "Via Alternativa",
+        "a": "Via da Lectina",
+        "c": "Via Clássica",
+        "f": "Via do Interferon"
+      },
+      "justificativa": "A via clássica do sistema de complemento é activada pela ligação de anticorpos (complexos antígeno-anticorpo, principalmente IgG e IgM) ou directamente pela ligação do C1q à superfície de patógenos.",
+      "tema": "II. Imunologia",
+      "numero": 8
+    },
+    {
+      "enunciado": "Em um doente com suspeita de mononucleose infecciosa, a pesquisa de anticorpos heterófilos (teste de Paul-Bunnell) é frequentemente utilizada. Que tipo de antigénio está a ser detectado indiretamente por estes anticorpos?",
+      "resposta_correcta": "c",
+      "alineas": {
+        "e": "Antigénios de superfície de linfócitos B activados.",
+        "d": "Autoantigénios relacionados a doenças autoimunes.",
+        "b": "Antigénios bacterianos comuns em infecções secundárias.",
+        "a": "Antigénios virais específicos do Epstein-Barr Vírus (EBV).",
+        "c": "Antigénios presentes em hemácias de carneiro ou cavalo que reagem com IgM não específicos induzidos pelo EBV.",
+        "f": "Componentes do sistema de complemento activado."
+      },
+      "justificativa": "Os anticorpos heterófilos, característicos da mononucleose infecciosa, são IgM que reagem com antigénios em hemácias de outras espécies (ovelha, cavalo, boi), embora não sejam específicos para o EBV.",
+      "tema": "II. Imunologia",
+      "numero": 9
+    },
+    {
+      "alineas": {
+        "b": "Induzir a libertação de histamina por mastócitos.",
+        "a": "Activar o sistema de complemento pela via clássica.",
+        "e": "Actuar como receptor de antigénio nas células B imaturas.",
+        "d": "Atravessar a placenta e conferir imunidade passiva ao feto.",
+        "f": "Neutralizar toxinas bacterianas na corrente sanguínea.",
+        "c": "Fornecer protecção contra patogénios em superfícies mucosas e secreções como leite materno, saliva e lágrimas."
+      },
+      "justificativa": "A IgA secretora (principalmente como dímero) é crucial na imunidade das mucosas, protegendo contra patógenos em locais como o trato gastrointestinal, respiratório e geniturinário, além de estar presente no leite materno.",
+      "tema": "II. Imunologia",
+      "enunciado": "A IgA é a imunoglobulina predominante em secreções mucosas. Qual é a sua principal função nestes locais?",
+      "resposta_correcta": "c",
+      "numero": 10
+    },
+    {
+      "tema": "II. Imunologia",
+      "alineas": {
+        "c": "Ácidos Nucleicos",
+        "f": "Moléculas pequenas e de estrutura simples",
+        "e": "Hidratos de carbono simples",
+        "d": "Proteínas complexas e de alto peso molecular",
+        "b": "Lípidos",
+        "a": "Haptenos"
+      },
+      "justificativa": "Proteínas complexas, de alto peso molecular e com heterogeneidade na sua estrutura, são as moléculas mais imunogénicas, capazes de induzir uma forte resposta imune.",
+      "enunciado": "Em relação à imunogenicidade, qual das seguintes moléculas é geralmente a mais imunogénica?",
+      "resposta_correcta": "d",
+      "numero": 11
+    },
+    {
+      "alineas": {
+        "b": "Ligar-se a uma molécula transportadora (carrier) maior, tornando-se imunogénico.",
+        "a": "Ser reconhecido directamente por linfócitos T auxiliares.",
+        "e": "Ser um superantigénio.",
+        "d": "Ser apresentado por moléculas do MHC de classe I.",
+        "f": "Ter múltiplos epítopos repetitivos na sua estrutura.",
+        "c": "Activar directamente as células B sem a necessidade de células T."
+      },
+      "justificativa": "Haptenos necessitam de se ligar a uma molécula transportadora maior (proteína carrier) para se tornarem imunogénicos, ou seja, capazes de induzir uma resposta imune.",
+      "tema": "II. Imunologia",
+      "enunciado": "Os haptenos são moléculas pequenas que não são imunogénicas por si só. O que é necessário para que um hapteno induza uma resposta imune?",
+      "resposta_correcta": "b",
+      "numero": 12
+    },
+    {
+      "enunciado": "Um paciente pediátrico de 8 anos apresenta quadro de fadiga intensa, palidez e dispneia leve. O hemograma revela Hb: 85 g/L, VCM: 68 fL, HCM: 22 pg, RDW: 18%. Qual o tipo de anemia mais provável e qual o exame complementar prioritário para a confirmação diagnóstica?",
+      "resposta_correcta": "b",
+      "justificativa": "Os índices hematimétricos (VCM e HCM baixos) são característicos de anemia microcítica e hipocrómica, fortemente sugestiva de deficiência de ferro. O perfil de ferro é essencial para confirmar a ferropenia.",
+      "tema": "III. Hematologia",
+      "alineas": {
+        "d": "Anemia de doença crónica; proteína C-reactiva e velocidade de sedimentação.",
+        "e": "Talassemia; electroforese de hemoglobina.",
+        "b": "Anemia ferropénica; perfil de ferro (ferritina, ferro sérico, capacidade total de ligação do ferro).",
+        "a": "Anemia megaloblástica; dosagem de vitamina B12 e folato.",
+        "c": "Anemia hemolítica; teste de Coombs directo e indirecto.",
+        "f": "Anemia aplásica; biópsia de medula óssea."
+      },
+      "numero": 13
+    },
+    {
+      "justificativa": "A forma de foice dos eritrócitos na drepanocitose causa oclusão de pequenos vasos sanguíneos e hemólise crónica, levando a crises álgicas e anemia.",
+      "tema": "III. Hematologia",
+      "alineas": {
+        "d": "Eliptocítica; deficiência de vitamina B12.",
+        "e": "Estomatocítica; toxicidade por chumbo.",
+        "b": "Em forma de lágrima; sequestragem esplénica.",
+        "a": "Esferocítica; aumento da vida útil do eritrócito.",
+        "c": "Em forma de foice; oclusão microvascular e hemólise."
+      },
+      "resposta_correcta": "c",
+      "enunciado": "A drepanocitose é uma hemoglobinopatia caracterizada pela forma anormal dos eritrócitos. Qual a forma característica destes glóbulos vermelhos e qual a sua implicação funcional mais grave?",
+      "numero": 14
+    },
+    {
+      "alineas": {
+        "e": "O macro método é utilizado apenas em crianças, o micro método em adultos.",
+        "b": "O micro método é mais preciso e rápido, requerendo um volume menor de sangue.",
+        "a": "O macro método utiliza EDTA como anticoagulante, enquanto o micro método usa heparina.",
+        "c": "O macro método permite a leitura da velocidade de sedimentação, o micro método não.",
+        "d": "O micro método exige centrifugação por tempo prolongado, o macro método por tempo mais curto."
+      },
+      "justificativa": "O micro método do hematócrito é mais rápido, requer menos volume de sangue e é considerado mais preciso do que o macro método, sendo o padrão actual na maioria dos laboratórios.",
+      "tema": "III. Hematologia",
+      "resposta_correcta": "b",
+      "enunciado": "No hemograma, o hematócrito é um indicador crucial. Qual a diferença fundamental entre o macro método (Wintrobe) e o micro método para a determinação do hematócrito?",
+      "numero": 15
+    },
+    {
+      "enunciado": "Um paciente apresenta níveis de hemoglobina de 190 g/L (valor de referência para homens adultos: 130-170 g/L) e hematócrito de 0,58 L/L (valor de referência: 0,40-0,52 L/L). O que estes resultados sugerem?",
+      "resposta_correcta": "c",
+      "alineas": {
+        "e": "Anemia hemolítica.",
+        "b": "Anemia megaloblástica.",
+        "a": "Anemia ferropénica.",
+        "c": "Policitemia.",
+        "d": "Talassemia."
+      },
+      "justificativa": "Valores elevados de hemoglobina e hematócrito acima dos limites de referência são indicativos de policitemia, um aumento da massa de glóbulos vermelhos.",
+      "tema": "III. Hematologia",
+      "numero": 16
+    },
+    {
+      "resposta_correcta": "c",
+      "justificativa": "A hemoglobina é a principal proteína transportadora de oxigénio nos eritrócitos, e o ferro é o metal essencial presente no grupo heme, que se liga ao oxigénio.",
+      "tema": "III. Hematologia",
+      "alineas": {
+        "d": "Mioglobina; Magnésio.",
+        "e": "Fibrinogénio; Cálcio.",
+        "b": "Transferrina; Zinco.",
+        "a": "Albumina; Cobre.",
+        "c": "Hemoglobina; Ferro."
+      },
+      "enunciado": "Qual das seguintes proteínas é essencial para o transporte de oxigénio pelos eritrócitos e qual o metal vital presente na sua estrutura?",
+      "numero": 17
+    },
+    {
+      "enunciado": "Num esfregaço sanguíneo de um paciente com esferocitose hereditária, que alteração morfológica dos eritrócitos esperaria encontrar predominantemente?",
+      "alineas": {
+        "d": "Macrocitos (eritrócitos grandes).",
+        "e": "Codócitos (células-alvo).",
+        "b": "Esferócitos (eritrócitos pequenos e densos, perdem a palidez central).",
+        "a": "Dacriócitos (células em lágrima).",
+        "c": "Microcitos (eritrócitos pequenos)."
+      },
+      "justificativa": "A esferocitose hereditária é caracterizada pela presença de esferócitos, glóbulos vermelhos esféricos que resultam de um defeito na membrana eritrocitária e perdem a sua biconcavidade e, consequentemente, a palidez central.",
+      "tema": "III. Hematologia",
+      "resposta_correcta": "b",
+      "numero": 18
+    },
+    {
+      "justificativa": "Meios diferenciais contêm indicadores que reagem a produtos metabólicos específicos, permitindo a distinção visual entre microrganismos.",
+      "enunciado": "Um técnico de saúde é encarregado de preparar uma série de meios de cultura para isolamento bacteriano. Qual das seguintes opções representa a relação correta entre o tipo de meio de cultura e a sua principal aplicação em microbiologia?",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "a": "Meio seletivo: Favorece o crescimento de uma ampla gama de microrganismos, suprimindo os fastidiosos.",
+        "b": "Meio diferencial: Permite a distinção entre diferentes tipos de microrganismos com base nas suas características metabólicas.",
+        "d": "Meio de transporte: Essencial para o crescimento e proliferação bacteriana durante o translado da amostra.",
+        "f": "Meio mínimo: Contém nutrientes limitados para o isolamento de microrganismos exigentes, como Treponema pallidum.",
+        "e": "Meio complexo: Composição química definida com precisão, ideal para estudo de exigências nutricionais.",
+        "c": "Meio de enriquecimento: Inibe o crescimento de espécies competitivas, mas permite o de microrganismos com requisitos nutricionais complexos.",
+        "g": "Meio indicador: Apenas presente em culturas de fungos para verificar a presença de leveduras."
+      },
+      "resposta_correcta": "b",
+      "numero": 19
+    },
+    {
+      "resposta_correcta": "b",
+      "justificativa": "Mycobacterium tuberculosis é um bacilo álcool-ácido resistente (BAAR), sendo a coloração de Ziehl-Neelsen e a cultura em meio Lowenstein-Jensen cruciais para o seu isolamento e identificação.",
+      "enunciado": "Um técnico de laboratório está a analisar uma amostra de escarro para pesquisa de Mycobacterium tuberculosis. Considerando as características únicas deste microrganismo, que tipo de cultura e coloração seriam as mais apropriadas para o diagnóstico laboratorial?",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "e": "Cultura em Ágar chocolate e coloração de azul de metileno.",
+        "c": "Cultura em MacConkey e coloração de tinta da China.",
+        "g": "Cultura em CHROMagar™ e coloração de Wirtz-Conklin.",
+        "a": "Cultura em Ágar sangue e coloração de Gram.",
+        "b": "Cultura em Lowenstein-Jensen e coloração de Ziehl-Neelsen.",
+        "d": "Cultura em Thayer-Martin e coloração de Giemsa.",
+        "f": "Cultura em meios contendo telutrito de potássio e coloração de Albert."
+      },
+      "numero": 20
+    },
+    {
+      "resposta_correcta": "c",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "e": "Inocular os frascos de cultura aeróbios antes dos anaeróbios.",
+        "c": "Assepsia rigorosa da pele com antisséptico apropriado (ex: álcool a 70% + clorexidina).",
+        "g": "Utilizar torniquete por um período máximo de 1 minuto para evitar hemodiluição.",
+        "a": "Colher a amostra antes da administração de qualquer antibiótico.",
+        "b": "Utilizar três conjuntos de hemocultura de locais diferentes.",
+        "d": "Manter a agulha estéril durante todo o procedimento, sem tocar em luvas ou pele.",
+        "f": "Solicitar ao paciente que não se alimente 8 horas antes da colheita."
+      },
+      "justificativa": "A assepsia rigorosa da pele é a medida mais importante para minimizar a contaminação das hemoculturas pela microbiota cutânea, que pode levar a resultados falso-positivos.",
+      "enunciado": "Amostras clínicas de sangue, medula óssea ou outros fluidos estéreis são frequentemente encaminhadas para hemoculturas em casos de suspeita de septicemia. Qual é a prática mais crítica para evitar a contaminação da amostra com microbiota da pele durante a colheita?",
+      "numero": 21
+    },
+    {
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "a": "Todos os vírus possuem um invólucro lipídico externo para proteção contra o ambiente.",
+        "b": "O genoma viral é sempre composto por DNA de cadeia dupla.",
+        "d": "A adsorção é a primeira etapa do ciclo viral, envolvendo a ligação a recetores específicos na célula hospedeira.",
+        "f": "Agentes subvirais, como os viróides, possuem apenas um invólucro proteico sem ácido nucleico.",
+        "e": "A transcrição viral ocorre exclusivamente no citoplasma da célula hospedeira.",
+        "c": "Os vírus replicam-se por fissão binária dentro da célula hospedeira.",
+        "g": "Os príons são partículas infeciosas compostas unicamente por RNA."
+      },
+      "justificativa": "A adsorção, ou ligação, é o passo inicial e crucial para a infeção viral, onde os vírus reconhecem e se ligam a recetores específicos na superfície da célula hospedeira, garantindo a especificidade do hospedeiro e do tecido.",
+      "enunciado": "Os vírus são agentes infeciosos únicos, desprovidos de metabolismo próprio. Qual das seguintes afirmações sobre a estrutura viral e o seu ciclo replicativo é CORRETA?",
+      "resposta_correcta": "d",
+      "numero": 22
+    },
+    {
+      "resposta_correcta": "c",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "g": "Teste do vermelho de metila.",
+        "e": "Teste da indol.",
+        "c": "Teste da coagulase.",
+        "f": "Teste da citrato.",
+        "b": "Teste da catalase.",
+        "d": "Teste da urease.",
+        "a": "Teste da oxidase."
+      },
+      "justificativa": "O teste da coagulase é o mais fiável para diferenciar Staphylococcus aureus (coagulase-positivo) de Staphylococcus epidermidis (coagulase-negativo), pois S. aureus produz coagulase, uma enzima que coagula o plasma.",
+      "enunciado": "No laboratório de microbiologia, a diferenciação entre Staphylococcus aureus e Staphylococcus epidermidis é crucial devido às suas diferentes patogenicidades. Qual teste bioquímico permite esta distinção de forma fiável?",
+      "numero": 23
+    },
+    {
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "b": "Escovar os dentes e enxaguar a boca apenas com água estéril.",
+        "d": "Expirar fundo e tossir profundamente para expectorar material do trato inferior.",
+        "f": "Amostra deve ser colhida em jejum total por 12 horas.",
+        "a": "Realizar bochechos vigorosos com antisséptico bucal.",
+        "g": "Não é necessário seguir qualquer instrução específica, desde que o recipiente seja estéril.",
+        "e": "Amostra deve ser colhida apenas após a administração de broncodilatadores.",
+        "c": "Colher a amostra imediatamente após acordar, antes de comer ou beber."
+      },
+      "justificativa": "Escovar os dentes e enxaguar a boca com água estéril antes da colheita de expectoração ajuda a reduzir a contaminação pela flora oral, melhorando a qualidade da amostra.",
+      "enunciado": "A colheita de amostras para cultura bacteriana do trato respiratório inferior, como expectoração, exige considerações especiais para minimizar a contaminação pela flora orofaríngea. Qual instrução deve ser prioritária ao paciente antes da colheita?",
+      "resposta_correcta": "b",
+      "numero": 24
+    },
+    {
+      "resposta_correcta": "c",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "g": "Listeria monocytogenes.",
+        "e": "Bacillus anthracis.",
+        "c": "Escherichia coli.",
+        "f": "Enterococcus faecalis.",
+        "b": "Streptococcus pyogenes.",
+        "d": "Clostridium difficile.",
+        "a": "Staphylococcus aureus."
+      },
+      "justificativa": "Escherichia coli é uma bactéria Gram-negativa em forma de bastonete, flagelada (perítrica), e é a principal causa de infeções do trato urinário e pode causar septicemia.",
+      "enunciado": "Qual dos seguintes microrganismos é um exemplo clássico de bactéria Gram-negativa, em forma de bastonete, com flagelos perítricos, e é comummente associado a infeções do trato urinário e septicemia?",
+      "numero": 25
+    },
+    {
+      "resposta_correcta": "d",
+      "justificativa": "Os flagelos são apêndices proteicos longos e finos que as bactérias utilizam para se moverem em ambientes aquosos, conferindo-lhes motilidade.",
+      "enunciado": "Na identificação laboratorial de bactérias, a observação da motilidade é um critério importante. Qual das seguintes estruturas bacterianas é a principal responsável pelo movimento?",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "g": "Esporos.",
+        "e": "Glicocálice.",
+        "c": "Pili.",
+        "f": "Plasmídeos.",
+        "b": "Fímbrias.",
+        "d": "Flagelos.",
+        "a": "Cápsula."
+      },
+      "numero": 26
+    },
+    {
+      "resposta_correcta": "c",
+      "justificativa": "A impossibilidade de cultivo em meios bacterianos convencionais, o tamanho submicroscópico e a associação com gastroenterite são características típicas de vírus entéricos, como o Norovírus ou Rotavírus.",
+      "enunciado": "Um surto de gastroenterite é investigado, e a amostra de fezes de um paciente revela um agente infecioso que não pode ser cultivado em meios bacterianos convencionais e é visível apenas por microscopia eletrónica. Qual tipo de agente etiológico é o mais provável?",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "e": "Bactéria Gram-negativa anaeróbia.",
+        "c": "Vírus entérico.",
+        "g": "Micoplasma.",
+        "a": "Bactéria Gram-positiva.",
+        "f": "Helminto intestinal.",
+        "b": "Fungo dimórfico.",
+        "d": "Protozoário intestinal."
+      },
+      "numero": 27
+    },
+    {
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "a": "DNA polimerase.",
+        "b": "RNA polimerase.",
+        "d": "Helicase.",
+        "f": "Ligase.",
+        "e": "Primase.",
+        "c": "Transcriptase reversa.",
+        "g": "Topoisomerase."
+      },
+      "justificativa": "A transcriptase reversa é uma característica distintiva dos retrovírus, permitindo a transcrição inversa do seu genoma de RNA para uma cópia de DNA, que é então integrada no genoma do hospedeiro.",
+      "enunciado": "No que concerne à replicação viral, que enzima é essencial para a síntese de DNA a partir de um molde de RNA viral em retrovírus como o HIV?",
+      "resposta_correcta": "c",
+      "numero": 28
+    },
+    {
+      "justificativa": "Os filtros de membrana com poro de 0,22 µm são amplamente usados para esterilização de líquidos, pois retêm a maioria das bactérias e esporos bacterianos, mas não todos os vírus.",
+      "enunciado": "A esterilização por filtração é um método utilizado para remover microrganismos de líquidos termossensíveis. Qual o tamanho de poro típico de um filtro de membrana para reter a maioria das bactérias e esporos?",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "e": "0,1 µm.",
+        "c": "0,45 µm.",
+        "g": "10 µm.",
+        "a": "5,0 µm.",
+        "b": "1,0 µm.",
+        "d": "0,22 µm.",
+        "f": "0,02 µm."
+      },
+      "resposta_correcta": "d",
+      "numero": 29
+    },
+    {
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "e": "Atuam como enzimas de degradação de antibióticos beta-lactâmicos.",
+        "c": "Importantes na adesão bacteriana e na elicitação de resposta imune inata do hospedeiro.",
+        "g": "Participam na formação de esporos bacterianos em condições adversas.",
+        "a": "Formação de uma segunda membrana externa, conferindo resistência a antibióticos.",
+        "f": "Armazenamento de nutrientes intracelulares, como polímeros de glicogénio.",
+        "b": "Componentes essenciais da cápsula, protegendo a bactéria da fagocitose.",
+        "d": "Constituem o principal componente estrutural do flagelo bacteriano, auxiliando na motilidade."
+      },
+      "justificativa": "Os ácidos teicoicos e lipoteicoicos nas bactérias Gram-positivas desempenham papéis cruciais na adesão a células hospedeiras e tecidos, e são importantes na ativação da resposta imune inata do hospedeiro, atuando como potentes imunomoduladores.",
+      "enunciado": "Qual a principal função do ácido lipoteicoico (ALT) e do ácido teicoico (AT) nas bactérias Gram-positivas?",
+      "resposta_correcta": "c",
+      "numero": 30
+    },
+    {
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "g": "A necessidade de cultura anaeróbia imediata antes que o oxigénio se diffuse na amostra.",
+        "e": "A amostra de LCR é altamente volátil e evapora rapidamente se não for processada.",
+        "c": "A refrigeração pode cristalizar o glicogénio, interferindo com a análise bioquímica.",
+        "b": "A proliferação bacteriana no LCR é lenta, e atrasos podem levar a resultados falso-negativos.",
+        "d": "Temperaturas ambiente podem inativar rapidamente os microrganismos sensíveis, como Neisseria meningitidis.",
+        "f": "A presença de proteínas séricas pode levar à coagulação da amostra em longos períodos.",
+        "a": "Para evitar a lise de eritrócitos, prejudicando a contagem diferencial."
+      },
+      "justificativa": "Microrganismos causadores de meningite, como Neisseria meningitidis, são extremamente sensíveis a baixas temperaturas e a atrasos no processamento, podendo resultar em inviabilidade e consequente resultado falso-negativo se a amostra não for cultivada rapidamente (preferencialmente em até 1 hora) e à temperatura ambiente (ou estufa 35-37ºC em vez de refrigeração).",
+      "enunciado": "Um técnico de laboratório recebe uma amostra de líquido cefalorraquidiano (LCR) de um paciente com suspeita de meningite bacteriana. A amostra deve ser processada com máxima urgência. Qual a justificação principal para esta urgência?",
+      "resposta_correcta": "d",
+      "numero": 31
+    },
+    {
+      "justificativa": "Os plasmídeos são moléculas de DNA extracromossómico que frequentemente carregam genes que conferem vantagens adaptativas, como resistência a antibióticos ou fatores de virulência, e podem ser transferidos entre bactérias via conjugação, contribuindo para a disseminação da resistência.",
+      "enunciado": "Na era atual, os plasmídeos bacterianos ganharam grande relevância. Qual das seguintes opções descreve CORRETAMENTE a importância dos plasmídeos para as bactérias e para a microbiologia clínica?",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "e": "Atuam como estruturas de locomoção, semelhantes aos flagelos.",
+        "c": "Conferem frequentemente resistência a antibióticos e fatores de virulência, sendo transferíveis entre bactérias.",
+        "g": "Regulam a replicação cromossómica durante a fissão binária.",
+        "a": "São essenciais para a sobrevivência básica da bactéria em todas as condições.",
+        "f": "São utilizados pelas bactérias para armazenamento de energia, como grânulos de polifosfato.",
+        "b": "Contêm genes que codificam proteínas estruturais primárias e enzimas metabólicas essenciais.",
+        "d": "São responsáveis pela formação da parede celular e da membrana citoplasmática."
+      },
+      "resposta_correcta": "c",
+      "numero": 32
+    },
+    {
+      "justificativa": "Mycoplasma pneumoniae é uma causa comum de pneumonia atípica, notável pela ausência de parede celular, o que o torna não corável pelo Gram e incapaz de crescer em meios de cultura bacteriana convencionais, requerendo métodos moleculares ou sorológicos para o diagnóstico.",
+      "enunciado": "Considere um paciente com sintomas de pneumonia atípica. A pesquisa de microrganismos através de métodos convencionais (cultura em ágar, coloração de Gram) tem-se mostrado inconclusiva. Qual dos seguintes agentes etiológicos é mais provável e exige métodos de deteção especializados devido às suas características intrínsecas?",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "e": "Klebsiella pneumoniae.",
+        "c": "Mycoplasma pneumoniae.",
+        "g": "Escherichia coli uropatogénica.",
+        "a": "Staphylococcus aureus resistente à meticilina (MRSA).",
+        "b": "Streptococcus pneumoniae.",
+        "d": "Haemophilus influenzae.",
+        "f": "Pseudomonas aeruginosa."
+      },
+      "resposta_correcta": "c",
+      "numero": 33
+    },
+    {
+      "resposta_correcta": "c",
+      "justificativa": "O Rotavírus, um membro da família Reoviridae, é um vírus de RNA de cadeia dupla (dsRNA) segmentado e não envelopado, sendo uma causa comum de gastroenterite grave em crianças.",
+      "enunciado": "Um paciente pediátrico apresenta uma infeção gastrointestinal grave. Uma amostra de fezes é analisada, e o laboratório reporta a presença de um vírus com genoma de RNA de cadeia dupla segmentado e desprovido de invólucro. Este perfil é característico de qual grupo viral?",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "a": "Retrovírus (ex: HIV).",
+        "f": "Poxvírus (ex: Varíola).",
+        "b": "Herpesvírus (ex: HSV).",
+        "d": "Adenovírus.",
+        "e": "Flavivírus (ex: Vírus da Dengue).",
+        "c": "Rotavírus.",
+        "g": "Coronavírus (ex: SARS-CoV-2)."
+      },
+      "numero": 34
+    },
+    {
+      "justificativa": "O meio Thayer-Martin é um meio seletivo enriquecido usado primariamente para o isolamento de Neisseria gonorrhoeae e N. meningitidis, contendo antibióticos (vancomicina, colistina, nistatina e trimetoprim) que inibem outras bactérias e fungos concomitantes.",
+      "enunciado": "Um técnico de laboratório está a preparar o meio de cultura Thayer-Martin. Qual é o principal objetivo deste meio e quais antibióticos chave o compõem?",
+      "tema": "IV. Microbiologia",
+      "alineas": {
+        "a": "Meio de identificação para bactérias entéricas; contém cristal violeta e sais biliares.",
+        "f": "Meio para teste de suscetibilidade a antibióticos; contém Mueller-Hinton e sangue ovino.",
+        "b": "Meio seletivo para Neisseria gonorrhoeae e Neisseria meningitidis; contém vancomicina, colistina, nistatina e trimetoprim.",
+        "d": "Meio de enriquecimento para micobactérias; contém verde malaquite e glicerol.",
+        "e": "Meio de transporte para anaeróbios; contém tioglicolato de sódio e cisteína.",
+        "c": "Meio diferencial para cocos Gram-positivos; contém manitol e vermelho de fenol.",
+        "g": "Meio para isolamento de fungos dermatofíticos; contém cloranfenicol e cicloheximida."
+      },
+      "resposta_correcta": "b",
+      "numero": 35
+    },
+    {
+      "tema": "V. Urinologia",
+      "resposta_correcta": "b",
+      "enunciado": "Em qual situação clínica a pesquisa de urobilinogénio na urina estaria aumentada?",
+      "justificativa": "O urobilinogénio urinário é aumentado em condições de hemólise, devido ao aumento da formação de bilirrubina indireta e sua excreção intestinal.",
+      "alineas": {
+        "e": "Uso de antibióticos de largo espectro.",
+        "c": "Hepatite fulminante.",
+        "b": "Anemia hemolítica.",
+        "d": "Síndrome de Gilbert.",
+        "a": "Obstrução biliar completa."
+      },
+      "numero": 36
+    },
+    {
+      "alineas": {
+        "e": "Consumo excessivo de cenoura.",
+        "c": "Anemia hemolítica extravascular.",
+        "b": "Obstrução do ducto biliar comum.",
+        "d": "Síndrome de Gilbert.",
+        "a": "Doença hepática parenquimatosa."
+      },
+      "justificativa": "A bilirrubina conjugada (direta) é detectada na urina e um aumento significativo sugere obstrução biliar.",
+      "enunciado": "Na interpretação de uma tira reativa, uma coloração verde-escura intensa na área de bilirrubina, é clinicamente significativa de:",
+      "tema": "V. Urinologia",
+      "resposta_correcta": "b",
+      "numero": 37
+    },
+    {
+      "alineas": {
+        "e": "Hormona paratiroideia (PTH).",
+        "c": "Renina.",
+        "b": "Hormona antidiurética (ADH) ou vasopressina.",
+        "d": "Angiotensina II.",
+        "a": "Aldosterona."
+      },
+      "justificativa": "A ADH aumenta a permeabilidade à água nos túbulos coletores, resultando em maior reabsorção de água e produção de urina mais concentrada.",
+      "enunciado": "A reabsorção de água no túbulo coletor é primariamente regulada por qual hormona?",
+      "tema": "V. Urinologia",
+      "resposta_correcta": "b",
+      "numero": 38
+    },
+    {
+      "justificativa": "No diabetes descompensado, a glicose está elevada no sangue e na urina (glicosúria), e a quebra de gorduras produz corpos cetónicos (cetonúria).",
+      "alineas": {
+        "b": "Bilirrubinúria.",
+        "d": "Proteinúria significativa.",
+        "a": "Hemoglobinúria.",
+        "e": "Urobilinogénio aumentado.",
+        "c": "Glicosúria e cetonúria."
+      },
+      "tema": "V. Urinologia",
+      "resposta_correcta": "c",
+      "enunciado": "Um paciente diabético descompensado pode apresentar qual destes achados na urina sumária, devido à utilização alternativa de gorduras para energia?",
+      "numero": 39
+    },
+    {
+      "enunciado": "Considerando o exame físico da urina, a cor amarela-escura a âmbar é geralmente associada a:",
+      "tema": "V. Urinologia",
+      "resposta_correcta": "c",
+      "alineas": {
+        "e": "Colheita de urina matinal.",
+        "c": "Desidratação ou urina concentrada.",
+        "b": "Hidratação adequada.",
+        "d": "Administração de pyridium (fenazopiridina).",
+        "a": "Diabetes insipidus."
+      },
+      "justificativa": "Urina com cor amarela-escura a âmbar é típica de urina concentrada, frequentemente devido a desidratação.",
+      "numero": 40
+    },
+    {
+      "enunciado": "Qual o principal critério para validar uma amostra de urina de 24 horas para quantificação de depuração da creatinina?",
+      "tema": "V. Urinologia",
+      "resposta_correcta": "c",
+      "alineas": {
+        "b": "Presença de conservante na amostra.",
+        "d": "pH urinário inferior a 6.0.",
+        "a": "Volume urinário superior a 2.000 mL.",
+        "e": "Cor da urina amarela clara.",
+        "c": "Níveis de creatinina urinária consistentes com a excreção diária esperada."
+      },
+      "justificativa": "A excreção de creatinina na urina de 24 horas deve ser relativamente constante em indivíduos saudáveis, servindo como um indicador de colheita completa.",
+      "numero": 41
+    },
+    {
+      "tema": "V. Urinologia",
+      "resposta_correcta": "b",
+      "enunciado": "Em qual situação é essencial a colheita de urina de 8 horas (primeira urina da manhã) para a monitorização da excreção de proteínas?",
+      "justificativa": "A proteinúria ortostática ou postural é caracterizada pela excreção de proteínas aumentada apenas durante o dia, sendo a urina de 8 horas (noturna) tipicamente normal, e a primeira urina da manhã é crucial para a sua avaliação.",
+      "alineas": {
+        "a": "Rastreio de diabetes gestacional.",
+        "b": "Avaliação de proteinúria ortostática.",
+        "d": "Controlo de litíase renal.",
+        "e": "Avaliação de pigmentos biliares.",
+        "c": "Diagnóstico de infeção urinária recorrente."
+      },
+      "numero": 42
+    },
+    {
+      "tema": "VI. Bioquímica Clínica",
+      "enunciado": "Um paciente apresenta sintomas de polidipsia, poliúria e fadiga. A análise laboratorial revela uma glicemia em jejum de 14,5 mmol/L. Qual das seguintes condições é a mais provável, de acordo com os critérios diagnósticos atuais?",
+      "justificativa": "Um valor de glicemia em jejum \n> 7,0 mmol/L é diagnóstico de Diabetes Mellitus.",
+      "alineas": {
+        "d": "Pré-diabetes",
+        "c": "Diabetes Mellitus",
+        "a": "Hipoglicemia leve",
+        "b": "Tolerância diminuída à glicose"
+      },
+      "resposta_correcta": "c",
+      "numero": 43
+    },
+    {
+      "alineas": {
+        "a": "Separação de proteínas com base na sua densidade",
+        "b": "Separação de proteínas com base na sua carga eléctrica e tamanho em um campo eléctrico",
+        "d": "Separação de proteínas por diferença de solubilidade",
+        "c": "Separação de proteínas por gravimetria"
+      },
+      "justificativa": "A electroforese separa moléculas carregadas, como proteínas, pela migração em um campo elétrico, baseando-se na sua carga líquida e tamanho.",
+      "resposta_correcta": "b",
+      "tema": "VI. Bioquímica Clínica",
+      "enunciado": "A electroforese de proteínas é uma técnica amplamente utilizada em Bioquímica Clínica. Qual é o princípio fundamental desta técnica?",
+      "numero": 44
+    },
+    {
+      "alineas": {
+        "a": "Ciclo de Krebs",
+        "b": "Gliconeogénese",
+        "d": "Via das pentoses-fosfato",
+        "c": "Glicólise"
+      },
+      "justificativa": "A glicólise é a via metabólica que converte glicose em piruvato, gerando ATP e NADH, e ocorre no citoplasma.",
+      "resposta_correcta": "c",
+      "tema": "VI. Bioquímica Clínica",
+      "enunciado": "No metabolismo da glicose, qual é a principal via catabólica que ocorre no citoplasma e resulta na produção de piruvato e ATP?",
+      "numero": 45
+    },
+    {
+      "tema": "VI. Bioquímica Clínica",
+      "enunciado": "Um paciente diabético tipo 1, em tratamento com insulina, é admitido com sudorese, tremores e confusão mental. Quais resultados laboratoriais são esperados?",
+      "alineas": {
+        "c": "Cetoacidose diabética",
+        "d": "Acidose láctica",
+        "b": "Hiperglicemia severa",
+        "a": "Hipoglicemia"
+      },
+      "justificativa": "A sudorese, tremores e confusão mental em um diabético tratado com insulina são sintomas clássicos de hipoglicemia, que deve ser prontamente tratada.",
+      "resposta_correcta": "a",
+      "numero": 46
+    },
+    {
+      "enunciado": "No diagnóstico e monitorização da diabetes mellitus, qual valor de referência para a Hemoglobina Glicada (HbA1c) indica um bom controlo glicémico para a maioria dos adultos não grávidos?",
+      "tema": "VI. Bioquímica Clínica",
+      "resposta_correcta": "a",
+      "alineas": {
+        "d": "< 7,0%",
+        "c": "> 6,5%",
+        "a": "< 5,7%",
+        "b": "5,7% - 6,4%"
+      },
+      "justificativa": "Valores de HbA1c abaixo de 5,7% são considerados normais, indicando bom controlo glicémico. < 7,0% é o alvo para muitos diabéticos.",
+      "numero": 47
+    },
+    {
+      "resposta_correcta": "b",
+      "justificativa": "A colheita de urina de 24 horas é essencial para determinar a excreção total de um analito como a ureia, fornecendo uma visão mais abrangente da sua produção e eliminação renal ao longo do dia.",
+      "alineas": {
+        "a": "Evitar a contaminação bacteriana",
+        "b": "Obter informações sobre a excreção diária total, que reflete a produção endógena e a função renal ao longo do dia",
+        "d": "Avaliar a concentração de ureia em um momento específico",
+        "c": "Minimizar a interferência de medicamentos"
+      },
+      "enunciado": "Um técnico de laboratório recebe uma amostra de urina de 24 horas para dosagem de ureia. Qual é a importância deste tipo de colheita para este analito?",
+      "tema": "VI. Bioquímica Clínica",
+      "numero": 48
+    },
+    {
+      "tema": "VI. Bioquímica Clínica",
+      "enunciado": "No contexto da bioquímica clínica, qual método gasométrico é utilizado para a medição directa da concentração de dióxido de carbono dissolvido e bicarbonato no sangue arterial?",
+      "alineas": {
+        "d": "Cromatografia gasosa",
+        "c": "Análise de gases no sangue (gasometria)",
+        "a": "Titulação ácido-base",
+        "b": "Espectrofotometria UV-Vis"
+      },
+      "justificativa": "A gasometria é o método laboratorial padrão para a avaliação dos gases sanguíneos, incluindo pCO2 e bicarbonato, cruciais para o equilíbrio ácido-base.",
+      "resposta_correcta": "c",
+      "numero": 49
+    },
+    {
+      "justificativa": "A azotemia pré-renal (aumento da ureia sem disfunção renal intrínseca) pode ocorrer em estados de catabolismo proteico aumentado, como infecções graves ou hemorragias gastrointestinais, devido à maior produção de ureia.",
+      "alineas": {
+        "c": "Estados de catabolismo proteico aumentado (ex: febre, hemorragia gastrointestinal)",
+        "d": "Insuficiência hepática aguda",
+        "b": "Dieta com baixo teor proteico",
+        "a": "Ingestão excessiva de água"
+      },
+      "resposta_correcta": "c",
+      "tema": "VI. Bioquímica Clínica",
+      "enunciado": "Qual o significado clínico de um aumento dos níveis séricos de ureia (azotemia) na ausência de disfunção renal?",
+      "numero": 50
+    }
+  ]
+}

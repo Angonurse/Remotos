@@ -1,0 +1,723 @@
+{
+  "serie": "E",
+  "categoria": "TÉCNICO MÉDIO DE ENFERMAGEM de 3ª CLASSE",
+  "pais": "Angola",
+  "total": 50,
+  "perguntas": [
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Durante uma campanha de vacinação em Cacuaco, um bebé de 6 meses é trazido pela mãe com febre. Ao verificar a temperatura retal com termómetro clínico convencional, a enfermeira obtém 39.5°C. Qual a interpretação correta para este achado?",
+      "alineas": {
+        "a": "Temperatura normal para um bebé, devido ao processo de vacinação.",
+        "b": "Febre moderada, que pode ser tratada com antipirético oral.",
+        "c": "Hipertermia grave, que requer arrefecimento físico e busca ativa por sinais de perigo.",
+        "d": "Febre alta, mas sem indicação de intervenção urgente, pois é comum em lactentes.",
+        "e": "Hiperexia, que indica uma condição infecciosa grave e exige encaminhamento imediato para o hospital."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Uma temperatura retal de 39.5°C em um bebé de 6 meses é considerada hipertermia grave, exigindo intervenção rápida para prevenir complicações e avaliação médica.",
+      "numero": 1
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Um paciente vítima de acidente de viação na Estrada de Catete é admitido no HGM (Hospital Geral de Luanda) com suspeita de hemorragia interna. Ao aferir os sinais vitais, encontra-se PA 80/50 mmHg, FC 120 bpm, FR 28 irpm e pulsos periféricos fracos. Este conjunto de achados sugere predominantemente:",
+      "alineas": {
+        "a": "Choque cardiogénico, com falha na bomba cardíaca.",
+        "b": "Choque séptico, devido a uma infeção generalizada.",
+        "c": "Choque hipovolémico, possivelmente por hemorragia.",
+        "d": "Choque anafilático, por reação alérgica grave.",
+        "e": "Hipertensão arterial com taquicardia compensatória."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Hipovolemia, como a causada por hemorragia, tipicamente se manifesta com hipotensão, taquicardia compensatória, taquipneia e pulsos fracos.",
+      "numero": 2
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Durante uma visita domiciliária na periferia de Viana, uma técnica de enfermagem avalia uma idosa com queixas de cansaço e tonturas. A pressão arterial aferida é de 90/60 mmHg, em decúbito dorsal. A idosa afirma que é hipertensa e toma medicação. Qual deve ser a próxima avaliação da pressão arterial?",
+      "alineas": {
+        "a": "Aferir a PA novamente imediatamente na mesma posição.",
+        "b": "Aferir a PA no membro superior esquerdo se a primeira foi no direito.",
+        "c": "Aferir a PA nas posições sentado e em pé, para avaliar hipotensão postural.",
+        "d": "Coletar um eletrocardiograma antes de qualquer outra aferição da PA.",
+        "e": "Administrar um anti-hipertensivo e reavaliar a PA após 30 minutos."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Em idosos com hipotensão e queixas de tontura, especialmente aqueles em uso de anti-hipertensivos, a avaliação da hipotensão postural é crucial para investigar a causa da tontura.",
+      "numero": 3
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Em um doente internado na Unidade de Cuidados Intensivos do Hospital Militar Principal com sépsis grave, o controlo da diurese horária é um dos parâmetros cruciais. Qual o volume mínimo de diurese horária que indica uma perfusão renal adequada para um adulto?",
+      "alineas": {
+        "a": "0.1 mL/kg/hora.",
+        "b": "0.3 mL/kg/hora.",
+        "c": "0.5 mL/kg/hora.",
+        "d": "1.0 mL/kg/hora.",
+        "e": "2.0 mL/kg/hora."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Para um adulto, uma diurese horária de pelo menos 0.5 mL/kg/hora é geralmente aceitável como indicativo de perfusão renal adequada, especialmente em contextos de sépsis ou choque.",
+      "numero": 4
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "No serviço de urgência de Pediatria do Hospital Geral de Luanda, um neonato com 10 dias de vida apresenta choro inconsolável e palidez. A temperatura axilar é de 35.8°C. Qual a principal preocupação e conduta imediata da enfermagem?",
+      "alineas": {
+        "a": "Acalmar o bebé e verificar a sonda nasogástrica.",
+        "b": "Iniciar hidratação oral com soro de reidratação oral.",
+        "c": "Considerar hipotermia, aquecer o bebé e reavaliar a temperatura em 15 minutos, buscando sinais de infeção.",
+        "d": "Administrar analgésicos e aguardar o médico.",
+        "e": "Realizar exame de urina para despiste de infeção urinária."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A temperatura de 35.8°C em um neonato é um sinal de hipotermia, que pode indicar severidade da doença, inclusive sépsis, exigindo aquecimento imediato e investigação.",
+      "numero": 5
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Um paciente diabético internado no Hospital Américo Boavida apresenta hálito cetónico e glicemia capilar de 450 mg/dL. Seus sinais vitais atuais são: PA 100/60 mmHg, FC 110 bpm, FR 32 irpm e respiração de Kussmaul. Qual a principal alteração do sinal vital respiratório, neste cenário?",
+      "alineas": {
+        "a": "Bradipneia, pela acidose.",
+        "b": "Respiração de Cheyne-Stokes.",
+        "c": "Taquipneia profunda e laboriosa (Kussmaul), pela acidose metabólica.",
+        "d": "Apneia, indicando falência respiratória.",
+        "e": "Dispneia paroxística noturna."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A respiração de Kussmaul é uma forma de hiperventilação profunda e laboriosa que ocorre na cetoacidose diabética, como mecanismo compensatório para eliminar CO2 e reduzir a acidose.",
+      "numero": 6
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Na Unidade Sanitária de Cacuso, um adolescente com malária cerebral apresenta convulsões e está inconsciente. Ao verificar a temperatura, a técnica de enfermagem encontra 41.2°C via retal. Qual a prioridade de intervenção para este sinal vital?",
+      "alineas": {
+        "a": "Administrar anticonvulsivantes e aguardar a resolução da febre.",
+        "b": "Cobrir o paciente com cobertores para evitar perda de calor.",
+        "c": "Realizar compressas frias, expor o paciente, administrar antipirético e preparar para transporte urgente.",
+        "d": "Coletar hemograma completo e iniciar antibioticoterapia.",
+        "e": "Manter o paciente em observação e monitorizar a cada 4 horas."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A hipertermia grave (41.2°C) em um paciente com malária cerebral e convulsões requer intervenções de arrefecimento físico rápidas, antipiréticos e encaminhamento urgente devido ao risco de danos neurológicos.",
+      "numero": 7
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Numa campanha de rastreio de hipertensão na comunidade de Cacuaco, uma cidadã de 55 anos apresenta PA 160/100 mmHg. Ela nega sintomas. Qual a recomendação inicial para o técnico de enfermagem, dentro do protocolo do MINSA?",
+      "alineas": {
+        "a": "Iniciar medicação anti-hipertensiva imediatamente.",
+        "b": "Enviar diretamente para o hospital para internamento.",
+        "c": "Aconselhar mudanças no estilo de vida e agendar nova aferição em 1 semana no posto de saúde, registrando o achado.",
+        "d": "Descartar, pois um único valor alto não é diagnóstico.",
+        "e": "Realizar um eletrocardiograma no local."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Para um único valor de PA elevado assintomático, a conduta inicial é observar, promover mudanças de estilo de vida e agendar uma nova avaliação para confirmar o diagnóstico de hipertensão.",
+      "numero": 8
+    },
+    {
+      "tema": "I. Sinais Vitais",
+      "enunciado": "Um paciente chega ao serviço de urgência do Hospital Municipal do Kilamba Kiaxi com queimaduras de 3º grau extensas. Os sinais vitais são: PA 70/40 mmHg, FC 130 bpm, FR 30 irpm e oligúria. Que tipo de choque é mais provável neste cenário?",
+      "alineas": {
+        "a": "Choque cardiogénico.",
+        "b": "Choque obstrutivo.",
+        "c": "Choque hipovolémico (distributivo).",
+        "d": "Choque anafilático.",
+        "e": "Choque neurogénico."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Queimaduras extensas causam grande perda de líquidos e eletrólitos, levando à hipovolemia. Os sinais vitais apresentados são clássicos do choque hipovolémico.",
+      "numero": 9
+    },
+    {
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "No Centro de Hemodiálise de Luanda, um paciente necessita de Heparina de baixo peso molecular. A prescrição é de 0.6 mL SC de Enoxaparina. A seringa pré-carregada disponível é de 40 mg/0.4 mL. Qual a dose em miligramas que o paciente receberá?",
+      "alineas": {
+        "a": "40 mg",
+        "b": "60 mg",
+        "c": "80 mg",
+        "d": "100 mg"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A concentração da seringa é 40 mg em 0.4 mL, o que significa 100 mg/mL. Se 0.6 mL serão administrados, a dose em mg será 0.6 mL * 100 mg/mL = 60 mg.",
+      "numero": 10
+    },
+    {
+      "tema": "II. Cálculos de Medicamentos",
+      "enunciado": "No Hospital Municipal de Mbanza Kongo, é necessário preparar 500 mL de uma solução de Glicose a 10% a partir de Glicose a 50% (ampolas de 10 mL) e água destilada. Quantas ampolas de Glicose a 50% são necessárias?",
+      "alineas": {
+        "a": "5 ampolas",
+        "b": "10 ampolas",
+        "c": "25 ampolas",
+        "d": "50 ampolas",
+        "e": "100 ampolas"
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Para 500 mL de Glicose a 10%, são necessários 500 mL * 0.10 = 50 g de Glicose. Cada ampola de 10 mL de Glicose a 50% contém 10 mL * 0.50 = 5 g de Glicose. Número de ampolas = 50 g / 5 g/ampola = 10 ampolas.",
+      "numero": 11
+    },
+    {
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Um paciente dá entrada no Banco de Urgência do Hospital Geral de Luanda com suspeita de acidente vascular cerebral isquémico. Durante a avaliação primária, o Técnico de Enfermagem verifica que o paciente está inconsciente e com dificuldade respiratória. Qual a primeira acção a ser implementada após garantir a segurança do local e solicitar ajuda?",
+      "alineas": {
+        "a": "Verificar o pulso carotídeo.",
+        "b": "Administrar oxigénio suplementar.",
+        "c": "Realizar a abertura da via aérea utilizando a manobra \"chin-lift\" ou \"jaw-thrust\".",
+        "d": "Iniciar compressões torácicas.",
+        "e": "Verificar a glicemia capilar.",
+        "f": "Elevar as pernas do paciente."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A prioridade em um paciente inconsciente com dificuldade respiratória é assegurar a permeabilidade da via aérea, através das manobras de abertura da via aérea.",
+      "numero": 12
+    },
+    {
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Um paciente chegou ao Hospital Pediátrico David Bernardino com um choque anafilático grave após medicação. Ele está inconsciente e não responde a estímulos. Qual a medicação de primeira linha e via de administração no Suporte Básico de Vida, antes da chegada da equipa avançada, se disponível e o enfermeiro tiver autonomia?",
+      "alineas": {
+        "a": "Dexametasona intramuscular.",
+        "b": "Adrenalina (epinefrina) intramuscular na face anterolateral da coxa.",
+        "c": "Salbutamol nebulizado.",
+        "d": "Anti-histamínico oral.",
+        "e": "Corticosteroide endovenoso.",
+        "f": "Atropina intramuscular."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A adrenalina intramuscular na face anterolateral da coxa é a medicação de primeira linha e mais eficaz para o tratamento de choque anafilático grave em cenário de SBV, se o protocolo local permitir.",
+      "numero": 13
+    },
+    {
+      "tema": "III. Suporte Básico de Vida",
+      "enunciado": "Após assistir a uma palestra sobre Reanimação Cardiopulmonar (RCP) para leigos na comunidade do Kilamba, um morador questiona o Técnico de Enfermagem sobre a importância de ligar para o 111 (serviço de emergência angolano) antes de iniciar as compressões torácicas, em caso de testemunhar um colapso súbito. Qual a explicação mais adequada para esta recomendação?",
+      "alineas": {
+        "a": "O 111 pode instruir o reanimador a não iniciar a RCP.",
+        "b": "O 111 aciona as equipas médicas avançadas com desfibrilhador, que é curativo, ao invés das compressões.",
+        "c": "A chamada permite registar o incidente para fins estatísticos de saúde pública.",
+        "d": "A chamada ao 111 é opcional, a RCP é sempre a prioridade máxima.",
+        "e": "A ligação ao 111 garante suporte psicológico ao reanimador.",
+        "f": "O 111 pode indicar se o paciente tem antecedentes médicos relevantes."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A ligação precoce para o serviço de emergência é crucial para acionar as equipas de Suporte Avançado de Vida, que podem trazer um desfibrilhador e drogas vasoactivas, aumentando as chances de sobrevivência da vítima.",
+      "numero": 14
+    },
+    {
+      "tema": "IV. Banho no Leito",
+      "enunciado": "No Banco de Urgência do Hospital Geral de Luanda, um paciente poli-traumatizado, intubado e hemodinamicamente instável, necessita de banho no leito. Qual a principal prioridade na sequência das ações de higiene, considerando o risco de hipotensão postural?",
+      "alineas": {
+        "a": "Higienizar primeiramente as extremidades inferiores para estimular a circulação.",
+        "b": "Focar na higiene oral e facial antes de qualquer outra área para conforto do paciente.",
+        "c": "Iniciar o banho pelas áreas mais limpas (face e pescoço), evitando movimentações bruscas e monitorizando sinais vitais.",
+        "d": "Realizar a higiene genital prontamente para prevenir infecções, independentemente do estado do paciente.",
+        "e": "Priorizar a troca de roupa de cama suja antes de iniciar qualquer etapa do banho."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Num paciente instável, a prioridade é minimizar o risco de complicações. Iniciar pelas áreas limpas e monitorizar os sinais vitais durante o processo reduz o stress cardiovascular e o risco de hipotensão ortostática.",
+      "numero": 15
+    },
+    {
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Um paciente acamado na enfermaria de Medicina Interna do Hospital Josina Machel apresenta lesões de pressão em estágio II na região sacra. Ao realizar o banho no leito, que tipo de compressão na área lesada deve ser evitada a todo custo durante a lavagem?",
+      "alineas": {
+        "a": "Compressão suave com esponja macia para remover exsudato.",
+        "b": "Compressão lateral para facilitar a limpeza das dobras cutâneas adjacentes.",
+        "c": "Compressão direta e fricção vigorosa sobre a lesão.",
+        "d": "Compressão com toalha após a lavagem para secagem.",
+        "e": "Compressão com gaze embebida em solução antisséptica diluída."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A compressão direta e fricção vigorosa sobre lesões de pressão pode agravar o dano tecidual, aumentar a dor e atrasar o processo de cicatrização.",
+      "numero": 16
+    },
+    {
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Numa unidade de isolamento para doentes com tuberculose multirresistente (TB-MR) no Sanatório de Luanda, ao realizar o banho no leito, qual equipamento de proteção individual (EPI) é prioritário para o técnico de enfermagem, além das luvas e avental?",
+      "alineas": {
+        "a": "Protetor ocular para evitar salpicos.",
+        "b": "Touca cirúrgica descartável.",
+        "c": "Máscara respiratória N95 (ou equivalente FFP2) para proteção contra aerossóis.",
+        "d": "Sapatilhas de proteção impermeáveis.",
+        "e": "Polainas descartáveis para cobrir o calçado."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A tuberculose, especialmente a TB-MR, é transmitida por aerossóis. A máscara N95 (ou FFP2) é essencial para proteger as vias respiratórias do profissional de saúde durante procedimentos que podem gerar aerossóis, como a movimentação do paciente durante o banho.",
+      "numero": 17
+    },
+    {
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Um paciente em coma vigil no Hospital Pediátrico David Bernardino, devido a meningoencefalite, apresenta rigidez muscular generalizada. Ao proceder ao banho no leito, que tipo de movimentos e pressão o enfermeiro deve evitar nas articulações?",
+      "alineas": {
+        "a": "Movimentos lentos e amplos dentro da amplitude de movimento fisiológica.",
+        "b": "Pressão suave e uniforme ao longo dos membros.",
+        "c": "Movimentos bruscos, forçados ou excessiva pressão nas articulações.",
+        "d": "Esticamento gradual dos membros para relaxar a musculatura.",
+        "e": "Rotação passiva das articulações em toda sua extensão."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Em pacientes com rigidez muscular, movimentos bruscos ou forçados podem causar dor, espasticidade e até lesões nas articulações e tecidos moles. A manipulação deve ser suave e respeitar os limites de movimento do paciente.",
+      "numero": 18
+    },
+    {
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Numa enfermaria de cuidados paliativos no Hospital Militar Principal, um paciente terminal com grave dispneia necessita de banho no leito. Qual a adaptação essencial no plano de higiene para este paciente, visando o seu conforto e dignidade?",
+      "alineas": {
+        "a": "Proporcionar um banho completo e vigoroso para manter a pele limpa.",
+        "b": "Limitar o banho a áreas essenciais (higiene íntima e facial), com intervalos mais longos entre os banhos completos.",
+        "c": "Utilizar apenas lenços umedecidos e evitar o uso de água e sabão.",
+        "d": "Encaminhar o paciente para o chuveiro com auxílio da equipa.",
+        "e": "Priorizar a higiene oral e deixar o restante do corpo inalterado."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Em pacientes paliativos com dispneia grave, o esforço físico do banho completo pode exacerbar o desconforto respiratório. A redução da frequência e a priorização da higiene em áreas cruciais garantem o conforto e a dignidade sem sobrecarregar o paciente.",
+      "numero": 19
+    },
+    {
+      "tema": "IV. Banho no Leito",
+      "enunciado": "Um paciente em isolamento de contacto por C. difficile no Bloco Operatório Provincial de Cuanza Sul necessita de banho no leito pós-cirúrgico. Após o banho, que ação é essencial para evitar a contaminação cruzada do ambiente e de outros pacientes?",
+      "alineas": {
+        "a": "Reutilizar a mesma bacia com água e sabão para outros pacientes.",
+        "b": "Descartar todo o material utilizado (luvas, compressas, roupa de cama) em sacos de resíduos hospitalares específicos do isolamento.",
+        "c": "Deixar o material de higiene exposto no quarto para secagem.",
+        "d": "Lavar as luvas e reutilizá-las para a próxima etapa do cuidado.",
+        "e": "Deixar a porta do quarto aberta para ventilação após o banho."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Para pacientes em isolamento de contacto por C. difficile, o descarte adequado de todo o material utilizado em sacos específicos é fundamental para prevenir a disseminação dos esporos, que são altamente resistentes.",
+      "numero": 20
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Um bebé de 6 meses no Banco de Urgência do Hospital Pediátrico de Luanda apresenta febre alta e irritabilidade. O médico prescreve Paracetamol supositório. Qual o posicionamento correto do lactente para a administração segura e eficaz desta medicação pelo Técnico Médio de Enfermagem?",
+      "alineas": {
+        "a": "Decúbito dorsal com as pernas estendidas.",
+        "b": "Decúbito ventral com as pernas fletidas sobre o abdómen.",
+        "c": "Decúbito lateral esquerdo ou direito, com as pernas fletidas em direção ao abdómen.",
+        "d": "Sentado no colo da mãe, com as pernas pendentes.",
+        "e": "Em posição de Trendelenburg, para facilitar a retenção."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O decúbito lateral com as pernas fletidas expõe adequadamente a região anal, facilita a introdução do supositório e ajuda a evitar a evacuação imediata, aumentando a retenção e absorção da medicação.",
+      "numero": 21
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Numa Unidade Sanitária Comunitária, um paciente com diabetes tipo 2 necessita de insulina NPH (ação intermediária) antes do jantar. O Técnico Médio de Enfermagem deve orientar sobre a técnica de aplicação. Qual das seguintes afirmações sobre a rotação dos locais de injeção subcutânea é a mais correta e importante para este paciente?",
+      "alineas": {
+        "a": "A rotação deve ocorrer apenas entre os braços e as coxas, evitando o abdómen.",
+        "b": "A rotação visa prevenir a lipo-hipertrofia e melhorar a absorção da insulina.",
+        "c": "A rotação deve focar-se em injeções na mesma área, mas em pontos ligeiramente diferentes a cada aplicação.",
+        "d": "A rotação é desnecessária se o paciente utilizar agulhas muito finas.",
+        "e": "A rotação só é importante para insulinas de ação rápida, não para a NPH."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A rotação dos locais de injeção (abdómen, coxas, braços, nádegas) é crucial para prevenir a lipo-hipertrofia (acúmulo de tecido adiposo) e lipo-atrofia, garantindo uma absorção consistente e eficaz da insulina ao longo do tempo.",
+      "numero": 22
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Durante um turno no bloco operatório do Hospital General de Luanda, o Técnico Médio de Enfermagem prepara medicação para administração intravenosa. Qual a acção mais crítica a ser realizada ANTES de diluir um medicamento para infusão, mesmo que a prescrição pareça clara?",
+      "alineas": {
+        "a": "Verificar a validade do diluente e do medicamento.",
+        "b": "Confirmar a via de administração no rótulo da ampola.",
+        "c": "Consultar a bula ou protocolo institucional para compatibilidade, dosagem e velocidade de infusão.",
+        "d": "Registrar a hora da preparação no prontuário.",
+        "e": "Usar luvas estéreis independentemente da medicação."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Mesmo com a prescrição em mãos, consultar a bula ou guideline específico é fundamental para garantir a compatibilidade do diluente, a dosagem correta, o tempo de infusão e potenciais interações, prevenindo erros na administração intravenosa que podem ser graves.",
+      "numero": 23
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "No contexto da 'Farmácia Comunitária Móvel' numa aldeia remota do Cuanza Sul, um Técnico Médio de Enfermagem está a administrar gotas oculares. Qual a técnica mais adequada para instilar as gotas com segurança num adulto?",
+      "alineas": {
+        "a": "Pedir ao paciente para fechar os olhos e aplicar a gota na pálpebra superior.",
+        "b": "Puxar a pálpebra inferior para baixo, pedir ao paciente para olhar para cima e instilar a gota no saco conjuntival.",
+        "c": "Instilar a gota diretamente na córnea para uma absorção mais rápida.",
+        "d": "Aplicar a gota no canto interno do olho e pedir ao paciente para piscar rapidamente.",
+        "e": "Pedir ao paciente para piscar repetidamente após a administração."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Puxar a pálpebra inferior e instilar a gota no saco conjuntival inferior (não diretamente na córnea) é a técnica correta, pois permite que a medicação se espalhe de forma eficaz com o mínimo de desconforto.",
+      "numero": 24
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Um paciente pediátrico com bronquiolite no Hospital Materno-Infantil do Kilamba tem prescrição de salbutamol por via inalatória, usando espaçador com máscara. Qual a instrução fundamental que o Técnico Médio de Enfermagem deve dar aos pais ANTES da administração da primeira dose?",
+      "alineas": {
+        "a": "Realizar uma inspiração profunda ANTES de pressionar o inalador.",
+        "b": "Agitar o inalador vigorosamente ANTES de cada puff e assegurar um bom selo da máscara.",
+        "c": "Lavar o espaçador com água quente e sabão após cada uso.",
+        "d": "Aguardar 5 minutos entre puffs do mesmo medicamento.",
+        "e": "Utilizar o inalador apenas quando a criança estiver a dormir."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Agitar o inalador garante a homogenização da suspensão medicamentosa, e um bom selo da máscara no espaçador assegura que a medicação atinja as vias aéreas do bebé, maximizando a eficácia do tratamento.",
+      "numero": 25
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "No contexto da Atenção Primária à Saúde em Benguela, uma cuidadora reporta que a criança recusa o xarope antiparasitário, regurgitando-o. Qual a orientação com maior probabilidade de sucesso que o Técnico Médio de Enfermagem pode fornecer à cuidadora?",
+      "alineas": {
+        "a": "Dar o xarope com a criança deitada, para evitar o reflexo de vômito.",
+        "b": "Misturar o xarope com o leite ou sumo da criança para disfarçar o sabor.",
+        "c": "Administrar pequenas porções do xarope de cada vez, utilizando uma seringa sem agulha, apontando para a bochecha.",
+        "d": "Oferecer uma recompensa de doces após o xarope.",
+        "e": "Forçar a administração, segurando o queixo da criança."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A administração de pequenas porções, com uma seringa sem agulha direcionada para a bochecha (evitando a glote e as papilas gustativas da língua), aumenta a probabilidade de a criança engolir o medicamento sem regurgitar. Misturar com alimentos pode alterar a eficácia e forçar a administração é antiético e traumático.",
+      "numero": 26
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Um paciente em tratamento para tuberculose na Ala de Infecciologia do Hospital Américo Boavida necessita de uma injeção intramuscular diária. O Técnico Médio de Enfermagem nota que as nádegas do paciente apresentam áreas de endurecimento e dor em alguns pontos. Qual o local de injeção mais indicado a partir de agora, para minimizar o desconforto e garantir a absorção?",
+      "alineas": {
+        "a": "Continuar a alternar apenas entre os quadrantes superiores externos das nádegas.",
+        "b": "Utilizar preferencialmente o músculo deltoide, se a dose for pequena e a massa muscular for adequada.",
+        "c": "Priorizar o músculo vasto lateral da coxa, que oferece uma área maior para rotação.",
+        "d": "Injetar rapidamente nas áreas endurecidas para \"romper\" o tecido.",
+        "e": "Aplicar calor local antes da injeção nas áreas endurecidas."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A presença de endurecimento nas nádegas indica saturação dos locais de injeção e risco de má absorção. O vasto lateral da coxa é uma alternativa segura e com boa massa muscular para injeções intramusculares repetidas, permitindo uma melhor rotação do local.",
+      "numero": 27
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "No Hospital Geral de Cacuaco, um paciente está a receber oxigenoterapia por cateter nasal e o Técnico Médio de Enfermagem precisa instilar gotas nasais descongestionantes. Qual a posição mais indicada para o paciente após a instilação, para maximizar a eficácia da medicação?",
+      "alineas": {
+        "a": "Decúbito dorsal com a cabeça ligeiramente fletida para o lado afetado.",
+        "b": "Decúbito dorsal com a cabeça em hiperextensão, mantida por alguns minutos.",
+        "c": "Sentado, com a cabeça inclinada para a frente, para evitar o gotejamento posterior.",
+        "d": "Decúbito lateral puro, para que a gravidade ajude a espalhar a gota.",
+        "e": "Em pé, inclinando a cabeça para trás e para frente rapidamente."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A posição de decúbito dorsal com a cabeça em hiperextensão (para trás) por alguns minutos após a instilação permite que o medicamento flua para as cavidades nasais e se distribua adequadamente, maximizando o contato com a mucosa e a absorção. Esta posição é crucial para gotas nasais, não para gotas óticas ou oculares.",
+      "numero": 28
+    },
+    {
+      "tema": "V. Administração de Medicação",
+      "enunciado": "Durante uma visita domiciliar num bairro de Luanda, o Técnico Médio de Enfermagem orienta um paciente sobre a administração de um supositório vaginal. Qual a instrução fundamental para garantir a higiene e eficácia da administração?",
+      "alineas": {
+        "a": "Inserir o supositório o mais profundamente possível com o indicador, estando a paciente em pé.",
+        "b": "Utilizar um aplicador descartável (se fornecido) ou o dedo indicador, após higienização das mãos, e permanecer deitada por 20-30 minutos.",
+        "c": "Administrar o supositório preferencialmente de manhã, antes de iniciar as atividades diárias.",
+        "d": "Dividir o supositório ao meio para facilitar a inserção, se parecer muito grande.",
+        "e": "Usar o dedo médio para inserção, por ser mais longo."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "A higienização das mãos é crucial para prevenir infeções. Permanecer deitada por 20-30 minutos após a inserção (seja com aplicador ou dedo) evita a expulsão prematura e permite a fusão e absorção adequada da medicação.",
+      "numero": 29
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "Um ancião acamado em domicílio, na comunidade do Cazenga, é assistido pela equipa de saúde. Apresenta pele pálida, seca, com turgor diminuído e boca seca. Qual a recomendação mais adequada para a família em relação à higiene oral e hidratação?",
+      "alineas": {
+        "a": "Escovagem dos dentes duas vezes ao dia com pasta de dentes comum.",
+        "b": "Oferecer apenas líquidos durante as refeições principais.",
+        "c": "Higiene oral com swabs humedecidos a cada 2-4 horas e oferta de pequenos volumes de água ou chá entre as refeições.",
+        "d": "Administrar soro fisiológico intravenoso cinco vezes ao dia.",
+        "e": "Manter a boca fechada para evitar a desidratação."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A higiene oral frequente com swabs e a oferta regular de pequenos volumes de líquidos são cruciais para manter a mucosa oral hidratada e prevenir complicações em pacientes acamados com risco de desidratação.",
+      "numero": 30
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "Num Banco de Urgência de Luanda, um paciente politraumatizado, inconsciente e com sonda nasogástrica, está acamado. Qual a principal preocupação ao realizar os cuidados de higiene perineal e mudança de fralda?",
+      "alineas": {
+        "a": "Manter a sonda nasogástrica com oclusão.",
+        "b": "Utilizar água fria para a limpeza para estimular o paciente.",
+        "c": "Prevenir a contaminação da ferida operatória (se presente) e garantir a permeabilidade das vias aéreas durante a manipulação.",
+        "d": "Apenas trocar a fralda e não realizar higiene caso o paciente esteja sedado.",
+        "e": "Deixar o paciente sem fralda por longos períodos para 'arejar'."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Em pacientes politraumatizados e inconscientes, é vital evitar a contaminação de feridas e garantir a segurança das vias aéreas durante qualquer manipulação, incluindo a higiene perineal.",
+      "numero": 31
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "No Centro de Reabilitação Física de Viana, um paciente acamado em recuperação de AVC apresenta paresia do lado esquerdo. Qual a medida preventiva de complicações mais importante no posicionamento deste paciente?",
+      "alineas": {
+        "a": "Manter o paciente em decúbito lateral direito para estimular o lado afetado.",
+        "b": "Posicionamento a cada 4 horas, com uso de almofadas para alinhar articulações e prevenir contraturas e quedas de pé.",
+        "c": "Restringir os movimentos do lado parético para evitar lesões.",
+        "d": "Manter o lado parético sempre elevado para reduzir o edema.",
+        "e": "Ignorar o lado parético, pois o foco deve ser no lado funcional."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "O posicionamento regular e adequado, com o uso de apoios, é fundamental para prevenir deformidades, contraturas e úlceras de pressão, especialmente em pacientes com déficits neurológicos.",
+      "numero": 32
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "Durante os cuidados de higiene de um paciente acamado no Hospital Materno-Infantil do Kilamba Kiaxi, a enfermeira percebe uma área de eritema não branqueável no calcanhar. Qual a classificação e a conduta imediata?",
+      "alineas": {
+        "a": "Úlcera de pressão estágio I, aplicar creme hidratante e continuar a monitorização normal.",
+        "b": "Dermatite associada à incontinência, aplicar creme barreira e expor ao ar.",
+        "c": "Úlcera de pressão estágio I, reposicionar o membro, utilizar dispositivos de alívio de pressão e iniciar protocolo de prevenção.",
+        "d": "Lesão por fricção, aplicar vaselina e cobrir com penso oclusivo.",
+        "e": "Reação alérgica, suspender todos os produtos de higiene."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Um eritema não branqueável indica uma úlcera de pressão estágio I. A conduta prioritária é aliviar a pressão na área afetada e implementar medidas preventivas para evitar a progressão da lesão.",
+      "numero": 33
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "Em enfermaria de pediatria do Hospital Pediátrico David Bernardino, uma criança acamada com paralisia cerebral apresenta risco elevado para problemas respiratórios. Qual a principal intervenção para manutenção das vias aéreas e prevenção de complicações pulmonares?",
+      "alineas": {
+        "a": "Posicionamento em decúbito ventral exclusivo para melhorar a ventilação.",
+        "b": "Aspiração de secreções traqueobrônquicas apenas quando houver cianose.",
+        "c": "Mobilização torácica, tapotagem, drenagem postural e aspiração de secreções conforme necessidade.",
+        "d": "Restrição de líquidos para diminuir a produção de muco.",
+        "e": "Administração de antibióticos profiláticos continuamente."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Em crianças com paralisia cerebral e acamadas, as técnicas de fisioterapia respiratória, como mobilização, tapotagem, drenagem postural e aspiração, são vitais para prevenir acumulo de secreções e infecções respiratórias.",
+      "numero": 34
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "Um paciente acamado na Maternidade Lucrécia Paim, em pós-parto imediato por eclampsia grave, manifesta tremores e sudorese. A equipa de enfermagem detecta hipotermia. Qual a medida imediata e prioritária a tomar?",
+      "alineas": {
+        "a": "Administrar antitérmico via retal.",
+        "b": "Cobrir o paciente com cobertores, ligar o aquecedor da enfermaria e monitorizar a temperatura a cada 30 minutos.",
+        "c": "Realizar banho morno para elevar a temperatura corporal.",
+        "d": "Oferecer líquidos quentes via oral.",
+        "e": "Aguardar a passagem do quadro, pois é esperado após eclampsia."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Em casos de hipotermia, aquecer o paciente com cobertores e aquecedores, e monitorizar a temperatura, são ações imediatas para reverter o quadro e prevenir complicações.",
+      "numero": 35
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "No serviço de Medicina Interna do Hospital Américo Boa Vida, um paciente acamado com DPOC exacerbado necessita de oxigenoterapia e aspiração de vias aéreas superiores. Qual a ordem correta das intervenções para garantir a segurança e eficácia?",
+      "alineas": {
+        "a": "Aspiração, oxigenoterapia, avaliação da saturação.",
+        "b": "Avaliação da saturação, oxigenoterapia, aspiração, reavaliação da saturação.",
+        "c": "Oxigenoterapia, aspiração, avaliação da saturação.",
+        "d": "Aspiração, avaliação da saturação, oxigenoterapia.",
+        "e": "Avaliação da saturação, aspiração, oxigenoterapia, descontinuação da oxigenoterapia."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "É essencial avaliar a saturação de oxigênio, iniciar a oxigenoterapia para otimizar a oxigenação antes da manipulação das vias aéreas (aspiração) e reavaliar para garantir a eficácia da intervenção e a segurança do paciente.",
+      "numero": 36
+    },
+    {
+      "tema": "VI. Cuidados ao Paciente Acamado",
+      "enunciado": "Um paciente acamado em casa, na comuna da Samba, evolui com edema importante nas pernas e abdómen. Qual a principal preocupação da equipa de saúde comunitária em relação aos cuidados de pele?",
+      "alineas": {
+        "a": "Aplicar apenas vaselina para manter a pele hidratada.",
+        "b": "Realizar massagem vigorosa para reabsorção do edema.",
+        "c": "Manter a pele limpa e seca, realizar inspeção diária rigorosa para integridade, elevar os MMII e monitorizar a progressão do edema.",
+        "d": "Cobrir as áreas edemaciadas com compressas quentes para melhorar a circulação.",
+        "e": "Reduzir drasticamente a ingestão de líquidos para diminuir o edema."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "A pele edemaciada é mais frágil e propensa a lesões. A limpeza, secura, inspeção e o alívio postural são cruciais para prevenir úlceras de pressão e outras complicações.",
+      "numero": 37
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Numa ronda de enfermaria no Hospital Américo Boavida, é observada uma ferida de pressão na região sacral de um paciente acamado, apresentando necrose escura e aderente, sem sinais de infeção aparente. Qual a conduta inicial mais adequada para este tipo de ferida, considerando as guias de boas práticas angolanas?",
+      "alineas": {
+        "a": "Aplicação de pomada com antibiótico tópico para prevenir infeção.",
+        "b": "Desbridamento cirúrgico imediato por ser uma necrose seca.",
+        "c": "Aplicação de hidrogel para promover autólise e re-avaliação em 72h.",
+        "d": "Compressão com ligadura elástica para reduzir o edema local.",
+        "e": "Irrigação com solução de permanganato de potássio.",
+        "f": "Oclusão imediata com filme transparente sem desbridamento."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Necrose seca e aderente, sem sinais de infeção (escaras), deve ser amolecida com hidrogel para promover desbridamento autolítico, antes de qualquer intervenção mecânica, a menos que haja sinais de infeção ou instabilidade do paciente.",
+      "numero": 38
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Um paciente vítima de acidente rodoviário dá entrada no Banco de Urgência do Hospital Josina Machel com uma ferida perfuro-cortante profunda na coxa, com sujidade evidente, proveniente do asfalto. Qual a prioridade imediata na gestão desta ferida?",
+      "alineas": {
+        "a": "Administração de analgésicos e posterior aguardo de parecer cirúrgico.",
+        "b": "Aplicação de antisséptico à base de iodo e oclusão estéril.",
+        "c": "Limpeza exaustiva com soro fisiológico e desbridamento mecânico de tecidos desvitalizados.",
+        "d": "Colheita de exsudado para cultura e antibiograma urgente.",
+        "e": "Imobilização da extremidade afetada.",
+        "f": "Aplicação de compressa quente para promover vasodilatação."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Em feridas traumáticas sujas, a limpeza e o desbridamento são cruciais para remover sujidade e tecidos desvitalizados, prevenindo infeção e promovendo a cicatrização.",
+      "numero": 39
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "No Centro de Saúde do Cazenga, uma mãe apresenta o seu filho de 5 anos com uma queimadura de segundo grau superficial na mão, adquirida enquanto brincava com uma panela quente. Após arrefecimento com água corrente, qual o curativo mais adequado a aplicar inicialmente?",
+      "alineas": {
+        "a": "Compressas embebidas em óleo de palma.",
+        "b": "Gaze vaselinada (ou similar) e penso oclusivo estéril.",
+        "c": "Pomada de sulfadiazina de prata pura diretamente na bolha.",
+        "d": "Compressas secas e estéreis sem cobertura adicional.",
+        "e": "Aplicação de mel caseiro.",
+        "f": "Enfaixamento apertado para evitar movimento."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Para queimaduras de segundo grau superficiais, após o arrefecimento, a gaze vaselinada (ou similar) protege a área, minimiza a dor e previne a aderência, facilitando a troca de curativo e a cicatrização.",
+      "numero": 40
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Durante uma visita domiciliária na periferia de Luanda, encontra-se um idoso com uma úlcera de perna venosa crónica, com exsudado abundante e odor fétido. A pele perilesional apresenta-se macerada. Qual a intervenção primária na gestão do exsudado excessivo e do odor?",
+      "alineas": {
+        "a": "Aplicação de solução de clorexidina a 0,5% na úlcera.",
+        "b": "Utilização de penso de carvão ativado com prata para absorver exsudado e controlar odor.",
+        "c": "Elevação da perna e bandagem de compressão de curta duração.",
+        "d": "Desbridamento autolítico com hidrocolóide para remover fibrina.",
+        "e": "Colheita de exudado para cultura e início de antibioticoterapia oral profilática.",
+        "f": "Massagem vigorosa da área perilesional para melhorar a circulação."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Penso de carvão ativado com prata é eficaz na absorção de exsudado abundante, controlo de odor e tem ação antimicrobiana suave, adequado para úlceras com estas características. A elevação e compressão são importantes, mas o penso trata diretamente o exsudado e o odor.",
+      "numero": 41
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Um paciente diabético internado no Hospital Geral de Luanda desenvolve uma úlcera no calcanhar, com presença de esfacelo amarelado e colonização bacteriana. Qual a técnica de desbridamento mais indicada para remover o esfacelo neste cenário, sem aumentar significativamente o risco de lesão em tecido saudável?",
+      "alineas": {
+        "a": "Desbridamento cirúrgico com bisturi, realizado por enfermeiro.",
+        "b": "Utilização de larvas para desbridamento biológico.",
+        "c": "Desbridamento enzimático com pomada específica.",
+        "d": "Irrigação com soro fisiológico sob pressão.",
+        "e": "Aplicação de compressas secas e estéreis.",
+        "f": "Oclusão com película transparente para promover amolecimento."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Para desbridamento de esfacelo em feridas diabéticas, o desbridamento enzimático é uma opção segura e eficaz, atuando seletivamente nos tecidos desvitalizados sem agredir o tecido viável. O desbridamento cirúrgico por enfermeiro não é prática corrente para desbridar esfacelo em ferida de pé diabético.",
+      "numero": 42
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "No Posto de Saúde do Kilamba Kiaxi, uma criança com 'impingem' (impetigo) generalizado apresenta crostas melicéricas extensas que dificultam a aplicação de tratamento tópico. Qual a abordagem inicial para facilitar a remoção destas crostas?",
+      "alineas": {
+        "a": "Aplicação direta de antibiótico tópico potente.",
+        "b": "Remoção mecânica agressiva com pinça e gaze.",
+        "c": "Embeber as crostas com compressas de soro fisiológico ou água morna por alguns minutos antes da limpeza.",
+        "d": "Utilização de sabão azul de lavar roupa para desinfetar.",
+        "e": "Referenciação imediata para o Hospital Pediátrico de Luanda para internamento.",
+        "f": "Aplicação de óleo de cozinha para 'amolentar'."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "O amolecimento das crostas com compressas de soro fisiológico ou água morna é uma técnica simples e eficaz para facilitar a remoção mecânica suave, permitindo que os tratamentos tópicos atuem de forma mais eficaz.",
+      "numero": 43
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Um paciente em recuperação de cirurgia abdominal no Hospital Militar Principal apresenta uma deiscência de ferida operatória, com exposição de tecidos profundos e exsudado seroso. Qual a principal preocupação na gestão desta ferida, além da infeção?",
+      "alineas": {
+        "a": "Controlo da dor aguda.",
+        "b": "Prevenção da evisceração e manutenção da humidade da ferida.",
+        "c": "Restrição imediata da dieta do paciente.",
+        "d": "Mobilização precoce para estimular a cicatrização.",
+        "e": "Administração de esteroides para reduzir inflamação.",
+        "f": "Aplicação de calor local para aumentar a circulação."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Em deiscências de feridas cirúrgicas abdominais, a prevenção da evisceração é primordial. A manutenção da húmidade no leito da ferida é crucial para a cicatrização e proteção dos tecidos expostos.",
+      "numero": 44
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Numa comunidade rural, um trabalhador agrícola sofre um 'corte' profundo na perna com um catana suja, resultando numa ferida lacerada e contaminada. Além da limpeza e desbridamento, qual a profilaxia crucial a ser considerada de imediato?",
+      "alineas": {
+        "a": "Administração de anti-inflamatório não esteroide (AINE).",
+        "b": "Atualização ou administração de vacina antitetânica.",
+        "c": "Início de antibioticoterapia de largo espectro.",
+        "d": "Compressão da ferida com ligadura elástica.",
+        "e": "Aplicação de vaselina sobre a ferida.",
+        "f": "Repouso absoluto sem mobilização."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Feridas profundas e sujas, especialmente por objetos metálicos ou do solo (como um catana), têm alto risco de tétano. A profilaxia antitetânica é fundamental e urgente.",
+      "numero": 45
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "No Centro Materno-Infantil da Samba, uma recém-nascida apresenta onfalite (infeção do coto umbilical) com exsudado purulento e hiperemia periumbilical. Qual a recomendação para a limpeza do coto umbilical neste cenário, segundo as normas angolanas?",
+      "alineas": {
+        "a": "Aplicação de talco medicado para secar a área.",
+        "b": "Limpeza com álcool a 70% e desbridamento suave de crostas.",
+        "c": "Aplicação de compressas quentes úmidas.",
+        "d": "Utilização de pó de permanganato de potássio.",
+        "e": "Manter o coto seco sem qualquer intervenção.",
+        "f": "Banho de imersão com sabão antibacteriano."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Em caso de onfalite, a limpeza suave com álcool a 70% (ou outro antissético recomendado) e a remoção cuidadosa de crostas ou exsudado auxiliam na eliminação de bactérias e permitem a inspeção adequada do local.",
+      "numero": 46
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Um paciente com diagnóstico de 'pé diabético' é avaliado no Hospital David Bernardino, apresentando uma úlcera com sinais de isquemia grave (palidez e cianose). Qual a primeira preocupação para o enfermeiro na gestão da ferida, antes mesmo de pensar no curativo específico?",
+      "alineas": {
+        "a": "Início de desbridamento cirúrgico para remover tecido necrótico.",
+        "b": "Avaliação urgente da perfusão vascular periférica e referenciação para médico especialista.",
+        "c": "Aplicação de penso de hidrocolóide para promover granulação.",
+        "d": "Administração de antibiótico oral de largo espectro.",
+        "e": "Compressão da úlcera para controlar o exsudado.",
+        "f": "Elevação da perna para reduzir o edema."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Em feridas isquêmicas, a avaliação e melhoria da perfusão vascular são a prioridade máxima. Sem vascularização adequada, nenhum tratamento local será eficaz e o risco de amputação é elevado.",
+      "numero": 47
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Na Unidade Sanitária da Boavista, uma criança apresenta uma ferida causada por mordedura de cão (não raivoso aparente), com risco elevado de infeção. Qual o procedimento de limpeza mais adequado e aspeto crítico a considerar para esta ferida?",
+      "alineas": {
+        "a": "Oclusão imediata da ferida com penso seco para promover cicatrização por primeira intenção.",
+        "b": "Limpeza rigorosa com soro fisiológico e antisséptico, deixando a ferida aberta para cicatrização por segunda intenção.",
+        "c": "Administração de analgésico e alta hospitalar sem tratamento local.",
+        "d": "Sutura primária da ferida imediatamente após a limpeza.",
+        "e": "Aplicação de compressas com desinfetante caseiro.",
+        "f": "Compressão vigorosa da ferida para expulsar bactérias."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Feridas por mordedura têm alto risco de infeção. A limpeza rigorosa e, geralmente, a não sutura primária (deixando-a cicatrizar por segunda intenção), são cruciais para permitir drenagem e reduzir o risco de abcessos.",
+      "numero": 48
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Durante uma visita de enfermagem na comunidade de Viana, uma senhora idosa acamada apresenta uma ferida de pressão grau II na nádega direita, com bolha intacta. Qual a conduta mais apropriada para esta lesão?",
+      "alineas": {
+        "a": "Romper a bolha para drenar o líquido e aplicar antisséptico.",
+        "b": "Manter a bolha intacta, protegendo-a com penso transparente ou hidrocolóide fino.",
+        "c": "Esfregar vigorosamente a área para melhorar a circulação.",
+        "d": "Aplicar calor local para reduzir a inflamação.",
+        "e": "Utilizar creme de barreira sem penso protetor.",
+        "f": "Elevar a cabeceira da cama para distribuir a pressão."
+      },
+      "resposta_correcta": "b",
+      "justificativa": "Em feridas de pressão Grau II com bolha intacta, a bolha deve ser mantida íntegra, pois atua como uma barreira natural contra infeções e promove a cicatrização. A proteção com penso apropriado é fundamental.",
+      "numero": 49
+    },
+    {
+      "tema": "VII. Feridas",
+      "enunciado": "Um paciente com drepanocitose (anemia falciforme) dá entrada no hospital com uma úlcera crônica na perna, apresentando bordas epitelizadas e um leito com tecido de granulação pálido. Qual a principal caraterística que dificulta a cicatrização destas úlceras e que o enfermeiro deve ter em atenção?",
+      "alineas": {
+        "a": "A infecção bacteriana secundária.",
+        "b": "A idade avançada do paciente.",
+        "c": "A reduzida oxigenação tecidual e cicatrização comprometida devido à doença de base.",
+        "d": "A falta de higiene por parte do paciente.",
+        "e": "A presença de exsudado purulento.",
+        "f": "O uso de meias de compressão inadequado."
+      },
+      "resposta_correcta": "c",
+      "justificativa": "Pacientes com drepanocitose têm dificuldade na cicatrização de feridas devido à microcirculação deficiente e oxigenação tecidual comprometida, resultantes da doença de base.",
+      "numero": 50
+    }
+  ]
+}
