@@ -62,9 +62,9 @@
       "descricao": "#",
       "icon": "https://angonurse.github.io/Remotos/angonurse-plus/thumbs/hospital-match.webp",
       "zip": "https://github.com/Angonurse/Remotos/releases/download/v1.0.0/hospital-match.zip",
-      "version": 2,
-      "sha256": "<sha256:a3e8eb3a3e039862d6d7e79343d32b7462ed06acd506e049d33a0127e3fa340f>",
-      "size": 11.4,
+      "version": 3,
+      "sha256": "<sha256:4e24758ea520fd1117fb0606893c7ad99534b9324f235aa66bfbe97a6a1c44d9>",
+      "size": 1.41,
       "entry": "index.html"
     }
   ]
