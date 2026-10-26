@@ -66,6 +66,28 @@
       "sha256": "sha256:3a8b371a2065a4d6438948eaa0d812488cc4243521a75c533c14fd66105ec43e",
       "size": 1.41,
       "entry": "index.html"
+    },
+    {
+      "id": "missao-saude",
+      "nome": "Missão Saúde",
+      "descricao": "#",
+      "icon": "https://angonurse.github.io/Remotos/angonurse-plus/thumbs/missao-saude.webp",
+      "zip": "https://github.com/Angonurse/Remotos/releases/download/v1.0.0/missao-saude.zip",
+      "version": 1,
+      "sha256": "<sha256:05100e0aee7ef8f5a276cc9c64f2ccf110a3c6387d40c9fd320bd5429ec73833>",
+      "size": 288,
+      "entry": "index.html"
+    },
+    {
+      "id": "anatomia-challenge",
+      "nome": "Anatomia Challenge",
+      "descricao": "#",
+      "icon": "https://angonurse.github.io/Remotos/angonurse-plus/thumbs/anatomia-challenge.webp",
+      "zip": "https://github.com/Angonurse/Remotos/releases/download/v1.0.0/anatomia-challenge.zip",
+      "version": 1,
+      "sha256": "<sha256:027064445d435b2c8e5fc0b8cbd47f3eaf225760bf98da008abd155bf814843a>",
+      "size": 1.55,
+      "entry": "index.html"
     }
   ]
 }
