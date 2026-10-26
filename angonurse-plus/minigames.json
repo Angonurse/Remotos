@@ -73,9 +73,9 @@
       "descricao": "#",
       "icon": "https://angonurse.github.io/Remotos/angonurse-plus/thumbs/missao-saude.webp",
       "zip": "https://github.com/Angonurse/Remotos/releases/download/v1.0.0/missao-saude.zip",
-      "version": 2,
-      "sha256": "<sha256:b980226385126cfe091a2043811956d39943258bc32de6823b53e709f54dafd5>",
-      "size": 284,
+      "version": 3,
+      "sha256": "<sha256:d958c2ee17f8b8fdaf08348ebfac48c36bec9014bbe3818cc7cee062f687b8c9>",
+      "size": 584,
       "entry": "index.html"
     },
     {
