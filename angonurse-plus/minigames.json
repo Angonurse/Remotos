@@ -1,5 +1,5 @@
 {
-  "version": "4",
+  "version": "5",
   "games": [
     {
       "id": "palavras-cruzadas-medicas",
@@ -84,8 +84,8 @@
       "descricao": "#",
       "icon": "https://angonurse.github.io/Remotos/angonurse-plus/thumbs/anatomia-challenge.webp",
       "zip": "https://github.com/Angonurse/Remotos/releases/download/v1.0.0/anatomia-challenge.zip",
-      "version": 2,
-      "sha256": "<sha256:9164ca777dd519fa9d51fe85f1123b707364b384b52797f6c031ec2ba571d9ca>",
+      "version": 3,
+      "sha256": "<sha256:2457c7fd7da33824190e768fa296d13019849f55fb69c4bc0245350104bca1e5>",
       "size": 1.56,
       "entry": "index.html"
     }
